@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:restaurant-ausstattung-planen",
+ "slug": "article--restaurant-ausstattung-planen",
+ "url": "/en/journal/planning-restaurant-accessories/",
+ "template": "article",
+ "title": "A restaurant refresh starts with service.",
+ "description": "Plan menu covers, bill presenters and tabletop accessories together, from the content to a practical service review.",
+ "alternate": {
+  "de": "/journal/restaurant-ausstattung-planen/",
+  "en": "/en/journal/planning-restaurant-accessories/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A restaurant refresh starts with service."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Plan menu covers, bill presenters and tabletop accessories together, from the content to a practical service review.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Leather menu cover with the VOX logo on a set table",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Review every menu together",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Food, wine and bar menus differ in length and how often they change. Gather the actual content before the design begins. Agree paper size, legibility and binding with the service team. Screw-post binding, as used for Berlin or London, creates a different construction from the elastic cord of Bonn or the clamp binding of Rome."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Plan the final touch",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The bill presenter belongs to the same visit as the menu cover. SFP’s starting formats include presenters measuring 125 × 230 mm and boxes measuring 130 × 230 × 35 mm. Handling matters more than the starting dimensions: where does the receipt sit, how is payment taken, and what does the service team need to carry?"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Review the collection as a whole",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The work for VOX at Grand Hyatt Berlin included several menu covers and a bill presenter. That coordinated view can guide other projects: place menus, bill presentation, placemats and coasters together. Shared finishes can connect them, while smaller differences can support their individual functions."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Follow a sample through service",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Review opening, handing over, setting down and replacing inserts with your team. Before production, agree who approves the content, layout and material. Spare copies and later additions also belong in the brief. The agreed specification then forms the basis for the order."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/restaurants/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

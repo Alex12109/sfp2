@@ -1,0 +1,562 @@
+{
+ "language": "de",
+ "key": "product:tischsets",
+ "slug": "product--tischsets",
+ "url": "/produkte/tischsets/",
+ "template": "family",
+ "title": "Tischsets",
+ "description": "Ein Tischset rahmt das Gedeck, bringt Materialität an den Tisch und macht die gestalterische Handschrift Ihres Hauses unmittelbar spürbar.",
+ "alternate": {
+  "de": "/produkte/tischsets/",
+  "en": "/en/products/placemats/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Speisekarten & Dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Tischsets"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Tischset rahmt das Gedeck, bringt Materialität an den Tisch und macht die gestalterische Handschrift Ihres Hauses unmittelbar spürbar.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=tischsets",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Tischsets",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Tischsets im Restaurantservice",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Tisch wird zur Komposition."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Tischset gibt jedem Gedeck eine eigene Fläche, ohne dem Essen die Bühne zu nehmen. Das runde Ausgangsformat Ø 320 mm zeichnet eine weiche Kontur; 425 × 325 mm schafft einen klaren rechteckigen Rahmen. Ein Sonderformat kann auf eine besondere Tischform oder ein individuelles Gedeck reagieren. Dabei zählt das Zusammenspiel: Teller, Besteck, Gläser, Serviette und Abstand zum Nachbartisch bestimmen, ob die Proportion großzügig oder gedrängt wirkt. Eine ruhige Lederfarbe kann die Wärme des Holzes aufnehmen, eine kontrastierende Oberfläche helle Keramik betonen. Narbung, Kante und Steppnaht werden im Streiflicht des Restaurants sichtbar und sollten deshalb mit der tatsächlichen Tischplatte beurteilt werden."
+    },
+    {
+     "type": "p",
+     "html": "Bemustern Sie das Tischset mit einem vollständigen Gedeck und unter dem Licht des Service. Prüfen Sie nicht nur die leere Tafel, sondern auch das Abräumen, Neuauflegen und Zusammenschieben von Tischen. Steppnaht und individuelle Prägung sind mögliche Details; ihre Position sollte Teller und Besteck Raum lassen. Für den Betrieb werden gewählte Oberfläche und passende Pflege am konkreten Material abgestimmt. Aussagen zu Reinigung oder Beständigkeit lassen sich nicht pauschal aus der Produktart ableiten. Das Service-Team kann am Muster Rückmeldung zu Griff und Platzierung geben, während Interior Design die Beziehung zu Tisch, Stuhl und Raum betrachtet. So wird aus dem Placemat ein leiser Teil der Gastlichkeit, der Ästhetik und Ablauf zusammenführt."
+    },
+    {
+     "type": "p",
+     "html": "Bei mehreren Restaurantbereichen hilft eine kleine Variantenübersicht: Tischtyp, Gedeck, Setformat und Materialreferenz gehören zusammen. Dadurch bleiben Frühstück, Bar und Dinner gestalterisch verbunden, obwohl Abstände und Serviceabläufe unterschiedlich sein können."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-placemat-colours.webp",
+     "alt": "Gedeckter Tisch mit farblich abgestimmten Tischsets",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-dining-table.webp",
+     "alt": "Tischsets im Restaurantservice",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Mit vollständigem Gedeck bemustern",
+        "Tischform und Sitzabstände berücksichtigen",
+        "Pflege für die konkrete Oberfläche abstimmen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=tischsets",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=tischsets"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Das Gedeck als Maßstab",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tellerdurchmesser, Besteck und Glasposition gehören in die Formatwahl. Prüfen Sie das Muster auf dem tatsächlich eingesetzten Tisch."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Form &amp; Kontur",
+     "body": [
+      {
+       "type": "p",
+       "html": "Runde und rechteckige Ausführungen sind Ausgangspunkte. Sonderkonturen besprechen wir anhand Ihrer Tischgeometrie."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Eine gemeinsame Tischwelt",
+     "body": [
+      {
+       "type": "p",
+       "html": "Set, Coaster und Menükarte können dieselbe Farbe aufnehmen oder in bewusst abgestuften Tönen zusammenspielen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Formate für Einzelplätze oder besondere Tischformen",
+      "Materialmuster im echten Serviceumfeld beurteilen",
+      "Mit Coastern und Menükarten kombinierbar"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formate",
+     "v": "Rund Ø 320 mm / eckig 425 × 325 mm / Sonderformat"
+    },
+    {
+     "k": "Details",
+     "v": "Steppnaht und individuelle Prägung"
+    },
+    {
+     "k": "Formvarianten",
+     "v": "Rechteckig, rund, oval oder nierenförmig; Sonderformen nach Abstimmung"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/projekte/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/grand-hyatt-vox/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/speisekarten/",
+     "title": "Speisekarten",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ihr Menü verdient eine passende Hülle. Ausgewählte Bindungen und Materialien verbinden den Charakter Ihres Hauses mit den Anforderungen Ihres Service."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail der Schraubbindung einer SFP-Speisekarte",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/rechnungsmappen/",
+     "title": "Rechnungsmappen &amp; Rechnungsboxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein stimmiger Abschluss Ihres Service. Die Präsentation der Rechnung kann dieselbe Material- und Farbsprache aufnehmen wie Menükarte und Tischaccessoires."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Geschlossene Rechnungsmappe mit Logo – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/coaster/",
+     "title": "Coaster",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kleines Detail mit hoher Präsenz am Tisch. In Format und Oberfläche auf Gläser, Tischsets und das Materialkonzept abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Runde und eckige Coaster in verschiedenen Materialien – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/tischsets/\">Tischsets</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tischsets schaffen eine definierte Fläche für Gedeck und Glas und schützen den Tisch im täglichen Service. Runde und rechteckige Ausgangsformate können durch Sondergrößen und Sonderformen ergänzt werden. Echt- oder PU-Leder, gerade oder gerundete Ecken, Ziernaht und Blind- oder Folienprägung stimmen jedes Set auf Tischgeometrie, Geschirr und Markenbild ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Tischsets",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical",
+       "href": "/produkte/modelle/tischsets/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=tischsets",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/tischsets/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

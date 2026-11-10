@@ -1,0 +1,354 @@
+{
+ "language": "de",
+ "key": "article:speisekarten-rechnungsmappen-restaurantidentitaet",
+ "slug": "article--speisekarten-rechnungsmappen-restaurantidentitaet",
+ "url": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+ "template": "article",
+ "title": "Speisekarten und Rechnungsmappen für eine klare Restaurantidentität",
+ "description": "Vom Inhalt über die Bindung bis zur Rechnungsübergabe: So werden Menücover und Bill Presenter Teil einer stimmigen Servicekultur.",
+ "alternate": {
+  "de": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+  "en": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Speisekarten und Rechnungsmappen für eine klare Restaurantidentität"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vom Inhalt über die Bindung bis zur Rechnungsübergabe: So werden Menücover und Bill Presenter Teil einer stimmigen Servicekultur.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 7 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Die Restaurantidentität in einen Handgriff übersetzen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Menükarte ist häufig der erste gebrandete Gegenstand, den ein Gast bewusst in die Hand nimmt. Die Rechnungsmappe oder Rechnungsbox ist oft der letzte. Zwischen beiden liegt der gesamte Service. Material, Gewicht, Öffnung und Prägung können diese Momente verbinden, ohne die Geschichte des Restaurants wortreich zu erklären. Eine ruhige Lederoberfläche, eine präzise Kante oder ein zurückhaltendes Logo reichen häufig aus, wenn sie zum Raum, zur Küche und zur Art der Gastlichkeit passen."
+       },
+       {
+        "type": "p",
+        "html": "Beginnen Sie deshalb nicht mit einer Modellnummer, sondern mit drei Fragen: Was soll der Gast beim Aufnehmen spüren? Wie arbeitet das Serviceteam mit dem Produkt? Welche Teile der visuellen Identität lassen sich sinnvoll in Material und Proportion übersetzen? Legen Sie vorhandene Markenrichtlinien, Interior-Muster und tatsächliche Drucksachen nebeneinander. Aus diesem Zusammenhang entsteht ein Briefing, das mehr ist als die Vorgabe „schwarzes Leder mit Logo“ und dennoch konkrete Entscheidungen ermöglicht."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/loesungen/restaurants/",
+          "label": "Lösungen für Restaurants & Bars",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Zuerst den Inhalt ordnen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Speisekarte, Weinkarte, Barkarte, Frühstück und Dessert unterscheiden sich nicht nur in ihrer Gestaltung. Seitenzahl, Papier, Aktualisierung und Lesesituation sind jeweils anders. Sammeln Sie alle Inhalte, bevor Format und Bindung festgelegt werden. Notieren Sie pro Karte die maximale Seitenzahl, das beschnittene Papierformat, die Grammatur und wie oft einzelne Blätter wechseln. Berücksichtigen Sie saisonale Menüs, zusätzliche Einleger und mehrere Sprachen."
+       },
+       {
+        "type": "p",
+        "html": "Ein kurzer, täglich erneuerter Lunch kann mit einer Klemmmechanik anders funktionieren als eine umfangreiche Weinkarte mit dauerhaftem Grundbestand. Eine A5-Karte ist kompakt am kleinen Tisch, während A4 mehr Fläche für Inhalt gibt. A4, A5 und Sonderformat sind Ausgangspunkte; beim Passepartout ist auch A3 aufgeführt. Die Typografie muss im echten Format lesbar bleiben. Drucken Sie deshalb einen vollständigen Dummy, nicht nur eine Titelseite. Erst das reale Seitenpaket zeigt Gewicht, Rückenstärke und die Bewegung beim Blättern."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/produkte/speisekarten/",
+          "label": "Speisekarten entdecken",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "img",
+        "src": "/assets/original-menu-hidden.webp",
+        "alt": "Verdeckte Schraubbindung einer Menümappe",
+        "width": 1800,
+        "height": 1200,
+        "kind": "technical"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Die Bindung nach Wechselrhythmus auswählen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Bindung bestimmt, wie Inhalt und Cover im Alltag zusammenarbeiten. Schraubbindungen bei Modellen wie Berlin und London fassen Blätter als klares Paket. Bonn arbeitet mit Gummizug, Rome mit Klemmmechanik. Taschen, Passepartout, Ecken und Ringmechaniken bieten weitere modellabhängige Wege. Keine Variante ist pauschal die hochwertigste. Entscheidend ist, wer Seiten wechselt, wie oft dies geschieht und welches Druckprodukt sicher gehalten werden muss."
+       },
+       {
+        "type": "p",
+        "html": "Lassen Sie das Team einen Wechsel am Muster durchführen. Werden Werkzeug oder mehrere Handgriffe benötigt? Bleiben lose Einleger beim Weiterreichen an ihrem Platz? Kann ein verschmutztes Blatt einzeln ersetzt werden? Wie verhält sich die Mechanik bei der größten geplanten Seitenzahl? Prüfen Sie auch, wie die Karte geschlossen auf dem Tisch liegt. Die Antwort führt häufig zu unterschiedlichen Bindungen innerhalb einer Familie: Speise- und Weinkarte dürfen verwandt aussehen, obwohl ihre Mechanik auf den jeweiligen Inhalt reagiert."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/produkte/rechnungsmappen/",
+          "label": "Rechnungsmappen",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Format, Tisch und Bewegung zusammen prüfen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Menü wird nicht nur gelesen. Es wird vom Host aufgenommen, getragen, übergeben, geöffnet, abgelegt und wieder eingesammelt. Stellen Sie das Muster auf den tatsächlichen Tisch, mit Gedeck, Gläsern und Leuchte. Kann es geöffnet werden, ohne Teller oder Dekoration zu verdrängen? Bleibt Blickkontakt möglich? Findet das Serviceteam beim Abräumen einen sicheren Griff? Diese Beobachtungen sind besonders bei kleinen Zweiertischen wertvoll."
+       },
+       {
+        "type": "p",
+        "html": "Gehen Sie anschließend den Weg der Karte durch das Restaurant: Lagerung, Vorbereitung, Servicestation und Rückgabe. Außenmaß und Rücken müssen in das vorgesehene Fach passen. Das Gewicht sollte mit Seitenzahl und Handhabung beurteilt werden, nicht als abstraktes Qualitätsmerkmal. Ein Sonderformat kann die Markenidee präzise aufnehmen, erzeugt aber auch ein eigenes Papier- und Lagerformat. Dokumentieren Sie daher sowohl das geschlossene Cover als auch den benötigten Einleger. Ein stimmiges Produkt bewegt sich selbstverständlich durch den ganzen Service, nicht nur durch den Moment am Gasttisch."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/materialien/",
+          "label": "Materialien und Veredelung",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Material im Kontext von Licht und Nutzung entscheiden",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Leder, PU und Holz sind unterschiedliche Werkstoffe und müssen in Angebot und Freigabe klar bezeichnet bleiben. Die Auswahl beginnt beim gestalterischen Ziel, berücksichtigt aber ebenso Ort, Nutzung und Pflege. Ein fein genarbtes Leder kann im gedämpften Licht warm und ruhig wirken; ein glatterer Bezug zeigt Reflexionen und Spuren anders. Holz bringt eine eigene Maserung ein. Keine Fotografie ersetzt die Betrachtung des konkreten Musters unter Restaurant- und Barbeleuchtung."
+       },
+       {
+        "type": "p",
+        "html": "Legen Sie Cover, Papier und Tischoberfläche gemeinsam aus. Prüfen Sie Tageslicht, Abendbetrieb und gegebenenfalls Kerzenlicht. Ein dunkler Ton kann elegant wirken, darf aber Typografie, Kante und Logo nicht unlesbar machen. Besprechen Sie mit dem Betrieb, wie die Oberfläche gereinigt und gelagert wird. Pflegeempfehlungen und technische Eignung werden für das ausgewählte Material abgestimmt; aus dem allgemeinen Begriff „Lederkarte“ folgt kein pauschales Leistungsversprechen. Die sinnliche Qualität entsteht aus einer präzisen, realistischen Spezifikation."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/projekte/grand-hyatt-vox/",
+          "label": "Projekt Grand Hyatt Berlin · VOX",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-5",
+      "title": "Branding als Teil der Oberfläche behandeln",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Das Logo auf einer Menükarte wird aus kurzer Distanz gesehen und oft berührt. Größe, Position und Verfahren sollten deshalb gemeinsam mit Material und Format entwickelt werden. Blindprägung arbeitet mit Licht und Tiefe der Oberfläche. Folienprägung bringt sichtbare Farbe oder einen metallischen Akzent ein. Bei geeignetem Holz kann Gravur eine Option sein. Die technische Machbarkeit hängt von Motiv und Werkstoff ab und wird am konkreten Projekt geprüft."
+       },
+       {
+        "type": "p",
+        "html": "Verwenden Sie druckfähige Logodaten und legen Sie eine Ansicht in Originalgröße auf das Muster. Prüfen Sie feine Linien, Abstände und die Beziehung zu Naht, Kante und Verschluss. Die gleiche Prägegröße muss nicht auf Speise-, Wein- und Barkarte wiederkehren; ein gleiches Verhältnis zur Fläche wirkt oft stimmiger. Auch eine unmarkierte Innenseite kann bewusst Ruhe schaffen. Der Markenauftritt gewinnt an Souveränität, wenn nicht jede Fläche gefüllt wird und das Logo die Materialität unterstützt."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/kontakt/",
+          "label": "Restaurantprojekt besprechen",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-6",
+      "title": "Die Rechnung als Teil derselben Erzählung planen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Rechnung beendet den Besuch und verdient dieselbe Aufmerksamkeit wie der Auftakt. Eine flache Rechnungsmappe wirkt diskret und lässt sich direkt überreichen. Eine Box besitzt mehr Volumen und verändert die Geste. Bei SFP dienen 125 × 230 mm für die Mappe und 130 × 230 × 35 mm für die Box als Ausgangsformate; Sondermaß, Naht und Prägung werden projektbezogen abgestimmt."
+       },
+       {
+        "type": "p",
+        "html": "Gehen Sie mit echten Belegen, Kartenlesegerät, Stift und möglichen Zahlungsmitteln durch den Ablauf. Was muss verdeckt, fixiert oder leicht entnommen werden? Wird die Rechnung auf einem Tray gebracht? Wo wird der Presenter danach vorbereitet? Die Innenaufteilung soll diese Handgriffe unterstützen. Material und Branding können die Menükarten aufnehmen, doch Gewicht und Konstruktion folgen der Übergabe. Wenn Menü und Rechnung als zwei eigene Produkte derselben Familie entstehen, rahmen sie den Restaurantbesuch, ohne einander zu kopieren."
+       }
+      ]
+     },
+     {
+      "id": "article-section-7",
+      "title": "Mit dem Serviceteam unter Betriebsbedingungen testen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Eine Freigabe am Konferenztisch zeigt Farbe und Verarbeitung, aber noch nicht den Service. Geben Sie das Muster an Hosts, Sommellerie und Service weiter. Lassen Sie es aus dem Lager nehmen, bestücken, an einen gedeckten Tisch bringen, öffnen, weiterreichen und wieder einsammeln. Simulieren Sie den Seitenwechsel und die Vorbereitung der Rechnung. Notieren Sie konkrete Beobachtungen statt allgemeiner Eindrücke."
+       },
+       {
+        "type": "p",
+        "html": "Achten Sie auf Griffpunkte, Geräusch beim Ablegen, Stabilität der Einleger und Platzbedarf. Prüfen Sie, ob die Vorderseite eindeutig erkennbar ist und die Karte auch bei gedämpftem Licht richtig orientiert wird. Eine Änderung an der Naht oder Mechanik kann Auswirkungen auf Innenmaß und Papier haben; halten Sie Abhängigkeiten zusammen. Design, Einkauf und Betrieb sollten dieselbe finale Version sehen. Die gemeinsame Prüfung macht aus einer attraktiven Bemusterung eine belastbare Spezifikation für den tatsächlichen Restaurantalltag."
+       }
+      ]
+     },
+     {
+      "id": "article-section-8",
+      "title": "Freigabe, Reserve und spätere Ergänzungen dokumentieren",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Vor der Bestellung braucht jede Kartenfamilie eine eindeutige Freigabe. Dokumentieren Sie Modell, Außen- und Papierformat, maximale Seitenzahl, Bindung, Material, Farbe, Naht, Logo, Innenaufteilung und Verpackung. Vermerken Sie, welche Datei und welche Position für die Prägung gelten. Bei mehreren Restaurants oder Tageszeiten verhindert eine Variantenmatrix Verwechslungen. Legen Sie außerdem fest, ob Reserveexemplare benötigt werden und wie sie gelagert werden."
+       },
+       {
+        "type": "p",
+        "html": "Denken Sie an spätere Kartenwechsel und mögliche Ergänzungen, ohne Gleichheit über Jahre zu versprechen. Bewahren Sie Materialreferenz, technische Zeichnung und freigegebenes Muster nachvollziehbar auf. Bei einer Nachbestellung werden Materialverfügbarkeit und Ausführung erneut geprüft. Ändern sich Papier, Seitenzahl oder Serviceablauf, gehört auch die Bindung zurück auf den Prüfstand. Eine gute Dokumentation hält die Identität konsistent, lässt aber die Funktion mit dem Restaurant weiterentwickeln. So bleiben individuelle Speisekarten und Rechnungsmappen ein lebendiger Teil der Servicekultur."
+       }
+      ]
+     },
+     {
+      "id": "article-section-9",
+      "title": "Das Projektbriefing für Menü und Rechnung bündeln",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Für eine zielgerichtete Anfrage führen Sie alle Kartenarten mit Papierformat, Seitenzahl und Wechselrhythmus auf. Ergänzen Sie gewünschte Mengen, den realen Bedarfstermin, Fotos von Tisch und Innenraum, Hinweise zur Lagerung sowie Logo und Materialrichtung. Für die Rechnung gehören Belegformat, Zahlungsablauf und die Entscheidung zwischen Mappe und Box in dieselbe Übersicht. Markieren Sie, welche Angaben bestätigt sind und welche am Muster erprobt werden sollen."
+       },
+       {
+        "type": "p",
+        "html": "Ein solches Briefing hilft, Abhängigkeiten früh zu erkennen. Ändert sich die Seitenzahl, kann das die Bindung betreffen; verändert ein Sonderformat die Papierproduktion, muss der Druckpartner einbezogen werden. Ein auffälliges Branding kann eine ruhigere Materialwahl verlangen. Die gemeinsame Betrachtung von Speise-, Wein- und Barkarte sowie Bill Presenter verhindert, dass einzelne Teile nacheinander ohne Bezug entstehen. Beratung und Bemusterung beginnen damit bei den wirklichen Entscheidungen des Betriebs."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Häufige Fragen",
+      "blocks": [
+       {
+        "type": "faq",
+        "q": "Welche Bindung passt zu häufig wechselnden Speisekarten?",
+        "a": "Das hängt von Papier, Seitenzahl und dem Team ab. Klemmmechanik, Gummizug, Schraubbindung, Taschen oder Ringmechanik ermöglichen unterschiedliche Wechselabläufe. Der beste Weg wird mit dem echten Seitenpaket am Muster geprüft."
+       },
+       {
+        "type": "faq",
+        "q": "Welche Formate sind möglich?",
+        "a": "A4, A5 und Sonderformate sind mögliche Ausgangspunkte; beim Passepartout ist auch A3 aufgeführt. Tischgröße, Inhalt, Typografie und Bindung entscheiden, welches Format im Projekt sinnvoll ist."
+       },
+       {
+        "type": "faq",
+        "q": "Sollten Speise- und Weinkarte gleich aussehen?",
+        "a": "Sie sollten als Familie erkennbar sein, müssen aber nicht identisch sein. Material, Farbe oder Branding können verbinden, während Format und Mechanik auf Seitenzahl und Wechselhäufigkeit reagieren."
+       },
+       {
+        "type": "faq",
+        "q": "Rechnungsmappe oder Rechnungsbox – was ist besser?",
+        "a": "Die Wahl folgt dem Service. Eine Mappe ist flach und direkt, eine Box verändert Volumen und Präsentation. Belegformat, Zahlungsmittel, Tisch und Vorbereitung sollten mit einem Muster durchgespielt werden."
+       },
+       {
+        "type": "faq",
+        "q": "Wie wird das Logo auf Leder umgesetzt?",
+        "a": "Blindprägung oder Folienprägung sind mögliche Wege; bei geeignetem Holz kann Gravur hinzukommen. Motiv, Größe, Position und technische Machbarkeit werden für das gewählte Material geprüft."
+       },
+       {
+        "type": "faq",
+        "q": "Welche Informationen gehören in die Anfrage?",
+        "a": "Senden Sie Kartenarten, Papierformate, Seitenzahlen, Wechselrhythmus, gewünschte Mengen, Materialrichtung, Logo und Bedarfstermin. Fotos von Tisch, Innenraum und Lagerung machen das Briefing konkreter."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "h",
+        "level": "h4",
+        "html": "Weiterführende Projektquelle"
+       },
+       {
+        "type": "ul",
+        "items": [
+         "<a href=\"https://sfp-premium.de/projekt/grand-hyatt-berlin-vox/\">SFP Hospitality · grand hyatt berlin vox</a>"
+        ]
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/restaurants/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

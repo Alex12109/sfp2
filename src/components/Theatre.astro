@@ -1,0 +1,42 @@
+---
+// Ausgewählte Projekte: Auswahl links, belegtes Projekt rechts.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad } from '../lib/content';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; no?: number }
+const { s, lang, no } = Astro.props;
+const panels = s.items ?? [];
+const tabs = s.tabs ?? [];
+---
+<section class="sec theatre tone-forest" data-tabs>
+  <div class="wrap theatre__grid">
+    <header class="theatre__head" data-reveal>
+      {no && <p class="label">N° {pad(no)}</p>}
+      {s.title && <h2 set:html={heading(s.title.html)} />}
+      <Rich blocks={s.body} />
+      <div class="theatre__tabs" role="group" aria-label={lang === 'en' ? 'Choose a project' : 'Projekt auswählen'}>
+        {tabs.map((tab, i) => (
+          <button type="button" data-tab-choice={i} aria-pressed={i === 0 ? 'true' : 'false'}>
+            <span class="theatre__tab-no" aria-hidden="true">{pad(i + 1)}</span>
+            <span>{tab.label}</span>
+          </button>
+        ))}
+      </div>
+      <Actions links={s.actions} />
+    </header>
+    <div class="theatre__panels">
+      {panels.map((p, i) => (
+        <article class="theatre__panel" data-tab-panel={i} hidden={i > 0}>
+          {p.media?.[0] && <a href={p.href} tabindex="-1" aria-hidden="true"><Picture img={p.media[0]} frame ratio="ar-3x2" sizes="(min-width: 900px) 55vw, 100vw" /></a>}
+          <div class="theatre__copy">
+            <h3 set:html={heading(p.title)} />
+            <Rich blocks={p.body} />
+            <Actions links={p.actions} />
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

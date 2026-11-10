@@ -1,0 +1,31 @@
+---
+// Prozessschritte mit Bild.
+import type { Section, Lang } from '../lib/types';
+import { heading } from '../lib/content';
+import Rich from './Rich.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; tone?: string }
+const { s, tone = 'tone-parchment' } = Astro.props;
+---
+<section class:list={['sec timeline', tone]} id={s.id}>
+  <div class="wrap">
+    <ol class="timeline__list" role="list">
+      {(s.items ?? []).map((item, i) => {
+        const num = (item.body ?? []).find((b) => b.type === 'p' && b.role === 'num');
+        const result = (item.body ?? []).find((b) => b.type === 'p' && b.role === 'result');
+        const body = (item.body ?? []).filter((b) => b !== num && b !== result);
+        return (
+          <li class="timeline__row">
+            <p class="timeline__no" aria-hidden="true" data-reveal>{num && num.type === 'p' ? num.html : i + 1}</p>
+            <div class="timeline__copy" data-reveal style="--i:1">
+              <h2 set:html={heading(item.title)} />
+              <Rich blocks={body} />
+              {result && result.type === 'p' && <p class="timeline__result"><span class="label" set:html={result.html} /></p>}
+            </div>
+            {item.media?.[0] && <Picture img={item.media[0]} frame reveal ratio="ar-4x3" class="timeline__media" />}
+          </li>
+        );
+      })}
+    </ol>
+  </div>
+</section>

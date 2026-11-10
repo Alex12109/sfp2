@@ -1,0 +1,89 @@
+{
+ "language": "en",
+ "key": "legal",
+ "slug": "legal",
+ "url": "/en/legal-notice/",
+ "template": "legal",
+ "title": "Legal notice",
+ "description": "Company information for SFP Hospitality GmbH.",
+ "alternate": {
+  "de": "/impressum/",
+  "en": "/en/legal-notice/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Legal notice"
+   },
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "prose": {
+    "chapters": [
+     {
+      "id": null,
+      "title": "SFP Hospitality GmbH",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Dahlmannstraße 11<br> 10629 Berlin<br> Deutschland / Germany"
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Represented by",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Managing director: Anna Lundius"
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Contact",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "<a href=\"tel:+493023607865\">+49 (0)30 236 078 65</a><br> <a href=\"mailto:mail@sfp-berlin.com\">mail@sfp-berlin.com</a>"
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Commercial register",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Amtsgericht Berlin-Charlottenburg<br> HRB 115859 B"
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "VAT identification number",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "DE270696191"
+       }
+      ]
+     }
+    ],
+    "summary": null,
+    "nav": []
+   }
+  }
+ ]
+}

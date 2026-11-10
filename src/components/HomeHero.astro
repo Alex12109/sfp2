@@ -1,0 +1,45 @@
+---
+// Startseite: Positionierung mit wechselbaren Einsatzwelten.
+import type { Section, Lang } from '../lib/types';
+import { heading, navigation } from '../lib/content';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang }
+const { s, lang } = Astro.props;
+const scenes = (s.items ?? []).filter((i) => i.media?.length);
+const tabs = s.tabs ?? [];
+const lines = heading(s.title?.html).split(/<br\s*\/?>/);
+const origin = navigation[lang].footer.origin;
+---
+<section class="sec home-hero tone-ivory">
+  <div class="wrap home-hero__grid">
+    <div class="home-hero__copy">
+      <p class="label anim-rise" style="--i:0">{origin}</p>
+      <h1 class="home-hero__title">{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i + 1}`} set:html={l} />)}</h1>
+      <div class="home-hero__lead anim-rise" style="--i:4"><Rich blocks={s.body} lead /></div>
+      <div class="anim-rise" style="--i:5"><Actions links={s.actions} /></div>
+    </div>
+    <div class="home-hero__stage anim-unveil" data-scenes>
+      <div class="frame">
+        <div class="home-hero__scenes">
+          {scenes.map((sc, i) => (
+            <div class="home-hero__scene" data-scene={i} data-active={i === 0 ? 'true' : undefined} aria-hidden={i === 0 ? undefined : 'true'}>
+              <Picture img={sc.media![0]} eager={i === 0} ratio="ar-4x5" sizes="(min-width: 900px) 48vw, 100vw" />
+            </div>
+          ))}
+        </div>
+      </div>
+      {tabs.length > 0 && (
+        <div class="scene-tabs" role="group" aria-label={lang === 'en' ? 'Choose a setting' : 'Einsatzwelt wählen'}>
+          {tabs.map((tab, i) => (
+            <button type="button" data-scene-choice={i} aria-pressed={i === 0 ? 'true' : 'false'}>
+              <span aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>{tab.label}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+  <div class="wrap"><div class="ruler anim-draw" aria-hidden="true"></div></div>
+</section>

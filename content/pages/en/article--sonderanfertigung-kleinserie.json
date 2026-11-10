@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:sonderanfertigung-kleinserie",
+ "slug": "article--sonderanfertigung-kleinserie",
+ "url": "/en/journal/bespoke-and-small-batch-production/",
+ "template": "article",
+ "title": "When a bespoke specification makes sense.",
+ "description": "An established model, a custom adaptation or a new development: choosing the right route for your project.",
+ "alternate": {
+  "de": "/journal/sonderanfertigung-kleinserie/",
+  "en": "/en/journal/bespoke-and-small-batch-production/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "When a bespoke specification makes sense."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "An established model, a custom adaptation or a new development: choosing the right route for your project.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-boutique-world.webp",
+     "alt": "Design study of considered leather accessories in a quiet boutique hotel interior",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Start with a useful foundation",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Not every brief needs a completely new design. An established format may already provide the right function. For a desk pad, several starting dimensions can be reviewed before a custom size is agreed. Coordination still matters: the surface, edges and space for other objects need to work together."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Adapt where it matters",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A tissue box cover must fit the chosen refill. A notepad holder needs the right paper size. A tray should accommodate the items that will actually be used. These requirements give a custom adaptation a clear purpose. Design choices such as colour, stitching and branding follow alongside them. Separate essential functions from open design preferences in the brief."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Plan the whole small batch",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP welcomes a bespoke specification as a one-off commission or a very small run. Material selection, artwork and approval remain important steps, followed by hand manufacture in the EU. Capacity also extends to large projects. State the quantity you actually need so that materials, construction and production can be planned around the commission."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Consider future additions",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "If additions may be needed later, keep a record of dimensions, material references and approved artwork. Annual repeat orders for Vier Jahreszeiten in Munich since 2017 illustrate the relevance of looking beyond the initial order. Availability and specification are reviewed again for each addition."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/interior-design/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

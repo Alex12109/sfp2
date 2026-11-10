@@ -1,0 +1,109 @@
+{
+ "language": "en",
+ "key": "contact",
+ "slug": "contact",
+ "url": "/en/contact/",
+ "template": "contact",
+ "title": "Discuss your project",
+ "description": "Plan bespoke leather and wood accessories with SFP. Contact our team in Berlin.",
+ "alternate": {
+  "de": "/kontakt/",
+  "en": "/en/contact/"
+ },
+ "datasets": [
+  {
+   "id": "config-data",
+   "file": "02_CONTENT/data/embedded-en-e3de944475d2df02.json"
+  }
+ ],
+ "sections": [
+  {
+   "kind": "inquiry-layout",
+   "title": {
+    "level": "h1",
+    "html": "Every project starts with a conversation."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A clear idea or an open question: tell us what you have in mind. We’ll help you prepare a concise project brief."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"mailto:mail@sfp-berlin.com\">mail@sfp-berlin.com</a><a href=\"tel:+493023607865\">+49 (0)30 236 078 65</a>",
+     "role": "contact-links"
+    },
+    {
+     "type": "p",
+     "html": "Our products and services are available exclusively to business customers.",
+     "role": "business-scope"
+    },
+    {
+     "type": "p",
+     "html": "Your brief is prepared here in your browser. You then open the email draft and send it through your email app. You can also copy or download the brief.",
+     "role": "note"
+    },
+    {
+     "type": "h",
+     "level": "h2",
+     "html": "Your project brief"
+    }
+   ],
+   "actions": [
+    {
+     "href": "mailto:mail@sfp-berlin.com",
+     "label": "Open email draft",
+     "style": "button"
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Copy"
+    },
+    {
+     "label": "Download"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

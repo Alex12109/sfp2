@@ -1,0 +1,186 @@
+{
+ "language": "de",
+ "key": "collection:writing",
+ "slug": "collection--writing",
+ "url": "/kollektionen/schreibkultur-tisch/",
+ "template": "collection",
+ "title": "Schreibkultur & Konferenz",
+ "description": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt.",
+ "alternate": {
+  "de": "/kollektionen/schreibkultur-tisch/",
+  "en": "/en/collections/desk-table/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ein Platz für Gedanken. Und gute Gespräche."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Schreibkultur%20%26%20Konferenz",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine gemeinsame Materialwelt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Arbeitsplatz wirkt souverän, wenn Proportionen und Materialien zusammenfinden. Für die einzelne Schreibunterlage ebenso wie für viele Konferenzplätze entwickeln wir Ihre eigene Linie in EU-Handfertigung. Feines italienisches Echtleder oder hochwertiges PU wird für das jeweilige Modell ausgewählt; Farbe, Format und Prägung verbinden die Produkte mit Ihrem Interior."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Entdecken Sie die Details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/schreibunterlagen/",
+     "title": "Schreibunterlagen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine klar definierte Arbeitsfläche, abgestimmt auf Schreibtisch, Konferenztisch oder Empfang. Format, Material und Logo werden im Projekt zusammengeführt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Schlichte Schreibunterlage aus dem SFP-Sortiment – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/notizblockhalter/",
+     "title": "Notizblockhalter",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notizblock und Stift erhalten ihren festen Platz. Eine kleine, häufig genutzte Ergänzung für Gästezimmer, Konferenzräume und Empfang."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Freigestellte SFP-Notizblockhalter in verschiedenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jeder Artikel im Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Modelle, Materialauswahl und Ausstattungsoptionen finden Sie in unserer vollständigen Produktübersicht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel ansehen",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

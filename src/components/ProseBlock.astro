@@ -1,0 +1,42 @@
+---
+// Langtext: Journalbeiträge und Rechtstexte.
+import type { Section, Lang } from '../lib/types';
+import { pad } from '../lib/content';
+import { t } from '../i18n/ui';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; legal?: boolean }
+const { s, lang, legal = false } = Astro.props;
+const ui = t(lang);
+const prose = s.prose!;
+const chapters = prose.chapters.map((c, i) => ({ ...c, id: c.id ?? `abschnitt-${i + 1}` }));
+const toc = chapters.filter((c) => c.title);
+const meta = (s.body ?? []).find((b) => b.type === 'p' && b.role === 'article-meta');
+---
+<section class:list={['sec sec--flush-top prose tone-ivory', legal && 'prose--legal']}>
+  <div class="wrap">
+    {s.media?.[0] && <Picture img={s.media[0]} frame eager ratio="ar-16x9" class="prose__cover anim-unveil" sizes="100vw" />}
+    <div class="prose__grid">
+      <aside class="prose__aside">
+        {meta && meta.type === 'p' && <p class="label" set:html={meta.html} />}
+        {toc.length > 1 && (
+          <nav class="toc" aria-label={ui.inThisArticle}>
+            <p class="toc__title">{ui.inThisArticle}</p>
+            <ol>{toc.map((c, i) => <li><a href={`#${c.id}`}><span aria-hidden="true">{pad(i + 1)}</span><span set:html={c.title} /></a></li>)}</ol>
+          </nav>
+        )}
+      </aside>
+      <article class="prose__body">
+        {chapters.map((c) => (
+          <section id={c.id} class="prose__chapter">
+            {c.title && <h2 set:html={c.title} />}
+            <Rich blocks={c.blocks} />
+          </section>
+        ))}
+        {prose.summary && <p class="prose__summary" set:html={prose.summary} />}
+        <Actions links={prose.nav} />
+      </article>
+    </div>
+  </div>
+</section>

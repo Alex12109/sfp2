@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:hotelaccessoires-als-kollektion",
+ "slug": "article--hotelaccessoires-als-kollektion",
+ "url": "/journal/hotelaccessoires-als-kollektion/",
+ "template": "article",
+ "title": "Eine Zimmerkollektion muss zusammenarbeiten.",
+ "description": "Warum sich Accessoires gemeinsam mit Interior Design, Einkauf und Housekeeping besser planen lassen.",
+ "alternate": {
+  "de": "/journal/hotelaccessoires-als-kollektion/",
+  "en": "/en/journal/planning-a-hotel-accessory-collection/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Eine Zimmerkollektion muss zusammenarbeiten."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Warum sich Accessoires gemeinsam mit Interior Design, Einkauf und Housekeeping besser planen lassen.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/room-scene.webp",
+     "alt": "Material- und Gestaltungsstudie: aufeinander abgestimmte Lederaccessoires an einem Waschtisch",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Der Raum ist der Ausgangspunkt",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Papierkorb wird einzeln bestellt, aber im Zusammenhang mit Möbeln, Boden und den übrigen Accessoires wahrgenommen. Gleiches gilt für Tissue-Boxen, Trays und Schreibunterlagen. Erstellen Sie deshalb zunächst eine Übersicht der benötigten Artikel je Zimmerkategorie. So werden Gemeinsamkeiten sichtbar, aber auch Unterschiede zwischen Standardzimmer, Suite und öffentlichem Bereich."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Eine Materialfamilie, mehrere Funktionen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Zusammengehörigkeit bedeutet nicht, alle Artikel identisch auszuführen. Ein Tray kann einen anderen Aufbau benötigen als eine Mappe. Entscheidend ist, welche Merkmale die Serie verbinden: ein Farbton, eine Oberfläche, eine Kantenlösung oder die Art der Personalisierung. Definieren Sie diese Gemeinsamkeiten und lassen Sie dort Unterschiede zu, wo die Funktion es verlangt."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Verbrauchsmaterialien früh festlegen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Tissue-Verpackung, der Notizblock und die verwendeten Teesachets bestimmen Maße und Aufteilung mit. Werden diese Details erst nach der Fertigung geändert, kann die Passung leiden. Sammeln Sie deshalb echte Muster oder eindeutige Maßangaben. Prüfen Sie beim Tray neben dem Inhalt auch Kabelwege, die verfügbare Stellfläche und die gewünschte Handhabung."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Das Muster als gemeinsame Entscheidung nutzen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Lassen Sie Gestaltung, Einkauf und Betrieb dasselbe Muster beurteilen. Das Designteam prüft Wirkung und Proportionen, der Einkauf die vereinbarte Ausführung und das Housekeeping die praktische Nutzung. Halten Sie die Freigabe nachvollziehbar fest. Für spätere Ergänzungen sind eindeutige Artikelzuordnung und Materialreferenz hilfreicher als ein Foto allein. Verfügbarkeit und mögliche Änderungen werden bei Nachbestellungen erneut abgestimmt."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/hotels/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

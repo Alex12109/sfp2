@@ -1,0 +1,457 @@
+{
+ "language": "de",
+ "key": "materials",
+ "slug": "materials",
+ "url": "/materialien/",
+ "template": "materials",
+ "title": "Material & Veredelung",
+ "description": "Echtleder, PU, Holz und individuelle Veredelung für Ihr SFP-Projekt.",
+ "alternate": {
+  "de": "/materialien/",
+  "en": "/en/materials/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Material wird zu Charakter."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Oberfläche, Farbe und Veredelung bestimmen, wie ein Produkt wirkt – und wie es sich anfühlt.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/finish-study.webp",
+     "alt": "Materialstudie mit Ledernarbungen in Bordeaux, Grün, Taupe, Cognac und Dunkelblau",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "material-studio",
+   "id": "material-studio",
+   "data": {
+    "studio": "",
+    "contact": "/kontakt/"
+   },
+   "title": {
+    "level": "h2",
+    "html": "Spielen Sie mit Farbe.<br> Entdecken Sie die Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Was passt zu Ihrer Welt? Wechseln Sie zwischen den Farbpaletten, entdecken Sie ihr Zusammenspiel und probieren Sie Ihre eigene Prägung aus. Ein kleiner Spielraum für Ideen – ganz ohne fertiges Konzept."
+    },
+    {
+     "type": "p",
+     "html": "<strong>Schreiben Sie etwas!</strong> Blindprägung erfolgt mithilfe eines Stempels, welcher von dem Gerät erhitzt wird und dann mit Druck auf das Material trifft. Dies ist eine Blindprägung, doch legen wir Heißprägefolie zwischen Stempel und Material, erhalten wir Farben bei dem Motiv, von Klarfolie über sattes Rot bis zum Metallic-Champagne. Beeindruckend! :)"
+    },
+    {
+     "type": "p",
+     "html": ":-)",
+     "role": "stamp-invitation"
+    },
+    {
+     "type": "p",
+     "html": "Streichen Sie über die Wildlederfläche: nach rechts wird der Flor heller, nach links dunkler. Auf dem Smartphone seitlich wischen; mit der Tastatur die Pfeiltasten nutzen.",
+     "role": "sr-only"
+    },
+    {
+     "type": "p",
+     "html": "Eine spielerische Material- und Prägungsstudie. Die passende Oberfläche und Veredelung für Ihren Artikel stimmen wir am echten Muster ab.",
+     "role": "studio-experiment-note"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v19-suede.webp",
+     "alt": "Feiner cognacfarbener Wildlederflor für die interaktive Materialstudie",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/wordmark-v16.svg",
+     "alt": "SFP",
+     "width": 294,
+     "height": 110,
+     "kind": "context"
+    }
+   ],
+   "items": [
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "0"
+     },
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Lederkollektion in Cognac, Olive, Bordeaux und Taupe auf warmem Stein",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "1"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Bordeauxrote und olivfarbene Karten mit passendem Rechnungspräsenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "2"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/room-scene.webp",
+       "alt": "Material- und Gestaltungsstudie: aufeinander abgestimmte Lederaccessoires an einem Waschtisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "3"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material- und Gestaltungsstudie: blaue Schreibunterlage und Notizblockhalter auf einem Nussbaumschreibtisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-controls",
+     "title": "Welche Farbwelt spricht Sie an?",
+     "items": [
+      {
+       "role": null,
+       "data": {
+        "palette-description": "0"
+       },
+       "title": "Cognac, Taupe &amp; dunkles Holz.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Warme Nuancen verbinden sich mit Nussbaum, Messing und ruhigem Stein. Cognac setzt den Akzent; Taupe gibt einer Kollektion die verbindende Fläche. Eine tonale Naht lässt die Kontur sprechen."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "1"
+       },
+       "hidden": true,
+       "title": "Bordeaux trifft Olive.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Zwei satte, gedeckte Töne geben dem Tisch Charakter. Ein feines Lederbild und zurückhaltende Veredelung schaffen einen Gegenpol zu Glas, Keramik und Leinen. Besonders interessant für zusammengehörige Speise-, Wein- und Rechnungsmappen."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "2"
+       },
+       "hidden": true,
+       "title": "Sand, Stein &amp; ein Hauch Olive.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Eine abgestufte Palette lässt einzelne Produkte als Teil des Raums wirken. Die Spannung liegt in unterschiedlichen Oberflächen: matte Bezüge, sichtbare Narbung und ein präzise gesetzter Rand. Gut für eine gemeinsame Linie über mehrere Zimmeraccessoires."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "3"
+       },
+       "hidden": true,
+       "title": "Dunkle Töne. Präzise Details.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Dunkle Flächen geben Formen Gewicht. Eine Blindprägung wirkt über Licht und Schatten; ausgewählte Beschläge setzen kleine Reflexe. Der Charakter bleibt ruhig und eignet sich für Arbeitsplätze, Besprechungsräume und persönliche Präsente."
+        }
+       ]
+      }
+     ],
+     "tabs": [
+      {
+       "label": "Warmer Empfang",
+       "data": {
+        "palette": "0",
+        "selection": "Cognac / Taupe / dunkles Holz"
+       }
+      },
+      {
+       "label": "Tiefe & Kontrast",
+       "data": {
+        "palette": "1",
+        "selection": "Bordeaux / Olive / tonale Naht"
+       }
+      },
+      {
+       "label": "Leise Nuancen",
+       "data": {
+        "palette": "2",
+        "selection": "Sand / Taupe / Olive"
+       }
+      },
+      {
+       "label": "Klare Konturen",
+       "data": {
+        "palette": "3",
+        "selection": "Dunkelbraun / Anthrazit / Blindprägung"
+       }
+      }
+     ]
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Schwarz",
+     "data": {
+      "leather-choice": "black"
+     }
+    },
+    {
+     "label": "Dunkelbraun",
+     "data": {
+      "leather-choice": "brown"
+     }
+    },
+    {
+     "label": "Cognac",
+     "data": {
+      "leather-choice": "cognac"
+     }
+    },
+    {
+     "label": "Dunkelblau",
+     "data": {
+      "leather-choice": "navy"
+     }
+    },
+    {
+     "label": "Creme",
+     "data": {
+      "leather-choice": "cream"
+     }
+    },
+    {
+     "label": "Blindprägung",
+     "data": {
+      "finish-choice": "blind"
+     }
+    },
+    {
+     "label": "Folienprägung",
+     "data": {
+      "finish-choice": "foil"
+     }
+    },
+    {
+     "label": "Flor glätten",
+     "data": {
+      "suede-reset": ""
+     }
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "items": [
+    {
+     "role": "card",
+     "title": "Echtleder",
+     "body": [
+      {
+       "type": "p",
+       "html": "Feines italienisches Echtleder mit eigenständiger Narbung und Haptik. Farbe und Zurichtung wählen wir im Zusammenhang mit Artikel, Innenraum und täglicher Nutzung; die konkrete Auswahl beurteilen Sie am Muster."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/leather.webp",
+       "alt": "Nahaufnahme einer feinen Lederoberfläche",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "title": "PU &amp; weitere Bezüge",
+     "body": [
+      {
+       "type": "p",
+       "html": "Hochwertiges PU in einer umfangreichen Auswahl an Farben und Oberflächen eröffnet viel Spielraum für Ihr Gestaltungskonzept. Weitere Bezüge stimmen wir je nach Modell und Projekt ab. Die Auswahl folgt dem konkreten Muster und den Anforderungen im Betrieb."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/linen.webp",
+       "alt": "Fein strukturierte Materialoberfläche",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "title": "Holz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Maserung und Oberflächenbehandlung geben Holzprodukten ihren Ausdruck. Bei Trays sind beispielsweise gebeizte, lackierte oder geölte Ausführungen möglich."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/wood.webp",
+       "alt": "Holzmaserung im Detail",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dezente Prägung. Präzise Identität."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Blindprägung, Folienprägung und bei geeigneten Holzprodukten Gravur verbinden das Produkt mit Ihrer Marke. Wir stimmen Position, Größe und technische Umsetzbarkeit mit dem gewählten Material ab."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Das Muster entscheidet."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bildschirmfarben vermitteln eine Richtung. Für die Freigabe betrachten Sie Material, Verarbeitung und Farbwirkung im tatsächlichen Umfeld. Verfügbarkeit und konkrete Spezifikationen werden projektbezogen abgestimmt."
+    }
+   ]
+  },
+  {
+   "kind": "material-notes",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Was ein Muster Ihnen zeigt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Narbung &amp; Griffgefühl",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine sichtbare Narbung gibt einem Produkt Tiefe; glatte Flächen betonen Form und Proportion. Vergleichen Sie nicht nur Farbkarten, sondern auch die Haptik am späteren Einsatzort."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder &amp; PU bewusst wählen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Echtleder und PU-Bezüge eröffnen unterschiedliche gestalterische und praktische Möglichkeiten. Welche Ausführung passt, hängt von Artikel, Beanspruchung, Reinigung und gewünschter Wirkung ab. Die Materialentscheidung wird vor der Freigabe konkret benannt."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Die Farbe im Raum",
+     "body": [
+      {
+       "type": "p",
+       "html": "Cognac wirkt neben dunklem Holz anders als auf hellem Stein. Bordeaux, Olive und Taupe können einen Raum aufnehmen oder Akzente setzen. Licht, Nachbarmaterialien und Ihr Markenauftritt gehören in die Beurteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Naht, Kante &amp; Prägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine tonale Naht führt die Kontur fort. Die Kante rahmt das Produkt; eine passend proportionierte Prägung setzt die Signatur. Diese Details werden gemeinsam betrachtet, statt einzeln hinzugefügt."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

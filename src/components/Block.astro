@@ -1,0 +1,46 @@
+---
+/**
+ * Ordnet jeden importierten Abschnitt einem Baustein zu. Die Zuordnung folgt zuerst
+ * der Bedeutung (kind), dann der Form des Inhalts – nicht dem alten Layout.
+ */
+import type { Section, Lang } from '../lib/types';
+import PageTop from './PageTop.astro';
+import Hero from './Hero.astro';
+import HomeHero from './HomeHero.astro';
+import Theatre from './Theatre.astro';
+import Split from './Split.astro';
+import CardGrid from './CardGrid.astro';
+import NoteGrid from './NoteGrid.astro';
+import FaqBlock from './FaqBlock.astro';
+import Timeline from './Timeline.astro';
+import Atlas from './Atlas.astro';
+import Logos from './Logos.astro';
+import Band from './Band.astro';
+import Facts from './Facts.astro';
+import Jumps from './Jumps.astro';
+import ProseBlock from './ProseBlock.astro';
+import MaterialStudio from './MaterialStudio.astro';
+interface Props { s: Section; lang: Lang; no?: number; crumbs?: Section['crumbs']; legal?: boolean }
+const { s, lang, no, crumbs, legal } = Astro.props;
+const tone = s.shade ? 'tone-parchment' : 'tone-ivory';
+const items = s.items ?? [];
+const withMedia = items.filter((i) => i.media?.length).length;
+const k = s.kind;
+---
+{k === 'band' ? <Band s={s} lang={lang} />
+: k === 'signature-hero' ? <HomeHero s={s} lang={lang} />
+: k === 'project-theatre' ? <Theatre s={s} lang={lang} no={no} />
+: k === 'material-studio' ? <MaterialStudio s={s} lang={lang} />
+: k === 'reference-logos' ? <Logos s={s} lang={lang} tone={tone} />
+: k === 'facts' ? <Facts s={s} lang={lang} />
+: k === 'page-jumps' ? <Jumps s={s} lang={lang} />
+: ['page-top', 'collection-intro', 'config-heading'].includes(k) ? <PageTop s={s} lang={lang} crumbs={crumbs} />
+: ['hero', 'case-opening', 'product-opening'].includes(k) ? <Hero s={s} lang={lang} crumbs={crumbs} />
+: s.prose ? <ProseBlock s={s} lang={lang} legal={legal} />
+: k === 'process-timeline' ? <Timeline s={s} lang={lang} tone={tone} />
+: k === 'collection-atlas' ? <Atlas s={s} lang={lang} tone={tone} />
+: (s.faq?.length ?? 0) > 0 ? <FaqBlock s={s} lang={lang} no={no} tone={tone} />
+: items.length >= 2 && withMedia === items.length ? <CardGrid s={s} lang={lang} no={no} tone={tone} variant={k === 'object-library' ? 'rail' : 'grid'} />
+: items.length >= 2 ? <NoteGrid s={s} lang={lang} no={no} tone={tone} />
+: items.length === 1 && withMedia === 1 && !s.media?.length && !s.body?.length ? <CardGrid s={s} lang={lang} no={no} tone={tone} variant="feature" />
+: <Split s={s} lang={lang} no={no} tone={tone} />}

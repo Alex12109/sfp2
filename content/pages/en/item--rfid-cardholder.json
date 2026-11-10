@@ -1,0 +1,261 @@
+{
+ "language": "en",
+ "key": "item:rfid-cardholder",
+ "slug": "item--rfid-cardholder",
+ "url": "/en/products/models/rfid-cardholder/",
+ "template": "model",
+ "title": "RFID Card Holders · Bespoke specification",
+ "description": "The RFID card holder combines a matt-black metal body with a genuine-leather cover. It holds up to seven cards and cash, while the metal body shields RFID signals. An internal money pocket, metal press stud, stitching and branding complete the compact 95 × 65 × 15 mm format for guests, employees or business partners.",
+ "alternate": {
+  "de": "/produkte/modelle/rfid-cardholder/",
+  "en": "/en/products/models/rfid-cardholder/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "RFID Card Holders"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The RFID card holder combines a matt-black metal body with a genuine-leather cover. It holds up to seven cards and cash, while the metal body shields RFID signals. An internal money pocket, metal press stud, stitching and branding complete the compact 95 × 65 × 15 mm format for guests, employees or business partners.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Holder for plastic cards",
+      "Formats: 95 x 65 x 15mm or custom dimensions",
+      "Outer material: Genuine leather"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-rfid-cardholder.webp",
+     "alt": "RFID Card Holders — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=rfid-cardholder",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Closure",
+     "body": [
+      {
+       "type": "p",
+       "html": "Leather strap · Metal press stud"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Shape",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rectangular · Round · Oval · Kidney-shaped · Custom shape"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "95 x 65 x 15mm"
+    },
+    {
+     "k": "Application",
+     "v": "Holder for plastic cards"
+    },
+    {
+     "k": "Core & interior",
+     "v": "Metal"
+    },
+    {
+     "k": "Outer material",
+     "v": "Genuine leather"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Genuine leather · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Genuine leather · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-983196fc72b850.webp",
+     "alt": "RFID Card Holders product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-aba26d85bcd070.webp",
+     "alt": "RFID Card Holders product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

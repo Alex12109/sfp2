@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:ledergeschenke-planen",
+ "slug": "article--ledergeschenke-planen",
+ "url": "/journal/ledergeschenke-planen/",
+ "template": "article",
+ "title": "Ein gutes Geschenk beginnt vor der Verpackung.",
+ "description": "Empfänger, Anlass und Personalisierung als Grundlage für Lederpräsente und abgestimmte Geschenksets.",
+ "alternate": {
+  "de": "/journal/ledergeschenke-planen/",
+  "en": "/en/journal/planning-bespoke-leather-gifts/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Ein gutes Geschenk beginnt vor der Verpackung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Empfänger, Anlass und Personalisierung als Grundlage für Lederpräsente und abgestimmte Geschenksets.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-gifts.webp",
+     "alt": "Gestaltungsstudie: Kofferanhänger in Cognac, olivgrüner Schlüsselanhänger und passende Präsentationsbox",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Für wen ist das Geschenk gedacht?",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Präsent für reisende Gäste, ein Dankeschön an Geschäftspartner und ein Geschenk zur Clubmitgliedschaft haben unterschiedliche Aufgaben. Beginnen Sie mit dem Empfänger und einer realistischen Nutzungssituation. Ein Kofferanhänger ist dann sinnvoll, wenn er zum Alltag der beschenkten Person passt. Die Frage nach der Verwendung hilft mehr als die Suche nach einem möglichst auffälligen Werbeartikel."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Marke und Produkt ausbalancieren",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Material, Form und Verarbeitung bestimmen den ersten Eindruck. Das Logo sollte diese Wirkung unterstützen. Eine dezente Prägung, eine passende Schnalle und eine ruhige Farbkombination können ein Geschenk prägen, ohne seine spätere Nutzung zu dominieren. Betrachten Sie das Produkt auch aus Sicht des Empfängers: Würde er es unabhängig vom Anlass gern verwenden?"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Ein Set braucht einen Zusammenhang",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Mehrere Artikel werden nicht automatisch zum besseren Geschenk. Ein Set überzeugt, wenn seine Bestandteile funktional oder gestalterisch zusammengehören. Koffer- und Schlüsselanhänger können dieselbe Material- und Farbsprache aufnehmen. Planen Sie die Verpackung passend zu den tatsächlichen Abmessungen und zur Übergabe: persönlich beim Event, im Hotelzimmer oder im Versand."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Saisonale Geschenke rückwärts planen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Für Weihnachten, Jubiläen oder Veranstaltungen steht der Anlass meist früh fest. Nennen Sie deshalb den echten Bedarfstermin und unterscheiden Sie Lieferung von anschließender Verteilung. Materialwahl, Muster, Freigaben und Verpackung gehören in die Planung. Einen pauschalen Bestellschluss gibt es für individuelle Projekte nicht: Die verfügbare Zeit und die gewünschte Ausführung müssen gemeinsam betrachtet werden. Eine konkrete Anfrage mit Stückzahl und Idee ist der beste Ausgangspunkt."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/corporate-gifts/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

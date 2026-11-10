@@ -1,0 +1,32 @@
+---
+// Kollektionsübersicht: wechselnde Bild-/Textzeilen.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad } from '../lib/content';
+import Rich from './Rich.astro';
+import Picture from './Picture.astro';
+import Arrow from './Arrow.astro';
+interface Props { s: Section; lang: Lang; tone?: string }
+const { s, tone = 'tone-parchment' } = Astro.props;
+---
+<section class:list={['sec atlas', tone]} id={s.id}>
+  <div class="wrap">
+    {(s.items ?? []).map((item, i) => {
+      const main = (item.actions ?? []).find((a) => a.style === 'button');
+      const tags = (item.actions ?? []).filter((a) => a !== main);
+      return (
+        <article class="atlas__row">
+          <div class="atlas__copy" data-reveal>
+            <p class="label">N° {pad(i + 1)}</p>
+            <h2 set:html={heading(item.title)} />
+            <Rich blocks={item.body} />
+            {tags.length > 0 && <ul class="tags">{tags.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>}
+            {main && <a class="btn btn--outline" href={main.href}>{main.label}<Arrow /></a>}
+          </div>
+          {item.media?.[0] && (
+            <a class="atlas__media" href={item.href ?? main?.href ?? '#'} tabindex="-1" aria-hidden="true"><Picture img={item.media[0]} frame reveal ratio="ar-3x2" sizes="(min-width: 900px) 58vw, 100vw" /></a>
+          )}
+        </article>
+      );
+    })}
+  </div>
+</section>

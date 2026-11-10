@@ -1,0 +1,508 @@
+{
+ "language": "en",
+ "key": "product:tissue-boxen",
+ "slug": "product--tissue-boxen",
+ "url": "/en/products/tissue-box-covers/",
+ "template": "family",
+ "title": "Tissue box covers",
+ "description": "A tissue box cover turns an everyday consumable into a considered detail, beside a vanity, at reception or in a personal workspace.",
+ "alternate": {
+  "de": "/produkte/tissue-boxen/",
+  "en": "/en/products/tissue-box-covers/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/room-accessories/",
+     "label": "Room accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Tissue box covers"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A tissue box cover turns an everyday consumable into a considered detail, beside a vanity, at reception or in a personal workspace.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=tissue-boxen",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Tissue%20box%20covers",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue box covers in wood and covered finishes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "An everyday gesture, beautifully framed."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A tissue box cover turns a changing cardboard carton into a calm object within the room. On a vanity, bedside table, meeting-room console or desk, it may be small but often sits directly in view. The 130 × 130 × 145 and 265 × 245 × 85 mm starting sizes describe very different proportions. The carton actually used determines which, if either, is suitable. A clear outline can settle quietly into the scheme, while leather colour, grain and a carefully placed dispensing aperture give the cover its own presence. The tissues should remain easy to reach; the outer case should support that simple gesture rather than make a performance of it."
+    },
+    {
+     "type": "p",
+     "html": "Provide an original carton or dependable external and aperture dimensions for development. Internal size, dispensing opening and refill access must work as one. If suppliers may vary, compare the intended cartons; a custom cover is developed around the confirmed pack. Housekeeping or office management should use the sample to test inserting and removing the carton. Location, moisture and cleaning products also belong in the brief so finish and care can be discussed specifically. Branding will often remain a quiet detail. Fit matters most: when no edge presses against the pack and each tissue draws cleanly into place, the everyday gesture feels as effortless as the object appears."
+    },
+    {
+     "type": "p",
+     "html": "If the property uses several tissue formats, assign each cover clearly to its carton and location. A consistent appearance is then supported by traceable project data rather than assumptions about interchangeability."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-tissue-refill.webp",
+     "alt": "Open tissue box cover for replenishment",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-tissue-base.webp",
+     "alt": "Sliding base of a wooden tissue box cover",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Match the internal dimensions to the tissue carton",
+        "Test dispensing and refilling access",
+        "Consider location and cleaning routine"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=tissue-boxen",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=tissue-boxen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Fit the refill",
+     "body": [
+      {
+       "type": "p",
+       "html": "Square and rectangular forms are checked against the actual refill carton. A physical example helps establish the fit."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Access &amp; replenishment",
+     "body": [
+      {
+       "type": "p",
+       "html": "Consider the dispensing opening together with the base or flap construction. Replenishment should fit the housekeeping routine."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "A composed material palette",
+     "body": [
+      {
+       "type": "p",
+       "html": "A leather covering, PU or timber version is assessed for the intended use. Colour and branding connect the cover with other accessories."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Match the refill carton and dispensing opening",
+      "Allow straightforward access for replenishment",
+      "Covered or wood specifications to suit the project"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formats",
+     "v": "130 × 130 × 145 / 265 × 245 × 85 mm"
+    },
+    {
+     "k": "Fit",
+     "v": "Custom dimensions around the tissue carton; agree dispensing and refilling access"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/room-accessories/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/waste-bins/",
+     "title": "Waste bins",
+     "body": [
+      {
+       "type": "p",
+       "html": "A functional object that belongs within the interior. Its specification is considered alongside the room, its use and the surrounding accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Waste bin with a brown exterior — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/tissue-boxen/\">Tissue Box Covers</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tissue box covers conceal square or rectangular tissue cartons in guest rooms and bathrooms. The dispensing opening may be round, oval or rectangular, while an optional magnetic base can simplify replenishment. Two starting sizes, custom dimensions, PU or genuine leather, wood, padding, decorative stitching and branding allow the cover to be matched to the actual refill carton."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue Box Covers — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/tissue-boxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=tissue-boxen",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/tissue-boxen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

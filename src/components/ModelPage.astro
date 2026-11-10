@@ -1,0 +1,125 @@
+---
+// Einzelnes Produktmodell: Bild, Spezifikation, Materialien, Konfiguration, Anfrage.
+import type { Page, Lang } from '../lib/types';
+import { heading, strip, product as findProduct, pad } from '../lib/content';
+import { t } from '../i18n/ui';
+import Crumbs from './Crumbs.astro';
+import Rich from './Rich.astro';
+import Picture from './Picture.astro';
+import Arrow from './Arrow.astro';
+import Block from './Block.astro';
+import Configurator from './Configurator.astro';
+interface Props { page: Page; lang: Lang; categories: Record<string, string> }
+const { page, lang, categories } = Astro.props;
+const ui = t(lang);
+const id = page.key.split(':')[1];
+const data = findProduct(lang, id);
+const by = (k: string) => page.sections.find((s) => s.kind === k);
+const top = by('page-top');
+const opening = by('item-opening');
+const specs = by('item-specifications');
+const gallery = by('item-gallery');
+const materials = page.sections.find((s) => s.kind === 'generic' && (s.items ?? []).length > 0);
+const rest = page.sections.filter((s) => ![top, opening, specs, gallery, materials].includes(s));
+const lines = heading(top?.title?.html).split(/<br\s*\/?>/);
+const features = (opening?.body ?? []).filter((b) => b.type === 'ul');
+const category = data?.category ? categories[`category-${data.category}`] : undefined;
+// Materialien nach Art gruppieren („Echtleder · Mountain Bear“ → Echtleder)
+const groups: Record<string, { name: string; img?: any }[]> = {};
+for (const m of materials?.items ?? []) {
+  const [kind, ...name] = strip(m.title).split(' · ');
+  (groups[kind] ||= []).push({ name: name.join(' · ') || kind, img: m.media?.[0] });
+}
+---
+<section class="sec model-top tone-ivory">
+  <div class="wrap">
+    <Crumbs crumbs={top?.crumbs} lang={lang} current={strip(top?.title?.html)} />
+    <div class="model-top__grid">
+      {opening?.media?.[0] && <Picture img={opening.media[0]} frame eager ratio="ar-4x3" class="model-top__media anim-unveil" sizes="(min-width: 900px) 56vw, 100vw" />}
+      <div class="model-top__copy">
+        {category && <p class="label anim-rise" set:html={category} />}
+        <h1>{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i + 1}`} set:html={l} />)}</h1>
+        <div class="anim-rise" style="--i:3"><Rich blocks={top?.body} lead /></div>
+        <div class="model-top__features anim-rise" style="--i:4">
+          {opening?.title && <h2 class="model-top__sub" set:html={heading(opening.title.html)} />}
+          <Rich blocks={features} />
+        </div>
+        <div class="actions anim-rise" style="--i:5">
+          <a class="btn" href="#konfigurator">{ui.cfg.configureHere}<Arrow /></a>
+          <a class="link" href={`${ui.plannerUrl}?item=${id}`}>{ui.cfg.openPlanner}<Arrow /></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{specs && (
+  <section class="sec model-specs tone-parchment">
+    <div class="wrap split__grid">
+      <header class="split__head" data-reveal>
+        <p class="label">N° 01</p>
+        <h2 set:html={heading(specs.title?.html)} />
+        <Rich blocks={specs.body} class="model-specs__note" />
+      </header>
+      <div class="split__body split__body--wide" data-reveal style="--i:1">
+        <dl class="specs">{(specs.specs ?? []).map((r) => <div><dt>{r.k}</dt><dd set:html={r.v} /></div>)}</dl>
+        {(specs.items ?? []).length > 0 && (
+          <ul class="options" role="list">
+            {(specs.items ?? []).map((o) => (
+              <li>
+                <h3 set:html={heading(o.title)} />
+                <Rich blocks={o.body} />
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </div>
+  </section>
+)}
+
+{materials && (
+  <section class="sec model-materials tone-ivory">
+    <div class="wrap">
+      <header class="sec-head" data-reveal>
+        <div><p class="label">N° 02</p><h2 set:html={heading(materials.title?.html)} /></div>
+        <div class="sec-head__side"><Rich blocks={materials.body} /></div>
+      </header>
+      <div class="swatchwall">
+        {Object.entries(groups).map(([kind, list]) => (
+          <div class="swatchwall__group" data-reveal>
+            <h3 class="label label--plain">{kind}</h3>
+            <ul role="list">
+              {list.map((m) => (
+                <li class:list={['swatch', !m.img && 'swatch--text']}>
+                  {m.img && <div class="media ar-1x1"><img src={m.img.src} alt={m.img.alt} width="500" height="500" loading="lazy" decoding="async" /></div>}
+                  <span>{m.name}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{gallery && (gallery.media ?? []).length > 0 && (
+  <section class="sec sec--tight model-gallery tone-parchment">
+    <div class="wrap model-gallery__grid">
+      {(gallery.media ?? []).map((m, i) => <Picture img={m} frame={i === 0} reveal ratio="ar-4x3" />)}
+    </div>
+  </section>
+)}
+
+<section class="sec model-config tone-ivory" id="konfigurator">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div><p class="label">N° 03</p><h2>{ui.cfg.configureHere}</h2></div>
+      <div class="sec-head__side"><p>{data?.description}</p></div>
+    </header>
+    <Configurator lang={lang} mode="model" fixed={id} categories={categories} />
+  </div>
+</section>
+
+{rest.map((s, i) => <Block s={s} lang={lang} no={s.kind === 'band' ? undefined : 4 + i} />)}

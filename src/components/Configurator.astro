@@ -1,0 +1,135 @@
+---
+/**
+ * Artikelkonfigurator. Markup ist statisch, Regeln liegen in src/lib/enquiry-model.ts,
+ * das Verhalten in src/scripts/configurator.ts. Zwei Modi:
+ *   planner – Artikel wählen, konfigurieren, Liste bearbeiten
+ *   model   – Artikel ist durch die Modellseite festgelegt
+ */
+import type { Lang } from '../lib/types';
+import { t } from '../i18n/ui';
+import { stitchLabels } from '../lib/enquiry-model';
+import Arrow from './Arrow.astro';
+interface Props { lang: Lang; mode: 'planner' | 'model'; fixed?: string; categories?: Record<string, string> }
+const { lang, mode, fixed, categories = {} } = Astro.props;
+const ui = t(lang);
+const c = ui.cfg;
+const stitches = stitchLabels(lang);
+---
+<div
+  class:list={['cfg', `cfg--${mode}`]}
+  data-configurator
+  data-mode={mode}
+  data-lang={lang}
+  data-fixed={fixed}
+  data-contact={ui.contactUrl}
+  data-planner={ui.plannerUrl}
+  data-catalog={`/data/catalog.${lang}.json`}
+  data-categories={JSON.stringify(categories)}
+>
+  <p class="cfg__loading" data-cfg-loading role="status">{c.loading}</p>
+  <div class="cfg__workspace" data-cfg-workspace hidden>
+    <form id="item-config" class="cfg__form" novalidate>
+      <fieldset class="cfg__step" data-cfg-pick hidden={mode === 'model'}>
+        <legend tabindex="-1">{c.step1}</legend>
+        <div class="field">
+          <label for="cfg-search">{c.search}</label>
+          <input type="search" id="cfg-search" placeholder={c.searchPlaceholder} autocomplete="off" />
+        </div>
+        <p id="cfg-search-status" class="note" role="status"></p>
+        <div class="picker" id="cfg-products" role="radiogroup" aria-label={c.product}></div>
+        <div class="cfg__chosen">
+          <div class="media ar-4x3 cfg__photo"><img id="cfg-photo" alt="" width="640" height="480" decoding="async" /></div>
+          <div>
+            <p id="cfg-description"></p>
+            <a id="cfg-detail" class="link">{c.allInfo}<Arrow /></a>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset class="cfg__step">
+        <legend tabindex="-1">{mode === 'model' ? c.step2.replace(/^2 · /, '') : c.step2}</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="cfg-format">{c.format}</label>
+            <select id="cfg-format"></select>
+          </div>
+          <div class="field">
+            <label for="cfg-quantity">{c.quantity}</label>
+            <input type="number" id="cfg-quantity" min="1" max="1000000" step="1" inputmode="numeric" placeholder={c.quantityPlaceholder} />
+          </div>
+        </div>
+        <div class="cfg__custom" id="cfg-custom" hidden>
+          <p class="cfg__sub">{c.customTitle}</p>
+          <div class="field-row field-row--3">
+            <div class="field"><label for="cfg-width">{c.width}</label><input id="cfg-width" type="number" min="0.1" max="100000" step="any" inputmode="decimal" /></div>
+            <div class="field"><label for="cfg-depth">{c.depth}</label><input id="cfg-depth" type="number" min="0.1" max="100000" step="any" inputmode="decimal" /></div>
+            <div class="field"><label for="cfg-height">{c.height}</label><input id="cfg-height" type="number" min="0.1" max="100000" step="any" inputmode="decimal" /></div>
+          </div>
+          <div class="field">
+            <label for="cfg-dimension-note">{c.dimensionNote}</label>
+            <input id="cfg-dimension-note" maxlength="240" placeholder={c.dimensionNotePlaceholder} />
+          </div>
+        </div>
+
+        <div class="cfg__materials">
+          <p class="cfg__sub" id="cfg-material-label">{c.material}</p>
+          <div class="swatches" id="cfg-materials" role="radiogroup" aria-labelledby="cfg-material-label"></div>
+        </div>
+        <div class="field">
+          <label for="cfg-colour">{c.colour}</label>
+          <input id="cfg-colour" maxlength="150" placeholder={c.colourPlaceholder} aria-describedby="cfg-colour-note" />
+          <div class="cfg__colours" id="cfg-colour-wrap" hidden>
+            <p class="cfg__sub cfg__sub--small">{c.colourSuggestions}</p>
+            <div class="chips" id="cfg-colour-choices"></div>
+          </div>
+          <p class="note" id="cfg-colour-note">{c.swatchNote}</p>
+        </div>
+
+        <div class="field-row" id="cfg-stitch-wrap">
+          <div class="field">
+            <label for="cfg-stitch">{c.stitch}</label>
+            <select id="cfg-stitch">
+              {Object.entries(stitches).map(([value, label]) => <option value={value}>{label}</option>)}
+            </select>
+          </div>
+          <div class="field" id="cfg-stitch-colour-wrap" hidden>
+            <label for="cfg-stitch-colour">{c.stitchColour}</label>
+            <input id="cfg-stitch-colour" maxlength="120" placeholder={c.stitchColourPlaceholder} />
+          </div>
+        </div>
+
+        <div class="cfg__options" id="cfg-product-options"></div>
+
+        <div class="field">
+          <label for="cfg-notes">{c.notes}</label>
+          <textarea id="cfg-notes" maxlength="2000" rows="4" placeholder={c.notesPlaceholder}></textarea>
+        </div>
+        <p class="note">{c.modelNote}</p>
+      </fieldset>
+
+      <div class="cfg__add">
+        <button type="submit" class="btn" id="cfg-add-item"><span data-label>{c.add}</span><Arrow /></button>
+        <button type="button" class="link" id="cfg-cancel-edit" hidden>{c.cancel}</button>
+      </div>
+      <p id="cfg-status" role="status" class="status"></p>
+    </form>
+
+    <aside class="cfg__list" id="cfg-selection" aria-labelledby="cfg-list-title">
+      <div class="cfg__list-head">
+        <h2 id="cfg-list-title">{c.yourSelection}</h2>
+        <span class="cfg__count" id="cfg-count">0</span>
+      </div>
+      <p id="cfg-empty" class="cfg__empty">{mode === 'model' ? c.emptyModel : c.empty}</p>
+      <ol id="cfg-items" class="cfg__items"></ol>
+      <button type="button" class="btn" id="cfg-continue" disabled>{c.continue}<Arrow /></button>
+      {mode === 'model' && <a class="link" id="cfg-open-planner" href={ui.plannerUrl} hidden>{c.openPlanner}<Arrow /></a>}
+      <p class="note">{c.sessionNote}</p>
+      {mode === 'planner' && <p><a class="link" href={ui.catalogUrl}>{c.explore}<Arrow /></a></p>}
+    </aside>
+  </div>
+  <button type="button" id="cfg-mobile-list" class="cfg__mobile" hidden>{c.viewSelection}</button>
+  <noscript><p class="status status--error">{c.noscript}</p></noscript>
+</div>
+<script>
+  import '../scripts/configurator-boot';
+</script>

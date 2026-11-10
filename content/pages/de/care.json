@@ -1,0 +1,104 @@
+{
+ "language": "de",
+ "key": "care",
+ "slug": "care",
+ "url": "/pflege-service/",
+ "template": "page",
+ "title": "Pflege & Service",
+ "description": "Die passende Pflege richtet sich nach Material und Oberfläche. Klären Sie Reinigung und Handhabung bei der Bemusterung mit uns ab.",
+ "alternate": {
+  "de": "/pflege-service/",
+  "en": "/en/care-service/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Sorgfalt im täglichen Gebrauch."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die passende Pflege richtet sich nach Material und Oberfläche. Klären Sie Reinigung und Handhabung bei der Bemusterung mit uns ab.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Ausführung kennen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Echtleder, PU und Holz benötigen unterschiedliche Pflege. Auch innerhalb einer Materialgruppe unterscheiden sich Oberflächen. Nutzen Sie die Hinweise für Ihre konkrete Ausführung und klären Sie vorhandene Reinigungsmittel vor dem Einsatz mit uns ab."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Schonend beginnen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Entfernen Sie losen Staub zunächst mit einem weichen, trockenen Tuch. Vermeiden Sie scheuernde Hilfsmittel, starke Reibung und ein Durchnässen des Materials. Bei Flecken oder Unsicherheit nennen Sie uns Artikel und Material, damit wir die passende weitere Vorgehensweise abstimmen können."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Reinigung im Betrieb abstimmen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lassen Sie Housekeeping oder Service ein freigegebenes Muster mit den vorgesehenen Abläufen prüfen. Dokumentieren Sie die abgestimmte Pflege zusammen mit der Materialreferenz. So verwenden verschiedene Teams dieselbe Grundlage."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ergänzungen einfach besprechen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für Nachbestellungen helfen Artikelbezeichnung, Maße, Materialreferenz und ein Foto der vorhandenen Ausführung. Wir prüfen die aktuelle Verfügbarkeit und besprechen mögliche Änderungen mit Ihnen."
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "language": "en",
+ "key": "collection:trays",
+ "slug": "collection--trays",
+ "url": "/en/collections/trays-organisers/",
+ "template": "collection",
+ "title": "Trays & organisers",
+ "description": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service.",
+ "alternate": {
+  "de": "/kollektionen/trays-ablage/",
+  "en": "/en/collections/trays-organisers/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Order. In your own form."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-collection-table.webp",
+     "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Trays%20%26%20organisers",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A shared material palette."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A made-to-measure tray brings together the objects that belong together in daily use. From a coffee machine to a welcome gift, we develop the shape and compartments around your contents. Timber and covered constructions offer different possibilities; materials and branding are agreed for the selected build. Even a single tray can become a bespoke development, handmade in the EU."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Explore the details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/hospitality-trays/",
+     "title": "Hospitality trays",
+     "body": [
+      {
+       "type": "p",
+       "html": "For minibars, desks or the presentation of guest amenities. Custom dimensions and compartments give the items you actually use a considered place."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "SFP tray with a cup and compartmented organiser — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every accessory in detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Find individual models, material choices and specification options in our complete accessory collection."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/",
+     "label": "View all accessories",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

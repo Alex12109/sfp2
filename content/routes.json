@@ -1,0 +1,2618 @@
+[
+ {
+  "language": "de",
+  "key": "home",
+  "slug": "home",
+  "url": "/",
+  "template": "home",
+  "title": "Lederartikel nach Maß. Für Ihre Marke gemacht.",
+  "alternate": {
+   "de": "/",
+   "en": "/en/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "services",
+  "slug": "services",
+  "url": "/leistungen/",
+  "template": "page",
+  "title": "Lederartikel nach Maß – unsere Leistungen",
+  "alternate": {
+   "de": "/leistungen/",
+   "en": "/en/services/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "process",
+  "slug": "process",
+  "url": "/prozess/",
+  "template": "page",
+  "title": "Unser Prozess",
+  "alternate": {
+   "de": "/prozess/",
+   "en": "/en/process/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "materials",
+  "slug": "materials",
+  "url": "/materialien/",
+  "template": "materials",
+  "title": "Material & Veredelung",
+  "alternate": {
+   "de": "/materialien/",
+   "en": "/en/materials/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "company",
+  "slug": "company",
+  "url": "/unternehmen/",
+  "template": "page",
+  "title": "Über SFP Hospitality",
+  "alternate": {
+   "de": "/unternehmen/",
+   "en": "/en/company/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenarios",
+  "slug": "scenarios",
+  "url": "/loesungen/",
+  "template": "page",
+  "title": "Besondere Anforderungen. Passende Antworten.",
+  "alternate": {
+   "de": "/loesungen/",
+   "en": "/en/solutions/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:hotels",
+  "slug": "scenario--hotels",
+  "url": "/loesungen/hotels/",
+  "template": "scenario",
+  "title": "Ein Haus mit Charakter. Bis ins kleinste Detail.",
+  "alternate": {
+   "de": "/loesungen/hotels/",
+   "en": "/en/solutions/hotels/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:restaurants",
+  "slug": "scenario--restaurants",
+  "url": "/loesungen/restaurants/",
+  "template": "scenario",
+  "title": "Gastlichkeit, die man in die Hand nimmt.",
+  "alternate": {
+   "de": "/loesungen/restaurants/",
+   "en": "/en/solutions/restaurants/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:interior-design",
+  "slug": "scenario--interior-design",
+  "url": "/loesungen/interior-design/",
+  "template": "scenario",
+  "title": "Ihre Gestaltung hört nicht beim Möbel auf.",
+  "alternate": {
+   "de": "/loesungen/interior-design/",
+   "en": "/en/solutions/interior-design/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:corporate-gifts",
+  "slug": "scenario--corporate-gifts",
+  "url": "/loesungen/corporate-gifts/",
+  "template": "scenario",
+  "title": "Ihre Marke. Ein bleibender Begleiter.",
+  "alternate": {
+   "de": "/loesungen/corporate-gifts/",
+   "en": "/en/solutions/corporate-gifts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:clubs",
+  "slug": "scenario--clubs",
+  "url": "/loesungen/clubs/",
+  "template": "scenario",
+  "title": "Ein Clubgefühl, das im Detail beginnt.",
+  "alternate": {
+   "de": "/loesungen/clubs/",
+   "en": "/en/solutions/clubs/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:yachts",
+  "slug": "scenario--yachts",
+  "url": "/loesungen/yachts/",
+  "template": "scenario",
+  "title": "Individuelle Details. An Bord gedacht.",
+  "alternate": {
+   "de": "/loesungen/yachts/",
+   "en": "/en/solutions/yachts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:private-aviation",
+  "slug": "scenario--private-aviation",
+  "url": "/loesungen/private-aviation/",
+  "template": "scenario",
+  "title": "Eine eigene Handschrift. Auch in der Kabine.",
+  "alternate": {
+   "de": "/loesungen/private-aviation/",
+   "en": "/en/solutions/private-aviation/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "scenario:executive-offices",
+  "slug": "scenario--executive-offices",
+  "url": "/loesungen/executive-offices/",
+  "template": "scenario",
+  "title": "Räume für Entscheidungen. Details mit Haltung.",
+  "alternate": {
+   "de": "/loesungen/executive-offices/",
+   "en": "/en/solutions/executive-offices/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collections",
+  "slug": "collections",
+  "url": "/kollektionen/",
+  "template": "page",
+  "title": "Ausgewählte Artikel. Individuell für Sie.",
+  "alternate": {
+   "de": "/kollektionen/",
+   "en": "/en/collections/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:writing",
+  "slug": "collection--writing",
+  "url": "/kollektionen/schreibkultur-tisch/",
+  "template": "collection",
+  "title": "Schreibkultur & Konferenz",
+  "alternate": {
+   "de": "/kollektionen/schreibkultur-tisch/",
+   "en": "/en/collections/desk-table/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:trays",
+  "slug": "collection--trays",
+  "url": "/kollektionen/trays-ablage/",
+  "template": "collection",
+  "title": "Trays & Ablage",
+  "alternate": {
+   "de": "/kollektionen/trays-ablage/",
+   "en": "/en/collections/trays-organisers/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:room",
+  "slug": "collection--room",
+  "url": "/kollektionen/raumaccessoires/",
+  "template": "collection",
+  "title": "Raumaccessoires",
+  "alternate": {
+   "de": "/kollektionen/raumaccessoires/",
+   "en": "/en/collections/room-accessories/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:gifts",
+  "slug": "collection--gifts",
+  "url": "/kollektionen/travel-gifts/",
+  "template": "collection",
+  "title": "Travel & Gifts",
+  "alternate": {
+   "de": "/kollektionen/travel-gifts/",
+   "en": "/en/collections/travel-gifts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:dining",
+  "slug": "collection--dining",
+  "url": "/kollektionen/dining/",
+  "template": "collection",
+  "title": "Speisekarten & Dining",
+  "alternate": {
+   "de": "/kollektionen/dining/",
+   "en": "/en/collections/dining/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "collection:other",
+  "slug": "collection--other",
+  "url": "/kollektionen/weitere-objekte/",
+  "template": "collection",
+  "title": "Boxen & besondere Artikel",
+  "alternate": {
+   "de": "/kollektionen/weitere-objekte/",
+   "en": "/en/collections/other-accessories/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:schreibunterlagen",
+  "slug": "product--schreibunterlagen",
+  "url": "/produkte/schreibunterlagen/",
+  "template": "family",
+  "title": "Schreibunterlagen",
+  "alternate": {
+   "de": "/produkte/schreibunterlagen/",
+   "en": "/en/products/desk-pads/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:notizblockhalter",
+  "slug": "product--notizblockhalter",
+  "url": "/produkte/notizblockhalter/",
+  "template": "family",
+  "title": "Notizblockhalter",
+  "alternate": {
+   "de": "/produkte/notizblockhalter/",
+   "en": "/en/products/notepad-holders/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:tischsets",
+  "slug": "product--tischsets",
+  "url": "/produkte/tischsets/",
+  "template": "family",
+  "title": "Tischsets",
+  "alternate": {
+   "de": "/produkte/tischsets/",
+   "en": "/en/products/placemats/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:trays",
+  "slug": "product--trays",
+  "url": "/produkte/trays/",
+  "template": "family",
+  "title": "Trays & Tabletts",
+  "alternate": {
+   "de": "/produkte/trays/",
+   "en": "/en/products/hospitality-trays/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:papierkoerbe",
+  "slug": "product--papierkoerbe",
+  "url": "/produkte/papierkoerbe/",
+  "template": "family",
+  "title": "Papierkörbe",
+  "alternate": {
+   "de": "/produkte/papierkoerbe/",
+   "en": "/en/products/waste-bins/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:tissue-boxen",
+  "slug": "product--tissue-boxen",
+  "url": "/produkte/tissue-boxen/",
+  "template": "family",
+  "title": "Tissue-Boxen",
+  "alternate": {
+   "de": "/produkte/tissue-boxen/",
+   "en": "/en/products/tissue-box-covers/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:kofferanhaenger",
+  "slug": "product--kofferanhaenger",
+  "url": "/produkte/kofferanhaenger/",
+  "template": "family",
+  "title": "Kofferanhänger",
+  "alternate": {
+   "de": "/produkte/kofferanhaenger/",
+   "en": "/en/products/luggage-tags/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:schluesselanhaenger",
+  "slug": "product--schluesselanhaenger",
+  "url": "/produkte/schluesselanhaenger/",
+  "template": "family",
+  "title": "Schlüsselanhänger",
+  "alternate": {
+   "de": "/produkte/schluesselanhaenger/",
+   "en": "/en/products/keyrings/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:speisekarten",
+  "slug": "product--speisekarten",
+  "url": "/produkte/speisekarten/",
+  "template": "family",
+  "title": "Speisekarten",
+  "alternate": {
+   "de": "/produkte/speisekarten/",
+   "en": "/en/products/menu-covers/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:rechnungsmappen",
+  "slug": "product--rechnungsmappen",
+  "url": "/produkte/rechnungsmappen/",
+  "template": "family",
+  "title": "Rechnungsmappen & Rechnungsboxen",
+  "alternate": {
+   "de": "/produkte/rechnungsmappen/",
+   "en": "/en/products/bill-presenters/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:coaster",
+  "slug": "product--coaster",
+  "url": "/produkte/coaster/",
+  "template": "family",
+  "title": "Coaster",
+  "alternate": {
+   "de": "/produkte/coaster/",
+   "en": "/en/products/coasters/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "product:amenity-boxen",
+  "slug": "product--amenity-boxen",
+  "url": "/produkte/amenity-boxen/",
+  "template": "family",
+  "title": "Amenity-Boxen & weitere Artikel",
+  "alternate": {
+   "de": "/produkte/amenity-boxen/",
+   "en": "/en/products/amenity-boxes/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "projects",
+  "slug": "projects",
+  "url": "/projekte/",
+  "template": "page",
+  "title": "Projekte, die unsere Arbeit zeigen.",
+  "alternate": {
+   "de": "/projekte/",
+   "en": "/en/projects/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:bmw-group-classic",
+  "slug": "case--bmw-group-classic",
+  "url": "/projekte/bmw-group-classic/",
+  "template": "project",
+  "title": "BMW Group Classic Events · Ein Markenerlebnis, das mitreist.",
+  "alternate": {
+   "de": "/projekte/bmw-group-classic/",
+   "en": "/en/projects/bmw-group-classic/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:grand-hyatt-vox",
+  "slug": "case--grand-hyatt-vox",
+  "url": "/projekte/grand-hyatt-vox/",
+  "template": "project",
+  "title": "Grand Hyatt Berlin · VOX · Vom ersten Menü bis zur Rechnung.",
+  "alternate": {
+   "de": "/projekte/grand-hyatt-vox/",
+   "en": "/en/projects/grand-hyatt-vox/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:vier-jahreszeiten-muenchen",
+  "slug": "case--vier-jahreszeiten-muenchen",
+  "url": "/projekte/vier-jahreszeiten-muenchen/",
+  "template": "project",
+  "title": "Vier Jahreszeiten, München · Individuell entwickelt. Über Jahre ergänzt.",
+  "alternate": {
+   "de": "/projekte/vier-jahreszeiten-muenchen/",
+   "en": "/en/projects/vier-jahreszeiten-muenchen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:ritz-carlton-wolfsburg",
+  "slug": "case--ritz-carlton-wolfsburg",
+  "url": "/projekte/ritz-carlton-wolfsburg/",
+  "template": "project",
+  "title": "The Ritz-Carlton, Wolfsburg · Ein kleines Etui. Ein bewusster Empfang.",
+  "alternate": {
+   "de": "/projekte/ritz-carlton-wolfsburg/",
+   "en": "/en/projects/ritz-carlton-wolfsburg/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:william-blair",
+  "slug": "case--william-blair",
+  "url": "/projekte/william-blair/",
+  "template": "project",
+  "title": "William Blair · Eine gestalterische Idee wird Ausstattung.",
+  "alternate": {
+   "de": "/projekte/william-blair/",
+   "en": "/en/projects/william-blair/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:hapag-lloyd-tui",
+  "slug": "case--hapag-lloyd-tui",
+  "url": "/projekte/hapag-lloyd-tui/",
+  "template": "project",
+  "title": "Hapag-Lloyd Cruises & TUI · Reiseaccessoires für den direkten Kundenkontakt.",
+  "alternate": {
+   "de": "/projekte/hapag-lloyd-tui/",
+   "en": "/en/projects/hapag-lloyd-tui/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:marriott-berlin",
+  "slug": "case--marriott-berlin",
+  "url": "/projekte/marriott-berlin/",
+  "template": "project",
+  "title": "Marriott Hotel Berlin · Vom Gästezimmer bis zur Menükarte.",
+  "alternate": {
+   "de": "/projekte/marriott-berlin/",
+   "en": "/en/projects/marriott-berlin/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:east-group",
+  "slug": "case--east-group",
+  "url": "/projekte/east-group/",
+  "template": "project",
+  "title": "east GROUP, Hamburg · Eine Partnerschaft über einzelne Bestellungen hinaus.",
+  "alternate": {
+   "de": "/projekte/east-group/",
+   "en": "/en/projects/east-group/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "case:stadt-hamburg-sylt",
+  "slug": "case--stadt-hamburg-sylt",
+  "url": "/projekte/stadt-hamburg-sylt/",
+  "template": "project",
+  "title": "Hotel Stadt Hamburg, Sylt · Persönlich im Austausch. Verlässlich im Alltag.",
+  "alternate": {
+   "de": "/projekte/stadt-hamburg-sylt/",
+   "en": "/en/projects/stadt-hamburg-sylt/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "journal",
+  "slug": "journal",
+  "url": "/journal/",
+  "template": "page",
+  "title": "Gedanken zum Detail.",
+  "alternate": {
+   "de": "/journal/",
+   "en": "/en/journal/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:bespoke-projektbriefing",
+  "slug": "article--bespoke-projektbriefing",
+  "url": "/journal/bespoke-projektbriefing/",
+  "template": "article",
+  "title": "Was in ein gutes Bespoke-Briefing gehört.",
+  "alternate": {
+   "de": "/journal/bespoke-projektbriefing/",
+   "en": "/en/journal/briefing-a-bespoke-project/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:materialauswahl-hospitality",
+  "slug": "article--materialauswahl-hospitality",
+  "url": "/journal/materialauswahl-hospitality/",
+  "template": "article",
+  "title": "Materialwahl beginnt beim Einsatzort.",
+  "alternate": {
+   "de": "/journal/materialauswahl-hospitality/",
+   "en": "/en/journal/choosing-materials-for-hospitality/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:speisekarten-bindung-format",
+  "slug": "article--speisekarten-bindung-format",
+  "url": "/journal/speisekarten-bindung-format/",
+  "template": "article",
+  "title": "Die richtige Speisekarte für Ihren Service.",
+  "alternate": {
+   "de": "/journal/speisekarten-bindung-format/",
+   "en": "/en/journal/menu-covers-binding-and-format/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:blindpraegung-folienpraegung",
+  "slug": "article--blindpraegung-folienpraegung",
+  "url": "/journal/blindpraegung-folienpraegung/",
+  "template": "article",
+  "title": "Ein Logo muss nicht laut sein.",
+  "alternate": {
+   "de": "/journal/blindpraegung-folienpraegung/",
+   "en": "/en/journal/blind-debossing-and-foil-stamping/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:hotelaccessoires-als-kollektion",
+  "slug": "article--hotelaccessoires-als-kollektion",
+  "url": "/journal/hotelaccessoires-als-kollektion/",
+  "template": "article",
+  "title": "Eine Zimmerkollektion muss zusammenarbeiten.",
+  "alternate": {
+   "de": "/journal/hotelaccessoires-als-kollektion/",
+   "en": "/en/journal/planning-a-hotel-accessory-collection/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:ledergeschenke-planen",
+  "slug": "article--ledergeschenke-planen",
+  "url": "/journal/ledergeschenke-planen/",
+  "template": "article",
+  "title": "Ein gutes Geschenk beginnt vor der Verpackung.",
+  "alternate": {
+   "de": "/journal/ledergeschenke-planen/",
+   "en": "/en/journal/planning-bespoke-leather-gifts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:kundenbindung-mitarbeitergeschenke",
+  "slug": "article--kundenbindung-mitarbeitergeschenke",
+  "url": "/journal/kundenbindung-mitarbeitergeschenke/",
+  "template": "article",
+  "title": "Ein Geschenk. Zwei unterschiedliche Aufgaben.",
+  "alternate": {
+   "de": "/journal/kundenbindung-mitarbeitergeschenke/",
+   "en": "/en/journal/client-gifts-and-employee-gifts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:restaurant-ausstattung-planen",
+  "slug": "article--restaurant-ausstattung-planen",
+  "url": "/journal/restaurant-ausstattung-planen/",
+  "template": "article",
+  "title": "Ein neuer Restaurantauftritt beginnt bei den Abläufen.",
+  "alternate": {
+   "de": "/journal/restaurant-ausstattung-planen/",
+   "en": "/en/journal/planning-restaurant-accessories/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:sonderanfertigung-kleinserie",
+  "slug": "article--sonderanfertigung-kleinserie",
+  "url": "/journal/sonderanfertigung-kleinserie/",
+  "template": "article",
+  "title": "Wann sich eine eigene Ausführung lohnt.",
+  "alternate": {
+   "de": "/journal/sonderanfertigung-kleinserie/",
+   "en": "/en/journal/bespoke-and-small-batch-production/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:materialwelt-statt-einheitsfarbe",
+  "slug": "article--materialwelt-statt-einheitsfarbe",
+  "url": "/journal/materialwelt-statt-einheitsfarbe/",
+  "template": "article",
+  "title": "Eine Materialwelt ist mehr als eine Farbe.",
+  "alternate": {
+   "de": "/journal/materialwelt-statt-einheitsfarbe/",
+   "en": "/en/journal/a-material-palette-not-a-single-colour/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:interior-konzept-produktbrief",
+  "slug": "article--interior-konzept-produktbrief",
+  "url": "/journal/interior-konzept-produktbrief/",
+  "template": "article",
+  "title": "Vom Interior-Konzept zum fertigen Produktbrief.",
+  "alternate": {
+   "de": "/journal/interior-konzept-produktbrief/",
+   "en": "/en/journal/from-interior-concept-to-product-brief/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:hotelzimmer-lederaccessoires-abstimmen",
+  "slug": "article--hotelzimmer-lederaccessoires-abstimmen",
+  "url": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+  "template": "article",
+  "title": "Lederaccessoires fürs Hotelzimmer als Kollektion planen",
+  "alternate": {
+   "de": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+   "en": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "article:speisekarten-rechnungsmappen-restaurantidentitaet",
+  "slug": "article--speisekarten-rechnungsmappen-restaurantidentitaet",
+  "url": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+  "template": "article",
+  "title": "Speisekarten und Rechnungsmappen für eine klare Restaurantidentität",
+  "alternate": {
+   "de": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+   "en": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "contact",
+  "slug": "contact",
+  "url": "/kontakt/",
+  "template": "contact",
+  "title": "Ihr Projekt anfragen",
+  "alternate": {
+   "de": "/kontakt/",
+   "en": "/en/contact/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "legal",
+  "slug": "legal",
+  "url": "/impressum/",
+  "template": "legal",
+  "title": "Impressum",
+  "alternate": {
+   "de": "/impressum/",
+   "en": "/en/legal-notice/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "privacy",
+  "slug": "privacy",
+  "url": "/datenschutz/",
+  "template": "legal",
+  "title": "Datenschutz",
+  "alternate": {
+   "de": "/datenschutz/",
+   "en": "/en/privacy/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "white-label",
+  "slug": "white-label",
+  "url": "/white-label/",
+  "template": "page",
+  "title": "White Label für Agenturen & Marken",
+  "alternate": {
+   "de": "/white-label/",
+   "en": "/en/white-label/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "care",
+  "slug": "care",
+  "url": "/pflege-service/",
+  "template": "page",
+  "title": "Pflege & Service",
+  "alternate": {
+   "de": "/pflege-service/",
+   "en": "/en/care-service/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "planner",
+  "slug": "planner",
+  "url": "/projektplaner/",
+  "template": "planner",
+  "title": "Ihre individuelle Produktanfrage",
+  "alternate": {
+   "de": "/projektplaner/",
+   "en": "/en/project-planner/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "catalog",
+  "slug": "catalog",
+  "url": "/produkte/",
+  "template": "catalog",
+  "title": "Alle Artikel. Ihre eigene Ausführung.",
+  "alternate": {
+   "de": "/produkte/",
+   "en": "/en/products/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:bestecktabletts",
+  "slug": "item--bestecktabletts",
+  "url": "/produkte/modelle/bestecktabletts/",
+  "template": "model",
+  "title": "Bestecktabletts · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/bestecktabletts/",
+   "en": "/en/products/models/bestecktabletts/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:coaster",
+  "slug": "item--coaster",
+  "url": "/produkte/modelle/coaster/",
+  "template": "model",
+  "title": "Coaster · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/coaster/",
+   "en": "/en/products/models/coaster/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:rechnungsboxen",
+  "slug": "item--rechnungsboxen",
+  "url": "/produkte/modelle/rechnungsboxen/",
+  "template": "model",
+  "title": "Rechnungsboxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/rechnungsboxen/",
+   "en": "/en/products/models/rechnungsboxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:rechnungsmappen",
+  "slug": "item--rechnungsmappen",
+  "url": "/produkte/modelle/rechnungsmappen/",
+  "template": "model",
+  "title": "Rechnungsmappen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/rechnungsmappen/",
+   "en": "/en/products/models/rechnungsmappen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-grand-dinner",
+  "slug": "item--menu-grand-dinner",
+  "url": "/produkte/modelle/menu-grand-dinner/",
+  "template": "model",
+  "title": "Speisekarte Grand Dinner · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-grand-dinner/",
+   "en": "/en/products/models/menu-grand-dinner/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-grande-bistro",
+  "slug": "item--menu-grande-bistro",
+  "url": "/produkte/modelle/menu-grande-bistro/",
+  "template": "model",
+  "title": "Speisekarte Grande Bistro · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-grande-bistro/",
+   "en": "/en/products/models/menu-grande-bistro/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-fine-dining",
+  "slug": "item--menu-fine-dining",
+  "url": "/produkte/modelle/menu-fine-dining/",
+  "template": "model",
+  "title": "Speisekarte Fine Dining · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-fine-dining/",
+   "en": "/en/products/models/menu-fine-dining/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-rome",
+  "slug": "item--menu-rome",
+  "url": "/produkte/modelle/menu-rome/",
+  "template": "model",
+  "title": "Speisekarte Rome · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-rome/",
+   "en": "/en/products/models/menu-rome/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-bonn",
+  "slug": "item--menu-bonn",
+  "url": "/produkte/modelle/menu-bonn/",
+  "template": "model",
+  "title": "Speisekarte Bonn · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-bonn/",
+   "en": "/en/products/models/menu-bonn/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-london",
+  "slug": "item--menu-london",
+  "url": "/produkte/modelle/menu-london/",
+  "template": "model",
+  "title": "Speisekarte London · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-london/",
+   "en": "/en/products/models/menu-london/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-hamburg",
+  "slug": "item--menu-hamburg",
+  "url": "/produkte/modelle/menu-hamburg/",
+  "template": "model",
+  "title": "Speisekarte Hamburg · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-hamburg/",
+   "en": "/en/products/models/menu-hamburg/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-vintage",
+  "slug": "item--menu-vintage",
+  "url": "/produkte/modelle/menu-vintage/",
+  "template": "model",
+  "title": "Speisekarte Vintage · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-vintage/",
+   "en": "/en/products/models/menu-vintage/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-clipboard",
+  "slug": "item--menu-clipboard",
+  "url": "/produkte/modelle/menu-clipboard/",
+  "template": "model",
+  "title": "Speisekarte Clipboard · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-clipboard/",
+   "en": "/en/products/models/menu-clipboard/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-berlin",
+  "slug": "item--menu-berlin",
+  "url": "/produkte/modelle/menu-berlin/",
+  "template": "model",
+  "title": "Speisekarte Berlin · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-berlin/",
+   "en": "/en/products/models/menu-berlin/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-nizza",
+  "slug": "item--menu-nizza",
+  "url": "/produkte/modelle/menu-nizza/",
+  "template": "model",
+  "title": "Speisekarte Nizza · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-nizza/",
+   "en": "/en/products/models/menu-nizza/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-passepartout",
+  "slug": "item--menu-passepartout",
+  "url": "/produkte/modelle/menu-passepartout/",
+  "template": "model",
+  "title": "Speisekarte Passepartout · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-passepartout/",
+   "en": "/en/products/models/menu-passepartout/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:menu-ringbinder",
+  "slug": "item--menu-ringbinder",
+  "url": "/produkte/modelle/menu-ringbinder/",
+  "template": "model",
+  "title": "Speisekarte Ringbinder · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/menu-ringbinder/",
+   "en": "/en/products/models/menu-ringbinder/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:tischaufsteller",
+  "slug": "item--tischaufsteller",
+  "url": "/produkte/modelle/tischaufsteller/",
+  "template": "model",
+  "title": "Tischaufsteller · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/tischaufsteller/",
+   "en": "/en/products/models/tischaufsteller/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:tischsets",
+  "slug": "item--tischsets",
+  "url": "/produkte/modelle/tischsets/",
+  "template": "model",
+  "title": "Tischsets · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/tischsets/",
+   "en": "/en/products/models/tischsets/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:kofferanhanger",
+  "slug": "item--kofferanhanger",
+  "url": "/produkte/modelle/kofferanhanger/",
+  "template": "model",
+  "title": "Kofferanhänger · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/kofferanhanger/",
+   "en": "/en/products/models/kofferanhanger/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:kosmetik",
+  "slug": "item--kosmetik",
+  "url": "/produkte/modelle/kosmetik/",
+  "template": "model",
+  "title": "Kosmetik · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/kosmetik/",
+   "en": "/en/products/models/kosmetik/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:lesezeichen",
+  "slug": "item--lesezeichen",
+  "url": "/produkte/modelle/lesezeichen/",
+  "template": "model",
+  "title": "Lesezeichen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/lesezeichen/",
+   "en": "/en/products/models/lesezeichen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:rfid-cardholder",
+  "slug": "item--rfid-cardholder",
+  "url": "/produkte/modelle/rfid-cardholder/",
+  "template": "model",
+  "title": "RFID-Cardholder · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/rfid-cardholder/",
+   "en": "/en/products/models/rfid-cardholder/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:schlusselanhanger",
+  "slug": "item--schlusselanhanger",
+  "url": "/produkte/modelle/schlusselanhanger/",
+  "template": "model",
+  "title": "Schlüsselanhänger · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/schlusselanhanger/",
+   "en": "/en/products/models/schlusselanhanger/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:visitenkartenetuis",
+  "slug": "item--visitenkartenetuis",
+  "url": "/produkte/modelle/visitenkartenetuis/",
+  "template": "model",
+  "title": "Visitenkartenetuis · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/visitenkartenetuis/",
+   "en": "/en/products/models/visitenkartenetuis/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:amenity-boxen",
+  "slug": "item--amenity-boxen",
+  "url": "/produkte/modelle/amenity-boxen/",
+  "template": "model",
+  "title": "Amenity-Boxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/amenity-boxen/",
+   "en": "/en/products/models/amenity-boxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:tissue-boxen",
+  "slug": "item--tissue-boxen",
+  "url": "/produkte/modelle/tissue-boxen/",
+  "template": "model",
+  "title": "Tissue-Boxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/tissue-boxen/",
+   "en": "/en/products/models/tissue-boxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:bankettblotter",
+  "slug": "item--bankettblotter",
+  "url": "/produkte/modelle/bankettblotter/",
+  "template": "model",
+  "title": "Bankettblotter · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/bankettblotter/",
+   "en": "/en/products/models/bankettblotter/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:bankettcoaster",
+  "slug": "item--bankettcoaster",
+  "url": "/produkte/modelle/bankettcoaster/",
+  "template": "model",
+  "title": "Bankettcoaster · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/bankettcoaster/",
+   "en": "/en/products/models/bankettcoaster/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:airport-calling-signs",
+  "slug": "item--airport-calling-signs",
+  "url": "/produkte/modelle/airport-calling-signs/",
+  "template": "model",
+  "title": "Airport Calling-Signs · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/airport-calling-signs/",
+   "en": "/en/products/models/airport-calling-signs/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:check-in-mappen",
+  "slug": "item--check-in-mappen",
+  "url": "/produkte/modelle/check-in-mappen/",
+  "template": "model",
+  "title": "Check-in Mappen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/check-in-mappen/",
+   "en": "/en/products/models/check-in-mappen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:empfangsblotter",
+  "slug": "item--empfangsblotter",
+  "url": "/produkte/modelle/empfangsblotter/",
+  "template": "model",
+  "title": "Empfangsblotter · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/empfangsblotter/",
+   "en": "/en/products/models/empfangsblotter/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:laundry-boxen",
+  "slug": "item--laundry-boxen",
+  "url": "/produkte/modelle/laundry-boxen/",
+  "template": "model",
+  "title": "Laundry-Boxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/laundry-boxen/",
+   "en": "/en/products/models/laundry-boxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:laundry-list-holder",
+  "slug": "item--laundry-list-holder",
+  "url": "/produkte/modelle/laundry-list-holder/",
+  "template": "model",
+  "title": "Laundry-List-Holder · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/laundry-list-holder/",
+   "en": "/en/products/models/laundry-list-holder/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:shoe-boxen",
+  "slug": "item--shoe-boxen",
+  "url": "/produkte/modelle/shoe-boxen/",
+  "template": "model",
+  "title": "Shoe-Boxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/shoe-boxen/",
+   "en": "/en/products/models/shoe-boxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:turanhanger",
+  "slug": "item--turanhanger",
+  "url": "/produkte/modelle/turanhanger/",
+  "template": "model",
+  "title": "Türanhänger · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/turanhanger/",
+   "en": "/en/products/models/turanhanger/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:condiment-boxen",
+  "slug": "item--condiment-boxen",
+  "url": "/produkte/modelle/condiment-boxen/",
+  "template": "model",
+  "title": "Condiment-Boxen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/condiment-boxen/",
+   "en": "/en/products/models/condiment-boxen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:notizblockhalter",
+  "slug": "item--notizblockhalter",
+  "url": "/produkte/modelle/notizblockhalter/",
+  "template": "model",
+  "title": "Notizblockhalter · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/notizblockhalter/",
+   "en": "/en/products/models/notizblockhalter/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:papierkorbe",
+  "slug": "item--papierkorbe",
+  "url": "/produkte/modelle/papierkorbe/",
+  "template": "model",
+  "title": "Papierkörbe · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/papierkorbe/",
+   "en": "/en/products/models/papierkorbe/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:prospektstander",
+  "slug": "item--prospektstander",
+  "url": "/produkte/modelle/prospektstander/",
+  "template": "model",
+  "title": "Prospektständer · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/prospektstander/",
+   "en": "/en/products/models/prospektstander/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:schreibunterlagen",
+  "slug": "item--schreibunterlagen",
+  "url": "/produkte/modelle/schreibunterlagen/",
+  "template": "model",
+  "title": "Schreibunterlagen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/schreibunterlagen/",
+   "en": "/en/products/models/schreibunterlagen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:stiftekocher",
+  "slug": "item--stiftekocher",
+  "url": "/produkte/modelle/stiftekocher/",
+  "template": "model",
+  "title": "Stifteköcher · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/stiftekocher/",
+   "en": "/en/products/models/stiftekocher/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:trays",
+  "slug": "item--trays",
+  "url": "/produkte/modelle/trays/",
+  "template": "model",
+  "title": "Trays · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/trays/",
+   "en": "/en/products/models/trays/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:zimmermappen",
+  "slug": "item--zimmermappen",
+  "url": "/produkte/modelle/zimmermappen/",
+  "template": "model",
+  "title": "Zimmermappen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/zimmermappen/",
+   "en": "/en/products/models/zimmermappen/"
+  }
+ },
+ {
+  "language": "de",
+  "key": "item:schreibmappen",
+  "slug": "item--schreibmappen",
+  "url": "/produkte/modelle/schreibmappen/",
+  "template": "model",
+  "title": "Schreibmappen · Individuelle Ausführung",
+  "alternate": {
+   "de": "/produkte/modelle/schreibmappen/",
+   "en": "/en/products/models/schreibmappen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "home",
+  "slug": "home",
+  "url": "/en/",
+  "template": "home",
+  "title": "Bespoke leather goods. Made for your brand.",
+  "alternate": {
+   "de": "/",
+   "en": "/en/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "services",
+  "slug": "services",
+  "url": "/en/services/",
+  "template": "page",
+  "title": "Bespoke leather goods – our services",
+  "alternate": {
+   "de": "/leistungen/",
+   "en": "/en/services/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "process",
+  "slug": "process",
+  "url": "/en/process/",
+  "template": "page",
+  "title": "Our process",
+  "alternate": {
+   "de": "/prozess/",
+   "en": "/en/process/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "materials",
+  "slug": "materials",
+  "url": "/en/materials/",
+  "template": "materials",
+  "title": "Materials & finishes",
+  "alternate": {
+   "de": "/materialien/",
+   "en": "/en/materials/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "company",
+  "slug": "company",
+  "url": "/en/company/",
+  "template": "page",
+  "title": "About SFP Hospitality",
+  "alternate": {
+   "de": "/unternehmen/",
+   "en": "/en/company/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenarios",
+  "slug": "scenarios",
+  "url": "/en/solutions/",
+  "template": "page",
+  "title": "Distinctive requirements. Considered solutions.",
+  "alternate": {
+   "de": "/loesungen/",
+   "en": "/en/solutions/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:hotels",
+  "slug": "scenario--hotels",
+  "url": "/en/solutions/hotels/",
+  "template": "scenario",
+  "title": "A sense of place. In every detail.",
+  "alternate": {
+   "de": "/loesungen/hotels/",
+   "en": "/en/solutions/hotels/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:restaurants",
+  "slug": "scenario--restaurants",
+  "url": "/en/solutions/restaurants/",
+  "template": "scenario",
+  "title": "Hospitality you can hold.",
+  "alternate": {
+   "de": "/loesungen/restaurants/",
+   "en": "/en/solutions/restaurants/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:interior-design",
+  "slug": "scenario--interior-design",
+  "url": "/en/solutions/interior-design/",
+  "template": "scenario",
+  "title": "Your design continues beyond the furniture.",
+  "alternate": {
+   "de": "/loesungen/interior-design/",
+   "en": "/en/solutions/interior-design/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:corporate-gifts",
+  "slug": "scenario--corporate-gifts",
+  "url": "/en/solutions/corporate-gifts/",
+  "template": "scenario",
+  "title": "Your brand. A lasting companion.",
+  "alternate": {
+   "de": "/loesungen/corporate-gifts/",
+   "en": "/en/solutions/corporate-gifts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:clubs",
+  "slug": "scenario--clubs",
+  "url": "/en/solutions/clubs/",
+  "template": "scenario",
+  "title": "A club identity, expressed in the details.",
+  "alternate": {
+   "de": "/loesungen/clubs/",
+   "en": "/en/solutions/clubs/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:yachts",
+  "slug": "scenario--yachts",
+  "url": "/en/solutions/yachts/",
+  "template": "scenario",
+  "title": "Bespoke details. Considered for life on board.",
+  "alternate": {
+   "de": "/loesungen/yachts/",
+   "en": "/en/solutions/yachts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:private-aviation",
+  "slug": "scenario--private-aviation",
+  "url": "/en/solutions/private-aviation/",
+  "template": "scenario",
+  "title": "A distinctive identity. Throughout the cabin.",
+  "alternate": {
+   "de": "/loesungen/private-aviation/",
+   "en": "/en/solutions/private-aviation/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "scenario:executive-offices",
+  "slug": "scenario--executive-offices",
+  "url": "/en/solutions/executive-offices/",
+  "template": "scenario",
+  "title": "Spaces for decisions. Details with purpose.",
+  "alternate": {
+   "de": "/loesungen/executive-offices/",
+   "en": "/en/solutions/executive-offices/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collections",
+  "slug": "collections",
+  "url": "/en/collections/",
+  "template": "page",
+  "title": "Selected objects. Individually yours.",
+  "alternate": {
+   "de": "/kollektionen/",
+   "en": "/en/collections/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:writing",
+  "slug": "collection--writing",
+  "url": "/en/collections/desk-table/",
+  "template": "collection",
+  "title": "Desk & conference",
+  "alternate": {
+   "de": "/kollektionen/schreibkultur-tisch/",
+   "en": "/en/collections/desk-table/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:trays",
+  "slug": "collection--trays",
+  "url": "/en/collections/trays-organisers/",
+  "template": "collection",
+  "title": "Trays & organisers",
+  "alternate": {
+   "de": "/kollektionen/trays-ablage/",
+   "en": "/en/collections/trays-organisers/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:room",
+  "slug": "collection--room",
+  "url": "/en/collections/room-accessories/",
+  "template": "collection",
+  "title": "Room accessories",
+  "alternate": {
+   "de": "/kollektionen/raumaccessoires/",
+   "en": "/en/collections/room-accessories/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:gifts",
+  "slug": "collection--gifts",
+  "url": "/en/collections/travel-gifts/",
+  "template": "collection",
+  "title": "Travel & gifts",
+  "alternate": {
+   "de": "/kollektionen/travel-gifts/",
+   "en": "/en/collections/travel-gifts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:dining",
+  "slug": "collection--dining",
+  "url": "/en/collections/dining/",
+  "template": "collection",
+  "title": "Menu covers & dining",
+  "alternate": {
+   "de": "/kollektionen/dining/",
+   "en": "/en/collections/dining/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "collection:other",
+  "slug": "collection--other",
+  "url": "/en/collections/other-accessories/",
+  "template": "collection",
+  "title": "Boxes & bespoke accessories",
+  "alternate": {
+   "de": "/kollektionen/weitere-objekte/",
+   "en": "/en/collections/other-accessories/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:schreibunterlagen",
+  "slug": "product--schreibunterlagen",
+  "url": "/en/products/desk-pads/",
+  "template": "family",
+  "title": "Desk pads",
+  "alternate": {
+   "de": "/produkte/schreibunterlagen/",
+   "en": "/en/products/desk-pads/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:notizblockhalter",
+  "slug": "product--notizblockhalter",
+  "url": "/en/products/notepad-holders/",
+  "template": "family",
+  "title": "Notepad holders",
+  "alternate": {
+   "de": "/produkte/notizblockhalter/",
+   "en": "/en/products/notepad-holders/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:tischsets",
+  "slug": "product--tischsets",
+  "url": "/en/products/placemats/",
+  "template": "family",
+  "title": "Placemats",
+  "alternate": {
+   "de": "/produkte/tischsets/",
+   "en": "/en/products/placemats/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:trays",
+  "slug": "product--trays",
+  "url": "/en/products/hospitality-trays/",
+  "template": "family",
+  "title": "Hospitality trays",
+  "alternate": {
+   "de": "/produkte/trays/",
+   "en": "/en/products/hospitality-trays/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:papierkoerbe",
+  "slug": "product--papierkoerbe",
+  "url": "/en/products/waste-bins/",
+  "template": "family",
+  "title": "Waste bins",
+  "alternate": {
+   "de": "/produkte/papierkoerbe/",
+   "en": "/en/products/waste-bins/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:tissue-boxen",
+  "slug": "product--tissue-boxen",
+  "url": "/en/products/tissue-box-covers/",
+  "template": "family",
+  "title": "Tissue box covers",
+  "alternate": {
+   "de": "/produkte/tissue-boxen/",
+   "en": "/en/products/tissue-box-covers/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:kofferanhaenger",
+  "slug": "product--kofferanhaenger",
+  "url": "/en/products/luggage-tags/",
+  "template": "family",
+  "title": "Luggage tags",
+  "alternate": {
+   "de": "/produkte/kofferanhaenger/",
+   "en": "/en/products/luggage-tags/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:schluesselanhaenger",
+  "slug": "product--schluesselanhaenger",
+  "url": "/en/products/keyrings/",
+  "template": "family",
+  "title": "Leather keyrings",
+  "alternate": {
+   "de": "/produkte/schluesselanhaenger/",
+   "en": "/en/products/keyrings/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:speisekarten",
+  "slug": "product--speisekarten",
+  "url": "/en/products/menu-covers/",
+  "template": "family",
+  "title": "Menu covers",
+  "alternate": {
+   "de": "/produkte/speisekarten/",
+   "en": "/en/products/menu-covers/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:rechnungsmappen",
+  "slug": "product--rechnungsmappen",
+  "url": "/en/products/bill-presenters/",
+  "template": "family",
+  "title": "Bill presenters & bill boxes",
+  "alternate": {
+   "de": "/produkte/rechnungsmappen/",
+   "en": "/en/products/bill-presenters/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:coaster",
+  "slug": "product--coaster",
+  "url": "/en/products/coasters/",
+  "template": "family",
+  "title": "Coasters",
+  "alternate": {
+   "de": "/produkte/coaster/",
+   "en": "/en/products/coasters/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "product:amenity-boxen",
+  "slug": "product--amenity-boxen",
+  "url": "/en/products/amenity-boxes/",
+  "template": "family",
+  "title": "Amenity boxes & other accessories",
+  "alternate": {
+   "de": "/produkte/amenity-boxen/",
+   "en": "/en/products/amenity-boxes/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "projects",
+  "slug": "projects",
+  "url": "/en/projects/",
+  "template": "page",
+  "title": "Projects that show what we do.",
+  "alternate": {
+   "de": "/projekte/",
+   "en": "/en/projects/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:bmw-group-classic",
+  "slug": "case--bmw-group-classic",
+  "url": "/en/projects/bmw-group-classic/",
+  "template": "project",
+  "title": "BMW Group Classic Events · A brand experience that travels.",
+  "alternate": {
+   "de": "/projekte/bmw-group-classic/",
+   "en": "/en/projects/bmw-group-classic/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:grand-hyatt-vox",
+  "slug": "case--grand-hyatt-vox",
+  "url": "/en/projects/grand-hyatt-vox/",
+  "template": "project",
+  "title": "Grand Hyatt Berlin · VOX · From the first menu to the final bill.",
+  "alternate": {
+   "de": "/projekte/grand-hyatt-vox/",
+   "en": "/en/projects/grand-hyatt-vox/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:vier-jahreszeiten-muenchen",
+  "slug": "case--vier-jahreszeiten-muenchen",
+  "url": "/en/projects/vier-jahreszeiten-muenchen/",
+  "template": "project",
+  "title": "Vier Jahreszeiten, München · Individually developed. Added to over the years.",
+  "alternate": {
+   "de": "/projekte/vier-jahreszeiten-muenchen/",
+   "en": "/en/projects/vier-jahreszeiten-muenchen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:ritz-carlton-wolfsburg",
+  "slug": "case--ritz-carlton-wolfsburg",
+  "url": "/en/projects/ritz-carlton-wolfsburg/",
+  "template": "project",
+  "title": "The Ritz-Carlton, Wolfsburg · A small holder. A considered welcome.",
+  "alternate": {
+   "de": "/projekte/ritz-carlton-wolfsburg/",
+   "en": "/en/projects/ritz-carlton-wolfsburg/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:william-blair",
+  "slug": "case--william-blair",
+  "url": "/en/projects/william-blair/",
+  "template": "project",
+  "title": "William Blair · A design direction becomes a collection.",
+  "alternate": {
+   "de": "/projekte/william-blair/",
+   "en": "/en/projects/william-blair/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:hapag-lloyd-tui",
+  "slug": "case--hapag-lloyd-tui",
+  "url": "/en/projects/hapag-lloyd-tui/",
+  "template": "project",
+  "title": "Hapag-Lloyd Cruises & TUI · Travel accessories for personal client contact.",
+  "alternate": {
+   "de": "/projekte/hapag-lloyd-tui/",
+   "en": "/en/projects/hapag-lloyd-tui/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:marriott-berlin",
+  "slug": "case--marriott-berlin",
+  "url": "/en/projects/marriott-berlin/",
+  "template": "project",
+  "title": "Marriott Hotel Berlin · From the guest room to the menu.",
+  "alternate": {
+   "de": "/projekte/marriott-berlin/",
+   "en": "/en/projects/marriott-berlin/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:east-group",
+  "slug": "case--east-group",
+  "url": "/en/projects/east-group/",
+  "template": "project",
+  "title": "east GROUP, Hamburg · A relationship beyond individual orders.",
+  "alternate": {
+   "de": "/projekte/east-group/",
+   "en": "/en/projects/east-group/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "case:stadt-hamburg-sylt",
+  "slug": "case--stadt-hamburg-sylt",
+  "url": "/en/projects/stadt-hamburg-sylt/",
+  "template": "project",
+  "title": "Hotel Stadt Hamburg, Sylt · Personal communication. Ongoing collaboration.",
+  "alternate": {
+   "de": "/projekte/stadt-hamburg-sylt/",
+   "en": "/en/projects/stadt-hamburg-sylt/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "journal",
+  "slug": "journal",
+  "url": "/en/journal/",
+  "template": "page",
+  "title": "A closer look at the details.",
+  "alternate": {
+   "de": "/journal/",
+   "en": "/en/journal/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:bespoke-projektbriefing",
+  "slug": "article--bespoke-projektbriefing",
+  "url": "/en/journal/briefing-a-bespoke-project/",
+  "template": "article",
+  "title": "What makes a useful bespoke brief?",
+  "alternate": {
+   "de": "/journal/bespoke-projektbriefing/",
+   "en": "/en/journal/briefing-a-bespoke-project/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:materialauswahl-hospitality",
+  "slug": "article--materialauswahl-hospitality",
+  "url": "/en/journal/choosing-materials-for-hospitality/",
+  "template": "article",
+  "title": "Material selection starts with the setting.",
+  "alternate": {
+   "de": "/journal/materialauswahl-hospitality/",
+   "en": "/en/journal/choosing-materials-for-hospitality/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:speisekarten-bindung-format",
+  "slug": "article--speisekarten-bindung-format",
+  "url": "/en/journal/menu-covers-binding-and-format/",
+  "template": "article",
+  "title": "Choosing menu covers for your service.",
+  "alternate": {
+   "de": "/journal/speisekarten-bindung-format/",
+   "en": "/en/journal/menu-covers-binding-and-format/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:blindpraegung-folienpraegung",
+  "slug": "article--blindpraegung-folienpraegung",
+  "url": "/en/journal/blind-debossing-and-foil-stamping/",
+  "template": "article",
+  "title": "A logo does not need to be loud.",
+  "alternate": {
+   "de": "/journal/blindpraegung-folienpraegung/",
+   "en": "/en/journal/blind-debossing-and-foil-stamping/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:hotelaccessoires-als-kollektion",
+  "slug": "article--hotelaccessoires-als-kollektion",
+  "url": "/en/journal/planning-a-hotel-accessory-collection/",
+  "template": "article",
+  "title": "A guest-room collection needs to work together.",
+  "alternate": {
+   "de": "/journal/hotelaccessoires-als-kollektion/",
+   "en": "/en/journal/planning-a-hotel-accessory-collection/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:ledergeschenke-planen",
+  "slug": "article--ledergeschenke-planen",
+  "url": "/en/journal/planning-bespoke-leather-gifts/",
+  "template": "article",
+  "title": "A thoughtful gift begins before the packaging.",
+  "alternate": {
+   "de": "/journal/ledergeschenke-planen/",
+   "en": "/en/journal/planning-bespoke-leather-gifts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:kundenbindung-mitarbeitergeschenke",
+  "slug": "article--kundenbindung-mitarbeitergeschenke",
+  "url": "/en/journal/client-gifts-and-employee-gifts/",
+  "template": "article",
+  "title": "One gift. Two different purposes.",
+  "alternate": {
+   "de": "/journal/kundenbindung-mitarbeitergeschenke/",
+   "en": "/en/journal/client-gifts-and-employee-gifts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:restaurant-ausstattung-planen",
+  "slug": "article--restaurant-ausstattung-planen",
+  "url": "/en/journal/planning-restaurant-accessories/",
+  "template": "article",
+  "title": "A restaurant refresh starts with service.",
+  "alternate": {
+   "de": "/journal/restaurant-ausstattung-planen/",
+   "en": "/en/journal/planning-restaurant-accessories/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:sonderanfertigung-kleinserie",
+  "slug": "article--sonderanfertigung-kleinserie",
+  "url": "/en/journal/bespoke-and-small-batch-production/",
+  "template": "article",
+  "title": "When a bespoke specification makes sense.",
+  "alternate": {
+   "de": "/journal/sonderanfertigung-kleinserie/",
+   "en": "/en/journal/bespoke-and-small-batch-production/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:materialwelt-statt-einheitsfarbe",
+  "slug": "article--materialwelt-statt-einheitsfarbe",
+  "url": "/en/journal/a-material-palette-not-a-single-colour/",
+  "template": "article",
+  "title": "A material palette is more than a colour.",
+  "alternate": {
+   "de": "/journal/materialwelt-statt-einheitsfarbe/",
+   "en": "/en/journal/a-material-palette-not-a-single-colour/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:interior-konzept-produktbrief",
+  "slug": "article--interior-konzept-produktbrief",
+  "url": "/en/journal/from-interior-concept-to-product-brief/",
+  "template": "article",
+  "title": "From an interior concept to a product brief.",
+  "alternate": {
+   "de": "/journal/interior-konzept-produktbrief/",
+   "en": "/en/journal/from-interior-concept-to-product-brief/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:hotelzimmer-lederaccessoires-abstimmen",
+  "slug": "article--hotelzimmer-lederaccessoires-abstimmen",
+  "url": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/",
+  "template": "article",
+  "title": "How to design a coordinated hotel-room leather collection",
+  "alternate": {
+   "de": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+   "en": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "article:speisekarten-rechnungsmappen-restaurantidentitaet",
+  "slug": "article--speisekarten-rechnungsmappen-restaurantidentitaet",
+  "url": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/",
+  "template": "article",
+  "title": "Bespoke menus and bill presenters for a distinctive restaurant identity",
+  "alternate": {
+   "de": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+   "en": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "contact",
+  "slug": "contact",
+  "url": "/en/contact/",
+  "template": "contact",
+  "title": "Discuss your project",
+  "alternate": {
+   "de": "/kontakt/",
+   "en": "/en/contact/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "legal",
+  "slug": "legal",
+  "url": "/en/legal-notice/",
+  "template": "legal",
+  "title": "Legal notice",
+  "alternate": {
+   "de": "/impressum/",
+   "en": "/en/legal-notice/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "privacy",
+  "slug": "privacy",
+  "url": "/en/privacy/",
+  "template": "legal",
+  "title": "Privacy",
+  "alternate": {
+   "de": "/datenschutz/",
+   "en": "/en/privacy/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "white-label",
+  "slug": "white-label",
+  "url": "/en/white-label/",
+  "template": "page",
+  "title": "White label for agencies & brands",
+  "alternate": {
+   "de": "/white-label/",
+   "en": "/en/white-label/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "care",
+  "slug": "care",
+  "url": "/en/care-service/",
+  "template": "page",
+  "title": "Care & service",
+  "alternate": {
+   "de": "/pflege-service/",
+   "en": "/en/care-service/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "planner",
+  "slug": "planner",
+  "url": "/en/project-planner/",
+  "template": "planner",
+  "title": "Your bespoke product enquiry",
+  "alternate": {
+   "de": "/projektplaner/",
+   "en": "/en/project-planner/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "catalog",
+  "slug": "catalog",
+  "url": "/en/products/",
+  "template": "catalog",
+  "title": "Every accessory. Your own specification.",
+  "alternate": {
+   "de": "/produkte/",
+   "en": "/en/products/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:bestecktabletts",
+  "slug": "item--bestecktabletts",
+  "url": "/en/products/models/bestecktabletts/",
+  "template": "model",
+  "title": "Cutlery Trays · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/bestecktabletts/",
+   "en": "/en/products/models/bestecktabletts/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:coaster",
+  "slug": "item--coaster",
+  "url": "/en/products/models/coaster/",
+  "template": "model",
+  "title": "Coasters · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/coaster/",
+   "en": "/en/products/models/coaster/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:rechnungsboxen",
+  "slug": "item--rechnungsboxen",
+  "url": "/en/products/models/rechnungsboxen/",
+  "template": "model",
+  "title": "Bill Boxes · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/rechnungsboxen/",
+   "en": "/en/products/models/rechnungsboxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:rechnungsmappen",
+  "slug": "item--rechnungsmappen",
+  "url": "/en/products/models/rechnungsmappen/",
+  "template": "model",
+  "title": "Bill Folders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/rechnungsmappen/",
+   "en": "/en/products/models/rechnungsmappen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-grand-dinner",
+  "slug": "item--menu-grand-dinner",
+  "url": "/en/products/models/menu-grand-dinner/",
+  "template": "model",
+  "title": "Grand Dinner Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-grand-dinner/",
+   "en": "/en/products/models/menu-grand-dinner/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-grande-bistro",
+  "slug": "item--menu-grande-bistro",
+  "url": "/en/products/models/menu-grande-bistro/",
+  "template": "model",
+  "title": "Grande Bistro Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-grande-bistro/",
+   "en": "/en/products/models/menu-grande-bistro/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-fine-dining",
+  "slug": "item--menu-fine-dining",
+  "url": "/en/products/models/menu-fine-dining/",
+  "template": "model",
+  "title": "Fine Dining Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-fine-dining/",
+   "en": "/en/products/models/menu-fine-dining/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-rome",
+  "slug": "item--menu-rome",
+  "url": "/en/products/models/menu-rome/",
+  "template": "model",
+  "title": "Rome Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-rome/",
+   "en": "/en/products/models/menu-rome/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-bonn",
+  "slug": "item--menu-bonn",
+  "url": "/en/products/models/menu-bonn/",
+  "template": "model",
+  "title": "Bonn Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-bonn/",
+   "en": "/en/products/models/menu-bonn/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-london",
+  "slug": "item--menu-london",
+  "url": "/en/products/models/menu-london/",
+  "template": "model",
+  "title": "London Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-london/",
+   "en": "/en/products/models/menu-london/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-hamburg",
+  "slug": "item--menu-hamburg",
+  "url": "/en/products/models/menu-hamburg/",
+  "template": "model",
+  "title": "Hamburg Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-hamburg/",
+   "en": "/en/products/models/menu-hamburg/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-vintage",
+  "slug": "item--menu-vintage",
+  "url": "/en/products/models/menu-vintage/",
+  "template": "model",
+  "title": "Vintage Wooden Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-vintage/",
+   "en": "/en/products/models/menu-vintage/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-clipboard",
+  "slug": "item--menu-clipboard",
+  "url": "/en/products/models/menu-clipboard/",
+  "template": "model",
+  "title": "Clipboard Menu Board · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-clipboard/",
+   "en": "/en/products/models/menu-clipboard/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-berlin",
+  "slug": "item--menu-berlin",
+  "url": "/en/products/models/menu-berlin/",
+  "template": "model",
+  "title": "Berlin Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-berlin/",
+   "en": "/en/products/models/menu-berlin/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-nizza",
+  "slug": "item--menu-nizza",
+  "url": "/en/products/models/menu-nizza/",
+  "template": "model",
+  "title": "Nizza Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-nizza/",
+   "en": "/en/products/models/menu-nizza/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-passepartout",
+  "slug": "item--menu-passepartout",
+  "url": "/en/products/models/menu-passepartout/",
+  "template": "model",
+  "title": "Passepartout Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-passepartout/",
+   "en": "/en/products/models/menu-passepartout/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:menu-ringbinder",
+  "slug": "item--menu-ringbinder",
+  "url": "/en/products/models/menu-ringbinder/",
+  "template": "model",
+  "title": "Ringbinder Menu Cover · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/menu-ringbinder/",
+   "en": "/en/products/models/menu-ringbinder/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:tischaufsteller",
+  "slug": "item--tischaufsteller",
+  "url": "/en/products/models/tischaufsteller/",
+  "template": "model",
+  "title": "Tabletop Display · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/tischaufsteller/",
+   "en": "/en/products/models/tischaufsteller/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:tischsets",
+  "slug": "item--tischsets",
+  "url": "/en/products/models/tischsets/",
+  "template": "model",
+  "title": "Placemats · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/tischsets/",
+   "en": "/en/products/models/tischsets/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:kofferanhanger",
+  "slug": "item--kofferanhanger",
+  "url": "/en/products/models/kofferanhanger/",
+  "template": "model",
+  "title": "Luggage Tags · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/kofferanhanger/",
+   "en": "/en/products/models/kofferanhanger/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:kosmetik",
+  "slug": "item--kosmetik",
+  "url": "/en/products/models/kosmetik/",
+  "template": "model",
+  "title": "Travel Toiletry Bags · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/kosmetik/",
+   "en": "/en/products/models/kosmetik/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:lesezeichen",
+  "slug": "item--lesezeichen",
+  "url": "/en/products/models/lesezeichen/",
+  "template": "model",
+  "title": "Bookmarks · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/lesezeichen/",
+   "en": "/en/products/models/lesezeichen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:rfid-cardholder",
+  "slug": "item--rfid-cardholder",
+  "url": "/en/products/models/rfid-cardholder/",
+  "template": "model",
+  "title": "RFID Card Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/rfid-cardholder/",
+   "en": "/en/products/models/rfid-cardholder/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:schlusselanhanger",
+  "slug": "item--schlusselanhanger",
+  "url": "/en/products/models/schlusselanhanger/",
+  "template": "model",
+  "title": "Leather Keyrings · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/schlusselanhanger/",
+   "en": "/en/products/models/schlusselanhanger/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:visitenkartenetuis",
+  "slug": "item--visitenkartenetuis",
+  "url": "/en/products/models/visitenkartenetuis/",
+  "template": "model",
+  "title": "Business Card Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/visitenkartenetuis/",
+   "en": "/en/products/models/visitenkartenetuis/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:amenity-boxen",
+  "slug": "item--amenity-boxen",
+  "url": "/en/products/models/amenity-boxen/",
+  "template": "model",
+  "title": "Amenity Boxes · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/amenity-boxen/",
+   "en": "/en/products/models/amenity-boxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:tissue-boxen",
+  "slug": "item--tissue-boxen",
+  "url": "/en/products/models/tissue-boxen/",
+  "template": "model",
+  "title": "Tissue Box Covers · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/tissue-boxen/",
+   "en": "/en/products/models/tissue-boxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:bankettblotter",
+  "slug": "item--bankettblotter",
+  "url": "/en/products/models/bankettblotter/",
+  "template": "model",
+  "title": "Banquet Desk Pads · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/bankettblotter/",
+   "en": "/en/products/models/bankettblotter/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:bankettcoaster",
+  "slug": "item--bankettcoaster",
+  "url": "/en/products/models/bankettcoaster/",
+  "template": "model",
+  "title": "Banquet Coasters · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/bankettcoaster/",
+   "en": "/en/products/models/bankettcoaster/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:airport-calling-signs",
+  "slug": "item--airport-calling-signs",
+  "url": "/en/products/models/airport-calling-signs/",
+  "template": "model",
+  "title": "Airport Welcome Signs · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/airport-calling-signs/",
+   "en": "/en/products/models/airport-calling-signs/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:check-in-mappen",
+  "slug": "item--check-in-mappen",
+  "url": "/en/products/models/check-in-mappen/",
+  "template": "model",
+  "title": "Check-in Folders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/check-in-mappen/",
+   "en": "/en/products/models/check-in-mappen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:empfangsblotter",
+  "slug": "item--empfangsblotter",
+  "url": "/en/products/models/empfangsblotter/",
+  "template": "model",
+  "title": "Reception Desk Pad · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/empfangsblotter/",
+   "en": "/en/products/models/empfangsblotter/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:laundry-boxen",
+  "slug": "item--laundry-boxen",
+  "url": "/en/products/models/laundry-boxen/",
+  "template": "model",
+  "title": "Laundry Boxes · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/laundry-boxen/",
+   "en": "/en/products/models/laundry-boxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:laundry-list-holder",
+  "slug": "item--laundry-list-holder",
+  "url": "/en/products/models/laundry-list-holder/",
+  "template": "model",
+  "title": "Laundry List Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/laundry-list-holder/",
+   "en": "/en/products/models/laundry-list-holder/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:shoe-boxen",
+  "slug": "item--shoe-boxen",
+  "url": "/en/products/models/shoe-boxen/",
+  "template": "model",
+  "title": "Shoe Boxes · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/shoe-boxen/",
+   "en": "/en/products/models/shoe-boxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:turanhanger",
+  "slug": "item--turanhanger",
+  "url": "/en/products/models/turanhanger/",
+  "template": "model",
+  "title": "Door Hangers · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/turanhanger/",
+   "en": "/en/products/models/turanhanger/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:condiment-boxen",
+  "slug": "item--condiment-boxen",
+  "url": "/en/products/models/condiment-boxen/",
+  "template": "model",
+  "title": "Condiment Boxes · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/condiment-boxen/",
+   "en": "/en/products/models/condiment-boxen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:notizblockhalter",
+  "slug": "item--notizblockhalter",
+  "url": "/en/products/models/notizblockhalter/",
+  "template": "model",
+  "title": "Notepad Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/notizblockhalter/",
+   "en": "/en/products/models/notizblockhalter/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:papierkorbe",
+  "slug": "item--papierkorbe",
+  "url": "/en/products/models/papierkorbe/",
+  "template": "model",
+  "title": "Waste Bins · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/papierkorbe/",
+   "en": "/en/products/models/papierkorbe/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:prospektstander",
+  "slug": "item--prospektstander",
+  "url": "/en/products/models/prospektstander/",
+  "template": "model",
+  "title": "Brochure Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/prospektstander/",
+   "en": "/en/products/models/prospektstander/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:schreibunterlagen",
+  "slug": "item--schreibunterlagen",
+  "url": "/en/products/models/schreibunterlagen/",
+  "template": "model",
+  "title": "Desk Pads · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/schreibunterlagen/",
+   "en": "/en/products/models/schreibunterlagen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:stiftekocher",
+  "slug": "item--stiftekocher",
+  "url": "/en/products/models/stiftekocher/",
+  "template": "model",
+  "title": "Pen Holders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/stiftekocher/",
+   "en": "/en/products/models/stiftekocher/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:trays",
+  "slug": "item--trays",
+  "url": "/en/products/models/trays/",
+  "template": "model",
+  "title": "Trays · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/trays/",
+   "en": "/en/products/models/trays/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:zimmermappen",
+  "slug": "item--zimmermappen",
+  "url": "/en/products/models/zimmermappen/",
+  "template": "model",
+  "title": "Guest Information Folders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/zimmermappen/",
+   "en": "/en/products/models/zimmermappen/"
+  }
+ },
+ {
+  "language": "en",
+  "key": "item:schreibmappen",
+  "slug": "item--schreibmappen",
+  "url": "/en/products/models/schreibmappen/",
+  "template": "model",
+  "title": "Writing folders · Bespoke specification",
+  "alternate": {
+   "de": "/produkte/modelle/schreibmappen/",
+   "en": "/en/products/models/schreibmappen/"
+  }
+ }
+]

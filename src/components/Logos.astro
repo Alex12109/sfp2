@@ -1,0 +1,17 @@
+---
+// Kundenlogos im Projektkontext: unverändert, jeweils mit Link zum belegten Projekt.
+import type { Section, Lang } from '../lib/types';
+interface Props { s: Section; lang: Lang; tone?: string }
+const { s, tone = 'tone-ivory' } = Astro.props;
+---
+<section class:list={['sec sec--tight logos', tone]}>
+  <div class="wrap">
+    <ul class="logos__list" role="list">
+      {(s.media ?? []).map((m, i) => (
+        <li data-reveal style={`--i:${i}`}>
+          {m.href ? <a href={m.href}><img src={m.src} alt={m.alt} loading="lazy" decoding="async" /></a> : <img src={m.src} alt={m.alt} loading="lazy" decoding="async" />}
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>

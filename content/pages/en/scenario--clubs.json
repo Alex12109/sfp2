@@ -1,0 +1,243 @@
+{
+ "language": "en",
+ "key": "scenario:clubs",
+ "slug": "scenario--clubs",
+ "url": "/en/solutions/clubs/",
+ "template": "scenario",
+ "title": "A club identity, expressed in the details.",
+ "description": "Bespoke accessories for the clubhouse, dining room and members’ gifts. Connected by your colours and emblem.",
+ "alternate": {
+  "de": "/loesungen/clubs/",
+  "en": "/en/solutions/clubs/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "A club identity, expressed in the details."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke accessories for the clubhouse, dining room and members’ gifts. Connected by your colours and emblem.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/gifts.webp",
+     "alt": "Cognac and green luggage tags with a matching keyring",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Golf%20clubs%20%26%20private%20members%E2%80%99%20clubs",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Clubhouse, dining and members’ gifts share an identity. Yet an everyday service accessory raises different questions from an anniversary present. A common palette, a considered emblem and coordinated hardware can connect them. The function of each object remains the starting point."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/placemats/",
+     "label": "Placemats",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/luggage-tags/",
+     "label": "Luggage tags",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "A consistent identity across the club"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "From reception to the dining table and members’ gifts, small objects contribute to a club’s identity. Menu covers, bill presenters, trays and leather accessories can share complementary materials and branding. Different functions can still call for different specifications."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gifts with a sense of belonging"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A single anniversary gift, a small tournament run or a larger members’ project: the occasion sets the scale. We develop luggage tags and keyrings into a bespoke specification around your colours and emblem. Hand manufacture in the EU connects a personal gift with the coordinated accessories throughout your club."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/travel-gifts/",
+     "title": "Travel &amp; gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags, keyrings and bespoke leather gifts. Personal companions for guests, clients and special occasions."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/dining/",
+     "title": "Menu covers &amp; dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Menu covers, bill presenters and coordinated tabletop accessories for restaurants, hotels and clubs. A shared identity from the menu to the bill."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Areas of use, club emblem, colour palette and requirements for interiors or events."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Golf%20clubs%20%26%20private%20members%E2%80%99%20clubs",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/briefing-a-bespoke-project/\">What makes a useful bespoke brief?From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.Read the article</a><a href=\"/en/journal/choosing-materials-for-hospitality/\">Material selection starts with the setting.Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.Read the article</a><a href=\"/en/journal/menu-covers-binding-and-format/\">Choosing menu covers for your service.Format, binding and page count determine how well a menu cover works in daily service.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

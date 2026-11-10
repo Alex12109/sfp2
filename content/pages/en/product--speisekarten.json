@@ -1,0 +1,1349 @@
+{
+ "language": "en",
+ "key": "product:speisekarten",
+ "slug": "product--speisekarten",
+ "url": "/en/products/menu-covers/",
+ "template": "family",
+ "title": "Menu covers",
+ "description": "Before the first dish reaches the table, your guest holds the menu. Material, weight and the way it opens give that moment a character of its own.",
+ "alternate": {
+  "de": "/produkte/speisekarten/",
+  "en": "/en/products/menu-covers/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/dining/",
+     "label": "Menu covers & dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Menu covers"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Before the first dish reaches the table, your guest holds the menu. Material, weight and the way it opens give that moment a character of its own.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=speisekarten",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Menu%20covers",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail of screw-post binding in an SFP menu cover",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/menu-detail-v3.webp",
+       "alt": "Design study of an open burgundy menu cover with screw-post binding",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#model-comparison",
+     "label": "Models",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The first impression is in the hand."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Format and binding follow your menu. Paper sizes include A4, A5 and custom formats, with A3 also listed for the passepartout model. Depending on the model, options include screw posts, elastic cord, clamps, pockets, passepartout frames or rings."
+    },
+    {
+     "type": "p",
+     "html": "Tell us your paper size, page count and how often menus change. The screw-post Berlin and London, elastic-cord Bonn and clamp-bound Rome provide different starting points. Review a sample with your actual paper. Materials, colours and branding can be coordinated across food, wine and bar menus."
+    },
+    {
+     "type": "p",
+     "html": "To enquire, start with your preferred model or binding, paper size, page count and quantity. We can work through any open questions together."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-menu-binding.webp",
+     "alt": "Exposed screw-post binding detail",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-menu-hidden.webp",
+     "alt": "Concealed screw-post binding in a menu cover",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Specify paper, page count and change frequency",
+        "Review the binding with your service team",
+        "Consider food, wine and bar menus as a family"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=speisekarten",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=speisekarten"
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "id": "model-comparison",
+   "data": {
+    "menu-finder": ""
+   },
+   "title": {
+    "level": "h2",
+    "html": "Explore menu covers"
+   },
+   "items": [
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-grand-dinner",
+      "binding": "pocket",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "pu fabric-wood",
+      "pages-min": "8",
+      "pages-max": "8"
+     },
+     "title": "<a href=\"/en/products/models/menu-grand-dinner/\">Grand Dinner Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Grand Dinner is a menu cover with pockets for eight pages. Size, window layout, covering, stitching, padding and branding are specified together for food, drinks or wine menus."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-grand-dinner.webp",
+       "alt": "Grand Dinner Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-grand-dinner/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-grand-dinner",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-grand-dinner/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-grande-bistro",
+      "binding": "mount",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "3",
+      "pages-max": "4"
+     },
+     "title": "<a href=\"/en/products/models/menu-grande-bistro/\">Grande Bistro Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Grande Bistro is a three-panel menu cover presenting three or four pages. Paper is held in vertical or horizontal pockets, or within full window mounts, and can be replaced when the menu changes. The outer material, a contrasting piqué interior, format, corners, padding and branding can be coordinated for menus, daily specials or desserts."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-grande-bistro.webp",
+       "alt": "Grande Bistro Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-grande-bistro/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-grande-bistro",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-grande-bistro/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-fine-dining",
+      "binding": "pocket",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "2"
+     },
+     "title": "<a href=\"/en/products/models/menu-fine-dining/\">Fine Dining Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Fine Dining presents two pages in a restrained menu cover made from leather or another selected covering material. The paper sits in pockets and can be removed easily when content changes; both the shape and construction of the pockets can be adapted. A4 and A5 variants, custom sizes, decorative stitching, corners, padding and branding configure the model for menus or daily specials."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-fine-dining.webp",
+       "alt": "Fine Dining Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-fine-dining/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-fine-dining",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-fine-dining/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-rome",
+      "binding": "clamp",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "6",
+      "pages-max": "35"
+     },
+     "title": "<a href=\"/en/products/models/menu-rome/\">Rome Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rome secures changing menu sheets with metal clips or a plastic spine. The page count can vary without requiring a new cover, while exposed or concealed rivets distinguish the metal version. Standard and custom sizes, leather, piqué or book cloth, plus stitching, pockets, padding and branding, suit a range of restaurant concepts."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-rome.webp",
+       "alt": "Rome Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-rome/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-rome",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-rome/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-bonn",
+      "binding": "elastic",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "6"
+     },
+     "title": "<a href=\"/en/products/models/menu-bonn/\">Bonn Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bonn uses a cord binding for folded menu sheets, making it suitable for content that changes regularly. The cord colour and material can be selected, and the binding may remain visible or be recessed into the spine. A4 and A5 formats, custom dimensions, pockets, padding, stitching and branding complete the specification."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-bonn.webp",
+       "alt": "Bonn Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-bonn/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-bonn",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-bonn/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-london",
+      "binding": "screw",
+      "formats": "a4 a4-square a4-narrow a5 custom a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "6",
+      "pages-max": "50"
+     },
+     "title": "<a href=\"/en/products/models/menu-london/\">London Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "London is a screw-bound menu cover with separate boards or a continuous wraparound cover. Longer or shorter screws adjust the capacity when the page count changes, and both screw colour and spacing can be selected. Book cloth, PU or genuine leather, pockets, stitching, padding, corners and branding define the individual construction."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-london.webp",
+       "alt": "London Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-london/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-london",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-london/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-hamburg",
+      "binding": "mount",
+      "formats": "a4 a4-square a4-narrow a5 custom a5-square",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "20"
+     },
+     "title": "<a href=\"/en/products/models/menu-hamburg/\">Hamburg Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Hamburg uses laminated window mounts to protect changing content while keeping it quick to replace. The number, shape and board colour of the mounts are coordinated with the paper, covering and capacity, with room for up to twenty pages. A4 and A5 sizes, custom dimensions, leather or book cloth, stitching, pockets, padding and branding complete the cover."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-hamburg.webp",
+       "alt": "Hamburg Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-hamburg/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-hamburg",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-hamburg/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-vintage",
+      "binding": "",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "fabric-wood",
+      "pages-min": "",
+      "pages-max": ""
+     },
+     "title": "<a href=\"/en/products/models/menu-vintage/\">Vintage Wooden Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Vintage is a wooden menu cover with a ring mechanism for a flexible number of sheets. Ring count and diameter follow the content, and the mechanism can be colour finished. Oak, birch or pine provide the material options and may be stained or lacquered. A4, A5 and custom sizes, together with branding, individualise the model."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-vintage.webp",
+       "alt": "Vintage Wooden Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-vintage/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-vintage",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-vintage/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-clipboard",
+      "binding": "clamp",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape a3",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "1",
+      "pages-max": "20"
+     },
+     "title": "<a href=\"/en/products/models/menu-clipboard/\">Clipboard Menu Board</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Clipboard secures single or changing sheets with a lever clip, crocodile clip or magnetic strip. Pages can be replaced quickly without a binding, and the clip type and colour can be selected. The board may be finished in wood, leather or book cloth. A3 to A5 formats, custom sizes, stitching and branding adapt it to the setting."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-clipboard.webp",
+       "alt": "Clipboard Menu Board — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-clipboard/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-clipboard",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-clipboard/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-berlin",
+      "binding": "screw",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape",
+      "materials": "leather pu",
+      "pages-min": "15",
+      "pages-max": "50"
+     },
+     "title": "<a href=\"/en/products/models/menu-berlin/\">Berlin Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Berlin is a leather menu cover with screw binding and either an exposed or concealed screw strip. Screw length can be adjusted to the page count, with capacity for up to fifty pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners, padding and blind debossing or foil stamping define the project specification."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-berlin.webp",
+       "alt": "Berlin Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-berlin/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-berlin",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-berlin/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-nizza",
+      "binding": "",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "",
+      "pages-max": ""
+     },
+     "title": "<a href=\"/en/products/models/menu-nizza/\">Nizza Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nizza combines a substantial main section with a separately changeable page for recommendations. Content is held on the right in a ring mechanism or as a folded section, while pockets on the left present daily specials. Capacity for up to one hundred pages, standard or custom sizes, variable pockets, padding, stitching, corners and branding make the cover highly flexible."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-nizza.webp",
+       "alt": "Nizza Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-nizza/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-nizza",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-nizza/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-passepartout",
+      "binding": "mount pocket corners",
+      "formats": "a4 a4-square a4-narrow a5 custom a3",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "1",
+      "pages-max": "2"
+     },
+     "title": "<a href=\"/en/products/models/menu-passepartout/\">Passepartout Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Passepartout frames one or two pages for daily specials, menus or desserts. Full window mounts or pockets can be fitted to one or both sides and discreetly branded, while the content remains easy to change. A3, A4 and A5 formats, custom dimensions, varied covering materials, stitching, corners and padding allow close coordination with the paper and table setting."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-passepartout.webp",
+       "alt": "Passepartout Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-passepartout/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-passepartout",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-passepartout/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-ringbinder",
+      "binding": "ring",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "10",
+      "pages-max": "35"
+     },
+     "title": "<a href=\"/en/products/models/menu-ringbinder/\">Ringbinder Menu Cover</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ringbinder is intended for substantial wine, bar or food menus with frequently changing pages. Ring size, number and mechanism are matched to the content and capacity, accommodating ten to thirty-five pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners and a choice of leather, piqué or book cloth tailor the cover to the operation."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-ringbinder.webp",
+       "alt": "Ringbinder Menu Cover — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/menu-ringbinder/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=menu-ringbinder",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/menu-ringbinder/"
+    }
+   ],
+   "filter": {
+    "label": "Filter menu covers",
+    "fields": [
+     {
+      "name": "binding",
+      "label": "Binding",
+      "options": [
+       {
+        "value": "",
+        "label": "All"
+       },
+       {
+        "value": "screw",
+        "label": "Screw posts"
+       },
+       {
+        "value": "elastic",
+        "label": "Elastic cord / cord"
+       },
+       {
+        "value": "clamp",
+        "label": "Clamps"
+       },
+       {
+        "value": "pocket",
+        "label": "Pockets"
+       },
+       {
+        "value": "mount",
+        "label": "Window mounts"
+       },
+       {
+        "value": "corners",
+        "label": "Corner holders"
+       },
+       {
+        "value": "ring",
+        "label": "Ring mechanism"
+       }
+      ]
+     },
+     {
+      "name": "pages",
+      "label": "Page count",
+      "options": [
+       {
+        "value": "",
+        "label": "All"
+       },
+       {
+        "value": "1",
+        "label": "1"
+       },
+       {
+        "value": "2",
+        "label": "2"
+       },
+       {
+        "value": "3",
+        "label": "3"
+       },
+       {
+        "value": "4",
+        "label": "4"
+       },
+       {
+        "value": "5",
+        "label": "5"
+       },
+       {
+        "value": "6",
+        "label": "6"
+       },
+       {
+        "value": "7",
+        "label": "7"
+       },
+       {
+        "value": "8",
+        "label": "8"
+       },
+       {
+        "value": "9",
+        "label": "9"
+       },
+       {
+        "value": "10",
+        "label": "10"
+       },
+       {
+        "value": "11",
+        "label": "11"
+       },
+       {
+        "value": "12",
+        "label": "12"
+       },
+       {
+        "value": "13",
+        "label": "13"
+       },
+       {
+        "value": "14",
+        "label": "14"
+       },
+       {
+        "value": "15",
+        "label": "15"
+       },
+       {
+        "value": "16",
+        "label": "16"
+       },
+       {
+        "value": "17",
+        "label": "17"
+       },
+       {
+        "value": "18",
+        "label": "18"
+       },
+       {
+        "value": "19",
+        "label": "19"
+       },
+       {
+        "value": "20",
+        "label": "20"
+       },
+       {
+        "value": "21",
+        "label": "21"
+       },
+       {
+        "value": "22",
+        "label": "22"
+       },
+       {
+        "value": "23",
+        "label": "23"
+       },
+       {
+        "value": "24",
+        "label": "24"
+       },
+       {
+        "value": "25",
+        "label": "25"
+       },
+       {
+        "value": "26",
+        "label": "26"
+       },
+       {
+        "value": "27",
+        "label": "27"
+       },
+       {
+        "value": "28",
+        "label": "28"
+       },
+       {
+        "value": "29",
+        "label": "29"
+       },
+       {
+        "value": "30",
+        "label": "30"
+       },
+       {
+        "value": "31",
+        "label": "31"
+       },
+       {
+        "value": "32",
+        "label": "32"
+       },
+       {
+        "value": "33",
+        "label": "33"
+       },
+       {
+        "value": "34",
+        "label": "34"
+       },
+       {
+        "value": "35",
+        "label": "35"
+       },
+       {
+        "value": "36",
+        "label": "36"
+       },
+       {
+        "value": "37",
+        "label": "37"
+       },
+       {
+        "value": "38",
+        "label": "38"
+       },
+       {
+        "value": "39",
+        "label": "39"
+       },
+       {
+        "value": "40",
+        "label": "40"
+       },
+       {
+        "value": "41",
+        "label": "41"
+       },
+       {
+        "value": "42",
+        "label": "42"
+       },
+       {
+        "value": "43",
+        "label": "43"
+       },
+       {
+        "value": "44",
+        "label": "44"
+       },
+       {
+        "value": "45",
+        "label": "45"
+       },
+       {
+        "value": "46",
+        "label": "46"
+       },
+       {
+        "value": "47",
+        "label": "47"
+       },
+       {
+        "value": "48",
+        "label": "48"
+       },
+       {
+        "value": "49",
+        "label": "49"
+       },
+       {
+        "value": "50",
+        "label": "50"
+       }
+      ]
+     },
+     {
+      "name": "formats",
+      "label": "Format",
+      "options": [
+       {
+        "value": "",
+        "label": "All"
+       },
+       {
+        "value": "a3",
+        "label": "A3"
+       },
+       {
+        "value": "a4",
+        "label": "A4"
+       },
+       {
+        "value": "a4-landscape",
+        "label": "A4 landscape"
+       },
+       {
+        "value": "a4-square",
+        "label": "A4 square"
+       },
+       {
+        "value": "a4-narrow",
+        "label": "A4 narrow"
+       },
+       {
+        "value": "a5",
+        "label": "A5"
+       },
+       {
+        "value": "a5-landscape",
+        "label": "A5 landscape"
+       },
+       {
+        "value": "a5-square",
+        "label": "A5 square"
+       },
+       {
+        "value": "custom",
+        "label": "Custom format"
+       }
+      ]
+     },
+     {
+      "name": "materials",
+      "label": "Material",
+      "options": [
+       {
+        "value": "",
+        "label": "All"
+       },
+       {
+        "value": "leather",
+        "label": "Genuine leather"
+       },
+       {
+        "value": "pu",
+        "label": "PU leather"
+       },
+       {
+        "value": "fabric-wood",
+        "label": "Fabric / wood"
+       }
+      ]
+     }
+    ],
+    "reset": "Reset filters"
+   }
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Binding shaped by content",
+     "body": [
+      {
+       "type": "p",
+       "html": "A seasonal menu and an extensive wine list need different solutions. Compare the mechanisms and models below."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Material &amp; tactility",
+     "body": [
+      {
+       "type": "p",
+       "html": "Fine genuine Italian leather, high-quality PU in an extensive choice of colours and finishes and, depending on the model, book cloth or piqué give your menu its own feel. Compare the coverings available for your chosen model through samples."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Considered inside too",
+     "body": [
+      {
+       "type": "p",
+       "html": "Branding, corners, pockets, padding and screw colour are discussed for the selected model. The paper also contributes to the complete impression."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Berlin model with exposed or concealed screw-post binding",
+      "Genuine leather, PU, book cloth or piqué depending on the model",
+      "Standard formats and bespoke specifications",
+      "Branding, corners and internal details agreed for the project"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Paper size",
+     "v": "A4 / A5 / custom dimensions; A3 also listed for display mounts"
+    },
+    {
+     "k": "Bindings",
+     "v": "Screw-post, elastic cord, clamp, pocket, window-mount or ring binding, depending on the model"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Leather menu cover with the VOX logo on a set table",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/grand-hyatt-vox/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/dining/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/placemats/",
+     "title": "Placemats",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered foundation for your table setting. Shape, proportions and finish are selected around the table, tableware and service routine."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats in restaurant service",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/bill-presenters/",
+     "title": "Bill presenters &amp; bill boxes",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered final touch to service. Bill presentation can echo the materials and colours of your menu covers and tabletop accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Closed branded bill folder — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/coasters/",
+     "title": "Coasters",
+     "body": [
+      {
+       "type": "p",
+       "html": "A small but visible part of the table setting. Dimensions and finish are considered alongside glassware, placemats and your material scheme."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Round and square coasters in different materials — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

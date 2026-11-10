@@ -1,0 +1,266 @@
+{
+ "language": "en",
+ "key": "scenario:restaurants",
+ "slug": "scenario--restaurants",
+ "url": "/en/solutions/restaurants/",
+ "template": "scenario",
+ "title": "Hospitality you can hold.",
+ "description": "Menu covers, bill presenters and tabletop accessories that carry your restaurant’s identity from the first welcome to the final detail.",
+ "alternate": {
+  "de": "/loesungen/restaurants/",
+  "en": "/en/solutions/restaurants/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Hospitality you can hold."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Menu covers, bill presenters and tabletop accessories that carry your restaurant’s identity from the first welcome to the final detail.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Restaurants%20%26%20bars",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Walk through a visit from the guest’s perspective. Which menu arrives first? What stays on the table? How is the bill presented? That sequence gives the collection its structure. Design then follows your lighting, tableware and service, with shared materials and different formats for different roles."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/placemats/",
+     "label": "Placemats",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "From the menu to the bill"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The menu is opened and passed around; the bill accompanies the final moment. We develop these touchpoints with placemats and coasters as a coordinated collection. Fine genuine Italian leather and high-quality PU offer different routes to your restaurant’s identity, with a broad palette of colours and finishes and the selected model’s material options as the starting point."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Let service shape the format"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A concise tasting menu needs a different presentation from an extensive wine list. We consider page count, how often content changes and how your team handles the covers. The Berlin model, for example, can use exposed or concealed screw-post binding. Materials, dimensions and internal details are selected around your actual content."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Considered for everyday service"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Review samples at your tables and under your bar lighting, not just in a studio. Readability, weight and feel all matter. Care and cleaning should be agreed for the chosen surface and your operating routine. An additional bar menu or a second restaurant can be considered in the initial brief."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/dining/",
+     "title": "Menu covers &amp; dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Menu covers, bill presenters and coordinated tabletop accessories for restaurants, hotels and clubs. A shared identity from the menu to the bill."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Menu and wine-list page counts, preferred formats, material preferences and your logo."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Restaurants%20%26%20bars",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From our work."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "title": "Grand Hyatt Berlin · VOX",
+     "body": [
+      {
+       "type": "p",
+       "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Leather menu cover with the VOX logo on a set table",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/menu-covers-binding-and-format/\">Choosing menu covers for your service.Format, binding and page count determine how well a menu cover works in daily service.Read the article</a><a href=\"/en/journal/planning-restaurant-accessories/\">A restaurant refresh starts with service.Plan menu covers, bill presenters and tabletop accessories together, from the content to a practical service review.Read the article</a><a href=\"/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/\">Bespoke menus and bill presenters for a distinctive restaurant identityFrom content and binding to presenting the bill: make menu covers and bill presenters part of a coherent service culture.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "language": "de",
+ "key": "case:east-group",
+ "slug": "case--east-group",
+ "url": "/projekte/east-group/",
+ "template": "project",
+ "title": "east GROUP, Hamburg · Eine Partnerschaft über einzelne Bestellungen hinaus.",
+ "description": "Unterschiedliche Lederartikel für eine vielseitige Hospitality-Welt. Die Zusammenarbeit mit der east GROUP begann 2012; persönliche Beratung und Qualität prägen die Kundenrückmeldung.",
+ "alternate": {
+  "de": "/projekte/east-group/",
+  "en": "/en/projects/east-group/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Eine Partnerschaft über einzelne Bestellungen hinaus."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Unterschiedliche Lederartikel für eine vielseitige Hospitality-Welt. Die Zusammenarbeit mit der east GROUP begann 2012; persönliche Beratung und Qualität prägen die Kundenrückmeldung.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "east GROUP, Hamburg"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hospitality · Langjährige Zusammenarbeit"
+    },
+    {
+     "k": "Umfang",
+     "v": "Unterschiedliche Lederartikel · Persönliche Beratung"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die heutige east cosmos Gruppe vereint Hotels und gastronomische Konzepte in Hamburg, Berlin, Wismar und auf Mallorca. Aus dem east Hotel &amp; Restaurant entwickelte sich eine vielseitige Hospitality-Welt mit unterschiedlichen Häusern, Restaurants, Bars und Veranstaltungsbereichen. Bereits das east Hotel in Hamburg verbindet Hotel, Restaurant, Lounges und Bar in einer ehemaligen Eisengießerei. Für SFP begann die Zusammenarbeit mit der east GROUP 2012. Die bestehende Kundenrückmeldung nennt SFP einen festen Partner für unterschiedliche Lederartikel. Sascha Thiemann, dort als Director Purchasing &amp; Logistics ausgewiesen, betont die eingehende Beratung und die Qualitätsanforderungen des Luxussegments."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkte und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die besondere Anforderung entsteht aus der Vielfalt der Einsatzorte. Jedes Produkt muss zunächst zu seiner Nutzung passen; anschließend braucht es eine gestalterische Beziehung zum jeweiligen Haus oder Konzept. Eine Gruppenidentität bedeutet dabei nicht zwangsläufig eine einzige Farbe oder Form. Materialien, Proportionen und Branding können bewusst variieren, solange die jeweilige Ausführung präzise mit Einkauf, Betrieb und Gestaltung abgestimmt ist."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Beratung und Projektkontinuität"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bei einer fortlaufenden Zusammenarbeit wird Beratung zum verbindenden Element zwischen unterschiedlichen Anfragen. Ein neues Briefing kann auf früheren Erfahrungen aufbauen: Welche Oberflächen wurden bereits eingesetzt, welche Details gehören zu welchem Betrieb und wo beginnt bewusst ein neues Konzept? SFP kann vorhandene Muster und Freigaben als Referenz heranziehen, muss Materialverfügbarkeit und konkrete Anforderungen aber für jedes Projekt neu prüfen. Die Kundenrückmeldung hebt gerade die persönliche, eingehende Beratung hervor. Diese persönliche Abstimmung wurde zu einem festen Teil der Beziehung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für die east GROUP liegt der Wert in einem bekannten Partner für unterschiedliche Lederartikel und in einer Beratung, die Anforderungen des gehobenen Hospitality-Umfelds versteht. Über einzelne Bestellungen hinaus entsteht ein Projektgedächtnis: Neue Aufgaben können im Verhältnis zu vorhandenen Produkten, Markenwelten und betrieblichen Erfahrungen besprochen werden. Das erleichtert klare Entscheidungen, weil jede Ausführung auf ihren Einsatz abgestimmt wird."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

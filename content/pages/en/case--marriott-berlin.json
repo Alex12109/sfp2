@@ -1,0 +1,149 @@
+{
+ "language": "en",
+ "key": "case:marriott-berlin",
+ "slug": "case--marriott-berlin",
+ "url": "/en/projects/marriott-berlin/",
+ "template": "project",
+ "title": "Marriott Hotel Berlin · From the guest room to the menu.",
+ "description": "Guest-room accessories and menu covers for Marriott Hotel Berlin. A relationship spanning accommodation and dining, including repeat orders.",
+ "alternate": {
+  "de": "/projekte/marriott-berlin/",
+  "en": "/en/projects/marriott-berlin/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "From the guest room to the menu."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Guest-room accessories and menu covers for Marriott Hotel Berlin. A relationship spanning accommodation and dining, including repeat orders.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "Marriott Hotel Berlin"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Guest rooms &amp; F&amp;B"
+    },
+    {
+     "k": "Scope",
+     "v": "Guest-room accessories · Menu covers · Repeat orders"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Berlin Marriott Hotel is located at Potsdamer Platz and combines accommodation with several food and beverage settings. Its dining offer includes Midtown Grill, The Big Dog and a lobby lounge. SFP’s relationship with the property accordingly spans two quite different operational areas: guest rooms and food and beverage. Room accessories form part of the everyday stay and need to sit comfortably within both the interior and housekeeping routines. Menu covers, by contrast, are handled repeatedly during service and have to present changing content."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Products and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The two product groups place different demands on material and construction. A guest-room item is planned around a particular location, content and working routine; a menu cover responds to paper size, page count, frequency of update and the way it is held during service. Yet guests encounter both beneath the same hotel identity. The distinctive task is therefore to resolve each function on its own terms while maintaining a material and visual language suited to the property."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Coordination and continuity"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "For comparable work spanning several areas, development begins by recording what each item must hold and how it will be used. Available surfaces, original contents and routines for cleaning or replenishment inform room pieces. Paper samples, page count and the intended binding define a menu cover. Shared characteristics such as surface, colour, edge treatment and branding can then be established. Existing specifications provide a useful starting point, while current contents, equipment, paper and material availability guide each new order."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The relationship allows SFP to support two areas that guests experience differently but understand as part of the same hotel. Room accessories organise and present the personal space; menu covers give the dining offer a tactile frame. Repeat orders show that the project extended beyond a single delivery. The value for the client lies both in the objects themselves and in having an established basis for later requirements. Previous specifications, known contacts and earlier decisions make renewed coordination more straightforward, without assuming that an identical reproduction will always be possible."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

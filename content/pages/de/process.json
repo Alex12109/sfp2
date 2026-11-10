@@ -1,0 +1,245 @@
+{
+ "language": "de",
+ "key": "process",
+ "slug": "process",
+ "url": "/prozess/",
+ "template": "page",
+ "title": "Unser Prozess",
+ "description": "Von Anfrage und Gestaltung über Freigabe und Fertigung bis zur Lieferung: der SFP-Projektprozess.",
+ "alternate": {
+  "de": "/prozess/",
+  "en": "/en/process/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Von Ihrer Idee. Bis zum fertigen Produkt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Fünf klare Schritte. Persönlich begleitet.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/tray-scene.webp",
+     "alt": "Material- und Gestaltungsstudie: Ledertrays in Olive und Taupe auf Holz",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "process-timeline",
+   "shade": true,
+   "data": {
+    "process-timeline": ""
+   },
+   "items": [
+    {
+     "role": "process-row",
+     "title": "Anfrage &amp; Angebot",
+     "body": [
+      {
+       "type": "p",
+       "html": "01",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Wir sprechen über Einsatz, Produktidee, Menge und Wunschlieferung. Daraus entsteht ein abgestimmter Rahmen für Material, Ausführung und Angebot."
+      },
+      {
+       "type": "p",
+       "html": "Ein klarer Projektrahmen.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-1.webp",
+       "alt": "Beratungsszene: Zwei Personen vergleichen Lederproben und besprechen einen Projektentwurf",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Gestaltung &amp; Muster",
+     "body": [
+      {
+       "type": "p",
+       "html": "02",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Form, Material, Farbe und Branding werden konkret. Technische Layouts und projektbezogene Muster helfen, Haptik und Proportionen vor der Fertigung zu beurteilen."
+      },
+      {
+       "type": "p",
+       "html": "Eine Gestaltung, die Sie prüfen können.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-2.webp",
+       "alt": "Musterentwicklung: Ledertray neben Entwurfszeichnung und Materialproben",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Auftrag &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "03",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Wir halten die vereinbarte Ausführung fest. Freigaben, Konditionen und die weitere Planung werden abgestimmt, bevor die Produktion beginnt."
+      },
+      {
+       "type": "p",
+       "html": "Eine verbindliche Grundlage.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-3.webp",
+       "alt": "Freigabe einer Ausführung anhand von Tray-Muster, Material und technischer Zeichnung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Fertigung &amp; Prüfung",
+     "body": [
+      {
+       "type": "p",
+       "html": "04",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Ihre Artikel werden in der EU von Hand gefertigt. Dabei bildet die gemeinsam freigegebene Ausführung die Grundlage für die Fertigung und den Abgleich der Details."
+      },
+      {
+       "type": "p",
+       "html": "Sorgfalt bis ins Detail.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-4.webp",
+       "alt": "Fertigung und Qualitätsprüfung: Ledernaht und Kontrolle der Materialstärke mit Messschieber",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Lieferung &amp; Ergänzung",
+     "body": [
+      {
+       "type": "p",
+       "html": "05",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Wir koordinieren die Lieferung und besprechen weiteren Bedarf. Bei Ergänzungen stimmen wir Ausführung und aktuelle Materialverfügbarkeit erneut mit Ihnen ab."
+      },
+      {
+       "type": "p",
+       "html": "Bereit für den Einsatz.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-5.webp",
+       "alt": "Lederaccessoires werden in Seidenpapier verpackt und für den Versand vorbereitet",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Bereit für den ersten Schritt?"
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

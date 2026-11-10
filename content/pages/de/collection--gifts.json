@@ -1,0 +1,186 @@
+{
+ "language": "de",
+ "key": "collection:gifts",
+ "slug": "collection--gifts",
+ "url": "/kollektionen/travel-gifts/",
+ "template": "collection",
+ "title": "Travel & Gifts",
+ "description": "Kofferanhänger, Schlüsselanhänger und individuelle Lederpräsente. Persönliche Begleiter für Gäste, Kunden und besondere Anlässe.",
+ "alternate": {
+  "de": "/kollektionen/travel-gifts/",
+  "en": "/en/collections/travel-gifts/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Gemacht, um mitzugehen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Kofferanhänger, Schlüsselanhänger und individuelle Lederpräsente. Persönliche Begleiter für Gäste, Kunden und besondere Anlässe.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-travel.webp",
+     "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Travel%20%26%20Gifts",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine gemeinsame Materialwelt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein gutes Geschenk passt zum Absender und zum Leben des Empfängers. Bei Koffer- und Schlüsselanhängern machen Form, Materialfarbe, Prägung und Verpackung den Unterschied. Wir entwickeln das persönliche Einzelstück, sehr kleine Serien und größere Geschenkprojekte mit derselben Sorgfalt – vollständig nach Ihren Wünschen und in der EU von Hand gefertigt."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Entdecken Sie die Details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/kofferanhaenger/",
+     "title": "Kofferanhänger",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein nützlicher Reisebegleiter mit Ihrer Markenidentität. Mit geschütztem Visitenkartenfenster und einer auf Material und Farbe abgestimmten Personalisierung."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Kofferanhänger mit geprägtem Logo und Schnalle – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/schluesselanhaenger/",
+     "title": "Schlüsselanhänger",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kompaktes Präsent für tägliche Wege. Material und Veredelung lassen sich mit Kofferanhängern oder anderen Präsenten zu einer gemeinsamen Linie verbinden."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leder-Schlüsselanhänger in einer Geschenkbox – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jeder Artikel im Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Modelle, Materialauswahl und Ausstattungsoptionen finden Sie in unserer vollständigen Produktübersicht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel ansehen",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

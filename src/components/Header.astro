@@ -1,0 +1,74 @@
+---
+import { navigation, thumb } from '../lib/content';
+import type { Lang } from '../lib/types';
+import { t } from '../i18n/ui';
+import Arrow from './Arrow.astro';
+interface Props { lang: Lang; url: string; alternate: Partial<Record<Lang, string>> }
+const { lang, url, alternate } = Astro.props;
+const nav = navigation[lang];
+const ui = t(lang);
+const other: Lang = lang === 'de' ? 'en' : 'de';
+const isActive = (href: string) => href === url || (href !== nav.home && href.length > 4 && url.startsWith(href));
+---
+<header class="site-header tone-ivory" data-header>
+  <div class="site-header__bar wrap">
+    <a class="site-header__logo" href={nav.home} aria-label={`SFP – ${ui.home}`}>
+      <img src="/brand/logos/SFP_08_wortmarke_charcoal.svg" alt="SFP" width="220" height="123" />
+    </a>
+
+    <nav class="nav" id="site-nav" aria-label={ui.mainNav} data-nav>
+      <ul class="nav__list">
+        {nav.groups.map((g, i) => {
+          const current = g.links.some((l) => isActive(l.href));
+          return (
+            <li class="nav__group">
+              <button type="button" class="nav__trigger" aria-expanded="false" aria-controls={`nav-panel-${i}`} data-nav-trigger data-current={current ? 'true' : undefined}>
+                <span>{g.label}</span>
+                <svg class="nav__chevron" viewBox="0 0 12 12" aria-hidden="true" focusable="false"><path d="M2 4.5 6 8.5l4-4" fill="none" stroke="currentColor" stroke-width="1.3"/></svg>
+              </button>
+              <div class="nav__panel" id={`nav-panel-${i}`} hidden data-nav-panel>
+                <div class="nav__panel-inner wrap">
+                  <div class="nav__intro">
+                    <span class="label">{g.label}</span>
+                    <p class="nav__title">{g.title}</p>
+                    <p class="nav__tagline">{g.tagline}</p>
+                  </div>
+                  <ul class="nav__links" style={`--rows:${Math.ceil(g.links.length / 2)}`}>
+                    {g.links.map((l, n) => (
+                      <li><a href={l.href} aria-current={l.href === url ? 'page' : undefined}><span class="nav__no" aria-hidden="true">{String(n + 1).padStart(2, '0')}</span>{l.label}</a></li>
+                    ))}
+                  </ul>
+                  {g.image && (
+                    <div class="nav__image frame"><div class="media ar-4x3"><img src={thumb(g.image.src)} alt={g.image.alt} width="640" height="427" loading="lazy" decoding="async" /></div></div>
+                  )}
+                </div>
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+      <div class="nav__mobile-tools">
+        <a class="btn" href={nav.cta.href}>{nav.cta.label}<Arrow /></a>
+      </div>
+    </nav>
+
+    <div class="site-header__tools">
+      <div class="lang" role="group" aria-label={ui.language}>
+        <a href={alternate.de ?? '/'} hreflang="de" lang="de" aria-current={lang === 'de' ? 'true' : undefined} data-lang-link>DE</a>
+        <span aria-hidden="true">/</span>
+        <a href={alternate.en ?? '/en/'} hreflang="en" lang="en" aria-current={lang === 'en' ? 'true' : undefined} data-lang-link>EN</a>
+      </div>
+      <a class="tray" href={ui.plannerUrl} data-enquiry-tray hidden>
+        <span>{ui.selection}</span>
+        <span class="tray__count" data-enquiry-count>0</span>
+        <span class="sr-only">{ui.selectionAria}</span>
+      </a>
+      <a class="btn btn--small site-header__cta" href={nav.cta.href}>{nav.cta.label}<Arrow /></a>
+      <button type="button" class="burger" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+        <span class="burger__label" data-open-label={nav.menuLabel} data-close-label={ui.close}>{nav.menuLabel}</span>
+        <span class="burger__icon" aria-hidden="true"><i></i><i></i></span>
+      </button>
+    </div>
+  </div>
+  <div class="site-header__rule" aria-hidden="true"></div>
+</header>

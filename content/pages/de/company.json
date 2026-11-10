@@ -1,0 +1,267 @@
+{
+ "language": "de",
+ "key": "company",
+ "slug": "company",
+ "url": "/unternehmen/",
+ "template": "page",
+ "title": "Über SFP Hospitality",
+ "description": "Wir entwickeln Lederartikel und Accessoires vollständig nach Ihren Wünschen. Persönliche Beratung aus Berlin verbindet Ihr Projekt mit Handfertigung in der EU.",
+ "alternate": {
+  "de": "/unternehmen/",
+  "en": "/en/company/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Individuelle Lederartikel. Persönlich aus Berlin."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wir entwickeln Lederartikel und Accessoires vollständig nach Ihren Wünschen. Persönliche Beratung aus Berlin verbindet Ihr Projekt mit Handfertigung in der EU.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/atelier.webp",
+     "alt": "Materialstudie mit Händen, Ledermustern und Werkzeugen auf einer Arbeitsfläche",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "company-story",
+   "id": "unser-ansatz",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Unser Maßstab?<br> Dass es <em>zu Ihnen passt.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Hotelzimmer erzählt eine andere Geschichte als ein Empfang, eine Yacht oder ein Geschenk. Wir beginnen deshalb bei dem, was Sie ausmacht. Aus Funktion, Material und Gestaltung entwickeln wir Produkte, die Ihre Handschrift selbstverständlich weitertragen.",
+     "role": "company-story-intro"
+    },
+    {
+     "type": "p",
+     "html": "SFP Hospitality ist Ihr persönlicher Ansprechpartner für individuelle Lederartikel und Accessoires. Von Berlin aus begleiten wir Gestaltung, Bemusterung und die Handfertigung in der EU."
+    },
+    {
+     "type": "p",
+     "html": "Feines italienisches Echtleder und hochwertiges PU in vielen Farben und Oberflächen bilden wichtige Ausgangspunkte; weitere Materialien wählen wir passend zum Produkt."
+    },
+    {
+     "type": "p",
+     "html": "Wie liegt eine Menükarte in der Hand? Was muss ein Tray aufnehmen? Wie fügt sich ein Papierkorb in eine Suite ein? Solche Fragen geben unserer Arbeit Richtung. Wir übersetzen Ihre Anforderungen in Maße, Materialien und Details – und stimmen die Ausführung so lange mit Ihnen ab, bis sie eine klare Grundlage für die Fertigung bildet."
+    },
+    {
+     "type": "p",
+     "html": "Eine Einzelanfertigung erhält bei uns dieselbe persönliche Aufmerksamkeit wie eine abgestimmte Zimmerkollektion. Sehr kleine Serien sind willkommen, und unsere Kapazität reicht auch für große Projekte."
+    },
+    {
+     "type": "p",
+     "html": "Ob bestehendes Design, individuelle Anpassung, vollständige Neuentwicklung oder koordinierte Kollektion: Ihre Wünsche bestimmen die Ausführung."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-menu-binding.webp",
+     "alt": "Detail einer sichtbaren Schraubbindung",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "role": "company-story-detail"
+    },
+    {
+     "src": "/assets/v10-coordinated-collection.webp",
+     "alt": "Gestaltungsstudie einer abgestimmten Kollektion aus Tray, Tissue-Box, Schreibunterlage, Notizblockhalter und Papierkorb",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "role": "company-story-collection"
+    }
+   ]
+  },
+  {
+   "kind": "company-material",
+   "title": {
+    "level": "h2",
+    "html": "Material und Ausführung<br> <em>gemeinsam abstimmen.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Materialmuster und Layouts helfen, Farbe, Haptik, Innenausstattung und Logoposition festzulegen. Umfang und Konditionen der Bemusterung vereinbaren wir für Ihr Projekt."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/finish-study.webp",
+     "alt": "Materialstudie mit Ledernarbungen in Bordeaux, Grün, Taupe, Cognac und Dunkelblau",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So arbeiten wir zusammen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "team-section",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ihre Ansprechpartner."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Anna",
+     "body": [
+      {
+       "type": "p",
+       "html": "A",
+       "role": "team-initial"
+      },
+      {
+       "type": "p",
+       "html": "Geschäftsführung &amp; Projektkoordination",
+       "role": "content-context"
+      },
+      {
+       "type": "p",
+       "html": "Abstimmung von Ausführung, Kalkulation, Produktion und Lieferung."
+      }
+     ],
+     "actions": [
+      {
+       "href": "mailto:anna@sfp-berlin.com",
+       "label": "anna@sfp-berlin.com",
+       "style": "text"
+      }
+     ],
+     "href": "mailto:anna@sfp-berlin.com"
+    },
+    {
+     "role": null,
+     "title": "Alexander",
+     "body": [
+      {
+       "type": "p",
+       "html": "A",
+       "role": "team-initial"
+      },
+      {
+       "type": "p",
+       "html": "Strategy &amp; Operations",
+       "role": "content-context"
+      },
+      {
+       "type": "p",
+       "html": "Neue Projekte, Markenkooperationen und individuelle Anforderungen."
+      }
+     ],
+     "actions": [
+      {
+       "href": "mailto:alex@sfp-berlin.com",
+       "label": "alex@sfp-berlin.com",
+       "style": "text"
+      }
+     ],
+     "href": "mailto:alex@sfp-berlin.com"
+    }
+   ]
+  },
+  {
+   "kind": "reference-logos",
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/bmw-group-classic/",
+     "role": "logo-bmw"
+    },
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/grand-hyatt-vox/",
+     "role": "logo-grand"
+    },
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/william-blair/",
+     "role": "logo-william"
+    },
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/marriott-berlin/",
+     "role": "logo-marriott"
+    },
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/ritz-carlton-wolfsburg/",
+     "role": "logo-ritz"
+    },
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/east-group/",
+     "role": "logo-east"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "language": "en",
+ "key": "planner",
+ "slug": "planner",
+ "url": "/en/project-planner/",
+ "template": "planner",
+ "title": "Your bespoke product enquiry",
+ "description": "Plan several SFP accessories with individual dimensions, materials and details in one enquiry.",
+ "alternate": {
+  "de": "/projektplaner/",
+  "en": "/en/project-planner/"
+ },
+ "datasets": [
+  {
+   "id": "config-data",
+   "file": "02_CONTENT/data/embedded-en-bb3f52505e8e43b3.json"
+  }
+ ],
+ "sections": [
+  {
+   "kind": "config-heading",
+   "title": {
+    "level": "h1",
+    "html": "Your collection starts here."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Select accessories, specify each design and bring everything together in one enquiry."
+    }
+   ]
+  },
+  {
+   "kind": "configurator",
+   "shade": true,
+   "data": {
+    "configurator": "",
+    "contact": "/en/contact/"
+   },
+   "title": {
+    "level": "h2",
+    "html": "Your selection"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Your enquiry is empty. Add your first accessory from the form."
+    },
+    {
+     "type": "ol",
+     "items": []
+    },
+    {
+     "type": "p",
+     "html": "Your selection is kept in your browser for this session. Each item can be edited separately or duplicated for another specification.",
+     "role": "field-note"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"/en/products/\">Explore all accessories</a>"
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Enquire about all items"
+    },
+    {
+     "label": "View selection"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "language": "en",
+ "key": "item:tischaufsteller",
+ "slug": "item--tischaufsteller",
+ "url": "/en/products/models/tischaufsteller/",
+ "template": "model",
+ "title": "Tabletop Display · Bespoke specification",
+ "description": "The tabletop display presents two A6 pages for buffet labels, daily specials or offers. Corner pockets retain the sheets and allow quick replacement. A board core is covered in PU leather or book cloth; custom dimensions, decorative stitching in a chosen thread colour and an orientation suited to the content complete the compact format.",
+ "alternate": {
+  "de": "/produkte/modelle/tischaufsteller/",
+  "en": "/en/products/models/tischaufsteller/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Tabletop Display"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The tabletop display presents two A6 pages for buffet labels, daily specials or offers. Corner pockets retain the sheets and allow quick replacement. A board core is covered in PU leather or book cloth; custom dimensions, decorative stitching in a chosen thread colour and an orientation suited to the content complete the compact format.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Buffets, daily specials and offers",
+      "Formats: DIN A6 or custom dimensions",
+      "Outer material: PU leather or book cloth"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-tischaufsteller.webp",
+     "alt": "Tabletop Display — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=tischaufsteller",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "DIN A6"
+    },
+    {
+     "k": "Application",
+     "v": "Buffets, daily specials and offers"
+    },
+    {
+     "k": "Core & interior",
+     "v": "High-quality board"
+    },
+    {
+     "k": "Outer material",
+     "v": "PU leather or book cloth"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "PU leather · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU leather · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU leather · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU leather · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU leather · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Fabric · Jolly",
+     "media": [
+      {
+       "src": "/assets/swatch-15fbb1cf7396f4.webp",
+       "alt": "Fabric · Jolly",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-c4f6593ab323a1.webp",
+     "alt": "Tabletop Display product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-2e0fa719c01418.webp",
+     "alt": "Tabletop Display product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

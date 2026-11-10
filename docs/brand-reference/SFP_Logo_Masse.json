@@ -1,0 +1,1660 @@
+{
+  "version": "Final 1.2",
+  "palette": "SFP Old Copper",
+  "geometry": {
+    "SFP_01_hauptlogo_v100_charcoal": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_01_hauptlogo_v0618_charcoal": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_02_horizontal_charcoal": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 805.417897623526,
+      "symbol_height": 920,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 407,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1200.417897623526,
+          "x1": 2729.633534284957,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.215636661431,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 980.4178976235256,
+          "y0": 175.0,
+          "y1": 1095.0000000000002,
+          "width": 805.4178976235256,
+          "height": 920.0000000000002
+        },
+        "berlin": {
+          "x0": 1200.417897623526,
+          "x1": 2668.4649088185,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 407
+    },
+    "SFP_03_quadrat_v100_charcoal": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 454,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 853.7762906390913,
+          "x1": 2382.9919273005225,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 853.7762906390914,
+          "x1": 2382.991927300523,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.2156366614317,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 853.7762906390913,
+          "x1": 2321.823301834065,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.047011194974,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 454
+    },
+    "SFP_03_quadrat_v0618_charcoal": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 360,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 520.143561012625,
+          "x1": 2049.3591976740563,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 812.2237476149583,
+          "x1": 1757.2790110717226,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 520.143561012625,
+          "x1": 1988.1905722075992,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 360
+    },
+    "SFP_04_kompakt_v100_charcoal": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 439,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2036.7682179396138,
+          "y1": 2736.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2856.768217939614,
+          "y1": 2956.768217939614,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_04_kompakt_v0618_charcoal": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 346,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1369.5027586866813,
+          "y1": 2069.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2189.5027586866813,
+          "y1": 2289.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_05_wortmarke_berlin_charcoal": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_06_symbol_wortmarke_charcoal": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 612.8179655831176,
+      "symbol_height": 700,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 275,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1007.8179655831176,
+          "x1": 2537.033602244549,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 174.99999999999997,
+          "x1": 787.8179655831175,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 612.8179655831175,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_07_symbol_charcoal": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 96,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "symbol": {
+          "x0": 283.77629063909154,
+          "x1": 1812.9919273005228,
+          "y0": 175.0000000000001,
+          "y1": 1921.7682179396138,
+          "width": 1529.2156366614313,
+          "height": 1746.7682179396138
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_08_wortmarke_charcoal": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 190,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_01_hauptlogo_v100_forest": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_01_hauptlogo_v0618_forest": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_02_horizontal_forest": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 805.417897623526,
+      "symbol_height": 920,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 407,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1200.417897623526,
+          "x1": 2729.633534284957,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.215636661431,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 980.4178976235256,
+          "y0": 175.0,
+          "y1": 1095.0000000000002,
+          "width": 805.4178976235256,
+          "height": 920.0000000000002
+        },
+        "berlin": {
+          "x0": 1200.417897623526,
+          "x1": 2668.4649088185,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 407
+    },
+    "SFP_03_quadrat_v100_forest": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 454,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 853.7762906390913,
+          "x1": 2382.9919273005225,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 853.7762906390914,
+          "x1": 2382.991927300523,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.2156366614317,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 853.7762906390913,
+          "x1": 2321.823301834065,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.047011194974,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 454
+    },
+    "SFP_03_quadrat_v0618_forest": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 360,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 520.143561012625,
+          "x1": 2049.3591976740563,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 812.2237476149583,
+          "x1": 1757.2790110717226,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 520.143561012625,
+          "x1": 1988.1905722075992,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 360
+    },
+    "SFP_04_kompakt_v100_forest": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 439,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2036.7682179396138,
+          "y1": 2736.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2856.768217939614,
+          "y1": 2956.768217939614,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_04_kompakt_v0618_forest": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 346,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1369.5027586866813,
+          "y1": 2069.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 2189.5027586866813,
+          "y1": 2289.5027586866813,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_05_wortmarke_berlin_forest": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 264,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949742,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949742,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_06_symbol_wortmarke_forest": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 612.8179655831176,
+      "symbol_height": 700,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 275,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1007.8179655831176,
+          "x1": 2537.033602244549,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 174.99999999999997,
+          "x1": 787.8179655831175,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 612.8179655831175,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_07_symbol_forest": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 96,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "symbol": {
+          "x0": 283.77629063909154,
+          "x1": 1812.9919273005228,
+          "y0": 175.0000000000001,
+          "y1": 1921.7682179396138,
+          "width": 1529.2156366614313,
+          "height": 1746.7682179396138
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_08_wortmarke_forest": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 190,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_01_hauptlogo_v100_paper": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 264,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949737,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_01_hauptlogo_v0618_paper": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 264,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949737,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_02_horizontal_paper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 805.417897623526,
+      "symbol_height": 920,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 407,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1200.417897623526,
+          "x1": 2729.633534284957,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.215636661431,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 980.4178976235256,
+          "y0": 175.0,
+          "y1": 1095.0000000000002,
+          "width": 805.4178976235256,
+          "height": 920.0000000000002
+        },
+        "berlin": {
+          "x0": 1200.417897623526,
+          "x1": 2668.4649088184997,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 407
+    },
+    "SFP_03_quadrat_v100_paper": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 454,
+      "min_css_height_berlin": 454,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 853.7762906390913,
+          "x1": 2382.9919273005225,
+          "y0": 2141.768217939614,
+          "y1": 2841.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 853.7762906390914,
+          "x1": 2382.991927300523,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.2156366614317,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 853.7762906390913,
+          "x1": 2321.823301834065,
+          "y0": 2961.768217939614,
+          "y1": 3061.768217939614,
+          "width": 1468.047011194974,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 454
+    },
+    "SFP_03_quadrat_v0618_paper": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 360,
+      "min_css_height_berlin": 360,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 520.143561012625,
+          "x1": 2049.3591976740563,
+          "y0": 1474.5027586866813,
+          "y1": 2174.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 812.2237476149583,
+          "x1": 1757.2790110717226,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 520.143561012625,
+          "x1": 1988.1905722075987,
+          "y0": 2294.5027586866813,
+          "y1": 2394.5027586866813,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 360
+    },
+    "SFP_04_kompakt_v100_paper": {
+      "vertical_signet_width_ratio": 1.0,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 264,
+      "min_css_height_berlin": 439,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 2036.7682179396138,
+          "y1": 2736.768217939614,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 175.0,
+          "x1": 1704.215636661431,
+          "y0": 175.0,
+          "y1": 1921.768217939614,
+          "width": 1529.215636661431,
+          "height": 1746.768217939614
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949737,
+          "y0": 2856.768217939614,
+          "y1": 2956.768217939614,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_04_kompakt_v0618_paper": {
+      "vertical_signet_width_ratio": 0.618,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 945.0552634567645,
+      "symbol_height": 1079.5027586866813,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 264,
+      "min_css_height_berlin": 346,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 1369.5027586866813,
+          "y1": 2069.5027586866813,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 467.0801866023334,
+          "x1": 1412.1354500590978,
+          "y0": 175.0,
+          "y1": 1254.5027586866813,
+          "width": 945.0552634567644,
+          "height": 1079.5027586866813
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949737,
+          "y0": 2189.5027586866813,
+          "y1": 2289.5027586866813,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_05_wortmarke_berlin_paper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 264,
+      "min_css_height_berlin": 178,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "berlin": {
+          "x0": 175.0,
+          "x1": 1643.0470111949737,
+          "y0": 995.0,
+          "y1": 1095.0,
+          "width": 1468.0470111949737,
+          "height": 100.0
+        }
+      },
+      "min_css_width_berlin": 264
+    },
+    "SFP_06_symbol_wortmarke_paper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 612.8179655831176,
+      "symbol_height": 700,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 275,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1007.8179655831176,
+          "x1": 2537.033602244549,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 174.99999999999997,
+          "x1": 787.8179655831175,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 612.8179655831175,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_07_symbol_paper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 96,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "symbol": {
+          "x0": 283.77629063909154,
+          "x1": 1812.9919273005228,
+          "y0": 175.0000000000001,
+          "y1": 1921.7682179396138,
+          "width": 1529.2156366614313,
+          "height": 1746.7682179396138
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_08_wortmarke_paper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 211.70202587688246,
+      "min_css_width": 190,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_06_symbol_wortmarke_copper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 612.8179655831176,
+      "symbol_height": 700,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 275,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 1007.8179655831176,
+          "x1": 2537.033602244549,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        },
+        "symbol": {
+          "x0": 174.99999999999997,
+          "x1": 787.8179655831175,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 612.8179655831175,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_07_symbol_copper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 96,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "symbol": {
+          "x0": 283.77629063909154,
+          "x1": 1812.9919273005228,
+          "y0": 175.0000000000001,
+          "y1": 1921.7682179396138,
+          "width": 1529.2156366614313,
+          "height": 1746.7682179396138
+        }
+      },
+      "min_css_width_berlin": null
+    },
+    "SFP_08_wortmarke_copper": {
+      "vertical_signet_width_ratio": null,
+      "wordmark_height": 700,
+      "berlin_height": 100,
+      "wordmark_width": 1529.2156366614313,
+      "symbol_width": 1529.2156366614313,
+      "symbol_height": 1746.7682179396138,
+      "berlin_width": 1468.047011194974,
+      "berlin_width_ratio": 0.96,
+      "berlin_right_inset": 61.16862546645734,
+      "berlin_alignment": "left aligned; optically inset right edge for rounded P",
+      "berlin_tracking_units": 213.21367717612807,
+      "min_css_width": 190,
+      "min_css_height_berlin": null,
+      "clearspace": 175,
+      "visible_bounds": {
+        "wordmark": {
+          "x0": 175.0,
+          "x1": 1704.2156366614313,
+          "y0": 175.0,
+          "y1": 875.0,
+          "width": 1529.2156366614313,
+          "height": 700.0
+        }
+      },
+      "min_css_width_berlin": null
+    }
+  },
+  "assets": [
+    {
+      "stem": "SFP_01_hauptlogo_v100_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        5512
+      ]
+    },
+    {
+      "stem": "SFP_01_hauptlogo_v0618_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        4375
+      ]
+    },
+    {
+      "stem": "SFP_02_horizontal_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        1399
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v100_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v0618_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v100_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        5333
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v0618_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        4197
+      ]
+    },
+    {
+      "stem": "SFP_05_wortmarke_berlin_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        2163
+      ]
+    },
+    {
+      "stem": "SFP_06_symbol_wortmarke_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        1239
+      ]
+    },
+    {
+      "stem": "SFP_07_symbol_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_08_wortmarke_charcoal",
+      "color": "charcoal",
+      "size": [
+        3200,
+        1788
+      ]
+    },
+    {
+      "stem": "SFP_01_hauptlogo_v100_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        5512
+      ]
+    },
+    {
+      "stem": "SFP_01_hauptlogo_v0618_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        4375
+      ]
+    },
+    {
+      "stem": "SFP_02_horizontal_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        1399
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v100_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v0618_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v100_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        5333
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v0618_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        4197
+      ]
+    },
+    {
+      "stem": "SFP_05_wortmarke_berlin_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        2163
+      ]
+    },
+    {
+      "stem": "SFP_06_symbol_wortmarke_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        1239
+      ]
+    },
+    {
+      "stem": "SFP_07_symbol_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_08_wortmarke_forest",
+      "color": "forest",
+      "size": [
+        3200,
+        1788
+      ]
+    },
+    {
+      "stem": "SFP_01_hauptlogo_v100_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        5512
+      ]
+    },
+    {
+      "stem": "SFP_01_hauptlogo_v0618_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        4375
+      ]
+    },
+    {
+      "stem": "SFP_02_horizontal_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        1399
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v100_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_03_quadrat_v0618_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v100_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        5333
+      ]
+    },
+    {
+      "stem": "SFP_04_kompakt_v0618_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        4197
+      ]
+    },
+    {
+      "stem": "SFP_05_wortmarke_berlin_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        2163
+      ]
+    },
+    {
+      "stem": "SFP_06_symbol_wortmarke_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        1239
+      ]
+    },
+    {
+      "stem": "SFP_07_symbol_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_08_wortmarke_paper",
+      "color": "paper",
+      "size": [
+        3200,
+        1788
+      ]
+    },
+    {
+      "stem": "SFP_06_symbol_wortmarke_copper",
+      "color": "copper",
+      "size": [
+        3200,
+        1239
+      ]
+    },
+    {
+      "stem": "SFP_07_symbol_copper",
+      "color": "copper",
+      "size": [
+        3200,
+        3200
+      ]
+    },
+    {
+      "stem": "SFP_08_wortmarke_copper",
+      "color": "copper",
+      "size": [
+        3200,
+        1788
+      ]
+    }
+  ]
+}

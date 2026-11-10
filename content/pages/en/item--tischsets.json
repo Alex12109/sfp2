@@ -1,0 +1,283 @@
+{
+ "language": "en",
+ "key": "item:tischsets",
+ "slug": "item--tischsets",
+ "url": "/en/products/models/tischsets/",
+ "template": "model",
+ "title": "Placemats · Bespoke specification",
+ "description": "Placemats create a defined area for the place setting and glassware while protecting the table during daily service. Round and rectangular starting sizes can be supplemented by custom dimensions and shapes. Genuine or PU leather, square or rounded corners, decorative stitching and blind debossing or foil stamping coordinate each mat with the table geometry, crockery and brand identity.",
+ "alternate": {
+  "de": "/produkte/modelle/tischsets/",
+  "en": "/en/products/models/tischsets/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Placemats"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Placemats create a defined area for the place setting and glassware while protecting the table during daily service. Round and rectangular starting sizes can be supplemented by custom dimensions and shapes. Genuine or PU leather, square or rounded corners, decorative stitching and blind debossing or foil stamping coordinate each mat with the table geometry, crockery and brand identity.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Surface protection for dining tables",
+      "Formats: 320mm diameter · 325 x 425mm or custom dimensions",
+      "Material: Genuine leather or PU leather"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-dining-table.webp",
+     "alt": "Placemats",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=tischsets",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Shape",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rectangular · Round · Oval · Kidney-shaped · Custom shape"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Corners",
+     "body": [
+      {
+       "type": "p",
+       "html": "Square corners · Rounded corners"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "320mm Durchmesser · 325 x 425mm"
+    },
+    {
+     "k": "Application",
+     "v": "Surface protection for dining tables"
+    },
+    {
+     "k": "Material",
+     "v": "Genuine leather or PU leather"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Genuine leather · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Genuine leather · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU leather · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU leather · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-424a92ee3a8c53.webp",
+     "alt": "Placemats product view",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-e31e8f3369f86c.webp",
+     "alt": "Placemats product view",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

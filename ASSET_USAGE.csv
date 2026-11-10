@@ -1,0 +1,835 @@
+﻿original_path,new_path,page_or_component,status
+03_ASSETS/site/allura-OFL.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/allura-v21.woff,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/amenity.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/atelier-640.webp,public/assets/atelier-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/atelier.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/atelier.webp,public/assets/atelier.webp,"/en/company/; /en/journal/; /en/journal/briefing-a-bespoke-project/; /en/services/; /journal/; /journal/bespoke-projektbriefing/; /leistungen/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/bespoke-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/bespoke.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/bill-presenter.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/bill.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/bin.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/branding-motion-v20.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/case-blair-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-blair-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-blair-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-blair-detail-640.webp,public/assets/case-blair-detail-640.webp,"/en/projects/william-blair/; /projekte/william-blair/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-blair-detail.webp,public/assets/case-blair-detail.webp,"/en/projects/william-blair/; /projekte/william-blair/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-blair.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw-detail-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw-detail.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-bmw.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-hapag-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-hapag-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-hapag-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-hapag-detail-640.webp,public/assets/case-hapag-detail-640.webp,"/en/projects/hapag-lloyd-tui/; /projekte/hapag-lloyd-tui/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-hapag-detail.webp,public/assets/case-hapag-detail.webp,"/en/projects/hapag-lloyd-tui/; /projekte/hapag-lloyd-tui/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-hapag.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-ritz-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-ritz-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-ritz-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-ritz-detail-640.webp,public/assets/case-ritz-detail-640.webp,"/en/projects/ritz-carlton-wolfsburg/; /projekte/ritz-carlton-wolfsburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-ritz-detail.webp,public/assets/case-ritz-detail.webp,"/en/projects/ritz-carlton-wolfsburg/; /projekte/ritz-carlton-wolfsburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-ritz.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vier-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vier-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vier-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vier-detail-640.webp,public/assets/case-vier-detail-640.webp,"/en/projects/vier-jahreszeiten-muenchen/; /projekte/vier-jahreszeiten-muenchen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-vier-detail.webp,public/assets/case-vier-detail.webp,"/en/projects/vier-jahreszeiten-muenchen/; /projekte/vier-jahreszeiten-muenchen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-vier.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vox-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vox-640.webp,public/assets/case-vox-640.webp,"/; /en/; /en/journal/; /en/journal/planning-restaurant-accessories/; /en/products/bill-presenters/; /en/products/menu-covers/; /en/products/placemats/; /en/projects/; /en/projects/grand-hyatt-vox/; /en/solutions/restaurants/; /journal/; /journal/restaurant-ausstattung-planen/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-vox-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/case-vox-detail-640.webp,public/assets/case-vox-detail-640.webp,"/en/projects/grand-hyatt-vox/; /projekte/grand-hyatt-vox/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-vox-detail.webp,public/assets/case-vox-detail.webp,"/en/projects/grand-hyatt-vox/; /projekte/grand-hyatt-vox/","übernommen, Dateiname unverändert"
+03_ASSETS/site/case-vox.webp,public/assets/case-vox.webp,"/; /en/; /en/journal/; /en/journal/planning-restaurant-accessories/; /en/products/bill-presenters/; /en/products/menu-covers/; /en/products/placemats/; /en/projects/; /en/projects/grand-hyatt-vox/; /en/solutions/restaurants/; /journal/; /journal/restaurant-ausstattung-planen/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-00628c139e6225-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-00628c139e6225.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-02fc2d0c523cb8-640.webp,public/assets/catalog-02fc2d0c523cb8-640.webp,"/en/products/models/tissue-boxen/; /produkte/modelle/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-02fc2d0c523cb8.webp,public/assets/catalog-02fc2d0c523cb8.webp,"/en/products/models/tissue-boxen/; /produkte/modelle/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-04d0d35b3bdca6-640.webp,public/assets/catalog-04d0d35b3bdca6-640.webp,"/en/products/models/prospektstander/; /produkte/modelle/prospektstander/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-04d0d35b3bdca6.webp,public/assets/catalog-04d0d35b3bdca6.webp,"/en/products/models/prospektstander/; /produkte/modelle/prospektstander/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-057ec697180617-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-057ec697180617.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-06ba709bae56ec-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-06ba709bae56ec.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-07b7201b69c943-640.webp,public/assets/catalog-07b7201b69c943-640.webp,"/en/products/models/bestecktabletts/; /produkte/modelle/bestecktabletts/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-07b7201b69c943.webp,public/assets/catalog-07b7201b69c943.webp,"/en/products/models/bestecktabletts/; /produkte/modelle/bestecktabletts/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-07c3495c2d332c-640.webp,public/assets/catalog-07c3495c2d332c-640.webp,"/en/products/models/menu-fine-dining/; /produkte/modelle/menu-fine-dining/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-07c3495c2d332c.webp,public/assets/catalog-07c3495c2d332c.webp,"/en/products/models/menu-fine-dining/; /produkte/modelle/menu-fine-dining/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0a5cfdc9f4bda6-640.webp,public/assets/catalog-0a5cfdc9f4bda6-640.webp,"/en/products/models/menu-ringbinder/; /produkte/modelle/menu-ringbinder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0a5cfdc9f4bda6.webp,public/assets/catalog-0a5cfdc9f4bda6.webp,"/en/products/models/menu-ringbinder/; /produkte/modelle/menu-ringbinder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0d1494e0071bec-640.webp,public/assets/catalog-0d1494e0071bec-640.webp,"/en/products/models/stiftekocher/; /produkte/modelle/stiftekocher/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0d1494e0071bec.webp,public/assets/catalog-0d1494e0071bec.webp,"/en/products/models/stiftekocher/; /produkte/modelle/stiftekocher/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0dfced6e815aba-640.webp,public/assets/catalog-0dfced6e815aba-640.webp,"/en/products/models/menu-vintage/; /produkte/modelle/menu-vintage/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0dfced6e815aba.webp,public/assets/catalog-0dfced6e815aba.webp,"/en/products/models/menu-vintage/; /produkte/modelle/menu-vintage/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0eafecfdd20d77-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-0eafecfdd20d77.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-0f03c55500898d-640.webp,public/assets/catalog-0f03c55500898d-640.webp,"/en/products/models/menu-berlin/; /produkte/modelle/menu-berlin/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0f03c55500898d.webp,public/assets/catalog-0f03c55500898d.webp,"/en/products/models/menu-berlin/; /produkte/modelle/menu-berlin/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0f5f80a0e0710a-640.webp,public/assets/catalog-0f5f80a0e0710a-640.webp,"/en/products/models/rechnungsmappen/; /produkte/modelle/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-0f5f80a0e0710a.webp,public/assets/catalog-0f5f80a0e0710a.webp,"/en/products/models/rechnungsmappen/; /produkte/modelle/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1054a898be4c2f-640.webp,public/assets/catalog-1054a898be4c2f-640.webp,"/en/products/; /en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1054a898be4c2f.webp,public/assets/catalog-1054a898be4c2f.webp,"/en/products/; /en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-112735356319c3-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-112735356319c3.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-12cc08e36d9b04-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-12cc08e36d9b04.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-13b8f355b06d13-640.webp,public/assets/catalog-13b8f355b06d13-640.webp,"/en/products/models/menu-clipboard/; /produkte/modelle/menu-clipboard/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-13b8f355b06d13.webp,public/assets/catalog-13b8f355b06d13.webp,"/en/products/models/menu-clipboard/; /produkte/modelle/menu-clipboard/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-14886c14b8d9c2-640.webp,public/assets/catalog-14886c14b8d9c2-640.webp,"/en/products/models/bankettcoaster/; /produkte/modelle/bankettcoaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-14886c14b8d9c2.webp,public/assets/catalog-14886c14b8d9c2.webp,"/en/products/models/bankettcoaster/; /produkte/modelle/bankettcoaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-15a3ae1931f4fa-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-15a3ae1931f4fa.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-15c68e6ebd2353-640.webp,public/assets/catalog-15c68e6ebd2353-640.webp,"/en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-15c68e6ebd2353.webp,public/assets/catalog-15c68e6ebd2353.webp,"/en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-168b527d08c577-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-168b527d08c577.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-180c406dac77f8-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-180c406dac77f8.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-18b7bba688bf2a-640.webp,public/assets/catalog-18b7bba688bf2a-640.webp,"/en/products/models/menu-fine-dining/; /produkte/modelle/menu-fine-dining/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-18b7bba688bf2a.webp,public/assets/catalog-18b7bba688bf2a.webp,"/en/products/models/menu-fine-dining/; /produkte/modelle/menu-fine-dining/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-19779df3f40439-640.webp,public/assets/catalog-19779df3f40439-640.webp,"/en/products/models/menu-hamburg/; /produkte/modelle/menu-hamburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-19779df3f40439.webp,public/assets/catalog-19779df3f40439.webp,"/en/products/models/menu-hamburg/; /produkte/modelle/menu-hamburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1aefe58555e8d3-640.webp,public/assets/catalog-1aefe58555e8d3-640.webp,"/en/products/models/menu-grande-bistro/; /produkte/modelle/menu-grande-bistro/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1aefe58555e8d3.webp,public/assets/catalog-1aefe58555e8d3.webp,"/en/products/models/menu-grande-bistro/; /produkte/modelle/menu-grande-bistro/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1ca6b731f61cab-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-1ca6b731f61cab.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-1d28dfb7cd7e1c-640.webp,public/assets/catalog-1d28dfb7cd7e1c-640.webp,"/en/products/models/tissue-boxen/; /produkte/modelle/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1d28dfb7cd7e1c.webp,public/assets/catalog-1d28dfb7cd7e1c.webp,"/en/products/models/tissue-boxen/; /produkte/modelle/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-1fc54e93dd796a-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-1fc54e93dd796a.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-218e430895011d-640.webp,public/assets/catalog-218e430895011d-640.webp,"/en/products/models/empfangsblotter/; /produkte/modelle/empfangsblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-218e430895011d.webp,public/assets/catalog-218e430895011d.webp,"/en/products/models/empfangsblotter/; /produkte/modelle/empfangsblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2468174753c215-640.webp,public/assets/catalog-2468174753c215-640.webp,"/en/products/models/menu-grand-dinner/; /produkte/modelle/menu-grand-dinner/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2468174753c215.webp,public/assets/catalog-2468174753c215.webp,"/en/products/models/menu-grand-dinner/; /produkte/modelle/menu-grand-dinner/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-247b533afd254e-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-247b533afd254e.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-25902fc2827f57-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-25902fc2827f57.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-25d794950c6ca6-640.webp,public/assets/catalog-25d794950c6ca6-640.webp,"/en/products/models/rechnungsboxen/; /produkte/modelle/rechnungsboxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-25d794950c6ca6.webp,public/assets/catalog-25d794950c6ca6.webp,"/en/products/models/rechnungsboxen/; /produkte/modelle/rechnungsboxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-29dd2d3770f164-640.webp,public/assets/catalog-29dd2d3770f164-640.webp,"/en/products/models/laundry-list-holder/; /produkte/modelle/laundry-list-holder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-29dd2d3770f164.webp,public/assets/catalog-29dd2d3770f164.webp,"/en/products/models/laundry-list-holder/; /produkte/modelle/laundry-list-holder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2a347b1bc3bd46-640.webp,public/assets/catalog-2a347b1bc3bd46-640.webp,"/en/products/models/kosmetik/; /produkte/modelle/kosmetik/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2a347b1bc3bd46.webp,public/assets/catalog-2a347b1bc3bd46.webp,"/en/products/models/kosmetik/; /produkte/modelle/kosmetik/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2a3982c9ebf955-640.webp,public/assets/catalog-2a3982c9ebf955-640.webp,"/en/products/models/amenity-boxen/; /produkte/modelle/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2a3982c9ebf955.webp,public/assets/catalog-2a3982c9ebf955.webp,"/en/products/models/amenity-boxen/; /produkte/modelle/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2e0fa719c01418-640.webp,public/assets/catalog-2e0fa719c01418-640.webp,"/en/products/models/tischaufsteller/; /produkte/modelle/tischaufsteller/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-2e0fa719c01418.webp,public/assets/catalog-2e0fa719c01418.webp,"/en/products/models/tischaufsteller/; /produkte/modelle/tischaufsteller/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-30903b4000bf11-640.webp,public/assets/catalog-30903b4000bf11-640.webp,"/en/products/models/menu-ringbinder/; /produkte/modelle/menu-ringbinder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-30903b4000bf11.webp,public/assets/catalog-30903b4000bf11.webp,"/en/products/models/menu-ringbinder/; /produkte/modelle/menu-ringbinder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-30e388a524fa85-640.webp,public/assets/catalog-30e388a524fa85-640.webp,"/en/products/models/airport-calling-signs/; /produkte/modelle/airport-calling-signs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-30e388a524fa85.webp,public/assets/catalog-30e388a524fa85.webp,"/en/products/models/airport-calling-signs/; /produkte/modelle/airport-calling-signs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-323df627f685b8-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-323df627f685b8.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-32746208f914a0-640.webp,public/assets/catalog-32746208f914a0-640.webp,"/en/products/models/turanhanger/; /produkte/modelle/turanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-32746208f914a0.webp,public/assets/catalog-32746208f914a0.webp,"/en/products/models/turanhanger/; /produkte/modelle/turanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-32c581588ec839-640.webp,public/assets/catalog-32c581588ec839-640.webp,"/en/products/models/notizblockhalter/; /produkte/modelle/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-32c581588ec839.webp,public/assets/catalog-32c581588ec839.webp,"/en/products/models/notizblockhalter/; /produkte/modelle/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-34f1b9a98cd37b-640.webp,public/assets/catalog-34f1b9a98cd37b-640.webp,"/en/products/models/menu-vintage/; /produkte/modelle/menu-vintage/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-34f1b9a98cd37b.webp,public/assets/catalog-34f1b9a98cd37b.webp,"/en/products/models/menu-vintage/; /produkte/modelle/menu-vintage/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-36b697a521db5c-640.webp,public/assets/catalog-36b697a521db5c-640.webp,"/en/products/models/bestecktabletts/; /produkte/modelle/bestecktabletts/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-36b697a521db5c.webp,public/assets/catalog-36b697a521db5c.webp,"/en/products/models/bestecktabletts/; /produkte/modelle/bestecktabletts/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-37a9b33324ead0-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-37a9b33324ead0.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-3f3f9449f8e6ed-640.webp,public/assets/catalog-3f3f9449f8e6ed-640.webp,"/en/products/models/schlusselanhanger/; /produkte/modelle/schlusselanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-3f3f9449f8e6ed.webp,public/assets/catalog-3f3f9449f8e6ed.webp,"/en/products/models/schlusselanhanger/; /produkte/modelle/schlusselanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-40715b0f4cae4b-640.webp,public/assets/catalog-40715b0f4cae4b-640.webp,"/en/products/; /en/products/models/airport-calling-signs/; /produkte/; /produkte/modelle/airport-calling-signs/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-40715b0f4cae4b.webp,public/assets/catalog-40715b0f4cae4b.webp,"/en/products/; /en/products/models/airport-calling-signs/; /produkte/; /produkte/modelle/airport-calling-signs/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-424a92ee3a8c53-640.webp,public/assets/catalog-424a92ee3a8c53-640.webp,"/en/products/models/tischsets/; /produkte/modelle/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-424a92ee3a8c53.webp,public/assets/catalog-424a92ee3a8c53.webp,"/en/products/models/tischsets/; /produkte/modelle/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-44071c7f659f41-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-44071c7f659f41.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-44f1f6de476215-640.webp,public/assets/catalog-44f1f6de476215-640.webp,"/en/products/models/lesezeichen/; /produkte/modelle/lesezeichen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-44f1f6de476215.webp,public/assets/catalog-44f1f6de476215.webp,"/en/products/models/lesezeichen/; /produkte/modelle/lesezeichen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4526903d5bebed-640.webp,public/assets/catalog-4526903d5bebed-640.webp,"/en/products/models/condiment-boxen/; /produkte/modelle/condiment-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4526903d5bebed.webp,public/assets/catalog-4526903d5bebed.webp,"/en/products/models/condiment-boxen/; /produkte/modelle/condiment-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-45f6c6789bc212-640.webp,public/assets/catalog-45f6c6789bc212-640.webp,"/en/products/models/stiftekocher/; /produkte/modelle/stiftekocher/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-45f6c6789bc212.webp,public/assets/catalog-45f6c6789bc212.webp,"/en/products/models/stiftekocher/; /produkte/modelle/stiftekocher/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-46f5b722e22f81-640.webp,public/assets/catalog-46f5b722e22f81-640.webp,"/en/products/models/amenity-boxen/; /produkte/modelle/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-46f5b722e22f81.webp,public/assets/catalog-46f5b722e22f81.webp,"/en/products/models/amenity-boxen/; /produkte/modelle/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4b1f909ab2091e-640.webp,public/assets/catalog-4b1f909ab2091e-640.webp,"/en/products/models/menu-grand-dinner/; /produkte/modelle/menu-grand-dinner/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4b1f909ab2091e.webp,public/assets/catalog-4b1f909ab2091e.webp,"/en/products/models/menu-grand-dinner/; /produkte/modelle/menu-grand-dinner/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4dc262e92c3d71-640.webp,public/assets/catalog-4dc262e92c3d71-640.webp,"/en/products/models/menu-rome/; /produkte/modelle/menu-rome/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-4dc262e92c3d71.webp,public/assets/catalog-4dc262e92c3d71.webp,"/en/products/models/menu-rome/; /produkte/modelle/menu-rome/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-502580e2cf8fe7-640.webp,public/assets/catalog-502580e2cf8fe7-640.webp,"/en/products/models/menu-clipboard/; /produkte/modelle/menu-clipboard/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-502580e2cf8fe7.webp,public/assets/catalog-502580e2cf8fe7.webp,"/en/products/models/menu-clipboard/; /produkte/modelle/menu-clipboard/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-537adeac142a4c-640.webp,public/assets/catalog-537adeac142a4c-640.webp,"/en/products/models/condiment-boxen/; /produkte/modelle/condiment-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-537adeac142a4c.webp,public/assets/catalog-537adeac142a4c.webp,"/en/products/models/condiment-boxen/; /produkte/modelle/condiment-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-55d33a98c27211-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-55d33a98c27211.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-5623fb87916f71-640.webp,public/assets/catalog-5623fb87916f71-640.webp,"/en/products/models/lesezeichen/; /produkte/modelle/lesezeichen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5623fb87916f71.webp,public/assets/catalog-5623fb87916f71.webp,"/en/products/models/lesezeichen/; /produkte/modelle/lesezeichen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-56274e51ccd4e2-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-56274e51ccd4e2.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-5a4fa618be64f1-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-5a4fa618be64f1.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-5b3a2a3ceded88-640.webp,public/assets/catalog-5b3a2a3ceded88-640.webp,"/en/products/models/schlusselanhanger/; /produkte/modelle/schlusselanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5b3a2a3ceded88.webp,public/assets/catalog-5b3a2a3ceded88.webp,"/en/products/models/schlusselanhanger/; /produkte/modelle/schlusselanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5be4519e8a2566-640.webp,public/assets/catalog-5be4519e8a2566-640.webp,"/en/products/models/papierkorbe/; /produkte/modelle/papierkorbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5be4519e8a2566.webp,public/assets/catalog-5be4519e8a2566.webp,"/en/products/models/papierkorbe/; /produkte/modelle/papierkorbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5dd082c8c09a6c-640.webp,public/assets/catalog-5dd082c8c09a6c-640.webp,"/en/products/models/kofferanhanger/; /produkte/modelle/kofferanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5dd082c8c09a6c.webp,public/assets/catalog-5dd082c8c09a6c.webp,"/en/products/models/kofferanhanger/; /produkte/modelle/kofferanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5e086edf47360b-640.webp,public/assets/catalog-5e086edf47360b-640.webp,"/en/products/models/schreibunterlagen/; /produkte/modelle/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5e086edf47360b.webp,public/assets/catalog-5e086edf47360b.webp,"/en/products/models/schreibunterlagen/; /produkte/modelle/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-5ec23facc13c98-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-5ec23facc13c98.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-625899d4bd0414-640.webp,public/assets/catalog-625899d4bd0414-640.webp,"/en/products/models/menu-rome/; /produkte/modelle/menu-rome/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-625899d4bd0414.webp,public/assets/catalog-625899d4bd0414.webp,"/en/products/models/menu-rome/; /produkte/modelle/menu-rome/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-62ccc81ae9b32a-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-62ccc81ae9b32a.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-631b396dfc8dee-640.webp,public/assets/catalog-631b396dfc8dee-640.webp,"/en/products/models/menu-passepartout/; /produkte/modelle/menu-passepartout/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-631b396dfc8dee.webp,public/assets/catalog-631b396dfc8dee.webp,"/en/products/models/menu-passepartout/; /produkte/modelle/menu-passepartout/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-661a7f7a9c72cb-640.webp,public/assets/catalog-661a7f7a9c72cb-640.webp,"/en/products/models/trays/; /produkte/modelle/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-661a7f7a9c72cb.webp,public/assets/catalog-661a7f7a9c72cb.webp,"/en/products/models/trays/; /produkte/modelle/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6a9d3204dfd5b9-640.webp,public/assets/catalog-6a9d3204dfd5b9-640.webp,"/en/products/models/rechnungsboxen/; /produkte/modelle/rechnungsboxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6a9d3204dfd5b9.webp,public/assets/catalog-6a9d3204dfd5b9.webp,"/en/products/models/rechnungsboxen/; /produkte/modelle/rechnungsboxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6acb37a782ad96-640.webp,public/assets/catalog-6acb37a782ad96-640.webp,"/en/products/models/menu-bonn/; /produkte/modelle/menu-bonn/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6acb37a782ad96.webp,public/assets/catalog-6acb37a782ad96.webp,"/en/products/models/menu-bonn/; /produkte/modelle/menu-bonn/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6fe9eae15c397d-640.webp,public/assets/catalog-6fe9eae15c397d-640.webp,"/en/products/models/menu-hamburg/; /produkte/modelle/menu-hamburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-6fe9eae15c397d.webp,public/assets/catalog-6fe9eae15c397d.webp,"/en/products/models/menu-hamburg/; /produkte/modelle/menu-hamburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-70d283f36026b2-640.webp,public/assets/catalog-70d283f36026b2-640.webp,"/en/products/models/menu-grande-bistro/; /produkte/modelle/menu-grande-bistro/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-70d283f36026b2.webp,public/assets/catalog-70d283f36026b2.webp,"/en/products/models/menu-grande-bistro/; /produkte/modelle/menu-grande-bistro/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-72296f46ae489e-640.webp,public/assets/catalog-72296f46ae489e-640.webp,"/en/products/models/coaster/; /produkte/modelle/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-72296f46ae489e.webp,public/assets/catalog-72296f46ae489e.webp,"/en/products/models/coaster/; /produkte/modelle/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-72cfd6ee3b5099-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-72cfd6ee3b5099.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-72edac4681059d-640.webp,public/assets/catalog-72edac4681059d-640.webp,"/en/products/models/turanhanger/; /produkte/modelle/turanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-72edac4681059d.webp,public/assets/catalog-72edac4681059d.webp,"/en/products/models/turanhanger/; /produkte/modelle/turanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-75fc7a60432938-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-75fc7a60432938.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-78b25b2cc0f1b1-640.webp,public/assets/catalog-78b25b2cc0f1b1-640.webp,"/en/products/models/empfangsblotter/; /produkte/modelle/empfangsblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-78b25b2cc0f1b1.webp,public/assets/catalog-78b25b2cc0f1b1.webp,"/en/products/models/empfangsblotter/; /produkte/modelle/empfangsblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-7ae536c12fc75d-640.webp,public/assets/catalog-7ae536c12fc75d-640.webp,"/en/products/models/bankettblotter/; /produkte/modelle/bankettblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-7ae536c12fc75d.webp,public/assets/catalog-7ae536c12fc75d.webp,"/en/products/models/bankettblotter/; /produkte/modelle/bankettblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-81d3bcabaf71fe-640.webp,public/assets/catalog-81d3bcabaf71fe-640.webp,"/en/products/models/menu-nizza/; /produkte/modelle/menu-nizza/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-81d3bcabaf71fe.webp,public/assets/catalog-81d3bcabaf71fe.webp,"/en/products/models/menu-nizza/; /produkte/modelle/menu-nizza/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-83e25d1d7663be-640.webp,public/assets/catalog-83e25d1d7663be-640.webp,"/en/products/models/schreibunterlagen/; /produkte/modelle/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-83e25d1d7663be.webp,public/assets/catalog-83e25d1d7663be.webp,"/en/products/models/schreibunterlagen/; /produkte/modelle/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-84a2a7cd5e6919-640.webp,public/assets/catalog-84a2a7cd5e6919-640.webp,"/en/products/models/papierkorbe/; /produkte/modelle/papierkorbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-84a2a7cd5e6919.webp,public/assets/catalog-84a2a7cd5e6919.webp,"/en/products/models/papierkorbe/; /produkte/modelle/papierkorbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-85bec96d03989e-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-85bec96d03989e.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-8625dd4c88b881-640.webp,public/assets/catalog-8625dd4c88b881-640.webp,"/en/products/models/check-in-mappen/; /produkte/modelle/check-in-mappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-8625dd4c88b881.webp,public/assets/catalog-8625dd4c88b881.webp,"/en/products/models/check-in-mappen/; /produkte/modelle/check-in-mappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-86f9144ed45169-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-86f9144ed45169.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-8720001cc3e1c7-640.webp,public/assets/catalog-8720001cc3e1c7-640.webp,"/en/products/models/check-in-mappen/; /produkte/modelle/check-in-mappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-8720001cc3e1c7.webp,public/assets/catalog-8720001cc3e1c7.webp,"/en/products/models/check-in-mappen/; /produkte/modelle/check-in-mappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-8bfab5faf214a9-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-8bfab5faf214a9.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-8e83636554090a-640.webp,public/assets/catalog-8e83636554090a-640.webp,"/en/products/models/bankettcoaster/; /produkte/modelle/bankettcoaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-8e83636554090a.webp,public/assets/catalog-8e83636554090a.webp,"/en/products/models/bankettcoaster/; /produkte/modelle/bankettcoaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-90766b84ce2c74-640.webp,public/assets/catalog-90766b84ce2c74-640.webp,"/en/products/models/menu-passepartout/; /produkte/modelle/menu-passepartout/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-90766b84ce2c74.webp,public/assets/catalog-90766b84ce2c74.webp,"/en/products/models/menu-passepartout/; /produkte/modelle/menu-passepartout/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-928e103f42bc99-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-928e103f42bc99.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-983196fc72b850-640.webp,public/assets/catalog-983196fc72b850-640.webp,"/en/products/models/rfid-cardholder/; /produkte/modelle/rfid-cardholder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-983196fc72b850.webp,public/assets/catalog-983196fc72b850.webp,"/en/products/models/rfid-cardholder/; /produkte/modelle/rfid-cardholder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-98730dd53fd080-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-98730dd53fd080.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-9c071ff07da683-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-9c071ff07da683.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-9d17486f0e15c2-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-9d17486f0e15c2.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-9d3a5b5990120f-640.webp,public/assets/catalog-9d3a5b5990120f-640.webp,"/en/products/models/laundry-list-holder/; /produkte/modelle/laundry-list-holder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-9d3a5b5990120f.webp,public/assets/catalog-9d3a5b5990120f.webp,"/en/products/models/laundry-list-holder/; /produkte/modelle/laundry-list-holder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a2c345c4abd690-640.webp,public/assets/catalog-a2c345c4abd690-640.webp,"/en/products/models/menu-london/; /produkte/modelle/menu-london/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a2c345c4abd690.webp,public/assets/catalog-a2c345c4abd690.webp,"/en/products/models/menu-london/; /produkte/modelle/menu-london/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a329224f167c01-640.webp,public/assets/catalog-a329224f167c01-640.webp,"/en/products/models/menu-berlin/; /produkte/modelle/menu-berlin/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a329224f167c01.webp,public/assets/catalog-a329224f167c01.webp,"/en/products/models/menu-berlin/; /produkte/modelle/menu-berlin/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a49a19d09eac41-640.webp,public/assets/catalog-a49a19d09eac41-640.webp,"/en/products/models/menu-nizza/; /produkte/modelle/menu-nizza/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a49a19d09eac41.webp,public/assets/catalog-a49a19d09eac41.webp,"/en/products/models/menu-nizza/; /produkte/modelle/menu-nizza/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-a73ad511f86b59-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-a73ad511f86b59.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-aa15f4c9f6195a-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-aa15f4c9f6195a.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ab0aedd31b38fd-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ab0aedd31b38fd.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-aba26d85bcd070-640.webp,public/assets/catalog-aba26d85bcd070-640.webp,"/en/products/models/rfid-cardholder/; /produkte/modelle/rfid-cardholder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-aba26d85bcd070.webp,public/assets/catalog-aba26d85bcd070.webp,"/en/products/models/rfid-cardholder/; /produkte/modelle/rfid-cardholder/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-af106c759b328a-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-af106c759b328a.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-b121b71e866e80-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-b121b71e866e80.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-b40da6bec49021-640.webp,public/assets/catalog-b40da6bec49021-640.webp,"/en/products/models/shoe-boxen/; /produkte/modelle/shoe-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-b40da6bec49021.webp,public/assets/catalog-b40da6bec49021.webp,"/en/products/models/shoe-boxen/; /produkte/modelle/shoe-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-b47609d897b331-640.webp,public/assets/catalog-b47609d897b331-640.webp,"/en/products/models/bankettblotter/; /produkte/modelle/bankettblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-b47609d897b331.webp,public/assets/catalog-b47609d897b331.webp,"/en/products/models/bankettblotter/; /produkte/modelle/bankettblotter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-b670102cc46b68-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-b670102cc46b68.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-b6ab2e5121710d-640.webp,public/assets/catalog-b6ab2e5121710d-640.webp,"/en/products/models/visitenkartenetuis/; /produkte/modelle/visitenkartenetuis/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-b6ab2e5121710d.webp,public/assets/catalog-b6ab2e5121710d.webp,"/en/products/models/visitenkartenetuis/; /produkte/modelle/visitenkartenetuis/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-ba0db5a87b6e30-640.webp,public/assets/catalog-ba0db5a87b6e30-640.webp,"/en/products/models/prospektstander/; /produkte/modelle/prospektstander/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-ba0db5a87b6e30.webp,public/assets/catalog-ba0db5a87b6e30.webp,"/en/products/models/prospektstander/; /produkte/modelle/prospektstander/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-bcc502b33995dd-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-bcc502b33995dd.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-bd3256451395e0-640.webp,public/assets/catalog-bd3256451395e0-640.webp,"/en/products/models/visitenkartenetuis/; /produkte/modelle/visitenkartenetuis/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-bd3256451395e0.webp,public/assets/catalog-bd3256451395e0.webp,"/en/products/models/visitenkartenetuis/; /produkte/modelle/visitenkartenetuis/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c01104c358fad6-640.webp,public/assets/catalog-c01104c358fad6-640.webp,"/en/products/models/laundry-boxen/; /produkte/modelle/laundry-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c01104c358fad6.webp,public/assets/catalog-c01104c358fad6.webp,"/en/products/models/laundry-boxen/; /produkte/modelle/laundry-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c4aa105e649bd4-640.webp,public/assets/catalog-c4aa105e649bd4-640.webp,"/en/products/models/menu-bonn/; /produkte/modelle/menu-bonn/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c4aa105e649bd4.webp,public/assets/catalog-c4aa105e649bd4.webp,"/en/products/models/menu-bonn/; /produkte/modelle/menu-bonn/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c4f6593ab323a1-640.webp,public/assets/catalog-c4f6593ab323a1-640.webp,"/en/products/models/tischaufsteller/; /produkte/modelle/tischaufsteller/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c4f6593ab323a1.webp,public/assets/catalog-c4f6593ab323a1.webp,"/en/products/models/tischaufsteller/; /produkte/modelle/tischaufsteller/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c5cef15d04babc-640.webp,public/assets/catalog-c5cef15d04babc-640.webp,"/en/products/models/trays/; /produkte/modelle/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c5cef15d04babc.webp,public/assets/catalog-c5cef15d04babc.webp,"/en/products/models/trays/; /produkte/modelle/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c7e7586b1f6b82-640.webp,public/assets/catalog-c7e7586b1f6b82-640.webp,"/en/products/models/notizblockhalter/; /produkte/modelle/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-c7e7586b1f6b82.webp,public/assets/catalog-c7e7586b1f6b82.webp,"/en/products/models/notizblockhalter/; /produkte/modelle/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d2226365ff6d02-640.webp,public/assets/catalog-d2226365ff6d02-640.webp,"/en/products/models/kosmetik/; /produkte/modelle/kosmetik/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d2226365ff6d02.webp,public/assets/catalog-d2226365ff6d02.webp,"/en/products/models/kosmetik/; /produkte/modelle/kosmetik/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d2c92ff406f511-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-d2c92ff406f511.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-d41cf4a22e87bd-640.webp,public/assets/catalog-d41cf4a22e87bd-640.webp,"/en/products/models/kofferanhanger/; /produkte/modelle/kofferanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d41cf4a22e87bd.webp,public/assets/catalog-d41cf4a22e87bd.webp,"/en/products/models/kofferanhanger/; /produkte/modelle/kofferanhanger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d52ba3f4f59a12-640.webp,public/assets/catalog-d52ba3f4f59a12-640.webp,"/en/products/models/rechnungsmappen/; /produkte/modelle/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d52ba3f4f59a12.webp,public/assets/catalog-d52ba3f4f59a12.webp,"/en/products/models/rechnungsmappen/; /produkte/modelle/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-d5e98640274a12-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-d5e98640274a12.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-d80bbd8cec1324-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-d80bbd8cec1324.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dad130932ec782-640.webp,public/assets/catalog-dad130932ec782-640.webp,"/en/products/models/airport-calling-signs/; /produkte/modelle/airport-calling-signs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-dad130932ec782.webp,public/assets/catalog-dad130932ec782.webp,"/en/products/models/airport-calling-signs/; /produkte/modelle/airport-calling-signs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-dd6fa3767eacca-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dd6fa3767eacca.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dea90f2aff44fe-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dea90f2aff44fe.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dfb9a38c7fc513-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-dfb9a38c7fc513.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-e31e8f3369f86c-640.webp,public/assets/catalog-e31e8f3369f86c-640.webp,"/en/products/models/tischsets/; /produkte/modelle/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-e31e8f3369f86c.webp,public/assets/catalog-e31e8f3369f86c.webp,"/en/products/models/tischsets/; /produkte/modelle/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-e5e35e2da22b7b-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-e5e35e2da22b7b.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-e6c51306dab63b-640.webp,public/assets/catalog-e6c51306dab63b-640.webp,"/en/products/models/laundry-boxen/; /produkte/modelle/laundry-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-e6c51306dab63b.webp,public/assets/catalog-e6c51306dab63b.webp,"/en/products/models/laundry-boxen/; /produkte/modelle/laundry-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-e7bbec0df3ba09-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-e7bbec0df3ba09.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ea43fbeb6f63b7-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ea43fbeb6f63b7.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ea7814e4ebd339-640.webp,public/assets/catalog-ea7814e4ebd339-640.webp,"/en/products/models/menu-london/; /produkte/modelle/menu-london/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-ea7814e4ebd339.webp,public/assets/catalog-ea7814e4ebd339.webp,"/en/products/models/menu-london/; /produkte/modelle/menu-london/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-ef44352c398d85-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ef44352c398d85.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-f5adf6bab67fd9-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-f5adf6bab67fd9.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-f6be3ca6e476a6-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-f6be3ca6e476a6.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-fa304044c3fbf8-640.webp,public/assets/catalog-fa304044c3fbf8-640.webp,"/en/products/models/shoe-boxen/; /produkte/modelle/shoe-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-fa304044c3fbf8.webp,public/assets/catalog-fa304044c3fbf8.webp,"/en/products/models/shoe-boxen/; /produkte/modelle/shoe-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/catalog-fe92112a7f13b0-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-fe92112a7f13b0.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ff0f9b545f8a6a-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/catalog-ff0f9b545f8a6a.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/coaster-scene-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/coaster-scene-640.webp,public/assets/coaster-scene-640.webp,"/en/products/coasters/; /produkte/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/coaster-scene.webp,public/assets/coaster-scene.webp,"/en/products/coasters/; /produkte/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/coaster.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/company-story.css,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/configurator.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/contact.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/craft.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/cutout-notepad-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/cutout-notepad-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/cutout-notepad.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/desk.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/dining-scene-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/dining-scene-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/dining-scene.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/editorial.woff,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/enquiry-model.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/experience.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/favicon-v16.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/favicon.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/finish-study-640.webp,public/assets/finish-study-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/finish-study.webp,public/assets/finish-study.webp,"/en/company/; /en/materials/; /materialien/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/gifts-640.webp,public/assets/gifts-640.webp,"/; /en/; /en/collections/; /en/solutions/clubs/; /kollektionen/; /loesungen/clubs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/gifts.webp,public/assets/gifts.webp,"/; /en/; /en/collections/; /en/solutions/clubs/; /kollektionen/; /loesungen/clubs/","übernommen, Dateiname unverändert"
+03_ASSETS/site/hero-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/hero.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/hotel-original.jpg,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/keyring.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/leather.webp,public/assets/leather.webp,"/en/journal/; /en/journal/choosing-materials-for-hospitality/; /en/materials/; /journal/; /journal/materialauswahl-hospitality/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/licenses/CormorantGaramond-OFL.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/licenses/Manrope-OFL.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/linen.webp,public/assets/linen.webp,"/en/materials/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-bmw-roundel.svg,public/assets/logo-bmw-roundel.svg,"/; /en/; /en/company/; /en/projects/; /en/projects/bmw-group-classic/; /projekte/; /projekte/bmw-group-classic/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-east-footer.png,public/assets/logo-east-footer.png,"/; /en/; /en/company/; /en/projects/; /en/projects/east-group/; /projekte/; /projekte/east-group/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-hapag-lloyd-cruises-current.svg,public/assets/logo-hapag-lloyd-cruises-current.svg,"/en/projects/hapag-lloyd-tui/; /projekte/hapag-lloyd-tui/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-hapag-lloyd-cruises.svg,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/logo-hyatt.svg,public/assets/logo-hyatt.svg,"/; /en/; /en/company/; /en/projects/; /en/projects/grand-hyatt-vox/; /projekte/; /projekte/grand-hyatt-vox/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-kempinski.svg,public/assets/logo-kempinski.svg,"/en/projects/vier-jahreszeiten-muenchen/; /projekte/vier-jahreszeiten-muenchen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-marriott.svg,public/assets/logo-marriott.svg,"/; /en/; /en/company/; /en/projects/; /en/projects/marriott-berlin/; /projekte/; /projekte/marriott-berlin/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-ritz.svg,public/assets/logo-ritz.svg,"/; /en/; /en/company/; /en/projects/; /en/projects/ritz-carlton-wolfsburg/; /projekte/; /projekte/ritz-carlton-wolfsburg/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-tui-cruises-current.svg,public/assets/logo-tui-cruises-current.svg,"/en/projects/hapag-lloyd-tui/; /projekte/hapag-lloyd-tui/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo-tui-cruises.svg,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/logo-williambllair.svg,public/assets/logo-williambllair.svg,"/; /en/; /en/company/; /en/projects/; /en/projects/william-blair/; /projekte/; /projekte/william-blair/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/logo.png,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/luggage-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/luggage-detail-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/luggage-detail-v3-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/luggage-detail-v3-640.webp,public/assets/luggage-detail-v3-640.webp,"/en/products/luggage-tags/; /en/white-label/; /produkte/kofferanhaenger/; /white-label/","übernommen, Dateiname unverändert"
+03_ASSETS/site/luggage-detail-v3.webp,public/assets/luggage-detail-v3.webp,"/en/products/luggage-tags/; /en/white-label/; /produkte/kofferanhaenger/; /white-label/","übernommen, Dateiname unverändert"
+03_ASSETS/site/luggage-detail.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/luggage.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/material-v20.css,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/materials.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/menu-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/menu-detail-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/menu-detail-v3-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/menu-detail-v3-640.webp,public/assets/menu-detail-v3-640.webp,"/en/products/menu-covers/; /en/services/; /leistungen/; /produkte/speisekarten/","übernommen, Dateiname unverändert"
+03_ASSETS/site/menu-detail-v3.webp,public/assets/menu-detail-v3.webp,"/en/products/menu-covers/; /en/services/; /leistungen/; /produkte/speisekarten/","übernommen, Dateiname unverändert"
+03_ASSETS/site/menu-detail.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/menu-filter.css,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/menu-filter.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/menu.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/notepad-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/notepad.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-lid-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-lid.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-open-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity-open.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-amenity.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-box-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-box-640.webp,public/assets/original-bill-box-640.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bill-box.webp,public/assets/original-bill-box.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bill-folder-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-folder-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-folder.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-interior-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-interior-640.webp,public/assets/original-bill-interior-640.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bill-interior.webp,public/assets/original-bill-interior.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bill-presenter-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bill-presenter.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-colours-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-colours-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-colours.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-corner-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bin-corner-640.webp,public/assets/original-bin-corner-640.webp,"/en/products/waste-bins/; /produkte/papierkoerbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bin-corner.webp,public/assets/original-bin-corner.webp,"/en/products/waste-bins/; /produkte/papierkoerbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bin.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bmw-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-bmw-detail-640.webp,public/assets/original-bmw-detail-640.webp,"/en/projects/bmw-group-classic/; /projekte/bmw-group-classic/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-bmw-detail.webp,public/assets/original-bmw-detail.webp,"/en/projects/bmw-group-classic/; /projekte/bmw-group-classic/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-cardholder.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-coaster-forms-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-coaster-forms-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-coaster-forms.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-coaster-grain-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-coaster-grain-640.webp,public/assets/original-coaster-grain-640.webp,"/en/products/coasters/; /produkte/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-coaster-grain.webp,public/assets/original-coaster-grain.webp,"/en/products/coasters/; /produkte/coaster/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-coaster.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-condiment-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-condiment-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-condiment.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-cutlery-tray.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-edge-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-edge-640.webp,public/assets/original-desk-edge-640.webp,"/en/products/desk-pads/; /produkte/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-desk-edge.webp,public/assets/original-desk-edge.webp,"/en/products/desk-pads/; /produkte/schreibunterlagen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-desk-pen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-pen-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk-pen.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-desk.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-dining-table-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-dining-table-640.webp,public/assets/original-dining-table-640.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/tischsets/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/tischsets/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-dining-table.webp,public/assets/original-dining-table.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/tischsets/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/tischsets/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-gift-pouch.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-guest-directory-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-guest-directory-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-guest-directory.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-keyring-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-keyring-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-keyring-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-keyring-detail-640.webp,public/assets/original-keyring-detail-640.webp,"/en/products/keyrings/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-keyring-detail.webp,public/assets/original-keyring-detail.webp,"/en/products/keyrings/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-keyring-hardware-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-keyring-hardware-640.webp,public/assets/original-keyring-hardware-640.webp,"/en/products/keyrings/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-keyring-hardware.webp,public/assets/original-keyring-hardware.webp,"/en/products/keyrings/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-keyring.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-luggage-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-luggage-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-luggage-form-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-luggage-form-640.webp,public/assets/original-luggage-form-640.webp,"/en/products/luggage-tags/; /produkte/kofferanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-luggage-form.webp,public/assets/original-luggage-form.webp,"/en/products/luggage-tags/; /produkte/kofferanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-luggage-window-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-luggage-window-640.webp,public/assets/original-luggage-window-640.webp,"/en/products/luggage-tags/; /produkte/kofferanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-luggage-window.webp,public/assets/original-luggage-window.webp,"/en/products/luggage-tags/; /produkte/kofferanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-luggage.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-menu-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-menu-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-menu-binding-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-menu-binding-640.webp,public/assets/original-menu-binding-640.webp,"/en/company/; /en/products/menu-covers/; /produkte/speisekarten/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-menu-binding.webp,public/assets/original-menu-binding.webp,"/en/company/; /en/products/menu-covers/; /produkte/speisekarten/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-menu-hidden-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-menu-hidden-640.webp,public/assets/original-menu-hidden-640.webp,"/en/products/menu-covers/; /produkte/speisekarten/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-menu-hidden.webp,public/assets/original-menu-hidden.webp,"/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/; /en/products/menu-covers/; /journal/speisekarten-rechnungsmappen-restaurantidentitaet/; /produkte/speisekarten/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-menu.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-notepad-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-notepad-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-notepad-felt-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-notepad-felt-640.webp,public/assets/original-notepad-felt-640.webp,"/en/products/notepad-holders/; /produkte/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-notepad-felt.webp,public/assets/original-notepad-felt.webp,"/en/products/notepad-holders/; /produkte/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-notepad-open-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-notepad-open-640.webp,public/assets/original-notepad-open-640.webp,"/en/products/notepad-holders/; /produkte/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-notepad-open.webp,public/assets/original-notepad-open.webp,"/en/products/notepad-holders/; /produkte/notizblockhalter/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-notepad.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-pen-pot-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-pen-pot-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-pen-pot.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-placemat-colours-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-placemat-colours-640.webp,public/assets/original-placemat-colours-640.webp,"/en/products/placemats/; /produkte/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-placemat-colours.webp,public/assets/original-placemat-colours.webp,"/en/products/placemats/; /produkte/tischsets/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-placemat-shape-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-placemat-shape-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-placemat-shape.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-placemat.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tissue-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tissue-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tissue-base-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tissue-base-640.webp,public/assets/original-tissue-base-640.webp,"/en/products/tissue-box-covers/; /produkte/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tissue-base.webp,public/assets/original-tissue-base.webp,"/en/products/tissue-box-covers/; /produkte/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tissue-refill-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tissue-refill-640.webp,public/assets/original-tissue-refill-640.webp,"/en/products/tissue-box-covers/; /produkte/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tissue-refill.webp,public/assets/original-tissue-refill.webp,"/en/products/tissue-box-covers/; /produkte/tissue-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tissue.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-cable-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-cable-640.webp,public/assets/original-tray-cable-640.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray-cable.webp,public/assets/original-tray-cable.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray-detail-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-detail-640.webp,public/assets/original-tray-detail-640.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray-detail.webp,public/assets/original-tray-detail.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray-insert-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/original-tray-insert-640.webp,public/assets/original-tray-insert-640.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray-insert.webp,public/assets/original-tray-insert.webp,"/en/products/hospitality-trays/; /produkte/trays/","übernommen, Dateiname unverändert"
+03_ASSETS/site/original-tray.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/placeholder-v20.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/placemat.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/production.jpg,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/refinement.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/room-scene-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/room-scene-640.webp,public/assets/room-scene-640.webp,"/en/journal/; /en/journal/planning-a-hotel-accessory-collection/; /en/materials/; /journal/; /journal/hotelaccessoires-als-kollektion/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/room-scene.webp,public/assets/room-scene.webp,"/en/journal/; /en/journal/planning-a-hotel-accessory-collection/; /en/materials/; /journal/; /journal/hotelaccessoires-als-kollektion/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/rye-OFL.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/rye-v22.woff,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/sans.woff,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/site.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/source-sans-3-OFL-v16.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/source-sans-3-v16.woff2,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/source-serif-4-OFL-v16.txt,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/source-serif-4-italic-v16.woff2,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/source-serif-4-v16.woff2,,,"nicht übernommen: alte Schrift, ersetzt durch Old Copper"
+03_ASSETS/site/suede-v19.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/swatch-15fbb1cf7396f4-640.webp,public/assets/swatch-15fbb1cf7396f4-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-15fbb1cf7396f4.webp,public/assets/swatch-15fbb1cf7396f4.webp,"/en/products/models/bankettcoaster/; /en/products/models/check-in-mappen/; /en/products/models/kosmetik/; /en/products/models/menu-bonn/; /en/products/models/menu-clipboard/; /en/products/models/menu-fine-dining/; /en/products/models/menu-grand-dinner/; /en/products/models/menu-grande-bistro/; /en/products/models/menu-hamburg/; /en/products/models/menu-london/; /en/products/models/menu-passepartout/; /en/products/models/menu-ringbinder/; … (44 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-34d1ed2ca43ea5-640.webp,public/assets/swatch-34d1ed2ca43ea5-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-34d1ed2ca43ea5.webp,public/assets/swatch-34d1ed2ca43ea5.webp,"/en/products/models/airport-calling-signs/; /en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/bestecktabletts/; /en/products/models/check-in-mappen/; /en/products/models/coaster/; /en/products/models/condiment-boxen/; /en/products/models/empfangsblotter/; /en/products/models/kosmetik/; /en/products/models/laundry-boxen/; /en/products/models/laundry-list-holder/; … (80 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-429e05fb87c4da-640.webp,public/assets/swatch-429e05fb87c4da-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-429e05fb87c4da.webp,public/assets/swatch-429e05fb87c4da.webp,"/en/products/models/airport-calling-signs/; /en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/bestecktabletts/; /en/products/models/check-in-mappen/; /en/products/models/condiment-boxen/; /en/products/models/empfangsblotter/; /en/products/models/laundry-boxen/; /en/products/models/menu-berlin/; /en/products/models/menu-bonn/; /en/products/models/menu-clipboard/; … (68 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-45fca939ab8d81-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/swatch-45fca939ab8d81.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/swatch-46e479068b0a04-640.webp,public/assets/swatch-46e479068b0a04-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-46e479068b0a04.webp,public/assets/swatch-46e479068b0a04.webp,"/en/products/models/airport-calling-signs/; /en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/check-in-mappen/; /en/products/models/coaster/; /en/products/models/condiment-boxen/; /en/products/models/empfangsblotter/; /en/products/models/kofferanhanger/; /en/products/models/kosmetik/; /en/products/models/laundry-boxen/; /en/products/models/laundry-list-holder/; … (78 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-550ff591cf4aaf-640.webp,public/assets/swatch-550ff591cf4aaf-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-550ff591cf4aaf.webp,public/assets/swatch-550ff591cf4aaf.webp,"/en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/check-in-mappen/; /en/products/models/empfangsblotter/; /en/products/models/laundry-boxen/; /en/products/models/menu-berlin/; /en/products/models/menu-bonn/; /en/products/models/menu-clipboard/; /en/products/models/menu-fine-dining/; /en/products/models/menu-grande-bistro/; /en/products/models/menu-london/; /en/products/models/menu-passepartout/; … (50 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-684cf28501e410-640.webp,public/assets/swatch-684cf28501e410-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-684cf28501e410.webp,public/assets/swatch-684cf28501e410.webp,"/en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/check-in-mappen/; /en/products/models/coaster/; /en/products/models/empfangsblotter/; /en/products/models/kofferanhanger/; /en/products/models/kosmetik/; /en/products/models/laundry-boxen/; /en/products/models/lesezeichen/; /en/products/models/menu-berlin/; /en/products/models/menu-bonn/; … (62 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-8456fdf0eecff7-640.webp,public/assets/swatch-8456fdf0eecff7-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-8456fdf0eecff7.webp,public/assets/swatch-8456fdf0eecff7.webp,"/en/products/models/menu-berlin/; /en/products/models/menu-bonn/; /en/products/models/menu-clipboard/; /en/products/models/menu-fine-dining/; /en/products/models/menu-grande-bistro/; /en/products/models/menu-london/; /en/products/models/menu-passepartout/; /en/products/models/menu-ringbinder/; /en/products/models/menu-rome/; /en/products/models/rechnungsboxen/; /en/products/models/rechnungsmappen/; /en/products/models/schreibmappen/; … (30 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-9246e064e588a0-640.webp,public/assets/swatch-9246e064e588a0-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-9246e064e588a0.webp,public/assets/swatch-9246e064e588a0.webp,"/en/products/models/airport-calling-signs/; /en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/check-in-mappen/; /en/products/models/coaster/; /en/products/models/condiment-boxen/; /en/products/models/empfangsblotter/; /en/products/models/kofferanhanger/; /en/products/models/kosmetik/; /en/products/models/laundry-boxen/; /en/products/models/laundry-list-holder/; … (78 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-99dafc90149b51-640.webp,public/assets/swatch-99dafc90149b51-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-99dafc90149b51.webp,public/assets/swatch-99dafc90149b51.webp,"/en/products/models/coaster/; /en/products/models/kofferanhanger/; /en/products/models/kosmetik/; /en/products/models/lesezeichen/; /en/products/models/menu-berlin/; /en/products/models/menu-bonn/; /en/products/models/menu-clipboard/; /en/products/models/menu-fine-dining/; /en/products/models/menu-grande-bistro/; /en/products/models/menu-hamburg/; /en/products/models/menu-london/; /en/products/models/menu-passepartout/; … (44 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-c37df3f3d7a4a0-640.webp,public/assets/swatch-c37df3f3d7a4a0-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/swatch-c37df3f3d7a4a0.webp,public/assets/swatch-c37df3f3d7a4a0.webp,"/en/products/models/airport-calling-signs/; /en/products/models/amenity-boxen/; /en/products/models/bankettblotter/; /en/products/models/bankettcoaster/; /en/products/models/bestecktabletts/; /en/products/models/check-in-mappen/; /en/products/models/coaster/; /en/products/models/condiment-boxen/; /en/products/models/empfangsblotter/; /en/products/models/kofferanhanger/; /en/products/models/kosmetik/; /en/products/models/laundry-boxen/; … (80 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/swatch-c6b30c3cce8365-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/swatch-c6b30c3cce8365.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tissue-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tissue.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tray-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tray-detail-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tray-detail.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tray-scene-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/tray-scene-640.webp,public/assets/tray-scene-640.webp,"/en/process/; /en/solutions/yachts/; /loesungen/yachts/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/tray-scene.webp,public/assets/tray-scene.webp,"/en/process/; /en/solutions/yachts/; /loesungen/yachts/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/tray.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-amenity-scene-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-amenity-scene-640.webp,public/assets/v10-amenity-scene-640.webp,"/; /en/; /en/collections/; /en/collections/other-accessories/; /en/products/amenity-boxes/; /kollektionen/; /kollektionen/weitere-objekte/; /produkte/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-amenity-scene.webp,public/assets/v10-amenity-scene.webp,"/; /en/; /en/collections/; /en/collections/other-accessories/; /en/products/amenity-boxes/; /kollektionen/; /kollektionen/weitere-objekte/; /produkte/amenity-boxen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-blind-debossing-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-blind-debossing-640.webp,public/assets/v10-blind-debossing-640.webp,"/; /en/; /en/journal/; /en/journal/blind-debossing-and-foil-stamping/; /journal/; /journal/blindpraegung-folienpraegung/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-blind-debossing.webp,public/assets/v10-blind-debossing.webp,"/; /en/; /en/journal/; /en/journal/blind-debossing-and-foil-stamping/; /journal/; /journal/blindpraegung-folienpraegung/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-bmw-seat-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-bmw-seat-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-bmw-seat.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-boutique-world-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-boutique-world-640.webp,public/assets/v10-boutique-world-640.webp,"/; /en/; /en/journal/; /en/journal/bespoke-and-small-batch-production/; /journal/; /journal/sonderanfertigung-kleinserie/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-boutique-world.webp,public/assets/v10-boutique-world.webp,"/; /en/; /en/journal/; /en/journal/bespoke-and-small-batch-production/; /journal/; /journal/sonderanfertigung-kleinserie/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-coordinated-collection-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-coordinated-collection-640.webp,public/assets/v10-coordinated-collection-640.webp,"/; /en/; /en/company/; /en/journal/; /en/journal/coordinating-leather-accessories-for-hotel-rooms/; /en/services/; /journal/; /journal/hotelzimmer-lederaccessoires-abstimmen/; /leistungen/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-coordinated-collection.webp,public/assets/v10-coordinated-collection.webp,"/; /en/; /en/company/; /en/journal/; /en/journal/coordinating-leather-accessories-for-hotel-rooms/; /en/services/; /journal/; /journal/hotelzimmer-lederaccessoires-abstimmen/; /leistungen/; /unternehmen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-menu-restaurant-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-menu-restaurant-640.webp,public/assets/v10-menu-restaurant-640.webp,"/; /en/; /en/collections/dining/; /en/journal/; /en/journal/menu-covers-binding-and-format/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/placemats/; /journal/; /journal/speisekarten-bindung-format/; /kollektionen/dining/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-menu-restaurant.webp,public/assets/v10-menu-restaurant.webp,"/; /en/; /en/collections/dining/; /en/journal/; /en/journal/menu-covers-binding-and-format/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/placemats/; /journal/; /journal/speisekarten-bindung-format/; /kollektionen/dining/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-1-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-process-1-640.webp,public/assets/v10-process-1-640.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-1.webp,public/assets/v10-process-1.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-2-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-process-2-640.webp,public/assets/v10-process-2-640.webp,"/; /en/; /en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-2.webp,public/assets/v10-process-2.webp,"/; /en/; /en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-3-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-process-3-640.webp,public/assets/v10-process-3-640.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-3.webp,public/assets/v10-process-3.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-4-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-process-4-640.webp,public/assets/v10-process-4-640.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-4.webp,public/assets/v10-process-4.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-5-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v10-process-5-640.webp,public/assets/v10-process-5-640.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v10-process-5.webp,public/assets/v10-process-5.webp,"/en/process/; /prozess/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v11-flat-leather-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v11-flat-leather-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v11-flat-leather.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-amenity-boxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-amenity-boxen-640.webp,public/assets/v13-amenity-boxen-640.webp,"/en/collections/other-accessories/; /en/products/; /en/products/amenity-boxes/; /en/products/models/amenity-boxen/; /kollektionen/weitere-objekte/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/amenity-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-amenity-boxen.webp,public/assets/v13-amenity-boxen.webp,"/en/collections/other-accessories/; /en/products/; /en/products/amenity-boxes/; /en/products/models/amenity-boxen/; /kollektionen/weitere-objekte/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/amenity-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bankettblotter-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-bankettblotter-640.webp,public/assets/v13-bankettblotter-640.webp,"/en/products/; /en/products/desk-pads/; /en/products/models/bankettblotter/; /produkte/; /produkte/modelle/bankettblotter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bankettblotter.webp,public/assets/v13-bankettblotter.webp,"/en/products/; /en/products/desk-pads/; /en/products/models/bankettblotter/; /produkte/; /produkte/modelle/bankettblotter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bankettcoaster-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-bankettcoaster-640.webp,public/assets/v13-bankettcoaster-640.webp,"/en/products/; /en/products/coasters/; /en/products/models/bankettcoaster/; /produkte/; /produkte/coaster/; /produkte/modelle/bankettcoaster/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bankettcoaster.webp,public/assets/v13-bankettcoaster.webp,"/en/products/; /en/products/coasters/; /en/products/models/bankettcoaster/; /produkte/; /produkte/coaster/; /produkte/modelle/bankettcoaster/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bestecktabletts-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-bestecktabletts-640.webp,public/assets/v13-bestecktabletts-640.webp,"/en/products/; /en/products/hospitality-trays/; /en/products/models/bestecktabletts/; /produkte/; /produkte/modelle/bestecktabletts/; /produkte/trays/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-bestecktabletts.webp,public/assets/v13-bestecktabletts.webp,"/en/products/; /en/products/hospitality-trays/; /en/products/models/bestecktabletts/; /produkte/; /produkte/modelle/bestecktabletts/; /produkte/trays/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-blair-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-case-blair-640.webp,public/assets/v13-case-blair-640.webp,"/; /en/; /en/products/coasters/; /en/products/desk-pads/; /en/projects/; /en/projects/william-blair/; /en/solutions/executive-offices/; /en/solutions/interior-design/; /loesungen/executive-offices/; /loesungen/interior-design/; /produkte/coaster/; /produkte/schreibunterlagen/; … (14 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-blair.webp,public/assets/v13-case-blair.webp,"/; /en/; /en/products/coasters/; /en/products/desk-pads/; /en/projects/; /en/projects/william-blair/; /en/solutions/executive-offices/; /en/solutions/interior-design/; /loesungen/executive-offices/; /loesungen/interior-design/; /produkte/coaster/; /produkte/schreibunterlagen/; … (14 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-hapag-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-case-hapag-640.webp,public/assets/v13-case-hapag-640.webp,"/en/products/; /en/products/models/kosmetik/; /en/projects/; /en/projects/hapag-lloyd-tui/; /en/solutions/corporate-gifts/; /loesungen/corporate-gifts/; /produkte/; /produkte/modelle/kosmetik/; /projekte/; /projekte/hapag-lloyd-tui/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-hapag.webp,public/assets/v13-case-hapag.webp,"/en/products/; /en/products/models/kosmetik/; /en/projects/; /en/projects/hapag-lloyd-tui/; /en/solutions/corporate-gifts/; /loesungen/corporate-gifts/; /produkte/; /produkte/modelle/kosmetik/; /projekte/; /projekte/hapag-lloyd-tui/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-ritz-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-case-ritz-640.webp,public/assets/v13-case-ritz-640.webp,"/en/projects/; /en/projects/ritz-carlton-wolfsburg/; /en/solutions/hotels/; /loesungen/hotels/; /projekte/; /projekte/ritz-carlton-wolfsburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-ritz.webp,public/assets/v13-case-ritz.webp,"/en/projects/; /en/projects/ritz-carlton-wolfsburg/; /en/solutions/hotels/; /loesungen/hotels/; /projekte/; /projekte/ritz-carlton-wolfsburg/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-vier-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-case-vier-640.webp,public/assets/v13-case-vier-640.webp,"/; /en/; /en/products/amenity-boxes/; /en/products/hospitality-trays/; /en/products/notepad-holders/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /en/projects/; /en/projects/vier-jahreszeiten-muenchen/; /en/solutions/hotels/; /en/solutions/interior-design/; /loesungen/hotels/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-case-vier.webp,public/assets/v13-case-vier.webp,"/; /en/; /en/products/amenity-boxes/; /en/products/hospitality-trays/; /en/products/notepad-holders/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /en/projects/; /en/projects/vier-jahreszeiten-muenchen/; /en/solutions/hotels/; /en/solutions/interior-design/; /loesungen/hotels/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-check-in-mappen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-check-in-mappen-640.webp,public/assets/v13-check-in-mappen-640.webp,"/en/products/; /en/products/models/check-in-mappen/; /produkte/; /produkte/modelle/check-in-mappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-check-in-mappen.webp,public/assets/v13-check-in-mappen.webp,"/en/products/; /en/products/models/check-in-mappen/; /produkte/; /produkte/modelle/check-in-mappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-coaster-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-coaster-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-coaster-forms-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-coaster-forms-640.webp,public/assets/v13-coaster-forms-640.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/coaster/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/coaster/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-coaster-forms.webp,public/assets/v13-coaster-forms.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/coaster/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/coaster/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-coaster.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-condiment-boxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-condiment-boxen-640.webp,public/assets/v13-condiment-boxen-640.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/condiment-boxen/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/condiment-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-condiment-boxen.webp,public/assets/v13-condiment-boxen.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/condiment-boxen/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/condiment-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-empfangsblotter-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-empfangsblotter-640.webp,public/assets/v13-empfangsblotter-640.webp,"/en/products/; /en/products/desk-pads/; /en/products/models/empfangsblotter/; /produkte/; /produkte/modelle/empfangsblotter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-empfangsblotter.webp,public/assets/v13-empfangsblotter.webp,"/en/products/; /en/products/desk-pads/; /en/products/models/empfangsblotter/; /produkte/; /produkte/modelle/empfangsblotter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-kofferanhanger-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-kofferanhanger-640.webp,public/assets/v13-kofferanhanger-640.webp,"/en/collections/travel-gifts/; /en/products/; /en/products/keyrings/; /en/products/luggage-tags/; /en/products/models/kofferanhanger/; /kollektionen/travel-gifts/; /produkte/; /produkte/kofferanhaenger/; /produkte/modelle/kofferanhanger/; /produkte/schluesselanhaenger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-kofferanhanger.webp,public/assets/v13-kofferanhanger.webp,"/en/collections/travel-gifts/; /en/products/; /en/products/keyrings/; /en/products/luggage-tags/; /en/products/models/kofferanhanger/; /kollektionen/travel-gifts/; /produkte/; /produkte/kofferanhaenger/; /produkte/modelle/kofferanhanger/; /produkte/schluesselanhaenger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-laundry-boxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-laundry-boxen-640.webp,public/assets/v13-laundry-boxen-640.webp,"/en/products/; /en/products/models/laundry-boxen/; /produkte/; /produkte/modelle/laundry-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-laundry-boxen.webp,public/assets/v13-laundry-boxen.webp,"/en/products/; /en/products/models/laundry-boxen/; /produkte/; /produkte/modelle/laundry-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-laundry-list-holder-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-laundry-list-holder-640.webp,public/assets/v13-laundry-list-holder-640.webp,"/en/products/; /en/products/models/laundry-list-holder/; /produkte/; /produkte/modelle/laundry-list-holder/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-laundry-list-holder.webp,public/assets/v13-laundry-list-holder.webp,"/en/products/; /en/products/models/laundry-list-holder/; /produkte/; /produkte/modelle/laundry-list-holder/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-lesezeichen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-lesezeichen-640.webp,public/assets/v13-lesezeichen-640.webp,"/en/products/; /en/products/models/lesezeichen/; /produkte/; /produkte/modelle/lesezeichen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-lesezeichen.webp,public/assets/v13-lesezeichen.webp,"/en/products/; /en/products/models/lesezeichen/; /produkte/; /produkte/modelle/lesezeichen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-berlin-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-berlin-640.webp,public/assets/v13-menu-berlin-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-berlin/; /produkte/; /produkte/modelle/menu-berlin/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-berlin.webp,public/assets/v13-menu-berlin.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-berlin/; /produkte/; /produkte/modelle/menu-berlin/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-bonn-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-bonn-640.webp,public/assets/v13-menu-bonn-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-bonn/; /produkte/; /produkte/modelle/menu-bonn/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-bonn.webp,public/assets/v13-menu-bonn.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-bonn/; /produkte/; /produkte/modelle/menu-bonn/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-clipboard-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-clipboard-640.webp,public/assets/v13-menu-clipboard-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-clipboard/; /produkte/; /produkte/modelle/menu-clipboard/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-clipboard.webp,public/assets/v13-menu-clipboard.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-clipboard/; /produkte/; /produkte/modelle/menu-clipboard/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-fine-dining-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-fine-dining-640.webp,public/assets/v13-menu-fine-dining-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-fine-dining/; /produkte/; /produkte/modelle/menu-fine-dining/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-fine-dining.webp,public/assets/v13-menu-fine-dining.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-fine-dining/; /produkte/; /produkte/modelle/menu-fine-dining/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-grand-dinner-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-grand-dinner-640.webp,public/assets/v13-menu-grand-dinner-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-grand-dinner/; /produkte/; /produkte/modelle/menu-grand-dinner/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-grand-dinner.webp,public/assets/v13-menu-grand-dinner.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-grand-dinner/; /produkte/; /produkte/modelle/menu-grand-dinner/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-grande-bistro-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-grande-bistro-640.webp,public/assets/v13-menu-grande-bistro-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-grande-bistro/; /produkte/; /produkte/modelle/menu-grande-bistro/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-grande-bistro.webp,public/assets/v13-menu-grande-bistro.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-grande-bistro/; /produkte/; /produkte/modelle/menu-grande-bistro/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-hamburg-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-hamburg-640.webp,public/assets/v13-menu-hamburg-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-hamburg/; /produkte/; /produkte/modelle/menu-hamburg/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-hamburg.webp,public/assets/v13-menu-hamburg.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-hamburg/; /produkte/; /produkte/modelle/menu-hamburg/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-london-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-london-640.webp,public/assets/v13-menu-london-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-london/; /produkte/; /produkte/modelle/menu-london/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-london.webp,public/assets/v13-menu-london.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-london/; /produkte/; /produkte/modelle/menu-london/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-nizza-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-nizza-640.webp,public/assets/v13-menu-nizza-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-nizza/; /produkte/; /produkte/modelle/menu-nizza/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-nizza.webp,public/assets/v13-menu-nizza.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-nizza/; /produkte/; /produkte/modelle/menu-nizza/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-passepartout-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-passepartout-640.webp,public/assets/v13-menu-passepartout-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-passepartout/; /produkte/; /produkte/modelle/menu-passepartout/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-passepartout.webp,public/assets/v13-menu-passepartout.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-passepartout/; /produkte/; /produkte/modelle/menu-passepartout/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-ringbinder-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-ringbinder-640.webp,public/assets/v13-menu-ringbinder-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-ringbinder/; /produkte/; /produkte/modelle/menu-ringbinder/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-ringbinder.webp,public/assets/v13-menu-ringbinder.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-ringbinder/; /produkte/; /produkte/modelle/menu-ringbinder/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-rome-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-rome-640.webp,public/assets/v13-menu-rome-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-rome/; /produkte/; /produkte/modelle/menu-rome/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-rome.webp,public/assets/v13-menu-rome.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-rome/; /produkte/; /produkte/modelle/menu-rome/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-vintage-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-menu-vintage-640.webp,public/assets/v13-menu-vintage-640.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-vintage/; /produkte/; /produkte/modelle/menu-vintage/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-menu-vintage.webp,public/assets/v13-menu-vintage.webp,"/en/products/; /en/products/menu-covers/; /en/products/models/menu-vintage/; /produkte/; /produkte/modelle/menu-vintage/; /produkte/speisekarten/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-notizblockhalter-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-notizblockhalter-640.webp,public/assets/v13-notizblockhalter-640.webp,"/en/collections/desk-table/; /en/products/; /en/products/amenity-boxes/; /en/products/desk-pads/; /en/products/hospitality-trays/; /en/products/models/notizblockhalter/; /en/products/notepad-holders/; /kollektionen/schreibkultur-tisch/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/notizblockhalter/; /produkte/notizblockhalter/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-notizblockhalter.webp,public/assets/v13-notizblockhalter.webp,"/en/collections/desk-table/; /en/products/; /en/products/amenity-boxes/; /en/products/desk-pads/; /en/products/hospitality-trays/; /en/products/models/notizblockhalter/; /en/products/notepad-holders/; /kollektionen/schreibkultur-tisch/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/notizblockhalter/; /produkte/notizblockhalter/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-papierkorbe-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-papierkorbe-640.webp,public/assets/v13-papierkorbe-640.webp,"/en/collections/room-accessories/; /en/products/; /en/products/models/papierkorbe/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /kollektionen/raumaccessoires/; /produkte/; /produkte/modelle/papierkorbe/; /produkte/papierkoerbe/; /produkte/tissue-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-papierkorbe.webp,public/assets/v13-papierkorbe.webp,"/en/collections/room-accessories/; /en/products/; /en/products/models/papierkorbe/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /kollektionen/raumaccessoires/; /produkte/; /produkte/modelle/papierkorbe/; /produkte/papierkoerbe/; /produkte/tissue-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-prospektstander-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-prospektstander-640.webp,public/assets/v13-prospektstander-640.webp,"/en/products/; /en/products/models/prospektstander/; /produkte/; /produkte/modelle/prospektstander/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-prospektstander.webp,public/assets/v13-prospektstander.webp,"/en/products/; /en/products/models/prospektstander/; /produkte/; /produkte/modelle/prospektstander/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rechnungsboxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-rechnungsboxen-640.webp,public/assets/v13-rechnungsboxen-640.webp,"/en/products/; /en/products/bill-presenters/; /en/products/models/rechnungsboxen/; /produkte/; /produkte/modelle/rechnungsboxen/; /produkte/rechnungsmappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rechnungsboxen.webp,public/assets/v13-rechnungsboxen.webp,"/en/products/; /en/products/bill-presenters/; /en/products/models/rechnungsboxen/; /produkte/; /produkte/modelle/rechnungsboxen/; /produkte/rechnungsmappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rechnungsmappen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-rechnungsmappen-640.webp,public/assets/v13-rechnungsmappen-640.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/rechnungsmappen/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/rechnungsmappen/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rechnungsmappen.webp,public/assets/v13-rechnungsmappen.webp,"/en/collections/dining/; /en/products/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/models/rechnungsmappen/; /en/products/placemats/; /kollektionen/dining/; /produkte/; /produkte/coaster/; /produkte/modelle/rechnungsmappen/; /produkte/rechnungsmappen/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rfid-cardholder-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-rfid-cardholder-640.webp,public/assets/v13-rfid-cardholder-640.webp,"/en/products/; /en/products/models/rfid-cardholder/; /produkte/; /produkte/modelle/rfid-cardholder/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-rfid-cardholder.webp,public/assets/v13-rfid-cardholder.webp,"/en/products/; /en/products/models/rfid-cardholder/; /produkte/; /produkte/modelle/rfid-cardholder/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-schlusselanhanger-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-schlusselanhanger-640.webp,public/assets/v13-schlusselanhanger-640.webp,"/en/collections/travel-gifts/; /en/products/; /en/products/keyrings/; /en/products/luggage-tags/; /en/products/models/schlusselanhanger/; /kollektionen/travel-gifts/; /produkte/; /produkte/kofferanhaenger/; /produkte/modelle/schlusselanhanger/; /produkte/schluesselanhaenger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-schlusselanhanger.webp,public/assets/v13-schlusselanhanger.webp,"/en/collections/travel-gifts/; /en/products/; /en/products/keyrings/; /en/products/luggage-tags/; /en/products/models/schlusselanhanger/; /kollektionen/travel-gifts/; /produkte/; /produkte/kofferanhaenger/; /produkte/modelle/schlusselanhanger/; /produkte/schluesselanhaenger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-schreibunterlagen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-schreibunterlagen-640.webp,public/assets/v13-schreibunterlagen-640.webp,"/en/collections/desk-table/; /en/products/; /en/products/desk-pads/; /en/products/models/schreibunterlagen/; /en/products/notepad-holders/; /kollektionen/schreibkultur-tisch/; /produkte/; /produkte/modelle/schreibunterlagen/; /produkte/notizblockhalter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-schreibunterlagen.webp,public/assets/v13-schreibunterlagen.webp,"/en/collections/desk-table/; /en/products/; /en/products/desk-pads/; /en/products/models/schreibunterlagen/; /en/products/notepad-holders/; /kollektionen/schreibkultur-tisch/; /produkte/; /produkte/modelle/schreibunterlagen/; /produkte/notizblockhalter/; /produkte/schreibunterlagen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-shoe-boxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-shoe-boxen-640.webp,public/assets/v13-shoe-boxen-640.webp,"/en/products/; /en/products/models/shoe-boxen/; /produkte/; /produkte/modelle/shoe-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-shoe-boxen.webp,public/assets/v13-shoe-boxen.webp,"/en/products/; /en/products/models/shoe-boxen/; /produkte/; /produkte/modelle/shoe-boxen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-stiftekocher-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-stiftekocher-640.webp,public/assets/v13-stiftekocher-640.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/stiftekocher/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/stiftekocher/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-stiftekocher.webp,public/assets/v13-stiftekocher.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/stiftekocher/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/stiftekocher/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-tischaufsteller-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-tischaufsteller-640.webp,public/assets/v13-tischaufsteller-640.webp,"/en/products/; /en/products/models/tischaufsteller/; /produkte/; /produkte/modelle/tischaufsteller/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-tischaufsteller.webp,public/assets/v13-tischaufsteller.webp,"/en/products/; /en/products/models/tischaufsteller/; /produkte/; /produkte/modelle/tischaufsteller/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-tissue-boxen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-tissue-boxen-640.webp,public/assets/v13-tissue-boxen-640.webp,"/en/collections/room-accessories/; /en/products/; /en/products/amenity-boxes/; /en/products/hospitality-trays/; /en/products/models/tissue-boxen/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /kollektionen/raumaccessoires/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/tissue-boxen/; /produkte/papierkoerbe/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-tissue-boxen.webp,public/assets/v13-tissue-boxen.webp,"/en/collections/room-accessories/; /en/products/; /en/products/amenity-boxes/; /en/products/hospitality-trays/; /en/products/models/tissue-boxen/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /kollektionen/raumaccessoires/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/tissue-boxen/; /produkte/papierkoerbe/; … (16 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-trays-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-trays-640.webp,public/assets/v13-trays-640.webp,"/en/collections/trays-organisers/; /en/products/; /en/products/hospitality-trays/; /en/products/models/trays/; /kollektionen/trays-ablage/; /produkte/; /produkte/modelle/trays/; /produkte/trays/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-trays.webp,public/assets/v13-trays.webp,"/en/collections/trays-organisers/; /en/products/; /en/products/hospitality-trays/; /en/products/models/trays/; /kollektionen/trays-ablage/; /produkte/; /produkte/modelle/trays/; /produkte/trays/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-turanhanger-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-turanhanger-640.webp,public/assets/v13-turanhanger-640.webp,"/en/products/; /en/products/models/turanhanger/; /produkte/; /produkte/modelle/turanhanger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-turanhanger.webp,public/assets/v13-turanhanger.webp,"/en/products/; /en/products/models/turanhanger/; /produkte/; /produkte/modelle/turanhanger/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-visitenkartenetuis-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-visitenkartenetuis-640.webp,public/assets/v13-visitenkartenetuis-640.webp,"/en/products/; /en/products/models/visitenkartenetuis/; /produkte/; /produkte/modelle/visitenkartenetuis/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-visitenkartenetuis.webp,public/assets/v13-visitenkartenetuis.webp,"/en/products/; /en/products/models/visitenkartenetuis/; /produkte/; /produkte/modelle/visitenkartenetuis/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-zimmermappen-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v13-zimmermappen-640.webp,public/assets/v13-zimmermappen-640.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v13-zimmermappen.webp,public/assets/v13-zimmermappen.webp,"/en/products/; /en/products/amenity-boxes/; /en/products/models/schreibmappen/; /en/products/models/zimmermappen/; /produkte/; /produkte/amenity-boxen/; /produkte/modelle/schreibmappen/; /produkte/modelle/zimmermappen/; Konfigurator (de); Konfigurator (en)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v15-bmw-seat-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v15-bmw-seat-640.webp,public/assets/v15-bmw-seat-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v15-bmw-seat.webp,public/assets/v15-bmw-seat.webp,"/; /en/; /en/products/luggage-tags/; /en/projects/; /en/projects/bmw-group-classic/; /en/solutions/corporate-gifts/; /en/white-label/; /loesungen/corporate-gifts/; /produkte/kofferanhaenger/; /projekte/; /projekte/bmw-group-classic/; /white-label/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v19-suede-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v19-suede.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v5-bill-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v5-bill-640.webp,public/assets/v5-bill-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v5-bill.webp,public/assets/v5-bill.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v5-desk-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v5-desk-640.webp,public/assets/v5-desk-640.webp,"/en/services/; /en/solutions/executive-offices/; /leistungen/; /loesungen/executive-offices/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v5-desk.webp,public/assets/v5-desk.webp,"/en/services/; /en/solutions/executive-offices/; /leistungen/; /loesungen/executive-offices/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v5-gifts-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v5-gifts-640.webp,public/assets/v5-gifts-640.webp,"/en/journal/; /en/journal/planning-bespoke-leather-gifts/; /en/products/keyrings/; /journal/; /journal/ledergeschenke-planen/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v5-gifts.webp,public/assets/v5-gifts.webp,"/en/journal/; /en/journal/planning-bespoke-leather-gifts/; /en/products/keyrings/; /journal/; /journal/ledergeschenke-planen/; /produkte/schluesselanhaenger/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-collection-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v7-collection-640.webp,public/assets/v7-collection-640.webp,"/; /en/; /en/journal/; /en/journal/from-interior-concept-to-product-brief/; /en/materials/; /journal/; /journal/interior-konzept-produktbrief/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-collection.webp,public/assets/v7-collection.webp,"/; /en/; /en/journal/; /en/journal/from-interior-concept-to-product-brief/; /en/materials/; /journal/; /journal/interior-konzept-produktbrief/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-dining-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v7-dining-640.webp,public/assets/v7-dining-640.webp,"/; /en/; /en/collections/; /en/materials/; /kollektionen/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-dining.webp,public/assets/v7-dining.webp,"/; /en/; /en/collections/; /en/materials/; /kollektionen/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-macro-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v7-macro-640.webp,public/assets/v7-macro-640.webp,"/; /en/; /en/journal/; /en/journal/a-material-palette-not-a-single-colour/; /journal/; /journal/materialwelt-statt-einheitsfarbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v7-macro.webp,public/assets/v7-macro.webp,"/; /en/; /en/journal/; /en/journal/a-material-palette-not-a-single-colour/; /journal/; /journal/materialwelt-statt-einheitsfarbe/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-collection-room-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-collection-room-640.webp,public/assets/v8-collection-room-640.webp,"/; /en/; /en/collections/; /en/collections/room-accessories/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/yachts/; /kollektionen/; /kollektionen/raumaccessoires/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-collection-room.webp,public/assets/v8-collection-room.webp,"/; /en/; /en/collections/; /en/collections/room-accessories/; /en/products/tissue-box-covers/; /en/products/waste-bins/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/yachts/; /kollektionen/; /kollektionen/raumaccessoires/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-collection-table-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-collection-table-640.webp,public/assets/v8-collection-table-640.webp,"/; /en/; /en/collections/; /en/collections/trays-organisers/; /en/products/hospitality-trays/; /en/solutions/clubs/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/private-aviation/; /en/solutions/yachts/; /kollektionen/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-collection-table.webp,public/assets/v8-collection-table.webp,"/; /en/; /en/collections/; /en/collections/trays-organisers/; /en/products/hospitality-trays/; /en/solutions/clubs/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/private-aviation/; /en/solutions/yachts/; /kollektionen/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-desk-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-on-set-desk-640.webp,public/assets/v8-on-set-desk-640.webp,"/; /en/; /en/collections/desk-table/; /en/products/desk-pads/; /en/products/notepad-holders/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/private-aviation/; /en/solutions/restaurants/; /en/solutions/yachts/; /kollektionen/schreibkultur-tisch/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-desk.webp,public/assets/v8-on-set-desk.webp,"/; /en/; /en/collections/desk-table/; /en/journal/coordinating-leather-accessories-for-hotel-rooms/; /en/products/desk-pads/; /en/products/notepad-holders/; /en/solutions/executive-offices/; /en/solutions/hotels/; /en/solutions/interior-design/; /en/solutions/private-aviation/; /en/solutions/restaurants/; /en/solutions/yachts/; … (22 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-dining-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-on-set-dining-640.webp,public/assets/v8-on-set-dining-640.webp,"/; /en/; /en/collections/dining/; /en/journal/; /en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/placemats/; /en/solutions/clubs/; /en/solutions/restaurants/; /journal/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-dining.webp,public/assets/v8-on-set-dining.webp,"/; /en/; /en/collections/dining/; /en/journal/; /en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/; /en/products/bill-presenters/; /en/products/coasters/; /en/products/menu-covers/; /en/products/placemats/; /en/solutions/clubs/; /en/solutions/restaurants/; /journal/; … (20 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-room-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-on-set-room-640.webp,public/assets/v8-on-set-room-640.webp,"/; /en/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-room.webp,public/assets/v8-on-set-room.webp,"/; /en/","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-travel-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v8-on-set-travel-640.webp,public/assets/v8-on-set-travel-640.webp,"/; /en/; /en/collections/travel-gifts/; /en/journal/; /en/journal/client-gifts-and-employee-gifts/; /en/products/keyrings/; /en/products/luggage-tags/; /en/solutions/clubs/; /en/solutions/corporate-gifts/; /en/solutions/private-aviation/; /journal/; /journal/kundenbindung-mitarbeitergeschenke/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v8-on-set-travel.webp,public/assets/v8-on-set-travel.webp,"/; /en/; /en/collections/travel-gifts/; /en/journal/; /en/journal/client-gifts-and-employee-gifts/; /en/products/keyrings/; /en/products/luggage-tags/; /en/solutions/clubs/; /en/solutions/corporate-gifts/; /en/solutions/private-aviation/; /journal/; /journal/kundenbindung-mitarbeitergeschenke/; … (18 Stellen)","übernommen, Dateiname unverändert"
+03_ASSETS/site/v9-tissue-original-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v9-tissue-original-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v9-tissue-original.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v9-tray-original-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v9-tray-original-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v9-tray-original.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/validation.js,,,nicht übernommen: Logik/Stil neu umgesetzt (src/)
+03_ASSETS/site/wood.webp,public/assets/wood.webp,"/en/materials/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/wordmark-light.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/wordmark-v16.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/wordmark-v9.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/wordmark.svg,,,"nicht übernommen: altes Logo, ersetzt durch 04_BRAND"
+03_ASSETS/site/writing-scene-640.webp,public/assets/writing-scene-640.webp,"/; /en/; /en/collections/; /en/materials/; /en/solutions/private-aviation/; /kollektionen/; /loesungen/private-aviation/; /materialien/","übernommen, Dateiname unverändert"
+03_ASSETS/site/writing-scene.webp,public/assets/writing-scene.webp,"/; /en/; /en/collections/; /en/materials/; /en/solutions/private-aviation/; /kollektionen/; /loesungen/private-aviation/; /materialien/","übernommen, Dateiname unverändert"
+04_BRAND/assets/generated/Logos/charcoal/SFP_01_hauptlogo_v0618_charcoal.svg,public/brand/logos/SFP_01_hauptlogo_v0618_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_01_hauptlogo_v0618_forest.svg,public/brand/logos/SFP_01_hauptlogo_v0618_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_01_hauptlogo_v0618_paper.svg,public/brand/logos/SFP_01_hauptlogo_v0618_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_01_hauptlogo_v100_charcoal.svg,public/brand/logos/SFP_01_hauptlogo_v100_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_01_hauptlogo_v100_forest.svg,public/brand/logos/SFP_01_hauptlogo_v100_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_01_hauptlogo_v100_paper.svg,public/brand/logos/SFP_01_hauptlogo_v100_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_02_horizontal_charcoal.svg,public/brand/logos/SFP_02_horizontal_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_02_horizontal_forest.svg,public/brand/logos/SFP_02_horizontal_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_02_horizontal_paper.svg,public/brand/logos/SFP_02_horizontal_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_03_quadrat_v0618_charcoal.svg,public/brand/logos/SFP_03_quadrat_v0618_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_03_quadrat_v0618_forest.svg,public/brand/logos/SFP_03_quadrat_v0618_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_03_quadrat_v0618_paper.svg,public/brand/logos/SFP_03_quadrat_v0618_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_03_quadrat_v100_charcoal.svg,public/brand/logos/SFP_03_quadrat_v100_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_03_quadrat_v100_forest.svg,public/brand/logos/SFP_03_quadrat_v100_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_03_quadrat_v100_paper.svg,public/brand/logos/SFP_03_quadrat_v100_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_04_kompakt_v0618_charcoal.svg,public/brand/logos/SFP_04_kompakt_v0618_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_04_kompakt_v0618_forest.svg,public/brand/logos/SFP_04_kompakt_v0618_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_04_kompakt_v0618_paper.svg,public/brand/logos/SFP_04_kompakt_v0618_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_04_kompakt_v100_charcoal.svg,public/brand/logos/SFP_04_kompakt_v100_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_04_kompakt_v100_forest.svg,public/brand/logos/SFP_04_kompakt_v100_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_04_kompakt_v100_paper.svg,public/brand/logos/SFP_04_kompakt_v100_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_05_wortmarke_berlin_charcoal.svg,public/brand/logos/SFP_05_wortmarke_berlin_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_05_wortmarke_berlin_forest.svg,public/brand/logos/SFP_05_wortmarke_berlin_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_05_wortmarke_berlin_paper.svg,public/brand/logos/SFP_05_wortmarke_berlin_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_06_symbol_wortmarke_charcoal.svg,public/brand/logos/SFP_06_symbol_wortmarke_charcoal.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/copper/SFP_06_symbol_wortmarke_copper.svg,public/brand/logos/SFP_06_symbol_wortmarke_copper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_06_symbol_wortmarke_forest.svg,public/brand/logos/SFP_06_symbol_wortmarke_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_06_symbol_wortmarke_paper.svg,public/brand/logos/SFP_06_symbol_wortmarke_paper.svg,alle Seiten (Header/Footer/Favicon),"übernommen, unverändert"
+04_BRAND/assets/generated/Logos/charcoal/SFP_07_symbol_charcoal.svg,public/brand/logos/SFP_07_symbol_charcoal.svg,alle Seiten (Header/Footer/Favicon),"übernommen, unverändert"
+04_BRAND/assets/generated/Logos/copper/SFP_07_symbol_copper.svg,public/brand/logos/SFP_07_symbol_copper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_07_symbol_forest.svg,public/brand/logos/SFP_07_symbol_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_07_symbol_paper.svg,public/brand/logos/SFP_07_symbol_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/charcoal/SFP_08_wortmarke_charcoal.svg,public/brand/logos/SFP_08_wortmarke_charcoal.svg,alle Seiten (Header/Footer/Favicon),"übernommen, unverändert"
+04_BRAND/assets/generated/Logos/copper/SFP_08_wortmarke_copper.svg,public/brand/logos/SFP_08_wortmarke_copper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/forest/SFP_08_wortmarke_forest.svg,public/brand/logos/SFP_08_wortmarke_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_08_wortmarke_paper.svg,public/brand/logos/SFP_08_wortmarke_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/assets/fonts/Montserrat-OFL.txt,public/brand/fonts/Montserrat-OFL.txt,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"
+04_BRAND/assets/generated/assets/fonts/Montserrat.woff2,public/brand/fonts/Montserrat.woff2,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"
+04_BRAND/assets/generated/assets/fonts/Newsreader-OFL.txt,public/brand/fonts/Newsreader-OFL.txt,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"
+04_BRAND/assets/generated/assets/fonts/Newsreader.woff2,public/brand/fonts/Newsreader.woff2,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"

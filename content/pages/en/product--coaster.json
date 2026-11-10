@@ -1,0 +1,587 @@
+{
+ "language": "en",
+ "key": "product:coaster",
+ "slug": "product--coaster",
+ "url": "/en/products/coasters/",
+ "template": "family",
+ "title": "Coasters",
+ "description": "A coaster sits where conversation, gesture and hospitality meet. Colour, outline and branding give this small format a character of its own.",
+ "alternate": {
+  "de": "/produkte/coaster/",
+  "en": "/en/products/coasters/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/dining/",
+     "label": "Menu covers & dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Coasters"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A coaster sits where conversation, gesture and hospitality meet. Colour, outline and branding give this small format a character of its own.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=coaster",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Coasters",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Round and square coasters in different materials — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A small surface. A distinct identity."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A coaster places a precise accent beneath the glass. At this small scale, outline, grain, edge and branding become immediately apparent. Round Ø 100 mm and square 100 × 100 mm are the classic starting sizes. A Ø 130 mm bottle coaster and 350 × 110 mm conference coaster provide related formats. Each organises a different situation: a single glass, a bottle, or several glasses in a meeting or banqueting setting. Colour and finish can echo a placemat, tray or menu cover, creating a quiet connection across the table. The object remains small, yet repetition throughout a room gives it a noticeable presence."
+    },
+    {
+     "type": "p",
+     "html": "Plan with the glasses and bottles actually used rather than a nominal measurement alone. Base diameter, condensation, location and the way staff clear the table all belong in the sample review. Underside and care are agreed for the specific surface; they do not imply a general performance promise. Branding artwork is assessed at actual size. Fine marks need sufficient distance from edge and stitching to retain composure on the small field. For a conference coaster, also establish which glasses are intended to sit together. The drinks mat becomes a practical tabletop accessory whose proportions and identity respond precisely to its setting."
+    },
+    {
+     "type": "p",
+     "html": "For bar, guest room and meeting areas, record glass type, format and item reference separately. The common material language remains visible while the right coaster reaches the intended setting."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-coaster-grain.webp",
+     "alt": "Debossing on a leather coaster",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/coaster-scene.webp",
+     "alt": "Glass on a cognac leather coaster beside an olive placemat",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Consider the diameter of the intended glassware",
+        "Agree the underside and care for the material",
+        "Assess branding at its actual size"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=coaster",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=coaster"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "For glasses, bottles or meetings",
+     "body": [
+      {
+       "type": "p",
+       "html": "Glass diameter and the available surface define the starting point. Bottle coasters and conference formats extend the possibilities."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Material in use",
+     "body": [
+      {
+       "type": "p",
+       "html": "Drinks, moisture and cleaning belong in the material discussion. Review a sample in its intended setting."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Restrained branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Even a small logo needs space. Its scale and position should work with the outline and grain."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individually or as part of a coordinated tabletop collection",
+      "Select materials with use and care in mind",
+      "Personalisation according to specification"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formats",
+     "v": "Round Ø 100 mm / square 100 × 100 mm"
+    },
+    {
+     "k": "Related formats",
+     "v": "Bottle coaster Ø 130 mm / conference coaster 350 × 110 mm"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "William Blair"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-blair.webp",
+     "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/william-blair/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/william-blair/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/dining/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/placemats/",
+     "title": "Placemats",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered foundation for your table setting. Shape, proportions and finish are selected around the table, tableware and service routine."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats in restaurant service",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/menu-covers/",
+     "title": "Menu covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Your menu deserves a considered presentation. Selected bindings and materials connect your restaurant’s character with the requirements of service."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail of screw-post binding in an SFP menu cover",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/bill-presenters/",
+     "title": "Bill presenters &amp; bill boxes",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered final touch to service. Bill presentation can echo the materials and colours of your menu covers and tabletop accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Closed branded bill folder — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/coaster/\">Coasters</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Glass and bottle coasters protect table surfaces and carry a restaurant or bar’s material scheme through to each place setting. Genuine leather, PU leather and felt are available, in round, square, oval and other shapes. Dimensions, corners, decorative stitching and branding are specified to suit the glassware, bottles and overall table setting."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Coasters — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/coaster/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=coaster",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/coaster/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/bankettcoaster/\">Banquet Coasters</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Banquet coasters protect conference tables beneath glasses and bottles and can be coordinated with matching desk pads. The 350 × 110 mm starting size can be made single- or double-sided and adapted to custom dimensions. Bottle recesses, square or rounded corners, decorative stitching and branding organise drinks and reinforce the material scheme at each place."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-bankettcoaster.webp",
+       "alt": "Banquet Coasters — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/bankettcoaster/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=bankettcoaster",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/bankettcoaster/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

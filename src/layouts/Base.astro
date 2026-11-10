@@ -1,0 +1,58 @@
+---
+import '../styles/tokens.css';
+import '../styles/base.css';
+import '../styles/site.css';
+import '../styles/blocks.css';
+import '../styles/forms.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import type { Lang } from '../lib/types';
+import { t } from '../i18n/ui';
+
+interface Props { lang: Lang; title: string; description?: string; url: string; alternate?: Partial<Record<Lang, string>>; template?: string }
+const { lang, title, description, url, alternate = {}, template = 'page' } = Astro.props;
+const ui = t(lang);
+const fullTitle = /SFP/.test(title) ? title : `${title} · SFP`;
+---
+<!doctype html>
+<html lang={lang} data-template={template}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <!-- Entwurfsstand: wie die Bestandssite bis zur Freigabe nicht indexieren. -->
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#F5F1E9" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="preload" href="/brand/fonts/Newsreader.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/brand/fonts/Montserrat.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="icon" href="/brand/logos/SFP_07_symbol_charcoal.svg" type="image/svg+xml" />
+    <link rel="canonical" href={url} />
+    {alternate.de && <link rel="alternate" hreflang="de" href={alternate.de} />}
+    {alternate.en && <link rel="alternate" hreflang="en" href={alternate.en} />}
+    {alternate.de && <link rel="alternate" hreflang="x-default" href={alternate.de} />}
+    <meta property="og:title" content={fullTitle} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:type" content="website" />
+    <script is:inline>
+      // Bewegung nur mit JS und ohne reduzierte Bewegung; ohne JS bleibt alles sichtbar.
+      (function () {
+        var d = document.documentElement;
+        d.classList.add('js');
+        if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) d.classList.add('motion');
+      })();
+    </script>
+  </head>
+  <body class="tone-ivory">
+    <a class="skip" href="#main">{ui.skip}</a>
+    <Header lang={lang} url={url} alternate={alternate} />
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    <script>
+      import '../scripts/site';
+    </script>
+  </body>
+</html>

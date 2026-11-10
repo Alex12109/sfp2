@@ -1,0 +1,43 @@
+---
+import { navigation } from '../lib/content';
+import type { Lang } from '../lib/types';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const nav = navigation[lang];
+const f = nav.footer;
+const [links, contact] = [f.columns.slice(0, 2), f.columns[2]];
+---
+<footer class="site-footer tone-charcoal">
+  <div class="wrap">
+    <div class="ruler" aria-hidden="true"></div>
+    <div class="site-footer__top">
+      <a class="site-footer__logo" href={nav.home}>
+        <img src="/brand/logos/SFP_06_symbol_wortmarke_paper.svg" alt="SFP" width="300" height="116" loading="lazy" />
+      </a>
+      <p class="site-footer__claim">{f.claim}</p>
+    </div>
+    <div class="site-footer__grid">
+      <div class="site-footer__meta">
+        <p class="label label--plain">{f.origin}</p>
+        <p>{f.scope}</p>
+      </div>
+      {links.map((c) => (
+        <nav aria-label={c.title}>
+          <h2 class="site-footer__h">{c.title}</h2>
+          <ul>{c.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+        </nav>
+      ))}
+      <div>
+        <h2 class="site-footer__h">{contact.title}</h2>
+        <ul>
+          {contact.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+        </ul>
+        <address>{f.address.map((line) => <span>{line}</span>)}</address>
+      </div>
+    </div>
+    <div class="site-footer__base">
+      <p>{f.copyright}</p>
+      <ul>{f.legal.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+    </div>
+  </div>
+</footer>

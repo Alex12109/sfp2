@@ -1,0 +1,280 @@
+{
+ "language": "en",
+ "key": "projects",
+ "slug": "projects",
+ "url": "/en/projects/",
+ "template": "page",
+ "title": "Projects that show what we do.",
+ "description": "Leather accessories for BMW Group Classic Events, VOX at Grand Hyatt Berlin, bespoke guest-room schemes and corporate offices.",
+ "alternate": {
+  "de": "/projekte/",
+  "en": "/en/projects/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Projects that show what we do."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather accessories for BMW Group Classic Events, VOX at Grand Hyatt Berlin, bespoke guest-room schemes and corporate offices.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/bmw-group-classic/",
+     "title": "BMW Group Classic Events",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "Luggage tag with BMW Group Classic branding in detail",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "title": "Grand Hyatt Berlin · VOX",
+     "body": [
+      {
+       "type": "p",
+       "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Leather menu cover with the VOX logo on a set table",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "title": "Vier Jahreszeiten, München",
+     "body": [
+      {
+       "type": "p",
+       "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/ritz-carlton-wolfsburg/",
+     "title": "The Ritz-Carlton, Wolfsburg",
+     "body": [
+      {
+       "type": "p",
+       "html": "A genuine-leather key card holder for The Ritz-Carlton in Wolfsburg, developed directly with the hotel."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-ritz.webp",
+       "alt": "Black key card holder with The Ritz-Carlton Wolfsburg debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/william-blair/",
+     "title": "William Blair",
+     "body": [
+      {
+       "type": "p",
+       "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/hapag-lloyd-tui/",
+     "title": "Hapag-Lloyd Cruises &amp; TUI",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags and cosmetic pouches for the clients’ own travel offices in Europe. Directly commissioned accessories with a clear connection to travel."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-hapag.webp",
+       "alt": "Luggage tag and travel pouch with Hapag-Lloyd Cruises branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Further client relationships."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/projects/marriott-berlin/\">Marriott Hotel BerlinGuest-room accessories and menu covers for Marriott Hotel Berlin. A relationship spanning accommodation and dining, including repeat orders.</a><a href=\"/en/projects/east-group/\">east GROUP, HamburgA range of leather accessories for a varied hospitality setting. The relationship with east GROUP began in 2012, with personal advice and quality at the heart of its client feedback.</a><a href=\"/en/projects/stadt-hamburg-sylt/\">Hotel Stadt Hamburg, SyltQuality leather accessories and a direct line to Berlin. Hotel Stadt Hamburg on Sylt values personal coordination in a relationship developed over several years.</a>",
+     "role": "case-list"
+    }
+   ]
+  },
+  {
+   "kind": "reference-logos",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/bmw-group-classic/",
+     "role": "logo-bmw"
+    },
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "logo-grand"
+    },
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/william-blair/",
+     "role": "logo-william"
+    },
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/marriott-berlin/",
+     "role": "logo-marriott"
+    },
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/ritz-carlton-wolfsburg/",
+     "role": "logo-ritz"
+    },
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/east-group/",
+     "role": "logo-east"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

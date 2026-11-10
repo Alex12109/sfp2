@@ -1,0 +1,198 @@
+{
+ "language": "en",
+ "key": "case:hapag-lloyd-tui",
+ "slug": "case--hapag-lloyd-tui",
+ "url": "/en/projects/hapag-lloyd-tui/",
+ "template": "project",
+ "title": "Hapag-Lloyd Cruises & TUI · Travel accessories for personal client contact.",
+ "description": "Luggage tags and cosmetic pouches for the clients’ own travel offices in Europe. Directly commissioned accessories with a clear connection to travel.",
+ "alternate": {
+  "de": "/projekte/hapag-lloyd-tui/",
+  "en": "/en/projects/hapag-lloyd-tui/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Travel accessories for personal client contact."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Luggage tags and cosmetic pouches for the clients’ own travel offices in Europe. Directly commissioned accessories with a clear connection to travel.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-hapag-lloyd-cruises-current.svg",
+     "alt": "Hapag-Lloyd Cruises",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/logo-tui-cruises-current.svg",
+     "alt": "TUI Cruises",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-hapag.webp",
+     "alt": "Luggage tag and travel pouch with Hapag-Lloyd Cruises branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "Hapag-Lloyd Cruises &amp; TUI"
+    },
+    {
+     "k": "Application",
+     "v": "Travel · Branded gifts"
+    },
+    {
+     "k": "Scope",
+     "v": "Luggage tags · Cosmetic pouches · Travel offices"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hapag-Lloyd Cruises operates luxury and expedition cruises; its fleet includes EUROPA and EUROPA 2 alongside three HANSEATIC expedition ships. SFP’s project was created for Hapag-Lloyd Cruises and TUI travel offices in Europe. These offices are personal touchpoints before the journey itself, where advice, choice and anticipation meet the brands. The directly commissioned gifts therefore needed a natural relationship to the occasion. Luggage tags and cosmetic pouches were selected as two objects with an immediate connection to travel."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The selection pairs a luggage tag for identifying a case with a pouch for personal travel essentials. Both belong to the travel context, but they perform different tasks. Attachment, the address field and the treatment of personal information are central to the tag. The pouch depends on its contents, opening, closure and ease of handling. Material, colour and branding can create a shared identity without forcing the two objects into the same construction."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP handled the product realisation of the selection for the travel offices. With a two-piece gift range, development begins with the shared presentation: how prominent should the brand be, which material and colour direction should connect the objects, and how will they be presented at the point of consultation? The specification then follows each function. A luggage tag needs to sit compactly on a case, while a pouch requires usable volume and an accessible opening. Recurring branding can make the pieces read as a set while their proportions remain driven by use."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The two accessories give the gift a logical place in the customer journey. They are presented in the travel office but intended for the trip that follows. The relationship with the brand is therefore attached to a specific use: the tag accompanies the luggage and the pouch organises personal items. Hapag-Lloyd Cruises and TUI received a selection that connects consultation and travel through one product idea. It also gives office teams a clear story when presenting the pieces, without requiring a lengthy explanation of their relevance."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-hapag-detail.webp",
+     "alt": "Details of the Hapag-Lloyd travel accessories",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Hapag-Lloyd%20Cruises%20%26%20TUI",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

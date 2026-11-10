@@ -1,0 +1,316 @@
+{
+ "language": "en",
+ "key": "scenario:interior-design",
+ "slug": "scenario--interior-design",
+ "url": "/en/solutions/interior-design/",
+ "template": "scenario",
+ "title": "Your design continues beyond the furniture.",
+ "description": "Bespoke accessories as part of your interior scheme. For interior designers, architects and project teams with a clear creative direction.",
+ "alternate": {
+  "de": "/loesungen/interior-design/",
+  "en": "/en/solutions/interior-design/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Your design continues beyond the furniture."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke accessories as part of your interior scheme. For interior designers, architects and project teams with a clear creative direction.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Interior%20design%20%26%20architecture",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A material board establishes a direction; a product brief makes it actionable. Add available surface dimensions, use and quantities to colour and finish references. This separates open design questions from fixed technical constraints. Samples and artwork bring the two together in a specification that can be reviewed."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Translate an interior into objects"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A successful interior depends on considered proportions and materials. Small functional objects can reinforce that coherence. We translate moodboards, material samples and sketches into proposals for leather and wood accessories, shaped around the furniture, intended use and brand identity."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From design intent to a reviewable specification"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Custom dimensions, shapes and compartments are developed entirely around your design and requirements. Technical layouts clarify the details; a physical sample makes scale and tactility tangible. Fine genuine Italian leather, high-quality PU in an extensive range of colours and finishes, and other appropriate materials are considered against your scheme. The agreed accessories are handmade in the EU."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "A clear basis for coordination"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Dimensioned surfaces, relevant furniture elevations, colour references, logo artwork and quantities per item give us a useful starting point. Tell us which details are essential and where there is room to explore. This makes open questions visible early and allows meaningful comparison between specifications."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/room-accessories/",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Moodboard, material scheme, dimensioned sketches and an accessory schedule."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Interior%20design%20%26%20architecture",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From our work."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "title": "Vier Jahreszeiten, München",
+     "body": [
+      {
+       "type": "p",
+       "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/william-blair/",
+     "title": "William Blair",
+     "body": [
+      {
+       "type": "p",
+       "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/briefing-a-bespoke-project/\">What makes a useful bespoke brief?From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.Read the article</a><a href=\"/en/journal/bespoke-and-small-batch-production/\">When a bespoke specification makes sense.An established model, a custom adaptation or a new development: choosing the right route for your project.Read the article</a><a href=\"/en/journal/a-material-palette-not-a-single-colour/\">A material palette is more than a colour.How leather, stitching, timber and metal become a coherent collection without making every accessory look the same.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "language": "en",
+ "key": "item:laundry-list-holder",
+ "slug": "item--laundry-list-holder",
+ "url": "/en/products/models/laundry-list-holder/",
+ "template": "model",
+ "title": "Laundry List Holders · Bespoke specification",
+ "description": "The laundry list holder presents information about the laundry service while storing small care items. Pockets hold forms or a shoe cloth, and two S-hooks can carry a shoehorn or clothes brush. The 350 × 480 × 30 mm format can be adapted. PU leather or microfibre, stitching, pockets and branding organise the arrangement inside the wardrobe.",
+ "alternate": {
+  "de": "/produkte/modelle/laundry-list-holder/",
+  "en": "/en/products/models/laundry-list-holder/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Laundry List Holders"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The laundry list holder presents information about the laundry service while storing small care items. Pockets hold forms or a shoe cloth, and two S-hooks can carry a shoehorn or clothes brush. The 350 × 480 × 30 mm format can be adapted. PU leather or microfibre, stitching, pockets and branding organise the arrangement inside the wardrobe.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Laundry service organiser",
+      "Formats: 350 x 480 x 30mm or custom dimensions",
+      "Outer material: PU leather"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-laundry-list-holder.webp",
+     "alt": "Laundry List Holders — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=laundry-list-holder",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pockets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Without pockets · With pockets"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pocket details",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "350 x 480 x 30mm"
+    },
+    {
+     "k": "Application",
+     "v": "Laundry service organiser"
+    },
+    {
+     "k": "Core & interior",
+     "v": "High-quality board or MDF"
+    },
+    {
+     "k": "Outer material",
+     "v": "PU leather"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "PU leather · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU leather · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU leather · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU leather · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU leather · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-9d3a5b5990120f.webp",
+     "alt": "Laundry List Holders product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-29dd2d3770f164.webp",
+     "alt": "Laundry List Holders product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

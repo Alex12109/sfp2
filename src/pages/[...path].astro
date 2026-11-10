@@ -1,0 +1,53 @@
+---
+/**
+ * Alle 218 Inhaltsrouten (109 DE + 109 EN). Die URL stammt unverändert aus
+ * content/routes.json; das Template bestimmt die Zusammenstellung der Bausteine.
+ */
+import Base from '../layouts/Base.astro';
+import Block from '../components/Block.astro';
+import ModelPage from '../components/ModelPage.astro';
+import Configurator from '../components/Configurator.astro';
+import ContactForm from '../components/ContactForm.astro';
+import Catalog from '../components/Catalog.astro';
+import { routes, loadPage, strip } from '../lib/content';
+import type { Route, Section } from '../lib/types';
+
+export function getStaticPaths() {
+  return routes.map((r) => ({ params: { path: r.url.replace(/^\/|\/$/g, '') || undefined }, props: { route: r } }));
+}
+const { route } = Astro.props as { route: Route };
+const lang = route.language;
+const page = loadPage(lang, route.slug);
+
+// Bereichsnamen des Katalogs (für Konfigurator und Modellseiten)
+const catalogPage = loadPage(lang, 'catalog');
+const categories = Object.fromEntries(
+  (catalogPage.sections.find((s) => s.kind === 'catalog-index')?.groups ?? []).map((g) => [g.id, strip(g.title?.html)]),
+);
+
+// Reine Brotkrumen-Abschnitte an den folgenden Kopfbereich übergeben
+const sections: (Section & { _crumbs?: Section['crumbs'] })[] = [];
+let pending: Section['crumbs'];
+for (const s of page.sections) {
+  if (['product-breadcrumb', 'case-breadcrumb'].includes(s.kind)) { pending = s.crumbs; continue; }
+  sections.push(pending ? { ...s, _crumbs: pending } : s);
+  pending = undefined;
+}
+const unnumbered = ['band', 'page-top', 'hero', 'case-opening', 'product-opening', 'signature-hero', 'collection-intro', 'config-heading', 'reference-logos', 'facts', 'page-jumps', 'process-timeline', 'collection-atlas', 'material-studio', 'inquiry-layout', 'configurator', 'catalog-index'];
+let n = 0;
+const numbered = sections.map((s) => ({ s, no: !unnumbered.includes(s.kind) && !s.prose && s.title ? ++n : undefined }));
+---
+<Base lang={lang} title={page.title} description={page.description} url={page.url} alternate={page.alternate} template={page.template}>
+  {page.template === 'model' ? (
+    <ModelPage page={page} lang={lang} categories={categories} />
+  ) : (
+    numbered.map(({ s, no }) =>
+      s.kind === 'inquiry-layout' ? <ContactForm lang={lang} s={s} />
+      : s.kind === 'configurator' ? (
+        <section class="sec sec--flush-top planner tone-ivory"><div class="wrap"><Configurator lang={lang} mode="planner" categories={categories} /></div></section>
+      )
+      : s.kind === 'catalog-index' ? <Catalog s={s} lang={lang} />
+      : <Block s={s} lang={lang} no={no} crumbs={s._crumbs} legal={page.template === 'legal'} />,
+    )
+  )}
+</Base>

@@ -1,0 +1,570 @@
+{
+ "language": "de",
+ "key": "product:schreibunterlagen",
+ "slug": "product--schreibunterlagen",
+ "url": "/produkte/schreibunterlagen/",
+ "template": "family",
+ "title": "Schreibunterlagen",
+ "description": "Eine Schreibunterlage gibt einem Arbeitsplatz Ruhe, Kontur und eine persönliche Handschrift. Im Gästezimmer ebenso wie im Vorstandsbüro wird sie zur Fläche, auf der Ihre Marke täglich erlebt wird.",
+ "alternate": {
+  "de": "/produkte/schreibunterlagen/",
+  "en": "/en/products/desk-pads/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "label": "Schreibkultur & Konferenz",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Schreibunterlagen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Schreibunterlage gibt einem Arbeitsplatz Ruhe, Kontur und eine persönliche Handschrift. Im Gästezimmer ebenso wie im Vorstandsbüro wird sie zur Fläche, auf der Ihre Marke täglich erlebt wird.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=schreibunterlagen",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Schreibunterlagen",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Schlichte Schreibunterlage aus dem SFP-Sortiment – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ein Arbeitsplatz bekommt Haltung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Schreibunterlage verändert, wie ein Schreibtisch gelesen und benutzt wird. Sie fasst Papier, Laptop und Stift zu einer ruhigen Arbeitszone zusammen; zugleich lässt sie Holz, Stein oder Lack bewusst sichtbar. Die drei Ausgangsformate 380 × 280 × 4, 505 × 316 × 4 und 600 × 400 × 4 mm bieten dafür unterschiedliche Proportionen. Welches Maß stimmig wirkt, hängt von der nutzbaren Tischfläche, den Geräten und der Sitzposition ab. Eine kompakte Deskmat setzt einen präzisen Akzent, während eine großzügige Schreibtischauflage dem Arbeitsplatz optisch Halt gibt. Farbe, Narbung und Kante sollten mit Möbel und Licht betrachtet werden, nicht als isolierte Materialprobe."
+    },
+    {
+     "type": "p",
+     "html": "Für die Ausarbeitung vermessen wir die freie Fläche einschließlich Leuchte, Telefon, Kabelwegen und möglicher Tischklappen. Sonderformat und Steppnaht werden auf diesen Aufbau abgestimmt; bei Office-Ausführungen kann nach Vereinbarung eine Stiftmulde vorgesehen werden. Auch die Position einer Prägung braucht einen realen Bezug: Sie soll weder unter dem Laptop verschwinden noch beim Schreiben stören. Das Handmuster klärt Griff, Kantenwirkung und das Verhalten mit dem vorgesehenen Papier. Soll die Auflage gedreht oder beidseitig genutzt werden, gehört dies ins Briefing, damit Vorderseite, Kern und Unterseite passend festgelegt werden. So entsteht kein dekorativer Zusatz, sondern ein Produkt für den Arbeitsalltag, das sich selbstverständlich in den täglichen Ablauf einfügt."
+    },
+    {
+     "type": "p",
+     "html": "Für eine Serie über mehrere Räume wird zusätzlich festgehalten, welche Maße zu welchem Arbeitsplatz gehören. So bleiben Konferenzraum, Suite und Einzelbüro erkennbar verwandt, ohne eine Tischsituation auf die andere zu übertragen. Jede Variante erhält eine eindeutige Referenz für Freigabe und spätere Abstimmung."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-schreibunterlagen.webp",
+     "alt": "Schreibunterlage mit integrierter Stiftmulde – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/original-desk-edge.webp",
+     "alt": "Kanten und Ecken einer Schreibunterlage",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Tischfläche einschließlich Leuchte und Telefon vermessen",
+        "Einseitige oder beidseitige Nutzung festlegen",
+        "Prägung im Verhältnis zu Papier und Laptop platzieren"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=schreibunterlagen",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=schreibunterlagen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Proportion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Das Format folgt Ihrer Tischfläche und der tatsächlichen Nutzung. Auch Sondermaße können Teil des Entwurfs werden."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Oberfläche",
+     "body": [
+      {
+       "type": "p",
+       "html": "Feines italienisches Echtleder oder hochwertiges PU: Die für Ihr Modell angebotenen Bezüge beurteilen wir nach Narbung, Griffgefühl und Farbe neben Ihrer Tischoberfläche. Ein Muster macht den Unterschied erfahrbar."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Signatur",
+     "body": [
+      {
+       "type": "p",
+       "html": "Prägeposition, Größe und Nahtbild werden aufeinander abgestimmt. Ihre Marke erhält Präsenz, ohne die Arbeitsfläche zu dominieren."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Format an Tischfläche und Nutzung anpassen",
+      "Oberfläche und Farbton im Materialkonzept abstimmen",
+      "Logoposition im Layout festlegen"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formate",
+     "v": "380 × 280 × 4 / 505 × 316 × 4 / 600 × 400 × 4 mm"
+    },
+    {
+     "k": "Anpassung",
+     "v": "Sonderformat, Steppnaht; Stiftmulde für Office-Ausführungen nach Abstimmung"
+    },
+    {
+     "k": "Aufbau",
+     "v": "Karton-Kern mit PU-Bezug; Unterseite rutschhemmend oder für beidseitige Nutzung nach Ausführung"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "William Blair"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-blair.webp",
+     "alt": "Runder Leder-Coaster mit William-Blair-Blindprägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/william-blair/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/william-blair/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/notizblockhalter/",
+     "title": "Notizblockhalter",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notizblock und Stift erhalten ihren festen Platz. Eine kleine, häufig genutzte Ergänzung für Gästezimmer, Konferenzräume und Empfang."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Freigestellte SFP-Notizblockhalter in verschiedenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/bankettblotter/\">Bankettblotter</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bankettblotter schaffen eine definierte Schreibfläche in Konferenz- und Veranstaltungsräumen. Drei Ausgangsformate und Sondermaße lassen sich an Tisch und Bestuhlung anpassen. Karton- oder MDF-Kern, PU- oder Echtleder, rutschhemmende oder samtige Unterseite, Stiftmulde, Polsterung, Ecken, Ziernaht und Logo ergeben eine funktionale, zusammenhängende Ausstattung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-bankettblotter.webp",
+       "alt": "Bankettblotter – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/bankettblotter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=bankettblotter",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/bankettblotter/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/empfangsblotter/\">Empfangsblotter</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Empfangsblotter schützen die Theke und schaffen eine ruhige Fläche für Anmeldung, Unterschrift und Dokumente. Drei Ausgangsgrößen sowie Sondermaße berücksichtigen unterschiedliche Rezeptionen. Karton- oder MDF-Kern, Echt- oder PU-Leder, rutschhemmende oder samtige Unterseite, Taschen, Stiftmulden, Ziernaht, Ecken und Prägung werden auf den Check-in-Ablauf abgestimmt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-empfangsblotter.webp",
+       "alt": "Empfangsblotter – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/empfangsblotter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=empfangsblotter",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/empfangsblotter/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/schreibunterlagen/\">Schreibunterlagen</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen schützen Tischflächen und schaffen eine gleichmäßige Schreibfläche im Hotelzimmer oder Konferenzraum. Drei Ausgangsformate und Sondermaße stehen für unterschiedliche Tische bereit; eine beidseitig nutzbare Ausführung ist möglich. Karton- oder MDF-Kern, PU- oder Echtleder, Unterseite aus Anti-Rutsch-Material oder Samt, Stiftmulde, Naht, Ecken und Prägung ergänzen die Funktion."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Schreibunterlagen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/schreibunterlagen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=schreibunterlagen",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/schreibunterlagen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

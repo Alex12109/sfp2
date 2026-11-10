@@ -1,0 +1,267 @@
+{
+ "language": "en",
+ "key": "company",
+ "slug": "company",
+ "url": "/en/company/",
+ "template": "page",
+ "title": "About SFP Hospitality",
+ "description": "We develop leather goods and accessories entirely around your requirements. Personal consultation from Berlin connects your project with hand manufacture in the EU.",
+ "alternate": {
+  "de": "/unternehmen/",
+  "en": "/en/company/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Bespoke leather accessories. Coordinated from Berlin."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "We develop leather goods and accessories entirely around your requirements. Personal consultation from Berlin connects your project with hand manufacture in the EU.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/atelier.webp",
+     "alt": "Material study with hands, leather samples and tools on a work surface",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "company-story",
+   "id": "unser-ansatz",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Our measure of success?<br> That it feels <em>distinctly yours.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A hotel room tells a different story from a reception area, a yacht or a gift. We begin with what makes yours distinctive. Function, material and design come together in accessories that carry your identity naturally.",
+     "role": "company-story-intro"
+    },
+    {
+     "type": "p",
+     "html": "SFP Hospitality is your personal point of contact for bespoke leather goods and accessories. From Berlin, we coordinate design, sampling and hand manufacture in the EU."
+    },
+    {
+     "type": "p",
+     "html": "Fine genuine Italian leather and high-quality PU in many colours and finishes are key starting points; other materials are selected to suit the object."
+    },
+    {
+     "type": "p",
+     "html": "How does a menu cover feel in the hand? What should a tray accommodate? How does a waste bin belong in a suite? These questions shape our work. We translate your requirements into dimensions, materials and details, developing an agreed specification as the basis for production."
+    },
+    {
+     "type": "p",
+     "html": "A one-off commission receives the same personal attention as a coordinated guest-room collection. Very small runs are welcome, and we also have capacity for major projects."
+    },
+    {
+     "type": "p",
+     "html": "An existing design, custom adaptation, fully bespoke development or coordinated collection can provide the route; your requirements determine the specification."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-menu-binding.webp",
+     "alt": "Exposed screw-post binding detail",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "role": "company-story-detail"
+    },
+    {
+     "src": "/assets/v10-coordinated-collection.webp",
+     "alt": "Design study of coordinated tray, tissue box cover, desk pad, notepad holder and waste bin",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "role": "company-story-collection"
+    }
+   ]
+  },
+  {
+   "kind": "company-material",
+   "title": {
+    "level": "h2",
+    "html": "Agreeing materials<br> <em>and specifications.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Material samples and artwork help establish colour, feel, internal details and logo placement. The scope and terms of sampling are agreed for your project."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/finish-study.webp",
+     "alt": "Material study with leather grains in burgundy, green, taupe, cognac and navy",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How we work together",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "team-section",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Your points of contact."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Anna",
+     "body": [
+      {
+       "type": "p",
+       "html": "A",
+       "role": "team-initial"
+      },
+      {
+       "type": "p",
+       "html": "Management &amp; project coordination",
+       "role": "content-context"
+      },
+      {
+       "type": "p",
+       "html": "Coordination of specifications, quotations, production and delivery."
+      }
+     ],
+     "actions": [
+      {
+       "href": "mailto:anna@sfp-berlin.com",
+       "label": "anna@sfp-berlin.com",
+       "style": "text"
+      }
+     ],
+     "href": "mailto:anna@sfp-berlin.com"
+    },
+    {
+     "role": null,
+     "title": "Alexander",
+     "body": [
+      {
+       "type": "p",
+       "html": "A",
+       "role": "team-initial"
+      },
+      {
+       "type": "p",
+       "html": "Strategy &amp; Operations",
+       "role": "content-context"
+      },
+      {
+       "type": "p",
+       "html": "New projects, brand collaborations and bespoke requirements."
+      }
+     ],
+     "actions": [
+      {
+       "href": "mailto:alex@sfp-berlin.com",
+       "label": "alex@sfp-berlin.com",
+       "style": "text"
+      }
+     ],
+     "href": "mailto:alex@sfp-berlin.com"
+    }
+   ]
+  },
+  {
+   "kind": "reference-logos",
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/bmw-group-classic/",
+     "role": "logo-bmw"
+    },
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "logo-grand"
+    },
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/william-blair/",
+     "role": "logo-william"
+    },
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/marriott-berlin/",
+     "role": "logo-marriott"
+    },
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/ritz-carlton-wolfsburg/",
+     "role": "logo-ritz"
+    },
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/east-group/",
+     "role": "logo-east"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

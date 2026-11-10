@@ -1,0 +1,191 @@
+{
+ "language": "de",
+ "key": "case:bmw-group-classic",
+ "slug": "case--bmw-group-classic",
+ "url": "/projekte/bmw-group-classic/",
+ "template": "project",
+ "title": "BMW Group Classic Events · Ein Markenerlebnis, das mitreist.",
+ "description": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater.",
+ "alternate": {
+  "de": "/projekte/bmw-group-classic/",
+  "en": "/en/projects/bmw-group-classic/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Ein Markenerlebnis, das mitreist."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v15-bmw-seat.webp",
+     "alt": "Kofferanhänger mit BMW Group Classic Branding im Detail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "BMW Group Classic Events"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Automotive · Corporate Gifts"
+    },
+    {
+     "k": "Umfang",
+     "v": "Leder-Kofferanhänger · Eventpräsente"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "BMW Group Classic bewahrt und vermittelt die Geschichte der Marken BMW, BMW Motorrad, MINI und Rolls-Royce. Dazu gehören Archive, historische Fahrzeuge, Restaurierung, Clubs und ein eigenes Veranstaltungsprogramm. Die Events feiern die Marken und bringen Menschen zusammen, die ihre Begeisterung für klassische Fahrzeuge teilen. Für ein Präsent in diesem Umfeld genügt deshalb kein beliebiger Werbeartikel: Es begegnet einem Publikum, das Gestaltung, Material und Markenhistorie aufmerksam wahrnimmt. Die Aufgabe von SFP war ein Giveaway für Teilnehmer von BMW Group Classic Events."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Gewählt wurde ein Kofferanhänger aus Echtleder. Die Produktidee verbindet Anlass und Nutzung schlüssig: Ein Reiseaccessoire passt zu Veranstaltungen rund um historische Fahrzeuge und bleibt auch nach dem Event ein persönlicher Begleiter. Für die Ausarbeitung mussten praktische und gestalterische Anforderungen zusammengeführt werden. Ein Kofferanhänger braucht eine klar lesbare Form, eine sichere Befestigung am Gepäck und einen sinnvollen Umgang mit persönlichen Adressdaten. Zugleich sollten Leder, Haptik, Details und Kennzeichnung dem Auftritt von BMW Group Classic entsprechen."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "In der Zusammenarbeit bildete die Agentur die Schnittstelle zum Markenerlebnis, während SFP die Anforderungen in eine produzierbare Lederarbeit überführte. Zum Leistungsumfang von SFP gehörten Materialauswahl, Detailausarbeitung und Fertigung. Bei einem solchen Produkt werden Form, Lederoberfläche, Riemen, Beschlag, Kantenbild und Logoposition als zusammenhängende Entscheidung betrachtet. Das schützt die ruhige Wirkung eines kleinen Formats und verhindert, dass die Kennzeichnung die Funktion überlagert. Für die Serienumsetzung ist außerdem entscheidend, dass die freigegebene Ausführung über alle Exemplare hinweg nachvollziehbar bleibt."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Das Ergebnis war ein funktionales Eventpräsent mit erkennbarem Bezug zu Marke und Anlass. Anders als ein rein dekoratives Erinnerungsstück hat der Kofferanhänger eine konkrete Aufgabe auf Reisen; zugleich trägt er den Absender in einem zurückhaltenden, materialbezogenen Format weiter. Für BMW Group Classic lag der Wert in dieser Verbindung: Das Präsent fügte sich in den Kontext der Veranstaltung ein, ohne seine spätere Nutzung auf den Eventmoment zu beschränken. Für Metzler+Vater bedeutete die Zusammenarbeit, dass eine konzeptionelle Idee produktseitig bis zur Fertigung begleitet wurde."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-bmw-detail.webp",
+     "alt": "Originalaufnahme: Folienprägung und Naht am BMW Group Classic Kofferanhänger",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=BMW%20Group%20Classic%20Events",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+---
+// Textspalten ohne Bild: Möglichkeiten, Konditionen, Musterhinweise.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad } from '../lib/content';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+interface Props { s: Section; lang: Lang; no?: number; tone?: string }
+const { s, no, tone = 'tone-ivory' } = Astro.props;
+const items = s.items ?? [];
+---
+<section class:list={['sec notes', tone]} id={s.id}>
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div>
+        {no && <p class="label">N° {pad(no)}</p>}
+        {s.title && <h2 set:html={heading(s.title.html)} />}
+      </div>
+      <div class="sec-head__side"><Rich blocks={s.body} /><Actions links={s.actions} /></div>
+    </header>
+    <ul class:list={['notes__list', `notes__list--${Math.min(items.length, 4)}`]} role="list">
+      {items.map((item, i) => (
+        <li class="notecard" data-reveal style={`--i:${i}`}>
+          <p class="notecard__no" aria-hidden="true">{pad(i + 1)}</p>
+          {item.title && <h3 set:html={heading(item.title)} />}
+          <Rich blocks={(item.body ?? []).filter((b) => !(b.type === 'p' && b.role === 'team-initial'))} />
+          <Actions links={item.actions} />
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>

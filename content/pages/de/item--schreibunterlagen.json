@@ -1,0 +1,349 @@
+{
+ "language": "de",
+ "key": "item:schreibunterlagen",
+ "slug": "item--schreibunterlagen",
+ "url": "/produkte/modelle/schreibunterlagen/",
+ "template": "model",
+ "title": "Schreibunterlagen · Individuelle Ausführung",
+ "description": "Schreibunterlagen schützen Tischflächen und schaffen eine gleichmäßige Schreibfläche im Hotelzimmer oder Konferenzraum. Drei Ausgangsformate und Sondermaße stehen für unterschiedliche Tische bereit; eine beidseitig nutzbare Ausführung ist möglich. Karton- oder MDF-Kern, PU- oder Echtleder, Unterseite aus Anti-Rutsch-Material oder Samt, Stiftmulde, Naht, Ecken und Prägung ergänzen die Funktion.",
+ "alternate": {
+  "de": "/produkte/modelle/schreibunterlagen/",
+  "en": "/en/products/models/schreibunterlagen/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Schreibunterlagen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Schreibunterlagen schützen Tischflächen und schaffen eine gleichmäßige Schreibfläche im Hotelzimmer oder Konferenzraum. Drei Ausgangsformate und Sondermaße stehen für unterschiedliche Tische bereit; eine beidseitig nutzbare Ausführung ist möglich. Karton- oder MDF-Kern, PU- oder Echtleder, Unterseite aus Anti-Rutsch-Material oder Samt, Stiftmulde, Naht, Ecken und Prägung ergänzen die Funktion.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Unterlage für Schreibtische",
+      "Formate: 380 x 280 x 4mm · 505 x 316 x 4mm · 600 x 400 x 4mm oder nach Wunsch",
+      "Material außen: PU-Leder"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-schreibunterlagen.webp",
+     "alt": "Schreibunterlagen – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=schreibunterlagen",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Stiftmulden",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Unterseite",
+     "body": [
+      {
+       "type": "p",
+       "html": "Anti-Rutsch-Material · Samt"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ecken",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gerade Ecken · Abgerundete Ecken"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Naht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nicht entschieden · Keine Naht · Naht ton-in-ton · Kontrastnaht · Naht in spezieller Farbe"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "380 x 280 x 4mm · 505 x 316 x 4mm · 600 x 400 x 4mm"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Unterlage für Schreibtische"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Cardboard"
+    },
+    {
+     "k": "Außenmaterial",
+     "v": "PU-Leder"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Echtleder · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Echtleder · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU-Leder · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU-Leder · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU-Leder · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU-Leder · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-5e086edf47360b.webp",
+     "alt": "Schreibunterlagen Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-83e25d1d7663be.webp",
+     "alt": "Schreibunterlagen Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

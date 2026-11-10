@@ -1,0 +1,96 @@
+{
+ "language": "en",
+ "key": "privacy",
+ "slug": "privacy",
+ "url": "/en/privacy/",
+ "template": "legal",
+ "title": "Privacy",
+ "description": "Information about using this website and contacting us.",
+ "alternate": {
+  "de": "/datenschutz/",
+  "en": "/en/privacy/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Privacy"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Information about using this website and contacting us.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "prose": {
+    "chapters": [
+     {
+      "id": null,
+      "title": "Your selected accessories",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The configurator stores your selected accessories and enquiry draft, including entered contact details, locally for the current browser session. This lets you edit accessories or change language without losing your draft. Choose “Start a new enquiry” to clear it. Configuration data is not automatically sent to SFP."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Contact for privacy enquiries",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP Hospitality GmbH, Dahlmannstraße 11, 10629 Berlin, Germany. For questions about the handling of your information, contact mail@sfp-berlin.com."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Your project brief",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Information entered into the project brief form is processed in your browser. This website does not store the brief in its own database or send it automatically. Opening the email draft passes the information to your email app. The enquiry reaches SFP only when you send it from that app. You can alternatively download the brief as a text file or copy it."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Contact by email or telephone",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "When you contact SFP, we use the contact details and project information you provide to respond to your enquiry and coordinate further discussions. Please send only information needed for your enquiry. Direct any questions about correcting or deleting your information to the contact address above."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Technical delivery",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The pages use locally hosted images, locally hosted fonts and their own JavaScript. No additional analytics, advertising or social-media tracking services are embedded in the website. The hosting provider’s information also applies to technical delivery and any sign-in required to access the site."
+       }
+      ]
+     }
+    ],
+    "summary": null,
+    "nav": []
+   }
+  }
+ ]
+}

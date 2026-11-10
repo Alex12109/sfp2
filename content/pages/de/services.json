@@ -1,0 +1,252 @@
+{
+ "language": "de",
+ "key": "services",
+ "slug": "services",
+ "url": "/leistungen/",
+ "template": "page",
+ "title": "Lederartikel nach Maß – unsere Leistungen",
+ "description": "Individuelle Lederartikel und Accessoires für Ihr Haus, Ihre Marke und Ihre Gäste. Nach Ihren Vorgaben gestaltet, in der EU von Hand gefertigt.",
+ "alternate": {
+  "de": "/leistungen/",
+  "en": "/en/services/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Lederartikel. Ganz nach Ihrer Vorstellung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Lederartikel und Accessoires für Ihr Haus, Ihre Marke und Ihre Gäste. Nach Ihren Vorgaben gestaltet, in der EU von Hand gefertigt.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-coordinated-collection.webp",
+     "alt": "SFP Produktdetail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ihr Bedarf gibt die Richtung vor."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Menükarte, die gut in der Hand liegt. Ein Tray, das genau auf die Konsole passt. Eine abgestimmte Ausstattung für Ihre Suiten. Wir hören zu, fragen nach und übersetzen Ihre Vorstellungen in konkrete Lederartikel und Accessoires – vollständig nach Ihren Vorgaben."
+    },
+    {
+     "type": "p",
+     "html": "Für Hotels gehören diese Artikel zum OS&amp;E: Operating Supplies &amp; Equipment. Ob für den täglichen Service, das Gästezimmer oder ein persönliches Geschenk: Wir betrachten Funktion, Gestaltung und Markenauftritt gemeinsam und begleiten Sie von der ersten Idee bis zur abgestimmten Ausführung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Das Material macht den Unterschied."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für unsere hochwertigen Lederartikel verwenden wir feines italienisches Echtleder. Daneben bieten wir hochwertiges PU in zahlreichen Oberflächen und einer umfangreichen Farbauswahl. Weitere Materialien stimmen wir passend zu Ihrem Projekt ab. Entscheidend ist, was sich für den Artikel, seine Beanspruchung und die gewünschte Wirkung eignet."
+    },
+    {
+     "type": "p",
+     "html": "Maße, Form, Innenausstattung, Nähte und Veredelung legen wir mit Ihnen fest. Technische Layouts, Materialmuster und Handmuster helfen, Farbe, Haptik und Proportionen zu beurteilen. Umfang und Konditionen der Bemusterung vereinbaren wir projektbezogen."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vom Einzelstück bis zum großen Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Einzelanfertigungen und sehr kleine Serien sind bei uns willkommen. Zugleich verfügen wir über die Kapazität, große Projekte und umfangreiche Ausstattungen umzusetzen. Ob ein einzelnes Geschenk oder viele aufeinander abgestimmte Artikel: Ausgangspunkt bleiben Ihre Wünsche und die gemeinsam festgelegte Ausführung."
+    },
+    {
+     "type": "p",
+     "html": "Wir beraten Sie persönlich aus Berlin und lassen in der EU von Hand fertigen. Während der Abstimmung behalten wir Materialien, Details und den Umfang Ihres Auftrags im Blick. Auch Ergänzungen und Nachbestellungen besprechen wir anhand Ihrer Anforderungen und der aktuellen Materialverfügbarkeit."
+    }
+   ]
+  },
+  {
+   "kind": "service-routes-section",
+   "title": {
+    "level": "h2",
+    "html": "Die Wege zu Ihrer Handschrift."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Bewährtes Design. Ihre Ausführung.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Der passende Artikel ist bereits gefunden.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Eine bestehende Form bildet die Grundlage: etwa eine Menükarte, ein Tray oder ein Kofferanhänger. Sie wählen Material, Farbe und Veredelung; wir stimmen die Details mit Ihnen auf den Einsatz und Ihren Markenauftritt ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v5-desk.webp",
+       "alt": "Gestaltungsstudie: cognacfarbener Notizblockhalter, taupefarbene Schreibunterlage und Papierkorb in einer Suite",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Individuell angepasst.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine bewährte Form soll mehr für Sie leisten.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Andere Maße, zusätzliche Fächer, eine passende Innenausstattung oder ein eigenes Nahtbild: Wir passen die Konstruktion an Ihre Vorgaben an. So entsteht aus einem vertrauten Artikel eine Ausführung, die zu Ihren Abläufen und Ihrem Gestaltungskonzept passt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/menu-detail-v3.webp",
+       "alt": "Gestaltungsstudie einer geöffneten bordeauxfarbenen Menümappe mit Schraubbindung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Von Grund auf entwickelt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ihre Idee braucht einen eigenen Entwurf.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Eine Skizze, ein Interior-Konzept oder eine konkrete Aufgabe kann der Anfang sein. Gemeinsam entwickeln wir Form, Funktion und Verarbeitung eines neuen Lederartikels oder Accessoires. Layouts und die abgestimmte Bemusterung machen Ihre Vorgaben vor der Fertigung greifbar."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/atelier.webp",
+       "alt": "Materialstudie mit Händen, Ledermustern und Werkzeugen auf einer Arbeitsfläche",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Als Kollektion abgestimmt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Mehrere Artikel. Eine gemeinsame Handschrift.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Menükarten, Trays, Papierkörbe und weitere Accessoires werden in Material, Farbe und Details aufeinander abgestimmt. Für ein Hotel, eine Immobilie oder ein großes Projekt entwickeln wir eine zusammenhängende Ausstattung, bei der jeder Artikel seine eigene Aufgabe erfüllt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Gestaltungsstudie einer abgestimmten Kollektion aus Tray, Tissue-Box, Schreibunterlage, Notizblockhalter und Papierkorb",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Wo wir Ihre Idee einsetzen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/loesungen/hotels/\">Hotels &amp; Resorts</a><a href=\"/loesungen/restaurants/\">Restaurants &amp; Bars</a><a href=\"/loesungen/interior-design/\">Interior Design &amp; Architektur</a><a href=\"/loesungen/corporate-gifts/\">Corporate Gifts &amp; Events</a><a href=\"/loesungen/clubs/\">Golfclubs &amp; Private Clubs</a><a href=\"/loesungen/yachts/\">Yachten &amp; Marine Interiors</a><a href=\"/loesungen/private-aviation/\">Private Aviation</a><a href=\"/loesungen/executive-offices/\">Executive Offices &amp; Institutionen</a>",
+     "role": "scenario-index"
+    }
+   ]
+  },
+  {
+   "kind": "planner-invite",
+   "title": {
+    "level": "h2",
+    "html": "Für Agenturen und Marken."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "White-Label-Entwicklung mit klaren Ansprechpartnern: Sie bringen die Kundenidee ein, wir begleiten die produktseitige Umsetzung."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/white-label/",
+     "label": "White Label entdecken",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

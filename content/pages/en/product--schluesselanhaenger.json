@@ -1,0 +1,506 @@
+{
+ "language": "en",
+ "key": "product:schluesselanhaenger",
+ "slug": "product--schluesselanhaenger",
+ "url": "/en/products/keyrings/",
+ "template": "family",
+ "title": "Leather keyrings",
+ "description": "A keyring accompanies everyday journeys. As a considered leather gift, it carries your identity in an object that feels natural to use.",
+ "alternate": {
+  "de": "/produkte/schluesselanhaenger/",
+  "en": "/en/products/keyrings/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Travel & gifts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Leather keyrings"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A keyring accompanies everyday journeys. As a considered leather gift, it carries your identity in an object that feels natural to use.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=schluesselanhaenger",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Leather%20keyrings",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leather keyring in a presentation box — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "An everyday companion with identity."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A keyring is used almost without thought, yet touched time after time. Weight, edge, flexibility and hardware shape its character as much as the silhouette. An elongated leather fob gives stitching room to speak; a compact shape allows the ring or fitting greater presence. As a small branded gift, it can feel personal when its material and design suit both recipient and occasion. A deboss may remain discreet, revealing itself at a second glance. The key fob then remains a useful personal object rather than a miniature advertising panel. Shape, leather and metal component are best developed as a single whole."
+    },
+    {
+     "type": "p",
+     "html": "Development brings format, hardware, colour, stitching, branding area and any packaging into one review. The logo is assessed at actual size on the leather because fine lines and lettering behave differently on a small grained surface than they do on screen. If the keyring is paired with a luggage tag or another leather gift, a shared finish or branding treatment can connect the pieces. They need not have identical shapes. Use remains the test: is the ring easy to load, does the fob sit comfortably in the hand, and does the packaging suit the moment of presentation? These questions turn a small token into a carefully resolved accessory."
+    },
+    {
+     "type": "p",
+     "html": "For several variants, record hardware, leather colour and branding artwork separately. Membership groups, events or internal occasions can then differ without losing the shared design language."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-keyring-detail.webp",
+     "alt": "Debossed branding on a keyring",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-keyring-hardware.webp",
+     "alt": "Hardware and leather loops on keyrings",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Develop the format and hardware together",
+        "Review branding at its actual small scale",
+        "Choose an individual gift or coordinated set"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=schluesselanhaenger",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=schluesselanhaenger"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Shape &amp; feel",
+     "body": [
+      {
+       "type": "p",
+       "html": "The outline should suit both everyday use and the brand. Size and material are agreed during design development."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Branding at a smaller scale",
+     "body": [
+      {
+       "type": "p",
+       "html": "A logo still needs the right proportions on a small surface. Position and legibility are reviewed in the artwork."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "A coordinated set",
+     "body": [
+      {
+       "type": "p",
+       "html": "Connect keyrings and luggage tags through colour, stitching and packaging to create one coordinated gift."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Agree shape and material for the project",
+      "Discuss personalisation with your logo",
+      "Consider packaging as part of the presentation"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Details",
+     "v": "Stitching, bespoke branding and packaging by agreement"
+    },
+    {
+     "k": "Material & presentation",
+     "v": "Genuine leather with metal hardware; coordinated presentation cartons available"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A gift becomes part of a story."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "For clients, members or a special occasion, we consider recipients, context and presentation alongside the product. An accessory becomes a personal gesture of appreciation."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-gifts.webp",
+     "alt": "Design study: cognac luggage tag, olive keyring and coordinated presentation box",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/solutions/corporate-gifts/",
+     "label": "Explore corporate gifts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/luggage-tags/",
+     "title": "Luggage tags",
+     "body": [
+      {
+       "type": "p",
+       "html": "A useful travel companion carrying your brand identity. With a covered business-card window and personalisation coordinated with the material and colour."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Luggage tag with branded leather and a buckle — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/schlusselanhanger/\">Leather Keyrings</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "The keyring pairs a genuine-leather element with metal to create a compact gift for regular use. Bespoke versions are available alongside the standard 120 mm length. Metal fittings can be selected in different shapes and gold or silver finishes, while blind debossing or foil stamping and printed card packaging treat the product and its presentation as one."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leather Keyrings — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/schlusselanhanger/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=schlusselanhanger",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/schlusselanhanger/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

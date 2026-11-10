@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:bespoke-projektbriefing",
+ "slug": "article--bespoke-projektbriefing",
+ "url": "/en/journal/briefing-a-bespoke-project/",
+ "template": "article",
+ "title": "What makes a useful bespoke brief?",
+ "description": "From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.",
+ "alternate": {
+  "de": "/journal/bespoke-projektbriefing/",
+  "en": "/en/journal/briefing-a-bespoke-project/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "What makes a useful bespoke brief?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/atelier.webp",
+     "alt": "Material study with hands, leather samples and tools on a work surface",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Start with the way it will be used",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A useful brief does not need to contain a finished solution. It should explain what the object needs to do. A tray for a coffee machine serves a different purpose from a jewellery tray. A guest-room notepad holder is used differently from a boardroom desk pad. Describe the location, the users and the items that need to work together. Photographs of the surface are often more useful than a long list of adjectives."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Give dimensions a context",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Width, depth and height are a starting point. State whether they refer to overall dimensions, usable internal space or an existing recess. For trays, include the measurements of the objects they will hold. For menu covers, paper size, page count and the method of securing the inserts all matter. Identify fixed limits and dimensions that can be adjusted. This helps prevent an attractive design from missing the practical requirements of its intended setting."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Show the material and brand direction",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A moodboard communicates the atmosphere. Material samples, colour references and usable logo artwork make that direction more actionable. Explain the desired effect of the branding: discreet and tonal, or a visible accent. Review the logo at its intended size. A finely drawn mark may need a different treatment on a small tag than on a larger folder."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Include quantities and approvals",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Include the quantity required for each item and the actual date it is needed. SFP welcomes one-off commissions and very small runs, with capacity for major furnishing projects too. Quantity, material and specification are therefore planned together. Identify who approves the design, materials and quotation. Bring procurement, design and operations together before sample approval, and distinguish what is fixed from what you would like SFP to propose."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/interior-design/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

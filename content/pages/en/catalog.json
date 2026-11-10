@@ -1,0 +1,1427 @@
+{
+ "language": "en",
+ "key": "catalog",
+ "slug": "catalog",
+ "url": "/en/products/",
+ "template": "catalog",
+ "title": "Every accessory. Your own specification.",
+ "description": "Our models are starting points for your own specification, handmade in the EU. Choose one accessory or bring several together as a collection. From one-offs and very small runs to major projects, we agree dimensions, appropriate materials and details with you.",
+ "alternate": {
+  "de": "/produkte/",
+  "en": "/en/products/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Every accessory. Your own specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Our models are starting points for your own specification, handmade in the EU. Choose one accessory or bring several together as a collection. From one-offs and very small runs to major projects, we agree dimensions, appropriate materials and details with you.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "catalog-index",
+   "shade": true,
+   "actions": [
+    {
+     "href": "#category-gastronomy",
+     "label": "Food & Beverage",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-hospitality",
+     "label": "Hospitality",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-office",
+     "label": "Office",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-giveaways",
+     "label": "Giveaways",
+     "style": "text",
+     "nav": "catalog-categories"
+    }
+   ],
+   "groups": [
+    {
+     "id": "category-gastronomy",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Food &amp; Beverage"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/bestecktabletts/\">Cutlery Trays</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Cutlery trays organise knives, forks and spoons during table setting or at the place setting itself. A board, MDF or solid-wood core is covered in PU leather, with one or more dividers defining the interior. Two starting sizes, custom dimensions, a choice of thread colours and blind debossing or foil stamping allow a project-specific finish."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bestecktabletts.webp",
+         "alt": "Cutlery Trays — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/bestecktabletts/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=bestecktabletts",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/bestecktabletts/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/coaster/\">Coasters</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Glass and bottle coasters protect table surfaces and carry a restaurant or bar’s material scheme through to each place setting. Genuine leather, PU leather and felt are available, in round, square, oval and other shapes. Dimensions, corners, decorative stitching and branding are specified to suit the glassware, bottles and overall table setting."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-coaster-forms.webp",
+         "alt": "Coasters — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/coaster/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=coaster",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/coaster/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/rechnungsboxen/\">Bill Boxes</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bill boxes give the final handover in service a defined, three-dimensional form. The board or wood core can be fully or partly covered in leather, book cloth or piqué. Standard or custom dimensions, pockets, magnetic strips, padding and bespoke branding allow the box to be specified around the payment routine and visual identity."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rechnungsboxen.webp",
+         "alt": "Bill Boxes — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/rechnungsboxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=rechnungsboxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/rechnungsboxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/rechnungsmappen/\">Bill Folders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bill folders present the receipt and payment card in a slim format that is easy to hand to the guest. They can be made in genuine leather, PU leather, book cloth or piqué, with pockets, magnetic strips or a pen holder. Rectangular and square starting sizes, custom dimensions, stitching, padding and branding can be tailored to the service routine."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rechnungsmappen.webp",
+         "alt": "Bill Folders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/rechnungsmappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=rechnungsmappen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/rechnungsmappen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-grand-dinner/\">Grand Dinner Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Grand Dinner is a menu cover with pockets for eight pages. Size, window layout, covering, stitching, padding and branding are specified together for food, drinks or wine menus."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-grand-dinner.webp",
+         "alt": "Grand Dinner Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-grand-dinner/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-grand-dinner",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-grand-dinner/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-grande-bistro/\">Grande Bistro Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Grande Bistro is a three-panel menu cover presenting three or four pages. Paper is held in vertical or horizontal pockets, or within full window mounts, and can be replaced when the menu changes. The outer material, a contrasting piqué interior, format, corners, padding and branding can be coordinated for menus, daily specials or desserts."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-grande-bistro.webp",
+         "alt": "Grande Bistro Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-grande-bistro/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-grande-bistro",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-grande-bistro/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-fine-dining/\">Fine Dining Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Fine Dining presents two pages in a restrained menu cover made from leather or another selected covering material. The paper sits in pockets and can be removed easily when content changes; both the shape and construction of the pockets can be adapted. A4 and A5 variants, custom sizes, decorative stitching, corners, padding and branding configure the model for menus or daily specials."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-fine-dining.webp",
+         "alt": "Fine Dining Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-fine-dining/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-fine-dining",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-fine-dining/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-rome/\">Rome Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Rome secures changing menu sheets with metal clips or a plastic spine. The page count can vary without requiring a new cover, while exposed or concealed rivets distinguish the metal version. Standard and custom sizes, leather, piqué or book cloth, plus stitching, pockets, padding and branding, suit a range of restaurant concepts."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-rome.webp",
+         "alt": "Rome Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-rome/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-rome",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-rome/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-bonn/\">Bonn Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bonn uses a cord binding for folded menu sheets, making it suitable for content that changes regularly. The cord colour and material can be selected, and the binding may remain visible or be recessed into the spine. A4 and A5 formats, custom dimensions, pockets, padding, stitching and branding complete the specification."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-bonn.webp",
+         "alt": "Bonn Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-bonn/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-bonn",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-bonn/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-london/\">London Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "London is a screw-bound menu cover with separate boards or a continuous wraparound cover. Longer or shorter screws adjust the capacity when the page count changes, and both screw colour and spacing can be selected. Book cloth, PU or genuine leather, pockets, stitching, padding, corners and branding define the individual construction."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-london.webp",
+         "alt": "London Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-london/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-london",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-london/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-hamburg/\">Hamburg Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Hamburg uses laminated window mounts to protect changing content while keeping it quick to replace. The number, shape and board colour of the mounts are coordinated with the paper, covering and capacity, with room for up to twenty pages. A4 and A5 sizes, custom dimensions, leather or book cloth, stitching, pockets, padding and branding complete the cover."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-hamburg.webp",
+         "alt": "Hamburg Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-hamburg/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-hamburg",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-hamburg/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-vintage/\">Vintage Wooden Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Vintage is a wooden menu cover with a ring mechanism for a flexible number of sheets. Ring count and diameter follow the content, and the mechanism can be colour finished. Oak, birch or pine provide the material options and may be stained or lacquered. A4, A5 and custom sizes, together with branding, individualise the model."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-vintage.webp",
+         "alt": "Vintage Wooden Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-vintage/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-vintage",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-vintage/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-clipboard/\">Clipboard Menu Board</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Clipboard secures single or changing sheets with a lever clip, crocodile clip or magnetic strip. Pages can be replaced quickly without a binding, and the clip type and colour can be selected. The board may be finished in wood, leather or book cloth. A3 to A5 formats, custom sizes, stitching and branding adapt it to the setting."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-clipboard.webp",
+         "alt": "Clipboard Menu Board — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-clipboard/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-clipboard",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-clipboard/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-berlin/\">Berlin Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Berlin is a leather menu cover with screw binding and either an exposed or concealed screw strip. Screw length can be adjusted to the page count, with capacity for up to fifty pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners, padding and blind debossing or foil stamping define the project specification."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-berlin.webp",
+         "alt": "Berlin Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-berlin/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-berlin",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-berlin/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-nizza/\">Nizza Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Nizza combines a substantial main section with a separately changeable page for recommendations. Content is held on the right in a ring mechanism or as a folded section, while pockets on the left present daily specials. Capacity for up to one hundred pages, standard or custom sizes, variable pockets, padding, stitching, corners and branding make the cover highly flexible."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-nizza.webp",
+         "alt": "Nizza Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-nizza/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-nizza",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-nizza/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-passepartout/\">Passepartout Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Passepartout frames one or two pages for daily specials, menus or desserts. Full window mounts or pockets can be fitted to one or both sides and discreetly branded, while the content remains easy to change. A3, A4 and A5 formats, custom dimensions, varied covering materials, stitching, corners and padding allow close coordination with the paper and table setting."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-passepartout.webp",
+         "alt": "Passepartout Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-passepartout/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-passepartout",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-passepartout/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/menu-ringbinder/\">Ringbinder Menu Cover</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Ringbinder is intended for substantial wine, bar or food menus with frequently changing pages. Ring size, number and mechanism are matched to the content and capacity, accommodating ten to thirty-five pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners and a choice of leather, piqué or book cloth tailor the cover to the operation."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-ringbinder.webp",
+         "alt": "Ringbinder Menu Cover — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/menu-ringbinder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=menu-ringbinder",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/menu-ringbinder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/tischaufsteller/\">Tabletop Display</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The tabletop display presents two A6 pages for buffet labels, daily specials or offers. Corner pockets retain the sheets and allow quick replacement. A board core is covered in PU leather or book cloth; custom dimensions, decorative stitching in a chosen thread colour and an orientation suited to the content complete the compact format."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-tischaufsteller.webp",
+         "alt": "Tabletop Display — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/tischaufsteller/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=tischaufsteller",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/tischaufsteller/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/tischsets/\">Placemats</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Placemats create a defined area for the place setting and glassware while protecting the table during daily service. Round and rectangular starting sizes can be supplemented by custom dimensions and shapes. Genuine or PU leather, square or rounded corners, decorative stitching and blind debossing or foil stamping coordinate each mat with the table geometry, crockery and brand identity."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/original-dining-table.webp",
+         "alt": "Placemats",
+         "width": 1500,
+         "height": 1000,
+         "kind": "technical",
+         "href": "/en/products/models/tischsets/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=tischsets",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/tischsets/"
+      }
+     ]
+    },
+    {
+     "id": "category-giveaways",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Giveaways"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/kofferanhanger/\">Luggage Tags</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Luggage tags identify baggage while keeping personal details behind a privacy flap. Two standard sizes are available alongside custom dimensions and shapes, with the body made in genuine or PU leather. A gold- or silver-coloured buckle, alternative outlines and blind debossing or foil stamping combine travel relevance, practical use and visible branding."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-kofferanhanger.webp",
+         "alt": "Luggage Tags — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/kofferanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=kofferanhanger",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/kofferanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/kosmetik/\">Travel Toiletry Bags</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The transparent toiletry bag holds small liquid containers for travel and is finished with a leather panel on one or both sides. The documented size is 205 × 180 mm. PU or genuine leather, a choice of zip colour, different panel shapes and blind debossing or foil stamping turn it into a functional, branded travel accessory."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-case-hapag.webp",
+         "alt": "Travel Toiletry Bags — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/kosmetik/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=kosmetik",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/kosmetik/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/lesezeichen/\">Bookmarks</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "PU-leather bookmarks are compact gifts for guests, clients or events. The 40 × 140 mm starting size can be adapted with custom dimensions or a bespoke outline. A silk ribbon in a selected colour, decorative stitching and blind debossing or foil stamping on one or both sides give the slim item a distinctive, brand-appropriate finish."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-lesezeichen.webp",
+         "alt": "Bookmarks — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/lesezeichen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=lesezeichen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/lesezeichen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/rfid-cardholder/\">RFID Card Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The RFID card holder combines a matt-black metal body with a genuine-leather cover. It holds up to seven cards and cash, while the metal body shields RFID signals. An internal money pocket, metal press stud, stitching and branding complete the compact 95 × 65 × 15 mm format for guests, employees or business partners."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rfid-cardholder.webp",
+         "alt": "RFID Card Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/rfid-cardholder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=rfid-cardholder",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/rfid-cardholder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/schlusselanhanger/\">Leather Keyrings</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The keyring pairs a genuine-leather element with metal to create a compact gift for regular use. Bespoke versions are available alongside the standard 120 mm length. Metal fittings can be selected in different shapes and gold or silver finishes, while blind debossing or foil stamping and printed card packaging treat the product and its presentation as one."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-schlusselanhanger.webp",
+         "alt": "Leather Keyrings — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/schlusselanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=schlusselanhanger",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/schlusselanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/visitenkartenetuis/\">Business Card Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The business card holder uses two elastic straps inside to retain cards. At 92 × 65 mm it fits neatly into a jacket or trouser pocket, while custom dimensions are available. Genuine or PU leather, a leather strap or metal press stud, decorative stitching and branding on one or both sides adapt it to room cards, business cards and the brand identity."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-visitenkartenetuis.webp",
+         "alt": "Business Card Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/visitenkartenetuis/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=visitenkartenetuis",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/visitenkartenetuis/"
+      }
+     ]
+    },
+    {
+     "id": "category-hospitality",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Hospitality"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/amenity-boxen/\">Amenity Boxes</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Amenity boxes organise toiletries and care products in the hotel bathroom. The 250 × 260 × 60 mm starting size can be adapted to the contents and available surface, with dividers structuring the interior. An impregnated board core with a PU-leather covering, optional lid, decorative stitching and blind debossing or foil stamping combine protected storage with the room design."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-amenity-boxen.webp",
+         "alt": "Amenity Boxes — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/amenity-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=amenity-boxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/amenity-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/tissue-boxen/\">Tissue Box Covers</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Tissue box covers conceal square or rectangular tissue cartons in guest rooms and bathrooms. The dispensing opening may be round, oval or rectangular, while an optional magnetic base can simplify replenishment. Two starting sizes, custom dimensions, PU or genuine leather, wood, padding, decorative stitching and branding allow the cover to be matched to the actual refill carton."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-tissue-boxen.webp",
+         "alt": "Tissue Box Covers — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/tissue-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=tissue-boxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/tissue-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/bankettblotter/\">Banquet Desk Pads</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Banquet desk pads create a defined writing surface in conference and event rooms. Three starting sizes and custom dimensions allow them to be matched to the table and seating plan. A board or MDF core, PU or genuine leather, non-slip or velvet underside, pen recess, padding, corners, decorative stitching and branding form a coherent functional specification."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bankettblotter.webp",
+         "alt": "Banquet Desk Pads — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/bankettblotter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=bankettblotter",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/bankettblotter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/bankettcoaster/\">Banquet Coasters</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Banquet coasters protect conference tables beneath glasses and bottles and can be coordinated with matching desk pads. The 350 × 110 mm starting size can be made single- or double-sided and adapted to custom dimensions. Bottle recesses, square or rounded corners, decorative stitching and branding organise drinks and reinforce the material scheme at each place."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bankettcoaster.webp",
+         "alt": "Banquet Coasters — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/bankettcoaster/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=bankettcoaster",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/bankettcoaster/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/airport-calling-signs/\">Airport Welcome Signs</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Airport welcome signs display a guest name or hotel logo clearly during an airport pick-up. A replaceable insert sits behind an optional protective window, with a handle available for easier holding. A4 is the starting format and custom dimensions are possible. Board, PU leather or book cloth, stitching and square or rounded corners define the specification."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/catalog-40715b0f4cae4b.webp",
+         "alt": "Airport Welcome Signs",
+         "width": 1800,
+         "height": 1200,
+         "kind": "technical",
+         "href": "/en/products/models/airport-calling-signs/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=airport-calling-signs",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/airport-calling-signs/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/check-in-mappen/\">Check-in Folders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Check-in folders bring together forms, leaflets, business cards and a pen for the guest’s arrival. Pockets and magnetic strips can be sized and positioned around the actual contents. A4 formats and custom dimensions, a board core, genuine or PU leather, book cloth, stitching, padding, corners and branding create an organised presentation at reception."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-check-in-mappen.webp",
+         "alt": "Check-in Folders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/check-in-mappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=check-in-mappen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/check-in-mappen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/empfangsblotter/\">Reception Desk Pad</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Reception desk pads protect the counter and create a calm surface for registration, signatures and documents. Three starting sizes and custom dimensions accommodate different reception desks. A board or MDF core, genuine or PU leather, non-slip or velvet underside, pockets, pen recesses, decorative stitching, corners and branding are coordinated with the check-in routine."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-empfangsblotter.webp",
+         "alt": "Reception Desk Pad — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/empfangsblotter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=empfangsblotter",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/empfangsblotter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/laundry-boxen/\">Laundry Boxes</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Laundry boxes collect guest laundry in an orderly format for the hotel service. Three starting sizes and custom dimensions accommodate different volumes, while hand openings assist handling. An MDF core with a PU-leather covering, decorative stitching, large-format lid branding and an identification window on the top or side can be adapted to the laundry routine."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-laundry-boxen.webp",
+         "alt": "Laundry Boxes — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/laundry-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=laundry-boxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/laundry-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/laundry-list-holder/\">Laundry List Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "The laundry list holder presents information about the laundry service while storing small care items. Pockets hold forms or a shoe cloth, and two S-hooks can carry a shoehorn or clothes brush. The 350 × 480 × 30 mm format can be adapted. PU leather or microfibre, stitching, pockets and branding organise the arrangement inside the wardrobe."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-laundry-list-holder.webp",
+         "alt": "Laundry List Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/laundry-list-holder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=laundry-list-holder",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/laundry-list-holder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/shoe-boxen/\">Shoe Boxes</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Shoe boxes support shoe-care services for guests and staff. The removable lid has two ventilation holes, while an optional identification window helps keep items assigned correctly. The 420 × 330 × 120 mm starting size can be adapted. An MDF core with PU-leather covering, hand openings, stitching and blind debossing or foil stamping combine handling, ventilation and identification."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-shoe-boxen.webp",
+         "alt": "Shoe Boxes — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/shoe-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=shoe-boxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/shoe-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/turanhanger/\">Door Hangers</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Door hangers communicate privacy, service or occupancy requirements directly at a guest room or meeting room. The 90 × 180 mm starting size can be adapted in shape, dimensions and handle opening. Genuine or PU leather, custom outlines, decorative stitching and one or more blind-debossed or foil-stamped messages make both sides clear and distinctive."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-turanhanger.webp",
+         "alt": "Door Hangers — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/turanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=turanhanger",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/turanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/condiment-boxen/\">Condiment Boxes</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Condiment boxes organise tea, coffee, sugar and related items at the in-room drinks station. Two starting sizes and custom dimensions can be matched to the packs and available surface, with dividers structuring the interior. Board, MDF or solid wood, a PU-leather covering, optional lid, decorative stitching and branding combine straightforward replenishment with an orderly presentation."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-condiment-boxen.webp",
+         "alt": "Condiment Boxes — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/condiment-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=condiment-boxen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/condiment-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/notizblockhalter/\">Notepad Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Notepad holders give paper and pen a defined place in the guest room or at reception. Three starting sizes and custom dimensions can be matched to the notepad in use. With or without a cover, with a semicircular or elongated pen recess, decorative stitching and branding, the PU-leather finish is configured around the desk, paper size and surrounding accessories."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-notizblockhalter.webp",
+         "alt": "Notepad Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/notizblockhalter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=notizblockhalter",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/notizblockhalter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/papierkorbe/\">Waste Bins</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Waste bins are made in round or rectangular forms with an MDF or metal core and a PU-leather covering. MDF versions include a metal liner for their intended hotel-room use. Three starting sizes, custom dimensions, plastic feet, decorative stitching and branding coordinate the shape, floor protection and identity with the room, bathroom or public area."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-papierkorbe.webp",
+         "alt": "Waste Bins — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/papierkorbe/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=papierkorbe",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/papierkorbe/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/prospektstander/\">Brochure Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Brochure holders present printed information on a desk, reception counter or in the lobby. The 260 × 280 × 165 mm starting size can be adapted and organised with several compartments. Solid wood, a board or MDF core, and a PU-leather covering with stitching and branding combine a compact footprint with clear separation of the contents."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-prospektstander.webp",
+         "alt": "Brochure Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/prospektstander/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=prospektstander",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/prospektstander/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/schreibunterlagen/\">Desk Pads</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Desk pads protect table surfaces and provide an even writing area in guest rooms or conference spaces. Three starting sizes and custom dimensions suit different tables, with a reversible version also available. A board or MDF core, PU or genuine leather, non-slip or velvet underside, pen recess, stitching, corners and branding complete the function."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-schreibunterlagen.webp",
+         "alt": "Desk Pads — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/schreibunterlagen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=schreibunterlagen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/schreibunterlagen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/stiftekocher/\">Pen Holders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Pen holders keep pens and other writing instruments organised on the desk. Round and rectangular starting shapes are offered in two sizes, while the number and form of compartments can be adapted. An MDF core with PU-leather covering, custom dimensions, decorative stitching and blind debossing or foil stamping combine ready access with the room’s material scheme."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-stiftekocher.webp",
+         "alt": "Pen Holders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/stiftekocher/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=stiftekocher",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/stiftekocher/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/trays/\">Trays</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Trays organise drinks, amenities or stationery on the desk, minibar and in the bathroom. Three starting sizes and custom dimensions respond to the contents and available surface, with dividers separating individual items. MDF, board or solid wood, a PU-leather covering, decorative stitching and branding allow a suitable specification for each particular storage task."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-trays.webp",
+         "alt": "Trays — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/trays/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=trays",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/trays/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/zimmermappen/\">Guest Information Folders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Guest information folders bring together hotel information, brochures, business cards and writing materials in one place. Pockets, magnetic strips or a ring mechanism organise changing content, with the layout defined for the project. A4 and custom formats, a board core, genuine or PU leather, book cloth, stitching, padding, corners and branding connect clear information with the room design."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-zimmermappen.webp",
+         "alt": "Guest Information Folders — product photograph with an edited setting",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/en/products/models/zimmermappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=zimmermappen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/zimmermappen/"
+      }
+     ]
+    },
+    {
+     "id": "category-office",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Office"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/en/products/models/schreibmappen/\">Writing folders</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Writing Folders — Office present documents in an orderly, accessible form for professional offices, banks, practices and consultancies. Pockets, magnetic strips or a ring mechanism can hold business cards, notes, leaflets and writing instruments. A board core, PU or genuine leather, book cloth, a planned internal layout, stitching, padding, corners and branding create a project-specific working and presentation tool."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/catalog-1054a898be4c2f.webp",
+         "alt": "Writing folders",
+         "width": 1800,
+         "height": 1200,
+         "kind": "technical",
+         "href": "/en/products/models/schreibmappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/en/project-planner/?item=schreibmappen",
+         "label": "Configure this accessory",
+         "style": "text"
+        }
+       ],
+       "href": "/en/products/models/schreibmappen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

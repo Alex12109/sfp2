@@ -1,0 +1,250 @@
+{
+ "language": "de",
+ "key": "item:menu-vintage",
+ "slug": "item--menu-vintage",
+ "url": "/produkte/modelle/menu-vintage/",
+ "template": "model",
+ "title": "Speisekarte Vintage · Individuelle Ausführung",
+ "description": "Vintage ist eine Holzkarte mit Ringmechanik für eine frei wählbare Zahl von Blättern. Ringanzahl und Ringgröße folgen dem Inhalt; die Mechanik kann farbig lackiert werden. Eiche, Birke oder Kiefer stehen als Ausgangsmaterial zur Wahl und können gebeizt oder lackiert werden. DIN-A4-, DIN-A5- und Sonderformate sowie Prägungen individualisieren das Modell.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-vintage/",
+  "en": "/en/products/models/menu-vintage/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Speisekarte Vintage"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vintage ist eine Holzkarte mit Ringmechanik für eine frei wählbare Zahl von Blättern. Ringanzahl und Ringgröße folgen dem Inhalt; die Mechanik kann farbig lackiert werden. Eiche, Birke oder Kiefer stehen als Ausgangsmaterial zur Wahl und können gebeizt oder lackiert werden. DIN-A4-, DIN-A5- und Sonderformate sowie Prägungen individualisieren das Modell.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Speisekarte, Getränkekarte, Weinkarte",
+      "Seitenanzahl: Bis 25 Seiten",
+      "Formate: DIN A4 (standard, quadratisch, schmal) · DIN A5 oder nach Wunsch"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-vintage.webp",
+     "alt": "Speisekarte Vintage – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=menu-vintage",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Holzoberfläche",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gebeizt · Lackiert"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Holzfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ringmechanik",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Prägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "DIN A4 · DIN A4 quadratisch · DIN A4 schmal · DIN A5"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Speisekarte, Getränkekarte, Weinkarte"
+    },
+    {
+     "k": "Seitenanzahl",
+     "v": "Bis 25 Seiten"
+    },
+    {
+     "k": "Material",
+     "v": "Holz"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Holz · Eiche"
+    },
+    {
+     "role": null,
+     "title": "Holz · Birke"
+    },
+    {
+     "role": null,
+     "title": "Holz · Kiefer"
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-34f1b9a98cd37b.webp",
+     "alt": "speisekarte-aus-holz-mit-praegung-eigenem-logo",
+     "width": 1590,
+     "height": 1060,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-0dfced6e815aba.webp",
+     "alt": "speisekarte-aus-holz-mit-ringung",
+     "width": 1590,
+     "height": 1060,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+---
+// Seitenkopf ohne Bild: Brotkrumen, Titel, Einleitung.
+import type { Section, Lang } from '../lib/types';
+import { heading, strip } from '../lib/content';
+import Crumbs from './Crumbs.astro';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+interface Props { s: Section; lang: Lang; crumbs?: Section['crumbs'] }
+const { s, lang, crumbs } = Astro.props;
+const lines = heading(s.title?.html).split(/<br\s*\/?>/);
+---
+<section class="sec page-top tone-ivory">
+  <div class="wrap">
+    <Crumbs crumbs={crumbs ?? s.crumbs} lang={lang} current={strip(s.title?.html)} />
+    <div class="page-top__grid">
+      <h1 class="page-top__title">{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i}`} set:html={l} />)}</h1>
+      <div class="page-top__copy anim-rise" style="--i:2">
+        <Rich blocks={s.body} lead />
+        <Actions links={s.actions} />
+      </div>
+    </div>
+    <div class="ruler anim-draw" aria-hidden="true"></div>
+  </div>
+</section>

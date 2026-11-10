@@ -1,0 +1,562 @@
+{
+ "language": "en",
+ "key": "product:tischsets",
+ "slug": "product--tischsets",
+ "url": "/en/products/placemats/",
+ "template": "family",
+ "title": "Placemats",
+ "description": "A placemat frames the place setting, introduces texture to the table and makes your property’s design identity immediately tangible.",
+ "alternate": {
+  "de": "/produkte/tischsets/",
+  "en": "/en/products/placemats/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/dining/",
+     "label": "Menu covers & dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Placemats"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A placemat frames the place setting, introduces texture to the table and makes your property’s design identity immediately tangible.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=tischsets",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Placemats",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats in restaurant service",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The table becomes a composition."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A placemat gives each setting its own ground without competing with the food. The round Ø 320 mm starting size draws a soft outline; the 425 × 325 mm option creates a clear rectangular frame. A bespoke format can respond to an unusual table or a distinctive place setting. The relationship matters: plate, cutlery, glassware, napkin and the distance to the next guest determine whether the proportions feel generous or crowded. A restrained leather colour can echo the warmth of timber, while a contrasting surface gives pale ceramics greater definition. Grain, edge and stitching become visible in the restaurant’s raking light, so they deserve to be judged against the actual tabletop."
+    },
+    {
+     "type": "p",
+     "html": "Review the placemat with a complete place setting and under service lighting. Look beyond the empty table: test clearing, resetting and the joining of tables as well. Stitching and bespoke branding are available details, but their position should leave space for plate and cutlery. The selected surface and appropriate care must be agreed for the actual material; cleaning or durability cannot be inferred from the product type alone. The service team can comment on handling and placement, while the interior designer considers the relationship with table, chair and room. In this way, the table mat becomes a quiet part of the hospitality experience, bringing visual intent and daily routine together."
+    },
+    {
+     "type": "p",
+     "html": "For several dining areas, a simple variant schedule can link table type, place setting, mat size and material reference. Breakfast, bar and dinner service remain visually connected while allowing for different spacing and routines."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-placemat-colours.webp",
+     "alt": "Table setting with coordinated placemats",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-dining-table.webp",
+     "alt": "Placemats in restaurant service",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Review the sample with a complete place setting",
+        "Consider table shape and spacing between guests",
+        "Agree care for the specified surface"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=tischsets",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=tischsets"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Start with the setting",
+     "body": [
+      {
+       "type": "p",
+       "html": "Plate diameter, cutlery and glass position inform the format. Review a sample on the actual table."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Shape &amp; outline",
+     "body": [
+      {
+       "type": "p",
+       "html": "Round and rectangular formats are starting points. Discuss a bespoke outline around your table geometry."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "A coordinated tabletop",
+     "body": [
+      {
+       "type": "p",
+       "html": "Placemats, coasters and menu covers can share one colour or work together in deliberately layered tones."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Formats for individual place settings or distinctive tables",
+      "Review material samples in the actual service setting",
+      "Coordinate with coasters and menu covers"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formats",
+     "v": "Round Ø 320 mm / rectangular 425 × 325 mm / custom dimensions"
+    },
+    {
+     "k": "Details",
+     "v": "Stitching and bespoke branding"
+    },
+    {
+     "k": "Shape options",
+     "v": "Rectangular, round, oval or kidney-shaped; bespoke outlines by agreement"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Leather menu cover with the VOX logo on a set table",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/grand-hyatt-vox/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/dining/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/menu-covers/",
+     "title": "Menu covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Your menu deserves a considered presentation. Selected bindings and materials connect your restaurant’s character with the requirements of service."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail of screw-post binding in an SFP menu cover",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/bill-presenters/",
+     "title": "Bill presenters &amp; bill boxes",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered final touch to service. Bill presentation can echo the materials and colours of your menu covers and tabletop accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Closed branded bill folder — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/coasters/",
+     "title": "Coasters",
+     "body": [
+      {
+       "type": "p",
+       "html": "A small but visible part of the table setting. Dimensions and finish are considered alongside glassware, placemats and your material scheme."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Round and square coasters in different materials — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/tischsets/\">Placemats</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Placemats create a defined area for the place setting and glassware while protecting the table during daily service. Round and rectangular starting sizes can be supplemented by custom dimensions and shapes. Genuine or PU leather, square or rounded corners, decorative stitching and blind debossing or foil stamping coordinate each mat with the table geometry, crockery and brand identity."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical",
+       "href": "/en/products/models/tischsets/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=tischsets",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/tischsets/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

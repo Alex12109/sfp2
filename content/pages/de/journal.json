@@ -1,0 +1,381 @@
+{
+ "language": "de",
+ "key": "journal",
+ "slug": "journal",
+ "url": "/journal/",
+ "template": "page",
+ "title": "Gedanken zum Detail.",
+ "description": "Materialien, Gestaltung und Projektpraxis. Orientierung für individuelle Lederartikel in anspruchsvollen Umgebungen.",
+ "alternate": {
+  "de": "/journal/",
+  "en": "/en/journal/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Gedanken zum Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Materialien, Gestaltung und Projektpraxis. Orientierung für individuelle Lederartikel in anspruchsvollen Umgebungen.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "items": [
+    {
+     "role": "card",
+     "href": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+     "title": "Speisekarten und Rechnungsmappen für eine klare Restaurantidentität",
+     "body": [
+      {
+       "type": "p",
+       "html": "Vom Inhalt über die Bindung bis zur Rechnungsübergabe: So werden Menücover und Bill Presenter Teil einer stimmigen Servicekultur."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+     "title": "Lederaccessoires fürs Hotelzimmer als Kollektion planen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein praktischer Leitfaden für Interior Design, Einkauf und Housekeeping: Funktionen, Maße, Materialien und Freigaben gemeinsam planen."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Gestaltungsstudie einer abgestimmten Kollektion aus Tray, Tissue-Box, Schreibunterlage, Notizblockhalter und Papierkorb",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/interior-konzept-produktbrief/",
+     "title": "Vom Interior-Konzept zum fertigen Produktbrief.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Welche Informationen ein individuelles Lederprodukt wirklich weiterbringen: Nutzung, Maße, Materialrichtung und die richtigen Freigaben."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Lederkollektion in Cognac, Olive, Bordeaux und Taupe auf warmem Stein",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/materialwelt-statt-einheitsfarbe/",
+     "title": "Eine Materialwelt ist mehr als eine Farbe.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wie Leder, Naht, Holz und Metall zu einer zusammengehörigen Kollektion werden – ohne dass jedes Produkt gleich aussehen muss."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-macro.webp",
+       "alt": "Lederkanten mit tonalen Nähten und sichtbarer Narbung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/sonderanfertigung-kleinserie/",
+     "title": "Wann sich eine eigene Ausführung lohnt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bestehendes Modell, individuelle Anpassung oder neue Entwicklung: Welcher Weg zu Ihrem Projekt passt."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-boutique-world.webp",
+       "alt": "Gestaltungsstudie ausgewählter Lederaccessoires in einem ruhigen Boutique-Hotel-Interieur",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/kundenbindung-mitarbeitergeschenke/",
+     "title": "Ein Geschenk. Zwei unterschiedliche Aufgaben.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kundenpräsente und Mitarbeitergeschenke brauchen unterschiedliche Briefings. Anlass, Nutzen und Personalisierung geben die Richtung vor."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/restaurant-ausstattung-planen/",
+     "title": "Ein neuer Restaurantauftritt beginnt bei den Abläufen.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Menükarten, Rechnungsmappen und Tischaccessoires gemeinsam planen – vom Inhalt bis zur Freigabe im Service."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/ledergeschenke-planen/",
+     "title": "Ein gutes Geschenk beginnt vor der Verpackung.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Empfänger, Anlass und Personalisierung als Grundlage für Lederpräsente und abgestimmte Geschenksets."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v5-gifts.webp",
+       "alt": "Gestaltungsstudie: Kofferanhänger in Cognac, olivgrüner Schlüsselanhänger und passende Präsentationsbox",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/hotelaccessoires-als-kollektion/",
+     "title": "Eine Zimmerkollektion muss zusammenarbeiten.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Warum sich Accessoires gemeinsam mit Interior Design, Einkauf und Housekeeping besser planen lassen."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/room-scene.webp",
+       "alt": "Material- und Gestaltungsstudie: aufeinander abgestimmte Lederaccessoires an einem Waschtisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/blindpraegung-folienpraegung/",
+     "title": "Ein Logo muss nicht laut sein.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wie Prägeverfahren, Größe und Position die Wirkung eines Lederprodukts verändern."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-blind-debossing.webp",
+       "alt": "Nahaufnahme einer zurückhaltenden Blindprägung in Leder",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/speisekarten-bindung-format/",
+     "title": "Die richtige Speisekarte für Ihren Service.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Vollständige geöffnete Ledermenümappe in einem Restaurant",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/materialauswahl-hospitality/",
+     "title": "Materialwahl beginnt beim Einsatzort.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/leather.webp",
+       "alt": "Nahaufnahme einer feinen Lederoberfläche",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/journal/bespoke-projektbriefing/",
+     "title": "Was in ein gutes Bespoke-Briefing gehört.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/atelier.webp",
+       "alt": "Materialstudie mit Händen, Ledermustern und Werkzeugen auf einer Arbeitsfläche",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

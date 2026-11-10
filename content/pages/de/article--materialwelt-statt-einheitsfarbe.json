@@ -1,0 +1,137 @@
+{
+ "language": "de",
+ "key": "article:materialwelt-statt-einheitsfarbe",
+ "slug": "article--materialwelt-statt-einheitsfarbe",
+ "url": "/journal/materialwelt-statt-einheitsfarbe/",
+ "template": "article",
+ "title": "Eine Materialwelt ist mehr als eine Farbe.",
+ "description": "Wie Leder, Naht, Holz und Metall zu einer zusammengehörigen Kollektion werden – ohne dass jedes Produkt gleich aussehen muss.",
+ "alternate": {
+  "de": "/journal/materialwelt-statt-einheitsfarbe/",
+  "en": "/en/journal/a-material-palette-not-a-single-colour/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Eine Materialwelt ist mehr als eine Farbe."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wie Leder, Naht, Holz und Metall zu einer zusammengehörigen Kollektion werden – ohne dass jedes Produkt gleich aussehen muss.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-macro.webp",
+     "alt": "Lederkanten mit tonalen Nähten und sichtbarer Narbung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Mit dem Raum beginnen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Farbe eines Lederaccessoires wird selten allein wahrgenommen. Neben hellem Stein wirkt Cognac anders als auf dunklem Nussbaum; ein gedecktes Olive kann mit einer textilen Wandfläche verschmelzen oder sich deutlich davon absetzen. Legen Sie Materialmuster deshalb an den späteren Einsatzort. Betrachten Sie sie bei Tageslicht und unter der vorgesehenen Beleuchtung. Ein Farbfoto ist eine hilfreiche Orientierung, aber keine verbindliche Grundlage für die endgültige Auswahl. Das Zusammenspiel der realen Oberflächen gibt die Richtung vor."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Gleichklang braucht Unterschiede",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Eine Kollektion muss nicht aus identischen Bezügen bestehen. Ein Tray kann über seinen Rand mit dem Notizblockhalter verbunden sein, während ein Papierkorb denselben Farbton auf einer anderen Konstruktion trägt. Entscheidend ist, welche Elemente sich wiederholen: die Wärme des Farbtons, ein bestimmter Glanzgrad, eine tonale Naht oder eine zurückhaltende Prägung. Wählen Sie wenige wiederkehrende Merkmale und geben Sie ihnen eine klare Aufgabe. So entsteht Zusammenhang, ohne die Funktion der einzelnen Produkte einzuschränken."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Die Oberfläche verändert die Wirkung",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Feine Narbung kann eine Fläche ruhig wirken lassen; eine markantere Struktur macht den Materialcharakter sichtbarer. Glatte Flächen betonen Kanten und Proportionen. Echtleder und PU-Bezüge sind dabei unterschiedliche Materialien und sollten im Briefing ausdrücklich benannt werden. Ihre Auswahl hängt von gewünschter Wirkung, Konstruktion, Beanspruchung und Pflege ab. Die Bezeichnung eines Farbtons allein beschreibt noch keine Oberfläche. Halten Sie deshalb Materialreferenz und Ausführung zusammen fest."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Prägung und Naht als Teil des Entwurfs",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Eine Prägung muss nicht das auffälligste Detail sein. Blindprägung arbeitet mit Tiefe und Licht; Folie bringt einen zusätzlichen Farb- oder Metallton ein. Beide sollten im Verhältnis zur Fläche und zur Narbung beurteilt werden. Eine tonale Naht kann den Umriss führen, ohne die Materialfarbe zu unterbrechen. Prüfen Sie das Logo in Originalgröße und an der vorgesehenen Position. Was auf einem großen Bildschirm zurückhaltend erscheint, kann auf einem kleinen Anhänger bereits dominant wirken."
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Ein Materialboard wird zur Entscheidung",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Für eine produktive Abstimmung reichen zunächst Fotos des Raums, vorhandene Materialreferenzen und eine Liste der geplanten Artikel. Ergänzen Sie, welche Elemente feststehen und wo Sie offen für Vorschläge sind. Im nächsten Schritt werden die ausgewählten Materialien mit Layouts und einer projektbezogenen Bemusterung zusammengeführt. Dabei geht es nicht nur um die Frage, was schön aussieht, sondern auch darum, wie sich das Produkt anfühlt, nutzen und pflegen lässt. Erst diese gemeinsame Betrachtung macht aus einer Farbidee eine konkrete Kollektion."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/interior-design/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

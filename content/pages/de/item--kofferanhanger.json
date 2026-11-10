@@ -1,0 +1,299 @@
+{
+ "language": "de",
+ "key": "item:kofferanhanger",
+ "slug": "item--kofferanhanger",
+ "url": "/produkte/modelle/kofferanhanger/",
+ "template": "model",
+ "title": "Kofferanhänger · Individuelle Ausführung",
+ "description": "Kofferanhänger kennzeichnen Gepäck und verbergen die persönlichen Daten hinter einem Sichtschutz. Zwei Standardgrößen sowie Sondermaße und Sonderformen stehen zur Wahl; Echt- oder PU-Leder bildet den Körper. Eine gold- oder silberfarbene Schnalle, unterschiedliche Formen sowie Blind- oder Folienprägung verbinden Reisebezug, praktische Nutzung und sichtbare Markenkennzeichnung.",
+ "alternate": {
+  "de": "/produkte/modelle/kofferanhanger/",
+  "en": "/en/products/models/kofferanhanger/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Kofferanhänger"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Kofferanhänger kennzeichnen Gepäck und verbergen die persönlichen Daten hinter einem Sichtschutz. Zwei Standardgrößen sowie Sondermaße und Sonderformen stehen zur Wahl; Echt- oder PU-Leder bildet den Körper. Eine gold- oder silberfarbene Schnalle, unterschiedliche Formen sowie Blind- oder Folienprägung verbinden Reisebezug, praktische Nutzung und sichtbare Markenkennzeichnung.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Markierung von Gepäck",
+      "Formate: 90 x 55mm · 120 x 70mm oder nach Wunsch",
+      "Material: PU-Leder, Echtleder"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-kofferanhanger.webp",
+     "alt": "Kofferanhänger – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=kofferanhanger",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Form",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Schnalle",
+     "body": [
+      {
+       "type": "p",
+       "html": "Silberfarben · Goldfarben"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "90 x 55mm · 120 x 70mm"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Markierung von Gepäck"
+    },
+    {
+     "k": "Material",
+     "v": "PU-Leder, Echtleder"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Echtleder · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Echtleder · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU-Leder · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU-Leder · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-5dd082c8c09a6c.webp",
+     "alt": "Kofferanhänger Produktansicht",
+     "width": 1600,
+     "height": 1067,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-d41cf4a22e87bd.webp",
+     "alt": "Kofferanhänger Produktansicht",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

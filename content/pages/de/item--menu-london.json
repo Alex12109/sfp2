@@ -1,0 +1,430 @@
+{
+ "language": "de",
+ "key": "item:menu-london",
+ "slug": "item--menu-london",
+ "url": "/produkte/modelle/menu-london/",
+ "template": "model",
+ "title": "Speisekarte London · Individuelle Ausführung",
+ "description": "London ist eine schraubgebundene Menümappe mit getrennten Deckeln oder einem durchgehenden Umschlag. Längere oder kürzere Schrauben passen die Kapazität an eine veränderte Seitenzahl an; Farbe und Abstand der Schrauben sind wählbar. Buchbinderleinen, PU- oder Echtleder, Taschen, Naht, Polsterung, Ecken und Logo bestimmen den individuellen Aufbau.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-london/",
+  "en": "/en/products/models/menu-london/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Speisekarte London"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "London ist eine schraubgebundene Menümappe mit getrennten Deckeln oder einem durchgehenden Umschlag. Längere oder kürzere Schrauben passen die Kapazität an eine veränderte Seitenzahl an; Farbe und Abstand der Schrauben sind wählbar. Buchbinderleinen, PU- oder Echtleder, Taschen, Naht, Polsterung, Ecken und Logo bestimmen den individuellen Aufbau.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Speisekarte, Getränkekarte, Weinkarte",
+      "Seitenanzahl: 6–50 Seiten",
+      "Formate: DIN A4 (standard, quadratisch, schmal) · DIN A5 (standard, quer) oder nach Wunsch"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-london.webp",
+     "alt": "Speisekarte London – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=menu-london",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ecken",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gerade Ecken · Abgerundete Ecken"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Polsterung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Polsterung · Mit Polsterung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Taschen · Mit Taschen"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschenausführung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Schrauben",
+     "body": [
+      {
+       "type": "p",
+       "html": "Silberfarben · Goldfarben · Farbe nach Wunsch"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Schraubenlänge / Seitenanzahl",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Naht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nicht entschieden · Keine Naht · Naht ton-in-ton · Kontrastnaht · Naht in spezieller Farbe"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "DIN A4 · DIN A4 quadratisch · DIN A4 schmal · DIN A5 · DIN A5 quer"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Speisekarte, Getränkekarte, Weinkarte"
+    },
+    {
+     "k": "Seitenanzahl",
+     "v": "6–50 Seiten"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Hochwertiges Cardboard"
+    },
+    {
+     "k": "Außenmaterial",
+     "v": "PU-Leder, Echtleder, Buchbinderleinen, Piquét-Stoff"
+    },
+    {
+     "k": "Bindung",
+     "v": "Schrauben"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Echtleder · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Echtleder · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Echtleder · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Tuscania",
+     "media": [
+      {
+       "src": "/assets/swatch-8456fdf0eecff7.webp",
+       "alt": "Echtleder · Tuscania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU-Leder · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU-Leder · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU-Leder · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU-Leder · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Buchbinderleinen"
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Jolly",
+     "media": [
+      {
+       "src": "/assets/swatch-15fbb1cf7396f4.webp",
+       "alt": "Gewebe · Jolly",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-ea7814e4ebd339.webp",
+     "alt": "London Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-a2c345c4abd690.webp",
+     "alt": "London Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

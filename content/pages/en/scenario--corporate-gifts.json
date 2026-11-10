@@ -1,0 +1,261 @@
+{
+ "language": "en",
+ "key": "scenario:corporate-gifts",
+ "slug": "scenario--corporate-gifts",
+ "url": "/en/solutions/corporate-gifts/",
+ "template": "scenario",
+ "title": "Your brand. A lasting companion.",
+ "description": "Bespoke leather gifts for clients, guests and special occasions. Useful objects designed to have a life beyond the moment they are given.",
+ "alternate": {
+  "de": "/loesungen/corporate-gifts/",
+  "en": "/en/solutions/corporate-gifts/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Your brand. A lasting companion."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke leather gifts for clients, guests and special occasions. Useful objects designed to have a life beyond the moment they are given.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-travel.webp",
+     "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Corporate%20gifts%20%26%20events",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A considered gift connects the occasion with its later use. Ask not just where the logo should sit, but when the object will next be picked up. Materials, form and packaging can tell one story. Recipients, quantity and the required delivery date give development a practical framework."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/luggage-tags/",
+     "label": "Luggage tags",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/keyrings/",
+     "label": "Leather keyrings",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Choose an object that suits the occasion"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A luggage tag accompanies business travel; a keyring becomes part of a daily routine. The right choice depends on the recipient and the occasion. We help develop a coherent gift from an existing product format or a bespoke idea. Several pieces can also be planned as a coordinated gift set."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Branding with restraint"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Material colour, branding placement and hardware shape the result. Blind debossing keeps the identity discreet; foil stamping adds a deliberate accent. Our luggage tags can be specified with custom shapes, gold- or silver-coloured buckles and more than one logo. Each detail is agreed for the selected product."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "From a single gift to a coordinated set"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "We welcome a personal one-off and very small gift runs, with capacity for substantial event and brand projects too. Each piece is handmade in the EU, with product, packaging and presentation considered together. Include your required date early so that material selection, sampling and approvals can inform the schedule."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/travel-gifts/",
+     "title": "Travel &amp; gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags, keyrings and bespoke leather gifts. Personal companions for guests, clients and special occasions."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Occasion, recipient profile, quantity, required delivery date, logo and packaging preferences."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Corporate%20gifts%20%26%20events",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From our work."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/bmw-group-classic/",
+     "title": "BMW Group Classic Events",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "Luggage tag with BMW Group Classic branding in detail",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/hapag-lloyd-tui/",
+     "title": "Hapag-Lloyd Cruises &amp; TUI",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags and cosmetic pouches for the clients’ own travel offices in Europe. Directly commissioned accessories with a clear connection to travel."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-hapag.webp",
+       "alt": "Luggage tag and travel pouch with Hapag-Lloyd Cruises branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/blind-debossing-and-foil-stamping/\">A logo does not need to be loud.How branding method, scale and placement change the character of a leather accessory.Read the article</a><a href=\"/en/journal/planning-bespoke-leather-gifts/\">A thoughtful gift begins before the packaging.Recipients, occasion and personalisation as the starting point for leather gifts and coordinated gift sets.Read the article</a><a href=\"/en/journal/client-gifts-and-employee-gifts/\">One gift. Two different purposes.Client gifts and employee gifts need different briefs. Occasion, practical use and personalisation set the direction.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "language": "en",
+ "key": "scenario:hotels",
+ "slug": "scenario--hotels",
+ "url": "/en/solutions/hotels/",
+ "template": "scenario",
+ "title": "A sense of place. In every detail.",
+ "description": "Bespoke leather accessories as part of your hotel OS&E: Operating Supplies & Equipment. Designed around your interiors and operations for guest rooms, suites and reception, and handmade in the EU.",
+ "alternate": {
+  "de": "/loesungen/hotels/",
+  "en": "/en/solutions/hotels/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "A sense of place. In every detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke leather accessories as part of your hotel OS&amp;E: Operating Supplies &amp; Equipment. Designed around your interiors and operations for guest rooms, suites and reception, and handmade in the EU.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-collection-room.webp",
+     "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Hotels%20%26%20resorts",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Think in touchpoints: arrival, working, a coffee break, the bathroom and departure. A shared material palette can connect these moments. The brief distinguishes room categories from public areas so that different functions need not share the same construction. Consistency matters, but operational needs may call for a different solution."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "One collection, thoughtfully coordinated"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A desk, minibar and bathroom serve different purposes. Material, proportion and branding can still connect them. We coordinate desk pads, hospitality trays, notepad holders, waste bins and tissue box covers as a coherent collection. Every piece need not look identical: a shared language comes from complementary finishes and considered details."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "For openings, refurbishments and additions"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A single suite, a very small run of additions or accessories for a whole property: we shape the project around your requirements, with capacity for major schemes too. Room plans, reference photographs and the intended contents help define dimensions and compartments. Repeat orders are reviewed against the existing specification and current material availability."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Bring design and operations together"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bring interior design, procurement and housekeeping into the conversation early. How will an item be used, cleaned and replenished? Does the tray accommodate the chosen coffee machine? Will the tissue box cover fit the specified refill? These questions belong in the sampling stage, before production begins."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/room-accessories/",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Room categories, quantities, areas of use and your existing material scheme."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Hotels%20%26%20resorts",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From our work."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "title": "Vier Jahreszeiten, München",
+     "body": [
+      {
+       "type": "p",
+       "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/projects/ritz-carlton-wolfsburg/",
+     "title": "The Ritz-Carlton, Wolfsburg",
+     "body": [
+      {
+       "type": "p",
+       "html": "A genuine-leather key card holder for The Ritz-Carlton in Wolfsburg, developed directly with the hotel."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-ritz.webp",
+       "alt": "Black key card holder with The Ritz-Carlton Wolfsburg debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/choosing-materials-for-hospitality/\">Material selection starts with the setting.Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.Read the article</a><a href=\"/en/journal/planning-a-hotel-accessory-collection/\">A guest-room collection needs to work together.Why accessory planning benefits from bringing together interior design, procurement and housekeeping.Read the article</a><a href=\"/en/journal/coordinating-leather-accessories-for-hotel-rooms/\">How to design a coordinated hotel-room leather collectionA practical guide for interior designers, procurement and housekeeping: coordinate functions, dimensions, materials and approvals.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+---
+import type { LinkRef } from '../lib/types';
+import Arrow from './Arrow.astro';
+interface Props { links?: LinkRef[]; class?: string }
+const { links = [], class: cls = '' } = Astro.props;
+---
+{links.length > 0 && (
+  <div class:list={['actions', cls]}>
+    {links.map((l) => l.style === 'button' || l.style === 'outline'
+      ? <a class:list={['btn', l.style === 'outline' && 'btn--outline']} href={l.href}>{l.label}<Arrow /></a>
+      : <a class="link" href={l.href}>{l.label}<Arrow /></a>)}
+  </div>
+)}

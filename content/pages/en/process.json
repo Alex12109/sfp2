@@ -1,0 +1,245 @@
+{
+ "language": "en",
+ "key": "process",
+ "slug": "process",
+ "url": "/en/process/",
+ "template": "page",
+ "title": "Our process",
+ "description": "From enquiry and design through approval, production and delivery: the SFP project process.",
+ "alternate": {
+  "de": "/prozess/",
+  "en": "/en/process/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "From your idea. To the finished object."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Five clear steps. Personal guidance throughout.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/tray-scene.webp",
+     "alt": "Material and design study: olive and taupe leather trays on wood",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "process-timeline",
+   "shade": true,
+   "data": {
+    "process-timeline": ""
+   },
+   "items": [
+    {
+     "role": "process-row",
+     "title": "Enquiry &amp; proposal",
+     "body": [
+      {
+       "type": "p",
+       "html": "01",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "We discuss the application, product idea, quantity and required delivery. Together, these define the scope for materials, specification and quotation."
+      },
+      {
+       "type": "p",
+       "html": "A clear project scope.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-1.webp",
+       "alt": "Consultation scene: two people compare leather samples and discuss a project brief",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Design &amp; sampling",
+     "body": [
+      {
+       "type": "p",
+       "html": "02",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Form, material, colour and branding become tangible. Technical layouts and project-specific samples help assess tactility and proportions before production."
+      },
+      {
+       "type": "p",
+       "html": "A design you can review.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-2.webp",
+       "alt": "Sample development: a leather tray beside its design drawing and material swatches",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Order &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "03",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "We record the agreed specification. Approvals, commercial terms and the production schedule are confirmed before manufacturing begins."
+      },
+      {
+       "type": "p",
+       "html": "An agreed specification.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-3.webp",
+       "alt": "Approving a specification using a tray sample, material and technical drawing",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Production &amp; quality checks",
+     "body": [
+      {
+       "type": "p",
+       "html": "04",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "Your accessories are handmade in the EU. The specification approved together provides the basis for production and for checking the details."
+      },
+      {
+       "type": "p",
+       "html": "Care in every detail.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-4.webp",
+       "alt": "Making and quality control: leather stitching and checking material thickness with a caliper",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "process-row",
+     "title": "Delivery &amp; repeat orders",
+     "body": [
+      {
+       "type": "p",
+       "html": "05",
+       "role": "num"
+      },
+      {
+       "type": "p",
+       "html": "We coordinate delivery and discuss any further requirements. For additions, we review the specification and current material availability with you."
+      },
+      {
+       "type": "p",
+       "html": "Ready for use.",
+       "role": "result"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-process-5.webp",
+       "alt": "Leather accessories wrapped in tissue paper and prepared for delivery",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Ready for the first step?"
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "language": "de",
+ "key": "case:stadt-hamburg-sylt",
+ "slug": "case--stadt-hamburg-sylt",
+ "url": "/projekte/stadt-hamburg-sylt/",
+ "template": "project",
+ "title": "Hotel Stadt Hamburg, Sylt · Persönlich im Austausch. Verlässlich im Alltag.",
+ "description": "Hochwertige Lederartikel und ein direkter Draht nach Berlin. Das Hotel Stadt Hamburg auf Sylt schätzt die persönliche Abstimmung in einer über mehrere Jahre gewachsenen Zusammenarbeit.",
+ "alternate": {
+  "de": "/projekte/stadt-hamburg-sylt/",
+  "en": "/en/projects/stadt-hamburg-sylt/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Persönlich im Austausch. Verlässlich im Alltag."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hochwertige Lederartikel und ein direkter Draht nach Berlin. Das Hotel Stadt Hamburg auf Sylt schätzt die persönliche Abstimmung in einer über mehrere Jahre gewachsenen Zusammenarbeit.",
+     "role": "lead"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "Hotel Stadt Hamburg, Sylt"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hotellerie · Wiederkehrender Bedarf"
+    },
+    {
+     "k": "Umfang",
+     "v": "Lederartikel · Direkte Abstimmung · Wiederkehrende Zusammenarbeit"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Seit über 150 Jahren empfängt das Hotel Stadt Hamburg Gäste in Westerland. Das Haus verbindet individuell eingerichtete Zimmer und Suiten im englischen Country-House-Stil mit Restaurants, Bar und Spa. Charakter, Stammgäste und persönliche Gastfreundschaft prägen das Haus. In diesem Umfeld gehören Ausstattungsdetails zu einem gewachsenen Gesamtbild und müssen zugleich die tägliche Arbeit eines Hotels unterstützen. SFP fertigte hochwertige Lederartikel für das Haus; daraus entwickelte sich eine mehrjährige Zusammenarbeit. Hoteldirektor Christian Wirsich hebt dort die persönliche Abstimmung, erreichbare Ansprechpartner und eine unkomplizierte Abwicklung auch am Telefon hervor."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkte und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Artikel sollten hochwertig ausgeführt und auf ihren tatsächlichen Einsatz abgestimmt sein. In einem individuell gestalteten Traditionshotel müssen neue Produkte eine vorhandene Material- und Formensprache respektieren, ohne historische Wirkung einfach zu imitieren. Zugleich spielen Reinigung, Nachfüllen, Aufbewahrung und die Handhabung durch Mitarbeitende eine Rolle. Für eine Nachbestellung kommen die Referenz zur bestehenden Ausführung und die aktuelle Materialverfügbarkeit hinzu."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Persönliche Abstimmung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Kundenstimme macht deutlich, wie die Zusammenarbeit erlebt wurde: direkt, erreichbar und ohne unnötige Hürden. Gerade bei wiederkehrendem Bedarf kann ein Telefongespräch offene Punkte schnell strukturieren; verbindlich wird die Ausführung anschließend durch klare Artikelreferenzen, Materialangaben und Freigaben. SFP kann frühere Entscheidungen als Ausgangspunkt nutzen und zugleich klären, ob Inhalte, Stellflächen oder betriebliche Anforderungen verändert wurden. Diese Verbindung aus persönlichem Kontakt und klarer Spezifikation ist für ein Haus mit individuellen Räumen besonders sinnvoll."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Der Wert für das Hotel Stadt Hamburg liegt in der Verbindung aus passenden Lederartikeln und einem direkten Draht zum Anbieter. Bei wiederkehrendem Ausstattungsbedarf muss nicht jede Anfrage ohne Kontext beginnen: Ansprechpartner und frühere Ausführungen sind bekannt, Fragen können persönlich geklärt und Entscheidungen nachvollziehbar fortgeführt werden. Für ein charakterstarkes, über lange Zeit gewachsenes Haus unterstützt diese Kontinuität einen behutsamen Umgang mit Details."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "language": "en",
+ "key": "journal",
+ "slug": "journal",
+ "url": "/en/journal/",
+ "template": "page",
+ "title": "A closer look at the details.",
+ "description": "Materials, design and project planning. Guidance for bespoke leather accessories in considered settings.",
+ "alternate": {
+  "de": "/journal/",
+  "en": "/en/journal/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A closer look at the details."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Materials, design and project planning. Guidance for bespoke leather accessories in considered settings.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/",
+     "title": "Bespoke menus and bill presenters for a distinctive restaurant identity",
+     "body": [
+      {
+       "type": "p",
+       "html": "From content and binding to presenting the bill: make menu covers and bill presenters part of a coherent service culture."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/",
+     "title": "How to design a coordinated hotel-room leather collection",
+     "body": [
+      {
+       "type": "p",
+       "html": "A practical guide for interior designers, procurement and housekeeping: coordinate functions, dimensions, materials and approvals."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Design study of coordinated tray, tissue box cover, desk pad, notepad holder and waste bin",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/from-interior-concept-to-product-brief/",
+     "title": "From an interior concept to a product brief.",
+     "body": [
+      {
+       "type": "p",
+       "html": "The information that moves a bespoke leather accessory forward: use, dimensions, material direction and considered approvals."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Leather collection in cognac, olive, burgundy and taupe on warm stone",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/a-material-palette-not-a-single-colour/",
+     "title": "A material palette is more than a colour.",
+     "body": [
+      {
+       "type": "p",
+       "html": "How leather, stitching, timber and metal become a coherent collection without making every accessory look the same."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-macro.webp",
+       "alt": "Leather edges with tonal stitching and visible grain",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/bespoke-and-small-batch-production/",
+     "title": "When a bespoke specification makes sense.",
+     "body": [
+      {
+       "type": "p",
+       "html": "An established model, a custom adaptation or a new development: choosing the right route for your project."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-boutique-world.webp",
+       "alt": "Design study of considered leather accessories in a quiet boutique hotel interior",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/client-gifts-and-employee-gifts/",
+     "title": "One gift. Two different purposes.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Client gifts and employee gifts need different briefs. Occasion, practical use and personalisation set the direction."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/planning-restaurant-accessories/",
+     "title": "A restaurant refresh starts with service.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Plan menu covers, bill presenters and tabletop accessories together, from the content to a practical service review."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Leather menu cover with the VOX logo on a set table",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/planning-bespoke-leather-gifts/",
+     "title": "A thoughtful gift begins before the packaging.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Recipients, occasion and personalisation as the starting point for leather gifts and coordinated gift sets."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v5-gifts.webp",
+       "alt": "Design study: cognac luggage tag, olive keyring and coordinated presentation box",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/planning-a-hotel-accessory-collection/",
+     "title": "A guest-room collection needs to work together.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Why accessory planning benefits from bringing together interior design, procurement and housekeeping."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/room-scene.webp",
+       "alt": "Material and design study: coordinated leather accessories beside a vanity",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/blind-debossing-and-foil-stamping/",
+     "title": "A logo does not need to be loud.",
+     "body": [
+      {
+       "type": "p",
+       "html": "How branding method, scale and placement change the character of a leather accessory."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-blind-debossing.webp",
+       "alt": "Close-up of understated blind debossing in leather",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/menu-covers-binding-and-format/",
+     "title": "Choosing menu covers for your service.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Format, binding and page count determine how well a menu cover works in daily service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "A complete open leather menu cover in a restaurant setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/choosing-materials-for-hospitality/",
+     "title": "Material selection starts with the setting.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/leather.webp",
+       "alt": "Close-up of a fine leather surface",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/journal/briefing-a-bespoke-project/",
+     "title": "What makes a useful bespoke brief?",
+     "body": [
+      {
+       "type": "p",
+       "html": "From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/atelier.webp",
+       "alt": "Material study with hands, leather samples and tools on a work surface",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

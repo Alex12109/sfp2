@@ -1,0 +1,522 @@
+{
+ "language": "en",
+ "key": "product:kofferanhaenger",
+ "slug": "product--kofferanhaenger",
+ "url": "/en/products/luggage-tags/",
+ "template": "family",
+ "title": "Luggage tags",
+ "description": "A luggage tag combines the personal gesture of a gift with genuine usefulness. A considered shape, tactile material and discreet branding make it a companion.",
+ "alternate": {
+  "de": "/produkte/kofferanhaenger/",
+  "en": "/en/products/luggage-tags/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Travel & gifts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Luggage tags"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A luggage tag combines the personal gesture of a gift with genuine usefulness. A considered shape, tactile material and discreet branding make it a companion.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=kofferanhaenger",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Luggage%20tags",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Luggage tag with branded leather and a buckle — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/luggage-detail-v3.webp",
+       "alt": "Design study of a cognac leather luggage tag with a buckle and privacy window",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Let your identity travel."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A luggage tag is a small leather accessory with a distinctly personal task. It identifies a bag, accompanies a journey and may recall a property or brand long after an event. The 65 × 112 mm starting size establishes an initial proportion; custom dimensions and presentation packaging are discussed on enquiry. Character comes from the balance of silhouette, leather, address window, strap and buckle. Branding need not be large. A blind deboss or another agreed detail can carry the identity quietly, while the hardware gives the tag rhythm and weight. Each choice remains specific to the proposed construction and material."
+    },
+    {
+     "type": "p",
+     "html": "The brief establishes which details should remain visible and how the address card is changed. Strap width and length need to suit a luggage handle; the buckle should be considered alongside edges, stitching and logo. Artwork at actual size reveals whether fine lettering and small brand elements work within the available area. Consider the moment of presentation too: individually, in bespoke packaging, as part of a travel set or with a personal note. A custom outline can echo a brand cue but still needs to handle comfortably. The sample therefore brings graphic assessment and practical testing together before the gift becomes a companion for real journeys."
+    },
+    {
+     "type": "p",
+     "html": "For different recipient groups, colour, branding or packaging may vary while the basic shape and material palette remain connected. Identify each version by occasion, quantity and approved artwork."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-luggage-window.webp",
+     "alt": "Luggage tag with a card window",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-luggage-form.webp",
+     "alt": "Luggage tag shape and buckle",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Agree the address window and required visibility",
+        "Consider the buckle and branding together",
+        "Plan packaging around the occasion"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=kofferanhaenger",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=kofferanhaenger"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "A distinctive outline",
+     "body": [
+      {
+       "type": "p",
+       "html": "Choose an established format or discuss custom dimensions and a silhouette that reflects your brand."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Privacy &amp; hardware",
+     "body": [
+      {
+       "type": "p",
+       "html": "A privacy flap and card window combine practicality with discretion. Gold- and silver-coloured buckles are possible details."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Considered as a gift",
+     "body": [
+      {
+       "type": "p",
+       "html": "Logo scale, blind debossing or foil stamping and packaging work together to shape the moment of presentation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Genuine leather or PU material, in two standard sizes",
+      "Custom dimensions and shapes on enquiry",
+      "Business-card window with a privacy flap",
+      "Gold- or silver-coloured buckle; blind debossing or foil stamping"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Starting format",
+     "v": "65 × 112 mm"
+    },
+    {
+     "k": "Options",
+     "v": "Custom dimensions and presentation packaging on enquiry"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "BMW Group Classic Events"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v15-bmw-seat.webp",
+     "alt": "Luggage tag with BMW Group Classic branding in detail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/bmw-group-classic/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/bmw-group-classic/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/keyrings/",
+     "title": "Leather keyrings",
+     "body": [
+      {
+       "type": "p",
+       "html": "A compact gift for everyday use. Coordinate its material and finish with luggage tags or other gifts to create a consistent collection."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leather keyring in a presentation box — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/kofferanhanger/\">Luggage Tags</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags identify baggage while keeping personal details behind a privacy flap. Two standard sizes are available alongside custom dimensions and shapes, with the body made in genuine or PU leather. A gold- or silver-coloured buckle, alternative outlines and blind debossing or foil stamping combine travel relevance, practical use and visible branding."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Luggage Tags — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/kofferanhanger/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=kofferanhanger",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/kofferanhanger/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

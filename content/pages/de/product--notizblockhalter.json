@@ -1,0 +1,512 @@
+{
+ "language": "de",
+ "key": "product:notizblockhalter",
+ "slug": "product--notizblockhalter",
+ "url": "/produkte/notizblockhalter/",
+ "template": "family",
+ "title": "Notizblockhalter",
+ "description": "Ein bereitliegender Stift, ein sauber gefasster Block, eine angenehme Oberfläche: Ein Notizblockhalter macht aus einem kleinen Service einen bewusst gestalteten Moment.",
+ "alternate": {
+  "de": "/produkte/notizblockhalter/",
+  "en": "/en/products/notepad-holders/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "label": "Schreibkultur & Konferenz",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Notizblockhalter"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein bereitliegender Stift, ein sauber gefasster Block, eine angenehme Oberfläche: Ein Notizblockhalter macht aus einem kleinen Service einen bewusst gestalteten Moment.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=notizblockhalter",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Notizblockhalter",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Freigestellte SFP-Notizblockhalter in verschiedenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Für Gedanken, die bleiben."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Notizblockhalter macht aus losem Papier einen festen Platz für Gedanken. Auf dem Nachttisch, im Konferenzraum oder neben dem Telefon einer Suite hält er Block und Stift zusammen, ohne den spontanen Griff zu verlangsamen. A6 wirkt persönlich und kompakt; A5 bietet mehr Raum für Besprechungsnotizen. Eine offene Ausführung zeigt den Inhalt unmittelbar, während ein Deckel die Fläche beruhigt und das Papier optisch zurücknimmt. Steppnaht und Polsterung können je nach Ausführung Tiefe und Weichheit verändern. Entscheidend ist, dass der Halter nicht nur auf einem Moodboard überzeugt, sondern mit dem tatsächlich eingesetzten Block leicht und eindeutig funktioniert."
+    },
+    {
+     "type": "p",
+     "html": "Bringen Sie den Originalblock, seine exakten Maße und den vorgesehenen Stift in die Bemusterung ein. Papierformat, Blockhöhe, Nachfüllweg und Stiftmulde beeinflussen einander; schon eine andere Leimkante kann die Entnahme verändern. Ein starrer Aufbau hat eine klare, architektonische Präsenz, eine Kombination mit Filz oder Leder kann sich weicher anfühlen. Mit oder ohne Deckel bleibt daher nicht allein eine Stilfrage, sondern prägt auch den Handgriff. Wir stimmen Konstruktion, Oberfläche, Naht und mögliche Prägung auf den Ort und die Nutzung ab. Beim Muster sollten Einkauf, Housekeeping oder Office Management das Nachfüllen ebenso prüfen wie Design und Markenverantwortliche die Proportionen."
+    },
+    {
+     "type": "p",
+     "html": "Soll derselbe Halter in mehreren Bereichen eingesetzt werden, werden Blocklieferant und Nachfüllformat je Standort dokumentiert. So bleibt die Gestaltung zusammenhängend, während Papiermenge, Stift und gewünschter Zugriff sinnvoll variieren dürfen."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-notepad-open.webp",
+     "alt": "Offener Notizblockhalter mit Prägung und Stiftmulde",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-notepad-felt.webp",
+     "alt": "Notizblockhalter aus Filz mit Stiftmulde",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Originalblock oder exaktes Papierformat bereithalten",
+        "Nachfüllen und Stiftentnahme am Muster prüfen",
+        "Offene Ausführung oder Deckel entscheiden"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=notizblockhalter",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=notizblockhalter"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Papier &amp; Passung",
+     "body": [
+      {
+       "type": "p",
+       "html": "A6 und A5 bieten bewährte Ausgangspunkte. Entscheidend sind der verwendete Block, seine Stärke und der verfügbare Platz."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Offen oder mit Deckel",
+     "body": [
+      {
+       "type": "p",
+       "html": "Deckel, Polsterung und Stiftmulde werden nach dem Einsatz gewählt. Ein schneller Zugriff und ein ruhiger Auftritt können unterschiedlich gelöst werden."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Teil der Kollektion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Übernehmen Sie Materialfarbe und Prägung Ihrer Schreibunterlagen. Kleine Unterschiede im Format dürfen bleiben; die gemeinsame Handschrift verbindet."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Auf das verwendete Papierformat abstimmen",
+      "Stiftablage und Ausführung gemeinsam festlegen",
+      "Material und Prägung passend zur weiteren Ausstattung"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Papierformat",
+     "v": "A6 / A5"
+    },
+    {
+     "k": "Ausführung",
+     "v": "Mit oder ohne Deckel; Steppnaht und Polsterung nach Ausführung"
+    },
+    {
+     "k": "Konstruktion",
+     "v": "MDF-, Karton- oder Metallkern je nach Modell; alternative Filz-Leder-Kombination"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/schreibunterlagen/",
+     "title": "Schreibunterlagen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine klar definierte Arbeitsfläche, abgestimmt auf Schreibtisch, Konferenztisch oder Empfang. Format, Material und Logo werden im Projekt zusammengeführt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Schlichte Schreibunterlage aus dem SFP-Sortiment – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/notizblockhalter/\">Notizblockhalter</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notizblockhalter geben Papier und Stift im Gästezimmer oder an der Rezeption einen festen Platz. Drei Ausgangsformate und Sondermaße können auf den verwendeten Block abgestimmt werden. Mit oder ohne Deckel, mit halbrunder oder länglicher Stiftmulde, Ziernaht und Prägung wird der PU-Lederbezug passend zu Schreibtisch, Papierformat und weiterer Ausstattung konfiguriert."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Notizblockhalter – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/notizblockhalter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=notizblockhalter",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/notizblockhalter/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

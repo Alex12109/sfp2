@@ -1,0 +1,191 @@
+{
+ "language": "en",
+ "key": "case:vier-jahreszeiten-muenchen",
+ "slug": "case--vier-jahreszeiten-muenchen",
+ "url": "/en/projects/vier-jahreszeiten-muenchen/",
+ "template": "project",
+ "title": "Vier Jahreszeiten, München · Individually developed. Added to over the years.",
+ "description": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017.",
+ "alternate": {
+  "de": "/projekte/vier-jahreszeiten-muenchen/",
+  "en": "/en/projects/vier-jahreszeiten-muenchen/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Individually developed. Added to over the years."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-kempinski.svg",
+     "alt": "Kempinski Hotels",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "Vier Jahreszeiten, München"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Guest-room accessories"
+    },
+    {
+     "k": "Scope",
+     "v": "Leather room accessories · On-site consultation · Repeat orders"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hotel Vier Jahreszeiten Kempinski Munich is a five-star property on Maximilianstrasse. Built by King Maximilian II in 1858, the hotel combines its history with contemporary luxury, dining, spa and events. In a property of this kind, the guest-room experience extends to the small objects that guests see and handle every day. These pieces have to belong within the interior while working reliably for hotel operations. SFP’s relationship began with a consultation at the property. This brought spatial impact, use and visual detail into the same discussion."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The distinctive requirements for guest-room pieces arise from the relationship between property and function: proportions need to suit furniture and available surfaces, finishes have to sit within the interior palette, and details must support daily handling. Containers or trays depend on their actual contents; visible branded objects also require careful control of scale and logo position."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The on-site consultation gave SFP a concrete basis for development. For a collection of this kind, it is useful to separate shared characteristics from variable ones: leather character, colour, edge treatment or branding can establish the family, while dimensions and internal layouts follow each application. A sample can then make proportion, tactility and branding reviewable within the actual room. the project history also shows that the initial scheme was not treated as a single delivery. Further pieces have been ordered annually since 2017."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The immediate value was a guest-room scheme developed from the actual setting of the property. The leather accessories could be considered as a coherent family rather than arriving in the room as unrelated objects. The client benefit is therefore described as continuity in design and collaboration."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vier-detail.webp",
+     "alt": "Details of the Vier Jahreszeiten guest-room accessories",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Vier%20Jahreszeiten%2C%20M%C3%BCnchen",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/room-accessories/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

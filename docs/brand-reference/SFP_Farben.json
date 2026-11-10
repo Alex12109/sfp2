@@ -1,0 +1,233 @@
+{
+  "palette": "SFP Old Copper",
+  "color_space": "sRGB",
+  "colors": [
+    {
+      "token": "sand",
+      "name": "Sand",
+      "hex": "#D6C8B6",
+      "rgb": [
+        214,
+        200,
+        182
+      ],
+      "cmyk_percent": [
+        0.0,
+        6.5421,
+        14.9533,
+        16.0784
+      ],
+      "cmyk_exact": [
+        "0",
+        "700/107",
+        "1600/107",
+        "820/51"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "forest",
+      "name": "Forest",
+      "hex": "#253F3B",
+      "rgb": [
+        37,
+        63,
+        59
+      ],
+      "cmyk_percent": [
+        41.2698,
+        0.0,
+        6.3492,
+        75.2941
+      ],
+      "cmyk_exact": [
+        "2600/63",
+        "0",
+        "400/63",
+        "1280/17"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "copper",
+      "name": "Copper",
+      "hex": "#B77550",
+      "rgb": [
+        183,
+        117,
+        80
+      ],
+      "cmyk_percent": [
+        0.0,
+        36.0656,
+        56.2842,
+        28.2353
+      ],
+      "cmyk_exact": [
+        "0",
+        "2200/61",
+        "10300/183",
+        "480/17"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "paper",
+      "name": "Ivory",
+      "hex": "#F5F1E9",
+      "rgb": [
+        245,
+        241,
+        233
+      ],
+      "cmyk_percent": [
+        0.0,
+        1.6327,
+        4.898,
+        3.9216
+      ],
+      "cmyk_exact": [
+        "0",
+        "80/49",
+        "240/49",
+        "200/51"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "charcoal",
+      "name": "Charcoal",
+      "hex": "#252725",
+      "rgb": [
+        37,
+        39,
+        37
+      ],
+      "cmyk_percent": [
+        5.1282,
+        0.0,
+        5.1282,
+        84.7059
+      ],
+      "cmyk_exact": [
+        "200/39",
+        "0",
+        "200/39",
+        "1440/17"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "parchment",
+      "name": "Parchment",
+      "hex": "#EEE3D4",
+      "rgb": [
+        238,
+        227,
+        212
+      ],
+      "cmyk_percent": [
+        0.0,
+        4.6218,
+        10.9244,
+        6.6667
+      ],
+      "cmyk_exact": [
+        "0",
+        "550/119",
+        "1300/119",
+        "20/3"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    },
+    {
+      "token": "bronze",
+      "name": "Bronze",
+      "hex": "#80563D",
+      "rgb": [
+        128,
+        86,
+        61
+      ],
+      "cmyk_percent": [
+        0.0,
+        32.8125,
+        52.3438,
+        49.8039
+      ],
+      "cmyk_exact": [
+        "0",
+        "525/16",
+        "1675/32",
+        "2540/51"
+      ],
+      "pantone": "Physisch bemustern; keine exakte HEX-Entsprechung."
+    }
+  ],
+  "contrast": {
+    "sand": {
+      "sand": 1.0,
+      "forest": 6.906459002173225,
+      "copper": 2.2553487742893306,
+      "paper": 1.4567554472526991,
+      "charcoal": 9.169215784258974,
+      "parchment": 1.2951870497880265,
+      "bronze": 3.85859833102406
+    },
+    "forest": {
+      "sand": 6.906459002173225,
+      "forest": 1.0,
+      "copper": 3.06225763434282,
+      "paper": 10.061021772643285,
+      "charcoal": 1.3276290761117582,
+      "parchment": 8.945156259506696,
+      "bronze": 1.7898880395618353
+    },
+    "copper": {
+      "sand": 2.2553487742893306,
+      "forest": 3.06225763434282,
+      "copper": 1.0,
+      "paper": 3.2854916124006808,
+      "charcoal": 4.065542273898736,
+      "parchment": 2.92109852521484,
+      "bronze": 1.7108654656927373
+    },
+    "paper": {
+      "sand": 1.4567554472526991,
+      "forest": 10.061021772643285,
+      "copper": 3.2854916124006808,
+      "paper": 1.0,
+      "charcoal": 13.357305040754689,
+      "parchment": 1.1247452230865922,
+      "bronze": 5.621034137479473
+    },
+    "charcoal": {
+      "sand": 9.169215784258974,
+      "forest": 1.3276290761117582,
+      "copper": 4.065542273898736,
+      "paper": 13.357305040754689,
+      "charcoal": 1.0,
+      "parchment": 11.875849540484186,
+      "bronze": 2.3763074043069654
+    },
+    "parchment": {
+      "sand": 1.2951870497880265,
+      "forest": 8.945156259506696,
+      "copper": 2.92109852521484,
+      "paper": 1.1247452230865922,
+      "charcoal": 11.875849540484186,
+      "parchment": 1.0,
+      "bronze": 4.997606588676056
+    },
+    "bronze": {
+      "sand": 3.85859833102406,
+      "forest": 1.7898880395618353,
+      "copper": 1.7108654656927373,
+      "paper": 5.621034137479473,
+      "charcoal": 2.3763074043069654,
+      "parchment": 4.997606588676056,
+      "bronze": 1.0
+    }
+  },
+  "cmyk_note": "Mathematische Max-Black-Umrechnung ohne ICC-Profil; keine fertige Druckseparation."
+}

@@ -1,0 +1,911 @@
+{
+ "language": "de",
+ "key": "home",
+ "slug": "home",
+ "url": "/",
+ "template": "home",
+ "title": "Lederartikel nach Maß. Für Ihre Marke gemacht.",
+ "description": "Individuelle Lederaccessoires für Hotels, Interior-Projekte und Marken. Feines italienisches Echtleder, hochwertiges PU und Handfertigung in der EU – abgestimmt auf Ihr Projekt.",
+ "alternate": {
+  "de": "/",
+  "en": "/en/"
+ },
+ "sections": [
+  {
+   "kind": "signature-hero",
+   "data": {
+    "hero-scenes": ""
+   },
+   "title": {
+    "level": "h1",
+    "html": "Leder. Form.<br> Ihre <em>Handschrift.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Lederaccessoires für Hotels, Interior-Projekte und Marken. Vollständig nach Ihren Wünschen entwickelt, in der EU von Hand gefertigt und persönlich aus Berlin begleitet."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Unsere Arbeiten",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "0"
+     },
+     "media": [
+      {
+       "src": "/assets/v8-on-set-room.webp",
+       "alt": "Konzeptszene mit olivfarbener Tissue-Box und taupefarbener Amenity-Box auf einem Nachttisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "1"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "2"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Hospitality",
+     "data": {
+      "hero-choice": "0"
+     }
+    },
+    {
+     "label": "Dining",
+     "data": {
+      "hero-choice": "1"
+     }
+    },
+    {
+     "label": "Gifting",
+     "data": {
+      "hero-choice": "2"
+     }
+    }
+   ]
+  },
+  {
+   "kind": "reference-logos",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/bmw-group-classic/",
+     "role": "logo-bmw"
+    },
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/grand-hyatt-vox/",
+     "role": "logo-grand"
+    },
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/william-blair/",
+     "role": "logo-william"
+    },
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/marriott-berlin/",
+     "role": "logo-marriott"
+    },
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/ritz-carlton-wolfsburg/",
+     "role": "logo-ritz"
+    },
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/projekte/east-group/",
+     "role": "logo-east"
+    }
+   ]
+  },
+  {
+   "kind": "material-manifesto",
+   "id": "approach",
+   "title": {
+    "level": "h2",
+    "html": "Individuelle Lederaccessoires<br> <em>für Ihr Projekt.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wir entwickeln Speisekarten, Schreibunterlagen, Trays, Zimmeraccessoires und Geschenke für Hotels, Restaurants und Marken. Form, Maße, Material und Veredelung stimmen wir auf Ihren Einsatz ab."
+    },
+    {
+     "type": "p",
+     "html": "Sie können ein bestehendes Design anpassen lassen oder mit uns einen eigenen Artikel entwickeln. Wir beraten Sie persönlich aus Berlin und lassen in der EU von Hand fertigen."
+    },
+    {
+     "type": "p",
+     "html": "Für eine Kollektion stimmen wir Farben, Materialien und Details über mehrere Artikel hinweg ab. Muster und Layouts helfen Ihnen, die Ausführung vor der Fertigung zu beurteilen."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/leistungen/",
+     "label": "Was wir für Sie entwickeln",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "manifesto-note",
+     "title": "Einzelstücke, kleine Serien und Kollektionen.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Einzelanfertigungen und sehr kleine Serien sind willkommen. Auch umfangreiche Ausstattungen setzen wir um. Nennen Sie uns Ihre Idee, die benötigte Menge und Ihren Wunschtermin."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "object-library",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Unsere Kollektionen."
+   },
+   "items": [
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen · Notizblockhalter"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material- und Gestaltungsstudie: blaue Schreibunterlage und Notizblockhalter auf einem Nussbaumschreibtisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/trays-ablage/",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays &amp; Tabletts"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/raumaccessoires/",
+     "title": "Raumaccessoires",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe · Tissue-Boxen"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/travel-gifts/",
+     "title": "Travel &amp; Gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger · Schlüsselanhänger"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/gifts.webp",
+       "alt": "Kofferanhänger in Cognac und Grün mit passendem Schlüsselanhänger",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/dining/",
+     "title": "Speisekarten &amp; Dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tischsets · Speisekarten · Rechnungsmappen &amp; Rechnungsboxen · Coaster"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Bordeauxrote und olivfarbene Karten mit passendem Rechnungspräsenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/kollektionen/weitere-objekte/",
+     "title": "Boxen &amp; besondere Artikel",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity-Boxen &amp; weitere Artikel"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Geöffnete Amenity-Box mit Pflegeaccessoires auf einem Ankleidetisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "project-theatre",
+   "data": {
+    "project-theatre": ""
+   },
+   "title": {
+    "level": "h2",
+    "html": "Ausgewählte Projekte."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Speisekarten, Zimmerausstattung und Markenpräsente: Beispiele aus unserer Arbeit für Hotels und Unternehmen."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte entdecken",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "data": {
+      "project-panel": "0"
+     },
+     "title": "Ein Markenerlebnis, das mitreist.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "BMW Group Classic Kofferanhänger, inszeniert auf dem Ledersitz eines klassischen BMW",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/projekte/bmw-group-classic/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projekte/bmw-group-classic/",
+       "label": "Projekt ansehen",
+       "style": "text"
+      }
+     ],
+     "href": "/projekte/bmw-group-classic/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "1"
+     },
+     "hidden": true,
+     "title": "Vom ersten Menü bis zur Rechnung.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical",
+       "href": "/projekte/grand-hyatt-vox/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projekte/grand-hyatt-vox/",
+       "label": "Projekt ansehen",
+       "style": "text"
+      }
+     ],
+     "href": "/projekte/grand-hyatt-vox/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "2"
+     },
+     "hidden": true,
+     "title": "Individuell entwickelt. Über Jahre ergänzt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/projekte/vier-jahreszeiten-muenchen/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projekte/vier-jahreszeiten-muenchen/",
+       "label": "Projekt ansehen",
+       "style": "text"
+      }
+     ],
+     "href": "/projekte/vier-jahreszeiten-muenchen/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "3"
+     },
+     "hidden": true,
+     "title": "Eine gestalterische Idee wird Ausstattung.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Runder Leder-Coaster mit William-Blair-Blindprägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/projekte/william-blair/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projekte/william-blair/",
+       "label": "Projekt ansehen",
+       "style": "text"
+      }
+     ],
+     "href": "/projekte/william-blair/"
+    }
+   ],
+   "tabs": [
+    {
+     "label": "BMW Group Classic Events",
+     "data": {
+      "project-choice": "0"
+     }
+    },
+    {
+     "label": "Grand Hyatt Berlin · VOX",
+     "data": {
+      "project-choice": "1"
+     }
+    },
+    {
+     "label": "Vier Jahreszeiten, München",
+     "data": {
+      "project-choice": "2"
+     }
+    },
+    {
+     "label": "William Blair",
+     "data": {
+      "project-choice": "3"
+     }
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-macro.webp",
+     "alt": "Lederkanten mit tonalen Nähten und sichtbarer Narbung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "worlds-feature",
+   "title": {
+    "level": "h2",
+    "html": "Für Welten<br> mit eigenem Anspruch."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Boutique-Hotel braucht andere Antworten als ein Executive Office. Eine Yacht andere Proportionen als ein Clubhaus. Wir beginnen bei Ihrem Umfeld und verbinden die passenden Produkte zu einem nachvollziehbaren Konzept."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-boutique-world.webp",
+     "alt": "Gestaltungsstudie ausgewählter Lederaccessoires in einem ruhigen Boutique-Hotel-Interieur",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/loesungen/hotels/",
+     "label": "Hotels & Resorts",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/restaurants/",
+     "label": "Restaurants & Bars",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/interior-design/",
+     "label": "Interior Design & Architektur",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/corporate-gifts/",
+     "label": "Corporate Gifts & Events",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/clubs/",
+     "label": "Golfclubs & Private Clubs",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/yachts/",
+     "label": "Yachten & Marine Interiors",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/private-aviation/",
+     "label": "Private Aviation",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/loesungen/executive-offices/",
+     "label": "Executive Offices & Institutionen",
+     "style": "text",
+     "nav": "world-links"
+    }
+   ]
+  },
+  {
+   "kind": "process-preview",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "So entsteht Ihr Produkt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Foto, eine Skizze oder eine Beschreibung Ihres Bedarfs reicht für den Einstieg. Wir klären die Ausführung mit Ihnen, bevor die Fertigung beginnt."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-process-2.webp",
+     "alt": "Musterentwicklung: Ledertray neben Entwurfszeichnung und Materialproben",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "Den gesamten Prozess ansehen",
+     "style": "text"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Anfrage &amp; Angebot",
+     "no": "01",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir sprechen über Einsatz, Produktidee, Menge und Wunschlieferung. Daraus entsteht ein abgestimmter Rahmen für Material, Ausführung und Angebot."
+      },
+      {
+       "type": "p",
+       "html": "Ein klarer Projektrahmen.",
+       "role": "process-result"
+      }
+     ],
+     "open": true
+    },
+    {
+     "q": "Gestaltung &amp; Muster",
+     "no": "02",
+     "a": [
+      {
+       "type": "p",
+       "html": "Form, Material, Farbe und Branding werden konkret. Technische Layouts und projektbezogene Muster helfen, Haptik und Proportionen vor der Fertigung zu beurteilen."
+      },
+      {
+       "type": "p",
+       "html": "Eine Gestaltung, die Sie prüfen können.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Auftrag &amp; Freigabe",
+     "no": "03",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir halten die vereinbarte Ausführung fest. Freigaben, Konditionen und die weitere Planung werden abgestimmt, bevor die Produktion beginnt."
+      },
+      {
+       "type": "p",
+       "html": "Eine verbindliche Grundlage.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Fertigung &amp; Prüfung",
+     "no": "04",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ihre Artikel werden in der EU von Hand gefertigt. Dabei bildet die gemeinsam freigegebene Ausführung die Grundlage für die Fertigung und den Abgleich der Details."
+      },
+      {
+       "type": "p",
+       "html": "Sorgfalt bis ins Detail.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Lieferung &amp; Ergänzung",
+     "no": "05",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir koordinieren die Lieferung und besprechen weiteren Bedarf. Bei Ergänzungen stimmen wir Ausführung und aktuelle Materialverfügbarkeit erneut mit Ihnen ab."
+      },
+      {
+       "type": "p",
+       "html": "Bereit für den Einsatz.",
+       "role": "process-result"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "journal-showcase",
+   "title": {
+    "level": "h2",
+    "html": "Wissen, das gute<br> Entscheidungen möglich macht."
+   },
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Ins Journal",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "journal-feature",
+     "href": "/journal/interior-konzept-produktbrief/",
+     "title": "Vom Interior-Konzept zum fertigen Produktbrief.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Welche Informationen ein individuelles Lederprodukt wirklich weiterbringen: Nutzung, Maße, Materialrichtung und die richtigen Freigaben."
+      },
+      {
+       "type": "p",
+       "html": "Beitrag lesen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Lederkollektion in Cognac, Olive, Bordeaux und Taupe auf warmem Stein",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/journal/blindpraegung-folienpraegung/",
+     "title": "Ein Logo muss nicht laut sein.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wie Prägeverfahren, Größe und Position die Wirkung eines Lederprodukts verändern."
+      },
+      {
+       "type": "p",
+       "html": "Beitrag lesen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-blind-debossing.webp",
+       "alt": "Nahaufnahme einer zurückhaltenden Blindprägung in Leder",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+     "title": "Lederaccessoires fürs Hotelzimmer als Kollektion planen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein praktischer Leitfaden für Interior Design, Einkauf und Housekeeping: Funktionen, Maße, Materialien und Freigaben gemeinsam planen."
+      },
+      {
+       "type": "p",
+       "html": "Beitrag lesen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Gestaltungsstudie einer abgestimmten Kollektion aus Tray, Tissue-Box, Schreibunterlage, Notizblockhalter und Papierkorb",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/journal/speisekarten-bindung-format/",
+     "title": "Die richtige Speisekarte für Ihren Service.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert."
+      },
+      {
+       "type": "p",
+       "html": "Beitrag lesen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Vollständige geöffnete Ledermenümappe in einem Restaurant",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "home-questions",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Idee.<br> Ein paar erste Fragen."
+   },
+   "faq": [
+    {
+     "q": "Brauche ich bereits einen fertigen Entwurf?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nein. Ein Foto des Einsatzortes, ein Moodboard, eine Skizze oder ein konkreter Bedarf kann der Ausgangspunkt sein. Gemeinsam klären wir Funktion, Maße, Material und die nächsten Entscheidungen."
+      }
+     ]
+    },
+    {
+     "q": "Kann eine ganze Kollektion entstehen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja. Wir betrachten die Produkte gemeinsam und stimmen Material, Farbwelt und Veredelung aufeinander ab. Die Konstruktion folgt weiterhin der Aufgabe des einzelnen Artikels."
+      }
+     ]
+    },
+    {
+     "q": "Was gehört in die erste Anfrage?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Beschreiben Sie Einsatz, Artikel oder Idee, Menge und gewünschten Liefertermin. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte setzen wir um. Referenzbilder und Maße helfen uns, die passende Ausführung und den Zeitplan mit Ihnen zu klären."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

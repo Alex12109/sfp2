@@ -1,0 +1,253 @@
+{
+ "language": "de",
+ "key": "item:schlusselanhanger",
+ "slug": "item--schlusselanhanger",
+ "url": "/produkte/modelle/schlusselanhanger/",
+ "template": "model",
+ "title": "Schlüsselanhänger · Individuelle Ausführung",
+ "description": "Der Schlüsselanhänger verbindet ein Echtleder-Element mit Metall und eignet sich als kompaktes, häufig genutztes Präsent. Neben der Standardlänge von 120 mm sind Sonderausführungen möglich. Metallelemente stehen in verschiedenen Formen sowie gold- oder silberfarben zur Wahl; Blind- oder Folienprägung und eine bedruckbare Kartonverpackung gestalten Produkt und Übergabe als Einheit.",
+ "alternate": {
+  "de": "/produkte/modelle/schlusselanhanger/",
+  "en": "/en/products/models/schlusselanhanger/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Schlüsselanhänger"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Der Schlüsselanhänger verbindet ein Echtleder-Element mit Metall und eignet sich als kompaktes, häufig genutztes Präsent. Neben der Standardlänge von 120 mm sind Sonderausführungen möglich. Metallelemente stehen in verschiedenen Formen sowie gold- oder silberfarben zur Wahl; Blind- oder Folienprägung und eine bedruckbare Kartonverpackung gestalten Produkt und Übergabe als Einheit.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Formate: 120mm oder nach Wunsch",
+      "Material innen: Echtleder",
+      "Optionen: Verpackung, Metallelemente"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-schlusselanhanger.webp",
+     "alt": "Schlüsselanhänger – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=schlusselanhanger",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Metallelemente",
+     "body": [
+      {
+       "type": "p",
+       "html": "Silberfarben · Goldfarben"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Form der Metallelemente",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Verpackung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne bedruckte Kartonverpackung · Mit bedruckter Kartonverpackung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "120mm"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Echtleder"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Echtleder · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-5b3a2a3ceded88.webp",
+     "alt": "Schlüsselanhänger Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-3f3f9449f8e6ed.webp",
+     "alt": "Schlüsselanhänger Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

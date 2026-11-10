@@ -1,0 +1,1427 @@
+{
+ "language": "de",
+ "key": "catalog",
+ "slug": "catalog",
+ "url": "/produkte/",
+ "template": "catalog",
+ "title": "Alle Artikel. Ihre eigene Ausführung.",
+ "description": "Unsere Modelle sind Ausgangspunkte für Ihre eigene Ausführung in EU-Handfertigung. Wählen Sie einen Artikel oder verbinden Sie mehrere zu einer Kollektion. Von Einzelstücken und sehr kleinen Serien bis zu großen Projekten stimmen wir Format, geeignete Materialien und Details mit Ihnen ab.",
+ "alternate": {
+  "de": "/produkte/",
+  "en": "/en/products/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Alle Artikel. Ihre eigene Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Unsere Modelle sind Ausgangspunkte für Ihre eigene Ausführung in EU-Handfertigung. Wählen Sie einen Artikel oder verbinden Sie mehrere zu einer Kollektion. Von Einzelstücken und sehr kleinen Serien bis zu großen Projekten stimmen wir Format, geeignete Materialien und Details mit Ihnen ab.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "catalog-index",
+   "shade": true,
+   "actions": [
+    {
+     "href": "#category-gastronomy",
+     "label": "Gastronomie / F&B",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-hospitality",
+     "label": "Hotellerie",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-office",
+     "label": "Office",
+     "style": "text",
+     "nav": "catalog-categories"
+    },
+    {
+     "href": "#category-giveaways",
+     "label": "Give-Aways",
+     "style": "text",
+     "nav": "catalog-categories"
+    }
+   ],
+   "groups": [
+    {
+     "id": "category-gastronomy",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Gastronomie / F&amp;B"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/bestecktabletts/\">Bestecktabletts</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bestecktabletts ordnen Messer, Gabeln und Löffel beim Eindecken oder direkt am Tisch. Ein Kern aus Karton, MDF oder Echtholz wird mit PU-Leder bezogen; ein oder mehrere Trenner strukturieren den Innenraum. Zwei Ausgangsformate, Sondermaße, frei wählbare Garnfarben sowie Blind- oder Folienprägung ermöglichen eine projektbezogene Ausführung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bestecktabletts.webp",
+         "alt": "Bestecktabletts – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/bestecktabletts/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=bestecktabletts",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/bestecktabletts/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/coaster/\">Coaster</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Glas- und Flaschenuntersetzer schützen Tischflächen und führen das Materialkonzept eines Restaurants oder einer Bar bis zum einzelnen Gedeck fort. Zur Wahl stehen Echtleder, PU-Leder oder Filz sowie runde, eckige, ovale und weitere Formen. Abmessungen, Ecken, Ziernaht und Logo werden passend zu Gläsern, Flaschen und Tischbild festgelegt."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-coaster-forms.webp",
+         "alt": "Coaster – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/coaster/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=coaster",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/coaster/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/rechnungsboxen/\">Rechnungsboxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Rechnungsboxen geben der Übergabe am Ende des Service eine feste, dreidimensionale Form. Der Kern kann aus Karton oder Holz bestehen und ganz oder teilweise mit Leder, Buchbinderleinen oder Piquét bezogen werden. Standard- und Sondermaße, Taschen, Magnetleisten, Polsterung und eine individuelle Prägung stimmen die Box auf Zahlungsablauf und Markenauftritt ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rechnungsboxen.webp",
+         "alt": "Rechnungsboxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/rechnungsboxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=rechnungsboxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/rechnungsboxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/rechnungsmappen/\">Rechnungsmappen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Rechnungsmappen präsentieren Beleg und Karte in einem flachen, gut zu übergebenden Format. Sie werden aus Echtleder, PU-Leder, Buchbinderleinen oder Piquét gefertigt und können Taschen, Magnetleisten oder einen Stifthalter aufnehmen. Zwei rechteckige sowie ein quadratisches Ausgangsformat, Sondermaße, Naht, Polsterung und Prägung lassen sich auf den Service abstimmen."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rechnungsmappen.webp",
+         "alt": "Rechnungsmappen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/rechnungsmappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=rechnungsmappen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/rechnungsmappen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-grand-dinner/\">Speisekarte Grand Dinner</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Grand Dinner ist eine Menümappe mit Taschen für acht Seiten. Format, Rahmenaufteilung, Bezug, Naht, Polsterung und Logo werden für Speise-, Getränke- oder Weinkarte gemeinsam festgelegt."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-grand-dinner.webp",
+         "alt": "Speisekarte Grand Dinner – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-grand-dinner/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-grand-dinner",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-grand-dinner/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-grande-bistro/\">Speisekarte Grande Bistro</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Grande Bistro ist eine dreiteilige Menükarte für drei oder vier präsentierte Seiten. Das Papier wird in vertikalen oder horizontalen Taschen beziehungsweise in Vollrahmen gehalten und lässt sich bei Kartenwechseln austauschen. Außenmaterial, kontrastierendes Piquét im Inneren, Format, Ecken, Polsterung und Prägung können passend zu Menü, Tagesempfehlung oder Dessertauswahl kombiniert werden."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-grande-bistro.webp",
+         "alt": "Speisekarte Grande Bistro – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-grande-bistro/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-grande-bistro",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-grande-bistro/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-fine-dining/\">Speisekarte Fine Dining</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Fine Dining präsentiert zwei Seiten in einer reduzierten Menümappe aus Leder oder einem anderen gewählten Bezugsmaterial. Das Papier sitzt in Taschen und kann bei einem Wechsel unkompliziert entnommen werden; Form und Ausführung der Taschen sind anpassbar. DIN-A4- und DIN-A5-Varianten, Sonderformate, Ziernaht, Ecken, Polsterung und Logo machen das Modell für Menüs oder Tagesempfehlungen konfigurierbar."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-fine-dining.webp",
+         "alt": "Speisekarte Fine Dining – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-fine-dining/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-fine-dining",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-fine-dining/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-rome/\">Speisekarte Rome</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Rome hält wechselnde Menüblätter mit Metallklemmen oder einer Kunststoffschiene. Die Seitenzahl kann variieren, ohne dass eine neue Mappe benötigt wird; offene oder verdeckte Nieten differenzieren die Metallausführung. Gängige Formate und Sondermaße, Leder, Piquét oder Buchbinderleinen sowie Naht, Taschen, Polsterung und Prägung decken unterschiedliche Gastronomiekonzepte ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-rome.webp",
+         "alt": "Speisekarte Rome – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-rome/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-rome",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-rome/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-bonn/\">Speisekarte Bonn</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bonn verwendet eine Schnurbindung für gefaltete Menüblätter und eignet sich damit für Inhalte, die regelmäßig wechseln. Farbe und Material der Schnur sind wählbar; sie kann sichtbar außen liegen oder in den Rücken eingearbeitet werden. DIN-A4- und DIN-A5-Formate, Sondermaße, Taschen, Polsterung, Naht und Prägung ergänzen die Ausführung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-bonn.webp",
+         "alt": "Speisekarte Bonn – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-bonn/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-bonn",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-bonn/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-london/\">Speisekarte London</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "London ist eine schraubgebundene Menümappe mit getrennten Deckeln oder einem durchgehenden Umschlag. Längere oder kürzere Schrauben passen die Kapazität an eine veränderte Seitenzahl an; Farbe und Abstand der Schrauben sind wählbar. Buchbinderleinen, PU- oder Echtleder, Taschen, Naht, Polsterung, Ecken und Logo bestimmen den individuellen Aufbau."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-london.webp",
+         "alt": "Speisekarte London – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-london/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-london",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-london/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-hamburg/\">Speisekarte Hamburg</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Hamburg arbeitet mit laminierten Passepartouts, die wechselnde Inhalte schützen und schnell zugänglich machen. Anzahl, Form und Kartonfarbe der Rahmen werden auf Papier, Bezug und Umfang abgestimmt; möglich sind bis zu zwanzig Seiten. DIN-A4- und DIN-A5-Formate, Sondermaße, Leder oder Buchbinderleinen sowie Naht, Taschen, Polsterung und Prägung ergänzen die Karte."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-hamburg.webp",
+         "alt": "Speisekarte Hamburg – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-hamburg/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-hamburg",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-hamburg/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-vintage/\">Speisekarte Vintage</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Vintage ist eine Holzkarte mit Ringmechanik für eine frei wählbare Zahl von Blättern. Ringanzahl und Ringgröße folgen dem Inhalt; die Mechanik kann farbig lackiert werden. Eiche, Birke oder Kiefer stehen als Ausgangsmaterial zur Wahl und können gebeizt oder lackiert werden. DIN-A4-, DIN-A5- und Sonderformate sowie Prägungen individualisieren das Modell."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-vintage.webp",
+         "alt": "Speisekarte Vintage – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-vintage/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-vintage",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-vintage/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-clipboard/\">Speisekarte Clipboard</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Clipboard fixiert einzelne oder wechselnde Blätter mit Bügel-, Krokodil- oder Magnetklemme. Seiten lassen sich ohne Bindung schnell austauschen; Art und Farbe der Klemme sind wählbar. Die Trägerplatte kann aus Holz, Leder oder Buchbinderleinen bestehen. Formate von DIN A3 bis DIN A5, Sondermaße, Naht und Prägung passen sie an den Einsatz an."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-clipboard.webp",
+         "alt": "Speisekarte Clipboard – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-clipboard/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-clipboard",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-clipboard/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-berlin/\">Speisekarte Berlin</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Berlin ist eine Leder-Menümappe mit Schraubbindung und wahlweise offener oder verdeckter Schraubenleiste. Die Schraubenlänge lässt sich an die Seitenzahl anpassen; das Modell nimmt bis zu fünfzig Seiten auf. DIN-A4- und DIN-A5-Varianten, Sondermaße, Taschen, Naht, Ecken, Polsterung und Blind- oder Folienprägung definieren die projektspezifische Ausführung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-berlin.webp",
+         "alt": "Speisekarte Berlin – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-berlin/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-berlin",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-berlin/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-nizza/\">Speisekarte Nizza</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Nizza kombiniert einen umfangreichen Hauptteil mit einer separat bestückbaren Empfehlungsseite. Der Inhalt wird rechts in einer Ringmechanik oder als gefalteter Stapel gehalten; links nehmen Taschen Tagesangebote auf. Bis zu hundert Seiten, gängige Formate und Sondermaße sowie variable Taschen, Polsterung, Naht, Ecken und Prägung machen die Karte besonders flexibel."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-nizza.webp",
+         "alt": "Speisekarte Nizza – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-nizza/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-nizza",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-nizza/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-passepartout/\">Speisekarte Passepartout</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Passepartout rahmt eine oder zwei Seiten für Tagesempfehlungen, Menüs oder Desserts. Vollrahmen oder Taschen können ein- oder beidseitig ausgeführt und dezent gekennzeichnet werden; der Inhalt bleibt schnell austauschbar. DIN A3, A4 und A5 sowie Sondermaße, unterschiedliche Bezugsmaterialien, Naht, Ecken und Polsterung erlauben eine präzise Abstimmung auf Papier und Tisch."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-passepartout.webp",
+         "alt": "Speisekarte Passepartout – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-passepartout/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-passepartout",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-passepartout/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/menu-ringbinder/\">Speisekarte Ringbinder</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Ringbinder ist für umfangreiche Wein-, Bar- oder Speisekarten mit häufig wechselnden Seiten ausgelegt. Ringgröße, Ringanzahl und Mechanik werden an Inhalt und Kapazität angepasst; das Modell nimmt zehn bis fünfunddreißig Seiten auf. DIN-A4- und DIN-A5-Varianten, Sondermaße, Taschen, Naht, Ecken sowie Leder, Piquét oder Buchbinderleinen gestalten die Mappe passend zum Betrieb."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-menu-ringbinder.webp",
+         "alt": "Speisekarte Ringbinder – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/menu-ringbinder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=menu-ringbinder",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/menu-ringbinder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/tischaufsteller/\">Tischaufsteller</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Der Tischaufsteller präsentiert zwei DIN-A6-Seiten für Buffetangaben, Tagesempfehlungen oder Sonderangebote. Einschubecken halten die Blätter und ermöglichen einen schnellen Wechsel. Ein Karton-Kern wird mit PU-Leder oder Buchbinderleinen bezogen; Sondermaße, eine Ziernaht mit frei wählbarer Garnfarbe und die auf den Inhalt abgestimmte Ausrichtung ergänzen das kompakte Format."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-tischaufsteller.webp",
+         "alt": "Tischaufsteller – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/tischaufsteller/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=tischaufsteller",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/tischaufsteller/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/tischsets/\">Tischsets</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Tischsets schaffen eine definierte Fläche für Gedeck und Glas und schützen den Tisch im täglichen Service. Runde und rechteckige Ausgangsformate können durch Sondergrößen und Sonderformen ergänzt werden. Echt- oder PU-Leder, gerade oder gerundete Ecken, Ziernaht und Blind- oder Folienprägung stimmen jedes Set auf Tischgeometrie, Geschirr und Markenbild ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/original-dining-table.webp",
+         "alt": "Tischsets",
+         "width": 1500,
+         "height": 1000,
+         "kind": "technical",
+         "href": "/produkte/modelle/tischsets/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=tischsets",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/tischsets/"
+      }
+     ]
+    },
+    {
+     "id": "category-giveaways",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Give-Aways"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/kofferanhanger/\">Kofferanhänger</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Kofferanhänger kennzeichnen Gepäck und verbergen die persönlichen Daten hinter einem Sichtschutz. Zwei Standardgrößen sowie Sondermaße und Sonderformen stehen zur Wahl; Echt- oder PU-Leder bildet den Körper. Eine gold- oder silberfarbene Schnalle, unterschiedliche Formen sowie Blind- oder Folienprägung verbinden Reisebezug, praktische Nutzung und sichtbare Markenkennzeichnung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-kofferanhanger.webp",
+         "alt": "Kofferanhänger – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/kofferanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=kofferanhanger",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/kofferanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/kosmetik/\">Kosmetik</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Die transparente Kosmetiktasche nimmt kleine Flüssigkeitsbehälter für die Reise auf und wird durch ein ein- oder beidseitiges Lederelement ergänzt. Das dokumentierte Format beträgt 205 × 180 mm. PU- oder Echtleder, frei wählbare Reißverschlussfarbe, unterschiedliche Formen des Lederelements sowie Blind- oder Folienprägung machen daraus ein funktionales, markenbezogenes Reiseaccessoire."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-case-hapag.webp",
+         "alt": "Kosmetik – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/kosmetik/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=kosmetik",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/kosmetik/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/lesezeichen/\">Lesezeichen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Lesezeichen aus PU-Leder sind kompakte Präsente für Gäste, Kunden oder Veranstaltungen. Das Ausgangsformat von 40 × 140 mm kann als Sondergröße oder Sonderform angepasst werden. Ein Seidenband in frei wählbarer Farbe, dekorative Nähte sowie ein- oder beidseitige Blind- oder Folienprägungen geben dem flachen Produkt eine eigenständige, markengerechte Ausführung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-lesezeichen.webp",
+         "alt": "Lesezeichen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/lesezeichen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=lesezeichen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/lesezeichen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/rfid-cardholder/\">RFID-Cardholder</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Der RFID-Cardholder kombiniert einen schwarz matt lackierten Metallkörper mit einer Hülle aus Echtleder. Er nimmt bis zu sieben Karten und Bargeld auf; der Metallkorpus schirmt RFID-Signale ab. Eine innenliegende Geldtasche, Metallknopf, Naht und Prägung ergänzen das kompakte Format von 95 × 65 × 15 mm für Gäste, Mitarbeitende oder Partner."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-rfid-cardholder.webp",
+         "alt": "RFID-Cardholder – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/rfid-cardholder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=rfid-cardholder",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/rfid-cardholder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/schlusselanhanger/\">Schlüsselanhänger</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Der Schlüsselanhänger verbindet ein Echtleder-Element mit Metall und eignet sich als kompaktes, häufig genutztes Präsent. Neben der Standardlänge von 120 mm sind Sonderausführungen möglich. Metallelemente stehen in verschiedenen Formen sowie gold- oder silberfarben zur Wahl; Blind- oder Folienprägung und eine bedruckbare Kartonverpackung gestalten Produkt und Übergabe als Einheit."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-schlusselanhanger.webp",
+         "alt": "Schlüsselanhänger – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/schlusselanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=schlusselanhanger",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/schlusselanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/visitenkartenetuis/\">Visitenkartenetuis</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Das Visitenkartenetui hält Karten mit zwei elastischen Bändern auf den Innenseiten. Mit 92 × 65 mm passt es kompakt in Jacken- oder Hosentaschen; Sondermaße sind möglich. Echt- oder PU-Leder, Lederband oder Metalldruckknopf, Ziernaht und ein- oder beidseitige Blind- oder Folienprägung stimmen das Etui auf Zimmerkarte, Visitenkarten und Markenauftritt ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-visitenkartenetuis.webp",
+         "alt": "Visitenkartenetuis – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/visitenkartenetuis/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=visitenkartenetuis",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/visitenkartenetuis/"
+      }
+     ]
+    },
+    {
+     "id": "category-hospitality",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Hotellerie"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/amenity-boxen/\">Amenity-Boxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Amenity-Boxen ordnen Kosmetik- und Pflegeartikel im Hotelbad. Das Ausgangsformat von 250 × 260 × 60 mm kann an Inhalt und Stellfläche angepasst werden; Trenner strukturieren den Innenraum. Ein imprägnierter Karton-Kern mit PU-Lederbezug, optionaler Deckel, Ziernaht und Blind- oder Folienprägung verbinden geschützte Aufbewahrung mit dem Zimmerdesign."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-amenity-boxen.webp",
+         "alt": "Amenity-Boxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/amenity-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=amenity-boxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/amenity-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/tissue-boxen/\">Tissue-Boxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Tissue-Boxen verkleiden quadratische oder rechteckige Taschentuchspender für Zimmer und Bad. Die Entnahmeöffnung kann rund, oval oder rechteckig ausgeführt werden; ein Magnetboden erleichtert je nach Konfiguration das Nachfüllen. Zwei Ausgangsformate, Sondermaße, Ausführungen in PU-Leder oder Holz, Polsterung, Ziernaht und Prägung stimmen die Hülle auf die verwendete Originalbox ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-tissue-boxen.webp",
+         "alt": "Tissue-Boxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/tissue-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=tissue-boxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/tissue-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/bankettblotter/\">Bankettblotter</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bankettblotter schaffen eine definierte Schreibfläche in Konferenz- und Veranstaltungsräumen. Drei Ausgangsformate und Sondermaße lassen sich an Tisch und Bestuhlung anpassen. Karton- oder MDF-Kern, PU- oder Echtleder, rutschhemmende oder samtige Unterseite, Stiftmulde, Polsterung, Ecken, Ziernaht und Logo ergeben eine funktionale, zusammenhängende Ausstattung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bankettblotter.webp",
+         "alt": "Bankettblotter – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/bankettblotter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=bankettblotter",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/bankettblotter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/bankettcoaster/\">Bankettcoaster</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Bankettcoaster schützen Konferenztische unter Gläsern und Flaschen und lassen sich mit passenden Blottern kombinieren. Das Ausgangsformat von 350 × 110 mm kann ein- oder beidseitig gefertigt sowie in Sondermaßen ausgeführt werden. Flaschenmulden, gerade oder gerundete Ecken, Ziernaht und Prägung ordnen Getränke und Materialbild am Platz."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-bankettcoaster.webp",
+         "alt": "Bankettcoaster – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/bankettcoaster/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=bankettcoaster",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/bankettcoaster/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/airport-calling-signs/\">Airport Calling-Signs</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Airport Calling-Signs präsentieren Gastname oder Hotellogo gut sichtbar beim Empfang am Flughafen. Ein austauschbarer Einleger sitzt hinter einem optionalen Folienfenster; auf Wunsch ergänzt ein Stab die Handhabung. DIN A4 dient als Ausgangsformat, Sondermaße sind möglich. Karton, PU-Leder oder Buchbinderleinen, Naht und gerade oder gerundete Ecken bestimmen die Ausführung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/catalog-40715b0f4cae4b.webp",
+         "alt": "Airport Calling-Signs",
+         "width": 1800,
+         "height": 1200,
+         "kind": "technical",
+         "href": "/produkte/modelle/airport-calling-signs/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=airport-calling-signs",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/airport-calling-signs/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/check-in-mappen/\">Check-in Mappen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Check-in-Mappen bündeln Formulare, Flyer, Visitenkarten und einen Stift für die Ankunft des Gastes. Taschen und Magnetleisten lassen sich in Größe und Position an den tatsächlichen Inhalt anpassen. DIN-A4-Formate und Sondermaße, Karton-Kern, Echt- oder PU-Leder, Buchbinderleinen, Naht, Polsterung, Ecken und Prägung schaffen eine geordnete Übergabe am Empfang."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-check-in-mappen.webp",
+         "alt": "Check-in Mappen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/check-in-mappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=check-in-mappen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/check-in-mappen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/empfangsblotter/\">Empfangsblotter</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Empfangsblotter schützen die Theke und schaffen eine ruhige Fläche für Anmeldung, Unterschrift und Dokumente. Drei Ausgangsgrößen sowie Sondermaße berücksichtigen unterschiedliche Rezeptionen. Karton- oder MDF-Kern, Echt- oder PU-Leder, rutschhemmende oder samtige Unterseite, Taschen, Stiftmulden, Ziernaht, Ecken und Prägung werden auf den Check-in-Ablauf abgestimmt."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-empfangsblotter.webp",
+         "alt": "Empfangsblotter – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/empfangsblotter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=empfangsblotter",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/empfangsblotter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/laundry-boxen/\">Laundry-Boxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Laundry-Boxen nehmen Gästewäsche für den Abholservice geordnet auf. Drei Ausgangsgrößen und Sondermaße decken unterschiedliche Mengen ab; Griffaussparungen unterstützen die Handhabung. Ein MDF-Kern mit PU-Lederbezug, Ziernaht, großflächige Deckelprägung sowie ein Sichtfenster oben oder seitlich lassen sich an Ablauf und Kennzeichnung des Wäscheservice anpassen."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-laundry-boxen.webp",
+         "alt": "Laundry-Boxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/laundry-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=laundry-boxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/laundry-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/laundry-list-holder/\">Laundry-List-Holder</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Der Laundry-List-Holder präsentiert Informationen zum Wäscheservice und nimmt zugleich kleine Pflegeartikel auf. Taschen halten Blätter oder ein Schuhputztuch; zwei S-Haken können Schuhlöffel oder Kleiderbürste tragen. Das Format von 350 × 480 × 30 mm ist anpassbar. PU-Leder oder Mikrofaser, Naht, Taschen und Prägung strukturieren die Ausstattung im Kleiderschrank."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-laundry-list-holder.webp",
+         "alt": "Laundry-List-Holder – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/laundry-list-holder/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=laundry-list-holder",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/laundry-list-holder/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/shoe-boxen/\">Shoe-Boxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Shoe-Boxen unterstützen den Schuhputzservice für Gäste und Mitarbeitende. Der abnehmbare Deckel besitzt zwei Lüftungsöffnungen; ein optionales Sichtfenster erleichtert die Zuordnung. Das Ausgangsformat von 420 × 330 × 120 mm kann angepasst werden. Ein MDF-Kern mit PU-Lederbezug, Griffaussparungen, Naht und Blind- oder Folienprägung verbinden Handhabung, Belüftung und Kennzeichnung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-shoe-boxen.webp",
+         "alt": "Shoe-Boxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/shoe-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=shoe-boxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/shoe-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/turanhanger/\">Türanhänger</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Türanhänger kommunizieren Ruhe-, Service- oder Belegungswünsche direkt am Zimmer oder Konferenzraum. Das Ausgangsformat von 90 × 180 mm kann in Form, Größe und Aussparung an den jeweiligen Griff angepasst werden. Echt- oder PU-Leder, Sonderformen, Ziernaht und ein- oder mehrfache Blind- oder Folienprägung machen Vorder- und Rückseite eindeutig lesbar."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-turanhanger.webp",
+         "alt": "Türanhänger – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/turanhanger/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=turanhanger",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/turanhanger/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/condiment-boxen/\">Condiment-Boxen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Condiment-Boxen ordnen Tee, Kaffee, Zucker und ergänzende Artikel an der Getränkestation im Zimmer. Zwei Ausgangsformate und Sondermaße lassen sich auf Packungen und Stellfläche abstimmen; Trenner strukturieren den Innenraum. Karton, MDF oder Echtholz, PU-Lederbezug, optionaler Deckel, Ziernaht und Logo verbinden schnelles Nachfüllen mit einer aufgeräumten Präsentation."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-condiment-boxen.webp",
+         "alt": "Condiment-Boxen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/condiment-boxen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=condiment-boxen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/condiment-boxen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/notizblockhalter/\">Notizblockhalter</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Notizblockhalter geben Papier und Stift im Gästezimmer oder an der Rezeption einen festen Platz. Drei Ausgangsformate und Sondermaße können auf den verwendeten Block abgestimmt werden. Mit oder ohne Deckel, mit halbrunder oder länglicher Stiftmulde, Ziernaht und Prägung wird der PU-Lederbezug passend zu Schreibtisch, Papierformat und weiterer Ausstattung konfiguriert."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-notizblockhalter.webp",
+         "alt": "Notizblockhalter – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/notizblockhalter/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=notizblockhalter",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/notizblockhalter/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/papierkorbe/\">Papierkörbe</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Papierkörbe werden rund oder eckig mit MDF- oder Metallkern gefertigt und mit PU-Leder bezogen. MDF-Ausführungen erhalten ein Metall-Inlay für den vorgesehenen Einsatz im Hotelzimmer. Drei Ausgangsmaße, Sondergrößen, Kunststofffüße, Ziernaht und Prägung stimmen Form, Bodenschutz und Kennzeichnung auf Zimmer, Bad oder öffentlichen Bereich ab."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-papierkorbe.webp",
+         "alt": "Papierkörbe – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/papierkorbe/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=papierkorbe",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/papierkorbe/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/prospektstander/\">Prospektständer</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Prospektständer präsentieren Broschüren und Hotelinformationen auf Schreibtisch, Empfangstheke oder in der Lobby. Das Ausgangsformat von 260 × 280 × 165 mm kann angepasst und mit mehreren Fächern organisiert werden. Echtholz, ein Kern aus Karton oder MDF sowie PU-Lederbezug, Naht und Prägung verbinden kompakte Stellfläche mit klarer Sortierung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-prospektstander.webp",
+         "alt": "Prospektständer – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/prospektstander/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=prospektstander",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/prospektstander/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/schreibunterlagen/\">Schreibunterlagen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Schreibunterlagen schützen Tischflächen und schaffen eine gleichmäßige Schreibfläche im Hotelzimmer oder Konferenzraum. Drei Ausgangsformate und Sondermaße stehen für unterschiedliche Tische bereit; eine beidseitig nutzbare Ausführung ist möglich. Karton- oder MDF-Kern, PU- oder Echtleder, Unterseite aus Anti-Rutsch-Material oder Samt, Stiftmulde, Naht, Ecken und Prägung ergänzen die Funktion."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-schreibunterlagen.webp",
+         "alt": "Schreibunterlagen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/schreibunterlagen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=schreibunterlagen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/schreibunterlagen/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/stiftekocher/\">Stifteköcher</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Stifteköcher halten Kugelschreiber und weitere Schreibutensilien geordnet auf dem Schreibtisch. Runde und eckige Ausgangsformen stehen in zwei Größen bereit; Anzahl und Form der Unterteilungen können angepasst werden. Ein MDF-Kern mit PU-Lederbezug, Sondermaße, Ziernaht und Blind- oder Folienprägung verbinden schnellen Zugriff mit der Materialwelt des Zimmers."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-stiftekocher.webp",
+         "alt": "Stifteköcher – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/stiftekocher/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=stiftekocher",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/stiftekocher/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/trays/\">Trays</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Trays ordnen Getränke, Pflegeprodukte oder Schreibutensilien auf Schreibtisch, Minibar und im Bad. Drei Ausgangsmaße sowie Sonderformate richten sich nach Inhalt und verfügbarer Fläche; Trenner strukturieren einzelne Gegenstände. MDF, Karton oder Echtholz, PU-Lederbezug, Ziernaht und Prägung erlauben eine passende Ausführung für jede konkrete Ablageaufgabe."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-trays.webp",
+         "alt": "Trays – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/trays/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=trays",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/trays/"
+      },
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/zimmermappen/\">Zimmermappen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Zimmermappen bündeln Gästeinformationen, Broschüren, Visitenkarten und Schreibmaterial an einem Ort. Taschen, Magnetleisten oder eine Ringmechanik strukturieren wechselnde Inhalte; ihre Anordnung kann projektbezogen festgelegt werden. DIN-A4- und Sonderformate, Karton-Kern, Echt- oder PU-Leder, Buchbinderleinen, Naht, Polsterung, Ecken und Prägung verbinden Orientierung mit dem Zimmerdesign."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/v13-zimmermappen.webp",
+         "alt": "Zimmermappen – Produktaufnahme in ergänzter Umgebung",
+         "width": 1536,
+         "height": 1024,
+         "kind": "context",
+         "href": "/produkte/modelle/zimmermappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=zimmermappen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/zimmermappen/"
+      }
+     ]
+    },
+    {
+     "id": "category-office",
+     "kind": "catalog-category",
+     "title": {
+      "level": "h2",
+      "html": "Office"
+     },
+     "items": [
+      {
+       "role": "catalog-card",
+       "title": "<a href=\"/produkte/modelle/schreibmappen/\">Schreibmappen</a>",
+       "body": [
+        {
+         "type": "p",
+         "html": "Schreibmappen · Office präsentieren Unterlagen in Kanzlei, Bank, Praxis oder Beratung geordnet und griffbereit. Taschen, Magnetleisten oder eine Ringmechanik können Visitenkarten, Notizen, Flyer und Schreibutensilien aufnehmen. Karton-Kern, PU- oder Echtleder, Buchbinderleinen, frei geplante Innenaufteilung, Naht, Polsterung, Ecken und Prägung machen die Mappe zur projektbezogenen Arbeits- und Präsentationslösung."
+        }
+       ],
+       "media": [
+        {
+         "src": "/assets/catalog-1054a898be4c2f.webp",
+         "alt": "Schreibmappen",
+         "width": 1800,
+         "height": 1200,
+         "kind": "technical",
+         "href": "/produkte/modelle/schreibmappen/",
+         "role": "catalog-photo"
+        }
+       ],
+       "actions": [
+        {
+         "href": "/projektplaner/?item=schreibmappen",
+         "label": "Individuell konfigurieren",
+         "style": "text"
+        }
+       ],
+       "href": "/produkte/modelle/schreibmappen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

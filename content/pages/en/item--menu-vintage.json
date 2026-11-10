@@ -1,0 +1,250 @@
+{
+ "language": "en",
+ "key": "item:menu-vintage",
+ "slug": "item--menu-vintage",
+ "url": "/en/products/models/menu-vintage/",
+ "template": "model",
+ "title": "Vintage Wooden Menu Cover · Bespoke specification",
+ "description": "Vintage is a wooden menu cover with a ring mechanism for a flexible number of sheets. Ring count and diameter follow the content, and the mechanism can be colour finished. Oak, birch or pine provide the material options and may be stained or lacquered. A4, A5 and custom sizes, together with branding, individualise the model.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-vintage/",
+  "en": "/en/products/models/menu-vintage/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Vintage Wooden Menu Cover"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vintage is a wooden menu cover with a ring mechanism for a flexible number of sheets. Ring count and diameter follow the content, and the mechanism can be colour finished. Oak, birch or pine provide the material options and may be stained or lacquered. A4, A5 and custom sizes, together with branding, individualise the model.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Food, drinks and wine menus",
+      "Page capacity: Up to 25 pages",
+      "Formats: DIN A4 (standard, square, narrow) · DIN A5 or custom dimensions"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-vintage.webp",
+     "alt": "Vintage Wooden Menu Cover — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=menu-vintage",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Holzoberfläche",
+     "body": [
+      {
+       "type": "p",
+       "html": "Stained · Lacquered"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Wood colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ring mechanism",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "DIN A4 · DIN A4 square · DIN A4 narrow · DIN A5"
+    },
+    {
+     "k": "Application",
+     "v": "Food, drinks and wine menus"
+    },
+    {
+     "k": "Page capacity",
+     "v": "Up to 25 pages"
+    },
+    {
+     "k": "Material",
+     "v": "Wood"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Wood · Oak"
+    },
+    {
+     "role": null,
+     "title": "Wood · Birch"
+    },
+    {
+     "role": null,
+     "title": "Wood · Pine"
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-34f1b9a98cd37b.webp",
+     "alt": "Vintage Wooden Menu Cover product view",
+     "width": 1590,
+     "height": 1060,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-0dfced6e815aba.webp",
+     "alt": "Vintage Wooden Menu Cover product view",
+     "width": 1590,
+     "height": 1060,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

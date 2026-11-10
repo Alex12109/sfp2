@@ -1,0 +1,410 @@
+{
+ "language": "en",
+ "key": "item:menu-ringbinder",
+ "slug": "item--menu-ringbinder",
+ "url": "/en/products/models/menu-ringbinder/",
+ "template": "model",
+ "title": "Ringbinder Menu Cover · Bespoke specification",
+ "description": "Ringbinder is intended for substantial wine, bar or food menus with frequently changing pages. Ring size, number and mechanism are matched to the content and capacity, accommodating ten to thirty-five pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners and a choice of leather, piqué or book cloth tailor the cover to the operation.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-ringbinder/",
+  "en": "/en/products/models/menu-ringbinder/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Ringbinder Menu Cover"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ringbinder is intended for substantial wine, bar or food menus with frequently changing pages. Ring size, number and mechanism are matched to the content and capacity, accommodating ten to thirty-five pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners and a choice of leather, piqué or book cloth tailor the cover to the operation.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Wine and cocktail menus",
+      "Page capacity: 10–35 pages",
+      "Formats: DIN A4 (standard, square, landscape, narrow) · DIN A5 (standard, landscape) or custom dimensions"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-ringbinder.webp",
+     "alt": "Ringbinder Menu Cover — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=menu-ringbinder",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Ringbuch - Ringmechanik",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Corners",
+     "body": [
+      {
+       "type": "p",
+       "html": "Square corners · Rounded corners"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pockets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Without pockets · With pockets"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pocket details",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "DIN A4 · DIN A4 square · DIN A4 narrow · DIN A5 · DIN A4 landscape · DIN A5 landscape"
+    },
+    {
+     "k": "Application",
+     "v": "Wine and cocktail menus"
+    },
+    {
+     "k": "Page count",
+     "v": "10–35 pages"
+    },
+    {
+     "k": "Core & interior",
+     "v": "High-quality board"
+    },
+    {
+     "k": "Outer material",
+     "v": "PU leather, genuine leather, book cloth or piqué fabric"
+    },
+    {
+     "k": "Binding",
+     "v": "Ring mechanism"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Genuine leather · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Genuine leather · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Genuine leather · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Genuine leather · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Tuscania",
+     "media": [
+      {
+       "src": "/assets/swatch-8456fdf0eecff7.webp",
+       "alt": "Genuine leather · Tuscania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU leather · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU leather · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU leather · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU leather · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU leather · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Fabric · Bookbinding cloth"
+    },
+    {
+     "role": null,
+     "title": "Fabric · Jolly",
+     "media": [
+      {
+       "src": "/assets/swatch-15fbb1cf7396f4.webp",
+       "alt": "Fabric · Jolly",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-0a5cfdc9f4bda6.webp",
+     "alt": "Ringbinder Menu Cover product view",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-30903b4000bf11.webp",
+     "alt": "Ringbinder Menu Cover product view",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

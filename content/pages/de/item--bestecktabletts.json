@@ -1,0 +1,281 @@
+{
+ "language": "de",
+ "key": "item:bestecktabletts",
+ "slug": "item--bestecktabletts",
+ "url": "/produkte/modelle/bestecktabletts/",
+ "template": "model",
+ "title": "Bestecktabletts · Individuelle Ausführung",
+ "description": "Bestecktabletts ordnen Messer, Gabeln und Löffel beim Eindecken oder direkt am Tisch. Ein Kern aus Karton, MDF oder Echtholz wird mit PU-Leder bezogen; ein oder mehrere Trenner strukturieren den Innenraum. Zwei Ausgangsformate, Sondermaße, frei wählbare Garnfarben sowie Blind- oder Folienprägung ermöglichen eine projektbezogene Ausführung.",
+ "alternate": {
+  "de": "/produkte/modelle/bestecktabletts/",
+  "en": "/en/products/models/bestecktabletts/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Bestecktabletts"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bestecktabletts ordnen Messer, Gabeln und Löffel beim Eindecken oder direkt am Tisch. Ein Kern aus Karton, MDF oder Echtholz wird mit PU-Leder bezogen; ein oder mehrere Trenner strukturieren den Innenraum. Zwei Ausgangsformate, Sondermaße, frei wählbare Garnfarben sowie Blind- oder Folienprägung ermöglichen eine projektbezogene Ausführung.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Aufbewahrung von Besteck",
+      "Formate: 65 x 215 x 25mm · 270 x 280 x 45mm oder nach Wunsch",
+      "Material außen: PU-Leder"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-bestecktabletts.webp",
+     "alt": "Bestecktabletts – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=bestecktabletts",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Unterteilungen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Naht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nicht entschieden · Keine Naht · Naht ton-in-ton · Kontrastnaht · Naht in spezieller Farbe"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "65 x 215 x 25mm · 270 x 280 x 45mm"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Aufbewahrung von Besteck"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Hochwertiges Cardboard, MDF oder Echtholz"
+    },
+    {
+     "k": "Außenmaterial",
+     "v": "PU-Leder"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU-Leder · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU-Leder · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Holz"
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-36b697a521db5c.webp",
+     "alt": "Bestecktabletts Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-07b7201b69c943.webp",
+     "alt": "Bestecktabletts Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "home": "/en/",
+ "groups": [
+  {
+   "label": "Bespoke",
+   "title": "Your idea. Our craftsmanship.",
+   "tagline": "From the initial direction to a considered accessory.",
+   "links": [
+    {
+     "label": "Consultation & development",
+     "href": "/en/services/"
+    },
+    {
+     "label": "From design to production",
+     "href": "/en/process/"
+    },
+    {
+     "label": "Materials & finishes",
+     "href": "/en/materials/"
+    },
+    {
+     "label": "White label for agencies",
+     "href": "/en/white-label/"
+    },
+    {
+     "label": "Build your project brief",
+     "href": "/en/project-planner/"
+    }
+   ],
+   "image": {
+    "alt": "Material study with hands, leather samples and tools on a work surface",
+    "src": "/assets/atelier.webp"
+   }
+  },
+  {
+   "label": "Projects & settings",
+   "title": "For spaces. For people. For brands.",
+   "tagline": "Explore our work and possibilities for your setting.",
+   "links": [
+    {
+     "label": "All projects & references",
+     "href": "/en/projects/"
+    },
+    {
+     "label": "Hotels & resorts",
+     "href": "/en/solutions/hotels/"
+    },
+    {
+     "label": "Restaurants & bars",
+     "href": "/en/solutions/restaurants/"
+    },
+    {
+     "label": "Interior design",
+     "href": "/en/solutions/interior-design/"
+    },
+    {
+     "label": "Corporate gifts & events",
+     "href": "/en/solutions/corporate-gifts/"
+    },
+    {
+     "label": "Executive offices",
+     "href": "/en/solutions/executive-offices/"
+    },
+    {
+     "label": "Yachts",
+     "href": "/en/solutions/yachts/"
+    },
+    {
+     "label": "Private aviation",
+     "href": "/en/solutions/private-aviation/"
+    },
+    {
+     "label": "Golf & private members’ clubs",
+     "href": "/en/solutions/clubs/"
+    }
+   ],
+   "image": {
+    "alt": "Luggage tag with BMW Group Classic branding in detail",
+    "src": "/assets/v15-bmw-seat.webp"
+   }
+  },
+  {
+   "label": "Collections",
+   "title": "Individual leather goods. One identity.",
+   "tagline": "Considered collections. Made for your project.",
+   "links": [
+    {
+     "label": "All collections",
+     "href": "/en/collections/"
+    },
+    {
+     "label": "All accessories & models",
+     "href": "/en/products/"
+    },
+    {
+     "label": "Menu covers & dining",
+     "href": "/en/collections/dining/"
+    },
+    {
+     "label": "Desk & conference",
+     "href": "/en/collections/desk-table/"
+    },
+    {
+     "label": "Trays & organisers",
+     "href": "/en/collections/trays-organisers/"
+    },
+    {
+     "label": "Room accessories",
+     "href": "/en/collections/room-accessories/"
+    },
+    {
+     "label": "Travel & gifts",
+     "href": "/en/collections/travel-gifts/"
+    },
+    {
+     "label": "Boxes & bespoke accessories",
+     "href": "/en/collections/other-accessories/"
+    }
+   ],
+   "image": {
+    "alt": "Design study: open bill box with a burgundy lid and a taupe bill folder",
+    "src": "/assets/v5-bill.webp"
+   }
+  },
+  {
+   "label": "SFP",
+   "title": "Personally, from Berlin.",
+   "tagline": "Meet the people and the thinking behind the details.",
+   "links": [
+    {
+     "label": "Our company",
+     "href": "/en/company/"
+    },
+    {
+     "label": "Journal & inspiration",
+     "href": "/en/journal/"
+    },
+    {
+     "label": "Care & service",
+     "href": "/en/care-service/"
+    },
+    {
+     "label": "Get in touch",
+     "href": "/en/contact/"
+    }
+   ],
+   "image": {
+    "alt": "Material study with leather grains in burgundy, green, taupe, cognac and navy",
+    "src": "/assets/finish-study.webp"
+   }
+  }
+ ],
+ "cta": {
+  "label": "Discuss your project",
+  "href": "/en/contact/"
+ },
+ "menuLabel": "Menu",
+ "footer": {
+  "claim": "Individual objects. A shared signature.",
+  "origin": "Berlin · European craftsmanship",
+  "scope": "For business customers only.",
+  "columns": [
+   {
+    "title": "Discover SFP",
+    "links": [
+     {
+      "label": "Services",
+      "href": "/en/services/"
+     },
+     {
+      "label": "Our process",
+      "href": "/en/process/"
+     },
+     {
+      "label": "Materials & finishes",
+      "href": "/en/materials/"
+     },
+     {
+      "label": "Company",
+      "href": "/en/company/"
+     },
+     {
+      "label": "Journal",
+      "href": "/en/journal/"
+     },
+     {
+      "label": "Care & service",
+      "href": "/en/care-service/"
+     }
+    ]
+   },
+   {
+    "title": "For your project",
+    "links": [
+     {
+      "label": "Sectors & applications",
+      "href": "/en/solutions/"
+     },
+     {
+      "label": "Projects & references",
+      "href": "/en/projects/"
+     },
+     {
+      "label": "Collections",
+      "href": "/en/collections/"
+     },
+     {
+      "label": "Menu covers & dining",
+      "href": "/en/collections/dining/"
+     },
+     {
+      "label": "Corporate gifts",
+      "href": "/en/solutions/corporate-gifts/"
+     },
+     {
+      "label": "White label",
+      "href": "/en/white-label/"
+     },
+     {
+      "label": "Project planner",
+      "href": "/en/project-planner/"
+     },
+     {
+      "label": "All accessories",
+      "href": "/en/products/"
+     }
+    ]
+   },
+   {
+    "title": "Let’s talk",
+    "links": [
+     {
+      "label": "mail@sfp-berlin.com",
+      "href": "mailto:mail@sfp-berlin.com"
+     },
+     {
+      "label": "+49 (0)30 236 078 65",
+      "href": "tel:+493023607865"
+     }
+    ]
+   }
+  ],
+  "address": [
+   "Dahlmannstraße 11",
+   "10629 Berlin · Germany"
+  ],
+  "copyright": "© 2026 SFP Hospitality GmbH",
+  "legal": [
+   {
+    "label": "Legal notice",
+    "href": "/en/legal-notice/"
+   },
+   {
+    "label": "Privacy",
+    "href": "/en/privacy/"
+   },
+   {
+    "label": "Contact",
+    "href": "/en/contact/"
+   }
+  ]
+ }
+}

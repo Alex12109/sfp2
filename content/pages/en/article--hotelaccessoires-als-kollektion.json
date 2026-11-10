@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:hotelaccessoires-als-kollektion",
+ "slug": "article--hotelaccessoires-als-kollektion",
+ "url": "/en/journal/planning-a-hotel-accessory-collection/",
+ "template": "article",
+ "title": "A guest-room collection needs to work together.",
+ "description": "Why accessory planning benefits from bringing together interior design, procurement and housekeeping.",
+ "alternate": {
+  "de": "/journal/hotelaccessoires-als-kollektion/",
+  "en": "/en/journal/planning-a-hotel-accessory-collection/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A guest-room collection needs to work together."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Why accessory planning benefits from bringing together interior design, procurement and housekeeping.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/room-scene.webp",
+     "alt": "Material and design study: coordinated leather accessories beside a vanity",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Start with the room",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A waste bin may be ordered separately, but it is seen alongside furniture, flooring and other accessories. The same applies to tissue box covers, trays and desk pads. Begin with an accessory schedule for each room category. This reveals common elements and differences between guest rooms, suites and public spaces."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "One material family, several functions",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Coherence does not mean specifying every item identically. A tray may need a different construction from a folder. Identify what connects the collection: a colour, finish, edge treatment or approach to branding. Define those shared elements and allow differences where function requires them."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Specify consumables early",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Tissue cartons, notepads and tea sachets help determine dimensions and compartments. Changing these details after production can affect fit. Gather actual samples or accurate measurements early. For trays, consider cable access, the available surface and handling requirements as well as the contents."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Use the sample as a shared decision point",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ask design, procurement and operations to review the same sample. The design team assesses appearance and proportions; procurement checks the agreed specification; housekeeping reviews practical use. Record the approval clearly. For future additions, an unambiguous item reference and material specification are more useful than a photograph alone. Availability and any changes are reviewed when repeat orders are placed."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/hotels/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

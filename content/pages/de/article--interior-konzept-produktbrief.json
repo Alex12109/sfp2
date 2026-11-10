@@ -1,0 +1,137 @@
+{
+ "language": "de",
+ "key": "article:interior-konzept-produktbrief",
+ "slug": "article--interior-konzept-produktbrief",
+ "url": "/journal/interior-konzept-produktbrief/",
+ "template": "article",
+ "title": "Vom Interior-Konzept zum fertigen Produktbrief.",
+ "description": "Welche Informationen ein individuelles Lederprodukt wirklich weiterbringen: Nutzung, Maße, Materialrichtung und die richtigen Freigaben.",
+ "alternate": {
+  "de": "/journal/interior-konzept-produktbrief/",
+  "en": "/en/journal/from-interior-concept-to-product-brief/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Vom Interior-Konzept zum fertigen Produktbrief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Welche Informationen ein individuelles Lederprodukt wirklich weiterbringen: Nutzung, Maße, Materialrichtung und die richtigen Freigaben.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-collection.webp",
+     "alt": "Lederkollektion in Cognac, Olive, Bordeaux und Taupe auf warmem Stein",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Die Aufgabe vor der Form beschreiben",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Briefing wird leichter, wenn es mit der Nutzung beginnt. Soll ein Tray eine Kaffeemaschine, zwei Tassen und Zubehör aufnehmen? Braucht eine Speisekarte häufig wechselnde Blätter? Muss ein Notizblock neben ein vorhandenes Telefon passen? Solche Angaben führen schneller zu einer sinnvollen Konstruktion als ein rein gestalterisches Adjektiv. Beschreiben Sie, was der Artikel leisten soll und wer ihn täglich in die Hand nimmt. Ein Foto des Einsatzortes ergänzt diese Informationen oft besser als eine lange Liste abstrakter Wünsche."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Die richtigen Maße zusammentragen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Außenmaß, Innenmaß und nutzbare Stellfläche sind unterschiedliche Angaben. Für eine Tissue-Box ist die tatsächliche Verpackung entscheidend; bei einer Menümappe gehören Papierformat und Seitenzahl dazu. Messen Sie Gegenstände, die aufgenommen werden sollen, und berücksichtigen Sie den Zugang. Ein passender Innenraum ist wenig hilfreich, wenn sich der Inhalt schlecht entnehmen lässt. Markieren Sie im Briefing, welche Maße zwingend sind und welche als Orientierung dienen. So bleibt gestalterischer Spielraum an der richtigen Stelle."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Materialwünsche konkret, aber offen halten",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Moodboard darf eine Richtung zeigen, ohne bereits jede Antwort vorzugeben. Benennen Sie gewünschte Farben, Oberflächen und die Verbindung zum Interior. Wenn Echtleder, PU oder Holz gesetzt sind, sollte das ausdrücklich vermerkt werden. Wenn Sie unsicher sind, beschreiben Sie die gewünschte Wirkung und die praktische Nutzung. Fügen Sie vorhandene Referenzen hinzu und unterscheiden Sie verbindliche Vorgaben von Inspiration. Diese Trennung hilft, Vorschläge nach denselben Kriterien zu beurteilen."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Den Betrieb früh einbeziehen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Interior Design, Einkauf und das später nutzende Team betrachten dasselbe Produkt aus unterschiedlichen Perspektiven. Für Service oder Housekeeping sind Befüllen, Entleeren, Tragen und Reinigen wichtig. Für die Gestaltung stehen Proportion und Material im Vordergrund. Sammeln Sie diese Anforderungen vor der Freigabe und bündeln Sie Rückmeldungen. Ein gemeinsamer Ansprechpartner verhindert, dass einzelne Entscheidungen getrennt voneinander getroffen werden und erst beim fertigen Produkt in Konflikt geraten."
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Freigaben als gemeinsame Grundlage verstehen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Halten Sie Artikel, Ausführung, Materialreferenz, Logo, Menge und gewünschte Lieferung in einer übersichtlichen Zusammenfassung fest. Offene Punkte dürfen darin sichtbar bleiben. Layouts und Muster helfen, sie nacheinander zu schließen. Besprechen Sie auch, wer welche Freigabe erteilt und wie Änderungen dokumentiert werden. Für spätere Ergänzungen sind Fotos und Referenzen der bestätigten Ausführung wertvoll. Materialverfügbarkeit und mögliche Abweichungen müssen bei einer Nachbestellung erneut geprüft werden. Ein guter Produktbrief begleitet deshalb nicht nur die erste Bestellung, sondern erleichtert auch das nächste Gespräch."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/interior-design/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "language": "de",
+ "key": "contact",
+ "slug": "contact",
+ "url": "/kontakt/",
+ "template": "contact",
+ "title": "Ihr Projekt anfragen",
+ "description": "Individuelle Leder- und Holzartikel mit SFP planen. Kontaktieren Sie unser Team in Berlin.",
+ "alternate": {
+  "de": "/kontakt/",
+  "en": "/en/contact/"
+ },
+ "datasets": [
+  {
+   "id": "config-data",
+   "file": "02_CONTENT/data/embedded-de-3962b0eb0f642262.json"
+  }
+ ],
+ "sections": [
+  {
+   "kind": "inquiry-layout",
+   "title": {
+    "level": "h1",
+    "html": "Am Anfang steht ein Gespräch."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine konkrete Idee oder eine offene Frage: Erzählen Sie uns, was Sie vorhaben. Wir führen Sie zu einem kompakten Projektbrief."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"mailto:mail@sfp-berlin.com\">mail@sfp-berlin.com</a><a href=\"tel:+493023607865\">+49 (0)30 236 078 65</a>",
+     "role": "contact-links"
+    },
+    {
+     "type": "p",
+     "html": "Unser Angebot richtet sich ausschließlich an Unternehmen und gewerbliche Auftraggeber.",
+     "role": "business-scope"
+    },
+    {
+     "type": "p",
+     "html": "Der Projektbrief wird hier in Ihrem Browser erstellt. Anschließend öffnen Sie den E-Mail-Entwurf und senden ihn über Ihr E-Mail-Programm. Alternativ können Sie ihn kopieren oder herunterladen.",
+     "role": "note"
+    },
+    {
+     "type": "h",
+     "level": "h2",
+     "html": "Ihr Projektbrief"
+    }
+   ],
+   "actions": [
+    {
+     "href": "mailto:mail@sfp-berlin.com",
+     "label": "E-Mail-Entwurf öffnen",
+     "style": "button"
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Kopieren"
+    },
+    {
+     "label": "Herunterladen"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

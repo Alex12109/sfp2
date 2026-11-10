@@ -1,0 +1,253 @@
+{
+ "language": "en",
+ "key": "item:schlusselanhanger",
+ "slug": "item--schlusselanhanger",
+ "url": "/en/products/models/schlusselanhanger/",
+ "template": "model",
+ "title": "Leather Keyrings · Bespoke specification",
+ "description": "The keyring pairs a genuine-leather element with metal to create a compact gift for regular use. Bespoke versions are available alongside the standard 120 mm length. Metal fittings can be selected in different shapes and gold or silver finishes, while blind debossing or foil stamping and printed card packaging treat the product and its presentation as one.",
+ "alternate": {
+  "de": "/produkte/modelle/schlusselanhanger/",
+  "en": "/en/products/models/schlusselanhanger/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Leather Keyrings"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The keyring pairs a genuine-leather element with metal to create a compact gift for regular use. Bespoke versions are available alongside the standard 120 mm length. Metal fittings can be selected in different shapes and gold or silver finishes, while blind debossing or foil stamping and printed card packaging treat the product and its presentation as one.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Formats: 120mm or custom dimensions",
+      "Core / interior material: Genuine leather",
+      "Options: Packaging, metal fittings"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-schlusselanhanger.webp",
+     "alt": "Leather Keyrings — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=schlusselanhanger",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Metallelemente",
+     "body": [
+      {
+       "type": "p",
+       "html": "Silver · Gold"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Metal element shape",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Presentation box",
+     "body": [
+      {
+       "type": "p",
+       "html": "Without printed cardboard packaging · With printed cardboard packaging"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "120mm"
+    },
+    {
+     "k": "Core & interior",
+     "v": "Genuine leather"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Genuine leather · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Genuine leather · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-5b3a2a3ceded88.webp",
+     "alt": "Leather Keyrings product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-3f3f9449f8e6ed.webp",
+     "alt": "Leather Keyrings product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

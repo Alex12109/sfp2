@@ -1,0 +1,140 @@
+{
+ "language": "en",
+ "key": "case:stadt-hamburg-sylt",
+ "slug": "case--stadt-hamburg-sylt",
+ "url": "/en/projects/stadt-hamburg-sylt/",
+ "template": "project",
+ "title": "Hotel Stadt Hamburg, Sylt · Personal communication. Ongoing collaboration.",
+ "description": "Quality leather accessories and a direct line to Berlin. Hotel Stadt Hamburg on Sylt values personal coordination in a relationship developed over several years.",
+ "alternate": {
+  "de": "/projekte/stadt-hamburg-sylt/",
+  "en": "/en/projects/stadt-hamburg-sylt/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Personal communication. Ongoing collaboration."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Quality leather accessories and a direct line to Berlin. Hotel Stadt Hamburg on Sylt values personal coordination in a relationship developed over several years.",
+     "role": "lead"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "Hotel Stadt Hamburg, Sylt"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Ongoing requirements"
+    },
+    {
+     "k": "Scope",
+     "v": "Leather accessories · Direct coordination · Repeat collaboration"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hotel Stadt Hamburg has welcomed guests in Westerland for more than 150 years. The property combines individually furnished rooms and suites in an English country-house style with restaurants, a bar and a spa. Character, returning guests and personal hospitality shape the property. In this setting, small furnishing details need to belong within an established whole while also supporting the daily work of the hotel. Hotel director Christian Wirsich highlights personal coordination, accessible contacts and a straightforward process, including conversations by telephone."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Products and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Within an individually designed historic hotel, new objects have to respect an established language of materials and form without merely imitating age. Cleaning, replenishment, storage and handling by staff also form part of the functional context. A repeat order adds the need to compare the existing specification with current material availability."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Personal coordination"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The client’s account is clear about how the relationship felt: direct, accessible and free of unnecessary complication. Where requirements recur, a telephone conversation can structure open questions quickly; the specification then becomes reliable through clear item references, material information and approvals. SFP can use earlier decisions as a starting point while checking whether contents, available surfaces or operational needs have changed. This combination of personal contact and clear specification is particularly useful for a property with individually designed rooms. From the client’s perspective, the process remained straightforward."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "For Hotel Stadt Hamburg, the value lies in combining suitable leather pieces with a direct line to the supplier. When furnishing needs recur, every request need not begin without context: the contacts and earlier specifications are known, questions can be resolved personally, and decisions can be carried forward in a traceable way. For a characterful property that has developed over a long period, that continuity supports a careful approach to detail. The case therefore stays with the credible benefit described by the client: quality products and personal, dependable communication over several years."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

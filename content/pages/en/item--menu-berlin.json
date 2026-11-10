@@ -1,0 +1,423 @@
+{
+ "language": "en",
+ "key": "item:menu-berlin",
+ "slug": "item--menu-berlin",
+ "url": "/en/products/models/menu-berlin/",
+ "template": "model",
+ "title": "Berlin Menu Cover · Bespoke specification",
+ "description": "Berlin is a leather menu cover with screw binding and either an exposed or concealed screw strip. Screw length can be adjusted to the page count, with capacity for up to fifty pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners, padding and blind debossing or foil stamping define the project specification.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-berlin/",
+  "en": "/en/products/models/menu-berlin/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Berlin Menu Cover"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Berlin is a leather menu cover with screw binding and either an exposed or concealed screw strip. Screw length can be adjusted to the page count, with capacity for up to fifty pages. A4 and A5 variants, custom dimensions, pockets, stitching, corners, padding and blind debossing or foil stamping define the project specification.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/",
+     "label": "All accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "For your specification."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Application: Food, drinks and wine menus",
+      "Page capacity: 15–50 pages",
+      "Formats: DIN A4 (standard, square, landscape, narrow) · DIN A5, or custom dimensions"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-berlin.webp",
+     "alt": "Berlin Menu Cover — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?item=menu-berlin",
+     "label": "Configure this accessory",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Dimensions, materials &amp; details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Enter your own dimensions and additional requirements directly in the configurator. Technical feasibility is confirmed in your quotation."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Leather branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing · Foil stamping"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Foil colour",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Corners",
+     "body": [
+      {
+       "type": "p",
+       "html": "Square corners · Rounded corners"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Padding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Unpadded · Padded"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pockets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Without pockets · With pockets"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Pocket details",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Binding posts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Silver · Gold · Custom colour"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Screw length / page count",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individually agreed"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Binding-post strip",
+     "body": [
+      {
+       "type": "p",
+       "html": "Exposed screw strip · Concealed screw strip"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Stitching",
+     "body": [
+      {
+       "type": "p",
+       "html": "Not yet decided · No stitching · Tone-on-tone stitching · Contrast stitching · Stitching in a specific colour"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Available formats",
+     "v": "DIN A4 · DIN A4 square · DIN A4 narrow · DIN A5 · DIN A4 landscape"
+    },
+    {
+     "k": "Application",
+     "v": "Food, drinks and wine menus"
+    },
+    {
+     "k": "Page count",
+     "v": "15–50 pages"
+    },
+    {
+     "k": "Core & interior",
+     "v": "High-quality board"
+    },
+    {
+     "k": "Outer material",
+     "v": "PU leather, genuine leather, book cloth or piqué fabric"
+    },
+    {
+     "k": "Binding",
+     "v": "Screw posts"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Material options for this accessory"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours are indicative. Colour, finish and availability are agreed against physical samples for your approval.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Genuine leather · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Genuine leather · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Genuine leather · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Genuine leather · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Genuine leather · Tuscania",
+     "media": [
+      {
+       "src": "/assets/swatch-8456fdf0eecff7.webp",
+       "alt": "Genuine leather · Tuscania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU leather · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU leather · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU leather · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU leather · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU leather · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU leather · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-a329224f167c01.webp",
+     "alt": "Berlin Menu Cover product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-0f03c55500898d.webp",
+     "alt": "Berlin Menu Cover product view",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

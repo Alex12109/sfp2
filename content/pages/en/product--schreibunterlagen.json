@@ -1,0 +1,570 @@
+{
+ "language": "en",
+ "key": "product:schreibunterlagen",
+ "slug": "product--schreibunterlagen",
+ "url": "/en/products/desk-pads/",
+ "template": "family",
+ "title": "Desk pads",
+ "description": "A desk pad brings composure, definition and a personal identity to a workspace. In a guest room or an executive office, it becomes a surface through which your brand is experienced every day.",
+ "alternate": {
+  "de": "/produkte/schreibunterlagen/",
+  "en": "/en/products/desk-pads/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/desk-table/",
+     "label": "Desk & conference",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Desk pads"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A desk pad brings composure, definition and a personal identity to a workspace. In a guest room or an executive office, it becomes a surface through which your brand is experienced every day.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=schreibunterlagen",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Desk%20pads",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Understated desk pad from the SFP collection — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A workspace finds its character."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A desk pad changes how a work surface is read and used. It brings paper, laptop and pen into a calm working zone while allowing timber, stone or lacquer to remain deliberately visible. The three starting sizes — 380 × 280 × 4, 505 × 316 × 4 and 600 × 400 × 4 mm — create distinctly different proportions. The right one depends on the usable desktop, the equipment and the seated position. A compact writing mat forms a precise accent; a generous blotter lends visual weight to the workspace. Colour, grain and edge treatment are best judged with the furniture and its lighting rather than as an isolated swatch."
+    },
+    {
+     "type": "p",
+     "html": "Development begins with the clear surface, including the lamp, telephone, cable routes and any desktop flaps. Custom dimensions and stitching are resolved around that arrangement; an office specification may include a pen recess by agreement. Branding also needs a practical position: it should neither disappear beneath a laptop nor interrupt writing. A physical sample allows the team to assess touch, edge character and the way the chosen paper behaves on the surface. If the pad is to be turned or used on both sides, that belongs in the brief so the face, core and underside can be specified accordingly. The result is a working object that settles naturally into the daily routine rather than a decorative afterthought."
+    },
+    {
+     "type": "p",
+     "html": "For a series across several rooms, record which dimensions belong to each workstation. Boardroom, suite and private office can remain visibly related without forcing one desk arrangement onto another. Give every approved variant a clear reference."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-schreibunterlagen.webp",
+     "alt": "Desk pad with an integrated pen recess — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/original-desk-edge.webp",
+     "alt": "Desk pad edges and corners",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Measure the desk area with the lamp and telephone in place",
+        "Decide between single-sided and reversible use",
+        "Position branding in relation to paper and a laptop"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=schreibunterlagen",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=schreibunterlagen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Proportion",
+     "body": [
+      {
+       "type": "p",
+       "html": "The format follows the desktop and the way it is used. Custom dimensions can form part of the design."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Surface",
+     "body": [
+      {
+       "type": "p",
+       "html": "Fine genuine Italian leather or high-quality PU: we assess the coverings offered for your model for grain, feel and colour alongside your desktop finish. A sample makes the difference tangible."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Signature",
+     "body": [
+      {
+       "type": "p",
+       "html": "Branding position, scale and stitching are considered together. Your identity is present without dominating the surface."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Dimensions matched to the surface and use",
+      "Finish and colour coordinated with your scheme",
+      "Branding placement agreed in the artwork"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formats",
+     "v": "380 × 280 × 4 / 505 × 316 × 4 / 600 × 400 × 4 mm"
+    },
+    {
+     "k": "Customisation",
+     "v": "Custom dimensions, stitching; pen recess for office specifications by agreement"
+    },
+    {
+     "k": "Construction",
+     "v": "Board core with PU covering; non-slip underside or a reversible specification"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "William Blair"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-blair.webp",
+     "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/william-blair/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/william-blair/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/desk-table/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/notepad-holders/",
+     "title": "Notepad holders",
+     "body": [
+      {
+       "type": "p",
+       "html": "A dedicated place for a notepad and pen. A small, frequently used accessory for guest rooms, meeting rooms and reception."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "SFP notepad holders in different specifications, isolated from the background — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/bankettblotter/\">Banquet Desk Pads</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Banquet desk pads create a defined writing surface in conference and event rooms. Three starting sizes and custom dimensions allow them to be matched to the table and seating plan. A board or MDF core, PU or genuine leather, non-slip or velvet underside, pen recess, padding, corners, decorative stitching and branding form a coherent functional specification."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-bankettblotter.webp",
+       "alt": "Banquet Desk Pads — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/bankettblotter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=bankettblotter",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/bankettblotter/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/empfangsblotter/\">Reception Desk Pad</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Reception desk pads protect the counter and create a calm surface for registration, signatures and documents. Three starting sizes and custom dimensions accommodate different reception desks. A board or MDF core, genuine or PU leather, non-slip or velvet underside, pockets, pen recesses, decorative stitching, corners and branding are coordinated with the check-in routine."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-empfangsblotter.webp",
+       "alt": "Reception Desk Pad — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/empfangsblotter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=empfangsblotter",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/empfangsblotter/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/schreibunterlagen/\">Desk Pads</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads protect table surfaces and provide an even writing area in guest rooms or conference spaces. Three starting sizes and custom dimensions suit different tables, with a reversible version also available. A board or MDF core, PU or genuine leather, non-slip or velvet underside, pen recess, stitching, corners and branding complete the function."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Desk Pads — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/schreibunterlagen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=schreibunterlagen",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/schreibunterlagen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "language": "de",
+ "key": "item:rechnungsboxen",
+ "slug": "item--rechnungsboxen",
+ "url": "/produkte/modelle/rechnungsboxen/",
+ "template": "model",
+ "title": "Rechnungsboxen · Individuelle Ausführung",
+ "description": "Rechnungsboxen geben der Übergabe am Ende des Service eine feste, dreidimensionale Form. Der Kern kann aus Karton oder Holz bestehen und ganz oder teilweise mit Leder, Buchbinderleinen oder Piquét bezogen werden. Standard- und Sondermaße, Taschen, Magnetleisten, Polsterung und eine individuelle Prägung stimmen die Box auf Zahlungsablauf und Markenauftritt ab.",
+ "alternate": {
+  "de": "/produkte/modelle/rechnungsboxen/",
+  "en": "/en/products/models/rechnungsboxen/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Rechnungsboxen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Rechnungsboxen geben der Übergabe am Ende des Service eine feste, dreidimensionale Form. Der Kern kann aus Karton oder Holz bestehen und ganz oder teilweise mit Leder, Buchbinderleinen oder Piquét bezogen werden. Standard- und Sondermaße, Taschen, Magnetleisten, Polsterung und eine individuelle Prägung stimmen die Box auf Zahlungsablauf und Markenauftritt ab.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Präsentation der Rechnung",
+      "Formate: 130 x 230 x 30mm · 170 x 230 x 30mm · 110 x 215 x 25mm oder nach Wunsch",
+      "Material außen: PU-Leder, Echtleder, Buchbinderleinen, Piquét-Stoff"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-rechnungsboxen.webp",
+     "alt": "Rechnungsboxen – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=rechnungsboxen",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ecken",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gerade Ecken · Abgerundete Ecken"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Polsterung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Polsterung · Mit Polsterung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Taschen · Mit Taschen"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschenausführung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Naht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nicht entschieden · Keine Naht · Naht ton-in-ton · Kontrastnaht · Naht in spezieller Farbe"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "130 x 230 x 30mm · 170 x 230 x 30mm · 110 x 215 x 25mm"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Präsentation der Rechnung"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Hochwertiges Cardboard oder Holz"
+    },
+    {
+     "k": "Außenmaterial",
+     "v": "PU-Leder, Echtleder, Buchbinderleinen, Piquét-Stoff"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Echtleder · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Echtleder · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Echtleder · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Tuscania",
+     "media": [
+      {
+       "src": "/assets/swatch-8456fdf0eecff7.webp",
+       "alt": "Echtleder · Tuscania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU-Leder · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU-Leder · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU-Leder · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU-Leder · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Buchbinderleinen"
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Jolly",
+     "media": [
+      {
+       "src": "/assets/swatch-15fbb1cf7396f4.webp",
+       "alt": "Gewebe · Jolly",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Holz"
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-25d794950c6ca6.webp",
+     "alt": "Rechnungsboxen Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-6a9d3204dfd5b9.webp",
+     "alt": "Rechnungsboxen Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

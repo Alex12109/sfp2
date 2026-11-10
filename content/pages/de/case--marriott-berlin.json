@@ -1,0 +1,149 @@
+{
+ "language": "de",
+ "key": "case:marriott-berlin",
+ "slug": "case--marriott-berlin",
+ "url": "/projekte/marriott-berlin/",
+ "template": "project",
+ "title": "Marriott Hotel Berlin · Vom Gästezimmer bis zur Menükarte.",
+ "description": "Zimmerartikel und Speisekarten für das Marriott Hotel Berlin. Eine Zusammenarbeit, die Gästezimmer und Gastronomie verbindet – einschließlich wiederkehrender Bestellungen.",
+ "alternate": {
+  "de": "/projekte/marriott-berlin/",
+  "en": "/en/projects/marriott-berlin/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Vom Gästezimmer bis zur Menükarte."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Zimmerartikel und Speisekarten für das Marriott Hotel Berlin. Eine Zusammenarbeit, die Gästezimmer und Gastronomie verbindet – einschließlich wiederkehrender Bestellungen.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "Marriott Hotel Berlin"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hotellerie · Zimmer &amp; F&amp;B"
+    },
+    {
+     "k": "Umfang",
+     "v": "Zimmerartikel · Speisekarten · Nachbestellungen"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Das Berlin Marriott Hotel liegt am Potsdamer Platz und verbindet Beherbergung mit mehreren gastronomischen Angeboten. Zum gastronomischen Angebot gehören das Midtown Grill, The Big Dog und eine Lobby Lounge. Für SFP erstreckt sich die Zusammenarbeit entsprechend über zwei sehr unterschiedliche Betriebsbereiche: Gästezimmer und Food &amp; Beverage. In den Zimmern gehören Accessoires zum täglichen Aufenthalt und müssen in Einrichtung sowie Housekeeping-Abläufe passen. Speisekarten werden dagegen im Service häufig in die Hand genommen und müssen wechselnde Inhalte präsentieren. Zum Auftrag gehörten Zimmerartikel und Speisekarten; weitere Bestellungen führten die Zusammenarbeit fort."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkte und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Produktgruppen stellen unterschiedliche Anforderungen an Material und Konstruktion. Ein Zimmerartikel wird für einen bestimmten Standort, Inhalt und Arbeitsablauf geplant; eine Speisekarte folgt Papierformat, Seitenzahl, Wechselhäufigkeit und dem Griff im Service. Gleichzeitig begegnen beide dem Gast unter demselben Hoteldach. Daraus entsteht die besondere Aufgabe, jede Funktion eigenständig zu lösen und dennoch eine zum Haus passende Material- und Gestaltungssprache zu führen. Der Text benennt deshalb nur die verifizierten Produktgruppen und erklärt, warum ihre Abstimmung mehr verlangt als eine identische Oberfläche auf verschiedenen Formen."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Abstimmung und Fortführung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für vergleichbare bereichsübergreifende Projekte wird zunächst festgehalten, was jeder Artikel aufnehmen und wie er genutzt werden soll. Bei Zimmerprodukten helfen Stellflächen, Originalinhalte und die Abläufe beim Reinigen oder Nachfüllen. Bei Karten klären Papiermuster, Seitenzahl und gewünschte Bindung die Konstruktion. Erst danach werden wiederkehrende Merkmale wie Oberfläche, Farbe, Kantenbild oder Kennzeichnung festgelegt. Dafür bietet die vorhandene Ausführung einen Ausgangspunkt, ersetzt aber keine erneute Prüfung: Inhalte, Geräte, Papier oder Materialverfügbarkeit können sich ändern."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP begleitet mit der Zusammenarbeit zwei Bereiche, die Gäste unterschiedlich erleben, die aber gemeinsam zum Hotel gehören. Zimmerartikel unterstützen die Ordnung und Präsentation im persönlichen Raum; Karten geben dem gastronomischen Angebot einen haptischen Rahmen. Die wiederkehrenden Bestellungen zeigen, dass das Projekt nicht bei einer einzelnen Lieferung endete. Für den Kunden liegt der Wert damit sowohl in den konkreten Produkten als auch in einer bekannten Grundlage für weiteren Bedarf. Vorhandene Ausführungen, Ansprechpartner und frühere Entscheidungen erleichtern die erneute Abstimmung, ohne eine unveränderte Reproduktion automatisch vorauszusetzen."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

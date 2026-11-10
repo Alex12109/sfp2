@@ -1,0 +1,321 @@
+{
+ "language": "de",
+ "key": "collections",
+ "slug": "collections",
+ "url": "/kollektionen/",
+ "template": "page",
+ "title": "Ausgewählte Artikel. Individuell für Sie.",
+ "description": "Fünf Produktfamilien als Ausgangspunkt für Ihr Projekt. Material, Format und Veredelung führen wir zu Ihrer eigenen Ausführung zusammen.",
+ "alternate": {
+  "de": "/kollektionen/",
+  "en": "/en/collections/"
+ },
+ "sections": [
+  {
+   "kind": "collection-intro",
+   "title": {
+    "level": "h1",
+    "html": "Einzelne Artikel.<br> <em>Eine gemeinsame Sprache.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Unsere Kollektionen sind Ausgangspunkte. Sie wählen die Funktionen, die Ihr Projekt braucht. Gemeinsam entwickeln wir daraus eine Materialwelt – von der ersten Speisekarte bis zum letzten Detail im Gästezimmer."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/",
+     "label": "Ihre Kollektion planen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "collection-atlas",
+   "shade": true,
+   "items": [
+    {
+     "role": "atlas-row",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material- und Gestaltungsstudie: blaue Schreibunterlage und Notizblockhalter auf einem Nussbaumschreibtisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/schreibkultur-tisch/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/schreibunterlagen/",
+       "label": "Schreibunterlagen",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/notizblockhalter/",
+       "label": "Notizblockhalter",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/schreibkultur-tisch/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/schreibkultur-tisch/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/trays-ablage/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/trays/",
+       "label": "Trays & Tabletts",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/trays-ablage/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/trays-ablage/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Raumaccessoires",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe und Tissue-Boxen als Teil Ihres Interieurs. In einer Material- und Farbsprache, die selbstverständlich zum Raum gehört."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/raumaccessoires/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/papierkoerbe/",
+       "label": "Papierkörbe",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/tissue-boxen/",
+       "label": "Tissue-Boxen",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/raumaccessoires/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/raumaccessoires/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Travel &amp; Gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger, Schlüsselanhänger und individuelle Lederpräsente. Persönliche Begleiter für Gäste, Kunden und besondere Anlässe."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/gifts.webp",
+       "alt": "Kofferanhänger in Cognac und Grün mit passendem Schlüsselanhänger",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/travel-gifts/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/kofferanhaenger/",
+       "label": "Kofferanhänger",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/schluesselanhaenger/",
+       "label": "Schlüsselanhänger",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/travel-gifts/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/travel-gifts/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Speisekarten &amp; Dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Speisekarten, Rechnungsmappen und abgestimmte Tischaccessoires für Restaurants, Hotels und Clubs. Eine gemeinsame Handschrift vom Menü bis zur Rechnung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Bordeauxrote und olivfarbene Karten mit passendem Rechnungspräsenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/dining/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/tischsets/",
+       "label": "Tischsets",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/speisekarten/",
+       "label": "Speisekarten",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/rechnungsmappen/",
+       "label": "Rechnungsmappen & Rechnungsboxen",
+       "style": "text"
+      },
+      {
+       "href": "/produkte/coaster/",
+       "label": "Coaster",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/dining/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/dining/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Boxen &amp; besondere Artikel",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity- und Condiment-Boxen, Zimmermappen, Stifteköcher und weitere Serviceartikel. Individuell abgestimmt auf Ihre Abläufe."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Geöffnete Amenity-Box mit Pflegeaccessoires auf einem Ankleidetisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/kollektionen/weitere-objekte/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/produkte/amenity-boxen/",
+       "label": "Amenity-Boxen & weitere Artikel",
+       "style": "text"
+      },
+      {
+       "href": "/kollektionen/weitere-objekte/",
+       "label": "Die Kollektion entdecken",
+       "style": "button"
+      }
+     ],
+     "href": "/kollektionen/weitere-objekte/"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

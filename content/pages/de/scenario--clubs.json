@@ -1,0 +1,243 @@
+{
+ "language": "de",
+ "key": "scenario:clubs",
+ "slug": "scenario--clubs",
+ "url": "/loesungen/clubs/",
+ "template": "scenario",
+ "title": "Ein Clubgefühl, das im Detail beginnt.",
+ "description": "Individuelle Accessoires für Clubhaus, Gastronomie und Mitgliederpräsente. Verbunden durch Ihre Farben und Ihr Emblem.",
+ "alternate": {
+  "de": "/loesungen/clubs/",
+  "en": "/en/solutions/clubs/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ein Clubgefühl, das im Detail beginnt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Accessoires für Clubhaus, Gastronomie und Mitgliederpräsente. Verbunden durch Ihre Farben und Ihr Emblem.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/gifts.webp",
+     "alt": "Kofferanhänger in Cognac und Grün mit passendem Schlüsselanhänger",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Golfclubs%20%26%20Private%20Clubs",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Clubhaus, Gastronomie und Mitgliederpräsente gehören zur selben Identität. Dennoch braucht ein täglich genutztes Serviceprodukt andere Überlegungen als ein Geschenk zum Jubiläum. Eine gemeinsame Palette, ein passendes Emblem und abgestimmte Beschläge können beide Bereiche verbinden. Die Funktion jedes einzelnen Produkts bleibt der Ausgangspunkt."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/tischsets/",
+     "label": "Tischsets",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/trays/",
+     "label": "Trays & Tabletts",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/kofferanhaenger/",
+     "label": "Kofferanhänger",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ein Auftritt über mehrere Bereiche"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vom Empfang über den Restauranttisch bis zum Mitgliederpräsent: Kleine Produkte prägen die Wahrnehmung eines Clubs. Speisekarten, Rechnungsmappen, Trays und Lederaccessoires lassen sich in Material und Veredelung aufeinander abstimmen. Unterschiedliche Funktionen dürfen dabei unterschiedliche Ausführungen erhalten."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Geschenke mit persönlichem Bezug"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein einzelnes Jubiläumspräsent, eine kleine Turnierserie oder ein größeres Mitgliederprojekt: Der Anlass gibt den Umfang vor. Koffer- und Schlüsselanhänger entwickeln wir mit Ihrer Farbwelt und Ihrem Emblem zu einer eigenen Ausführung. Handfertigung in der EU verbindet das persönliche Geschenk mit der abgestimmten Ausstattung Ihres Clubs."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/trays-ablage/",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/travel-gifts/",
+     "title": "Travel &amp; Gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger, Schlüsselanhänger und individuelle Lederpräsente. Persönliche Begleiter für Gäste, Kunden und besondere Anlässe."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/dining/",
+     "title": "Speisekarten &amp; Dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Speisekarten, Rechnungsmappen und abgestimmte Tischaccessoires für Restaurants, Hotels und Clubs. Eine gemeinsame Handschrift vom Menü bis zur Rechnung."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Einsatzbereiche im Club, Emblem, Farbwelt und Bedarf für Ausstattung oder Veranstaltungen."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Golfclubs%20%26%20Private%20Clubs",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/bespoke-projektbriefing/\">Was in ein gutes Bespoke-Briefing gehört.Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen.Beitrag lesen</a><a href=\"/journal/materialauswahl-hospitality/\">Materialwahl beginnt beim Einsatzort.Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe.Beitrag lesen</a><a href=\"/journal/speisekarten-bindung-format/\">Die richtige Speisekarte für Ihren Service.Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

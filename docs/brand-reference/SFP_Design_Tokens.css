@@ -1,0 +1,64 @@
+/* SFP Old Copper / Final 1.2 */
+@font-face {font-family:Montserrat;src:url('assets/fonts/Montserrat.woff2') format('woff2');font-weight:100 900;font-display:swap;}
+@font-face {font-family:Newsreader;src:url('assets/fonts/Newsreader.woff2') format('woff2');font-weight:200 800;font-display:swap;}
+:root {
+  --sfp-sand: #D6C8B6; /* Sand */
+  --sfp-forest: #253F3B; /* Forest */
+  --sfp-copper: #B77550; /* Copper */
+  --sfp-paper: #F5F1E9; /* Ivory */
+  --sfp-charcoal: #252725; /* Charcoal */
+  --sfp-parchment: #EEE3D4; /* Parchment */
+  --sfp-bronze: #80563D; /* Bronze */
+  --sfp-bg:var(--sfp-paper);--sfp-text:var(--sfp-charcoal);--sfp-link:var(--sfp-forest);
+}
+[data-theme="dark"] {--sfp-bg:var(--sfp-charcoal);--sfp-text:var(--sfp-paper);--sfp-link:var(--sfp-paper);color-scheme:dark;}
+.sfp-surface {font-family:Montserrat,Arial,sans-serif;font-size:1.125rem;line-height:1.5;background:var(--sfp-bg);color:var(--sfp-text);}
+.sfp-surface h1,.sfp-surface h2 {font-family:Newsreader,Georgia,serif;font-optical-sizing:auto;line-height:1.12;}
+.sfp-surface a {color:var(--sfp-link);text-decoration:underline;text-underline-offset:.2em;}
+.sfp-surface :focus-visible {outline:3px solid var(--sfp-text);outline-offset:4px;}
+.sfp-logo {display:block;height:auto;opacity:1;filter:none;}
+/* Choose the correct SVG color and v100/v0618 file; never resize only the signet in CSS. */
+/* Ergänzung: UI-Rollen, nur SFP Old Copper. Statussystem gemäß E6. */
+:root {
+ --sfp-ivory:var(--sfp-paper); --sfp-surface:var(--sfp-paper);
+ --sfp-surface-alt:var(--sfp-parchment); --sfp-text-on-dark:var(--sfp-paper);
+ --sfp-accent:var(--sfp-copper); --sfp-accent-text:var(--sfp-bronze);
+ --sfp-title:clamp(2.25rem,5vw,4rem); --sfp-body:clamp(1rem,1.5vw,1.125rem);
+ --sfp-space-1:.5rem; --sfp-space-2:1rem; --sfp-space-3:1.5rem; --sfp-space-4:2rem;
+}
+.sfp-surface {background:var(--sfp-surface);font-size:var(--sfp-body);line-height:1.5;}
+.sfp-surface h1 {font-size:var(--sfp-title);font-weight:400;}
+.sfp-surface h2 {font-size:2rem;font-weight:600;}
+.sfp-surface a:hover {text-decoration-thickness:3px;}
+.sfp-surface .sfp-button {display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:44px;padding:.6rem 1.2rem;background:var(--sfp-forest);color:var(--sfp-paper);border:2px solid var(--sfp-forest);font:600 1rem Montserrat,Arial,sans-serif;text-decoration:none;}
+.sfp-surface .sfp-button:hover {background:var(--sfp-charcoal);border-color:var(--sfp-charcoal);}
+.sfp-surface .sfp-button:active {text-decoration:underline;}
+.sfp-surface :focus-visible {outline:3px solid var(--sfp-text);outline-offset:4px;}
+/* Bronze nur große Schrift auf Ivory: 24px regulär / 18.67px fett.
+   Copper dekorativ; kein kleines Informationselement. */
+.sfp-accent-heading {color:var(--sfp-accent-text);font-size:1.5rem;}
+[data-theme="dark"] {--sfp-surface:var(--sfp-charcoal);--sfp-surface-alt:var(--sfp-forest);--sfp-text:var(--sfp-paper);--sfp-link:var(--sfp-paper);}
+[data-theme="light"] {--sfp-surface:var(--sfp-paper);--sfp-text:var(--sfp-charcoal);--sfp-link:var(--sfp-forest);color-scheme:light;}
+@media(prefers-color-scheme:dark) {
+ :root:not([data-theme="light"]) {--sfp-surface:var(--sfp-charcoal);--sfp-surface-alt:var(--sfp-forest);--sfp-text:var(--sfp-paper);--sfp-link:var(--sfp-paper);color-scheme:dark;}
+}
+/* Automatisches Logo (ohne manuelle Theme-Umschaltung):
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="generated/Logos/paper/SFP_08_wortmarke_paper.svg">
+ <img class="sfp-logo" src="generated/Logos/charcoal/SFP_08_wortmarke_charcoal.svg" width="220" alt="SFP">
+</picture>
+Bei manuellem Theme-Wechsel auch die Logo-Datei explizit umschalten; siehe demo.html. */
+/* E6: status is conveyed by explicit labels, vector icons and text, never color alone. */
+.sfp-status {display:flex;gap:1rem;align-items:flex-start;padding:1rem;background:var(--sfp-paper);color:var(--sfp-charcoal);border:1px solid var(--sfp-forest);margin-block:1rem;}
+.sfp-status svg {width:24px;height:24px;flex:none;color:var(--sfp-forest);}
+.sfp-status--error {border-color:var(--sfp-bronze);}
+.sfp-status--error svg {color:var(--sfp-bronze);}
+.sfp-status strong {display:block;font-weight:600;}
+.sfp-field {display:block;margin-block:1rem;}
+.sfp-field input {box-sizing:border-box;width:100%;max-width:30rem;min-height:44px;border:1px solid var(--sfp-charcoal);background:var(--sfp-paper);color:var(--sfp-charcoal);font:inherit;padding:.6rem;caret-color:var(--sfp-forest);}
+.sfp-field input[aria-invalid=true] {border:2px solid var(--sfp-bronze);}
+.sfp-surface .sfp-button:disabled {background:var(--sfp-sand);color:var(--sfp-charcoal);border-color:var(--sfp-sand);cursor:not-allowed;}
+.sfp-surface ::selection {background:var(--sfp-forest);color:var(--sfp-paper);}
+.sfp-surface {scrollbar-color:var(--sfp-forest) var(--sfp-paper);}
+.sfp-tabular {font-variant-numeric:tabular-nums;}
+[hidden] {display:none!important;}

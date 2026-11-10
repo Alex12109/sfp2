@@ -1,0 +1,580 @@
+{
+ "language": "de",
+ "key": "product:trays",
+ "slug": "product--trays",
+ "url": "/produkte/trays/",
+ "template": "family",
+ "title": "Trays & Tabletts",
+ "description": "Ein gutes Tray ordnet nicht nur Gegenstände. Es verwandelt Kaffee, Gläser oder Pflegeprodukte in ein bewusst gestaltetes Arrangement.",
+ "alternate": {
+  "de": "/produkte/trays/",
+  "en": "/en/products/hospitality-trays/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/trays-ablage/",
+     "label": "Trays & Ablage",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Trays &amp; Tabletts"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein gutes Tray ordnet nicht nur Gegenstände. Es verwandelt Kaffee, Gläser oder Pflegeprodukte in ein bewusst gestaltetes Arrangement.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=trays",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Trays%20%26%20Tabletts",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "SFP-Tablett mit Tasse und unterteilter Ablage – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/original-tray-insert.webp",
+       "alt": "Gepolsterte Einlage eines Trays",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ordnung, die selbstverständlich wirkt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein gutes Tray beginnt nicht bei seiner Außenkante, sondern bei den Dingen, die es tragen soll. Tassen, Gläser, Kaffeemaschine, Wasserflaschen, Pflegeprodukte oder persönliche Gegenstände benötigen jeweils andere Abstände, Randhöhen und Griffwege. Holz bringt eine eigene Maserung und konstruktive Klarheit ein; eine lederbezogene Ausführung kann sich enger mit anderen Zimmeraccessoires verbinden. Beide sind Ausgangspunkte, deren Eignung für den konkreten Ort abgestimmt wird. Ein offener Innenraum bleibt flexibel, Unterteilungen geben festen Gegenständen Orientierung. Die Gestaltung darf ruhig wirken, doch sie muss dem Team beim Auffüllen und dem Gast beim Zugreifen verständlich bleiben."
+    },
+    {
+     "type": "p",
+     "html": "Für das Briefing fotografieren und vermessen Sie alle vorgesehenen Inhalte sowie die nutzbare Stellfläche. Türen, Steckdosen, Kabel und die Öffnungsrichtung einer Kaffeemaschine gehören ebenso dazu. Maße und Unterteilungen entstehen aus diesen Beziehungen; bei geeigneter Konstruktion kann eine vorhandene Lösung mit Kabeldurchführung als Orientierung dienen. Ob sie zu Gerät und Standort passt, wird im Projekt geprüft. Am Muster sollten Befüllen, Anheben, Reinigen und Zurückstellen einmal vollständig durchgespielt werden. Griffmöglichkeiten, Randhöhe, Naht und Logoveredelung lassen sich dann im Zusammenhang beurteilen. So wird das Hospitality Tray zur geordneten Bühne für den Inhalt, statt ihm unnötige Vorgaben zu machen."
+    },
+    {
+     "type": "p",
+     "html": "Wenn mehrere Zimmerkategorien ausgestattet werden, sollte jede Gerätekombination als eigene Variante benannt und vollständig bemaßt sein. Ein gemeinsamer Farbton kann die Serie verbinden; Innenmaß und Aufteilung folgen jedoch immer dem bestätigten Inhalt und der konkreten Stellfläche."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-tray-detail.webp",
+     "alt": "Zwei SFP-Trays mit unterschiedlichen Einlagen",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-tray-cable.webp",
+     "alt": "Tray mit Kabelöffnung im Detail",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Alle vorgesehenen Gegenstände mit Maßen benennen",
+        "Unterteilungen, Randhöhe und Kabelweg abstimmen",
+        "Stellfläche und Zugang für das Team prüfen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=trays",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=trays"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Nach Inhalt entwickelt",
+     "body": [
+      {
+       "type": "p",
+       "html": "Senden Sie Maße oder Fotos der Geräte, Gläser und Behälter. So lassen sich Flächen und Unterteilungen sinnvoll planen."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Rand &amp; Einlagen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Offene Flächen, einzelne Fächer oder herausnehmbare Einsätze werden für Ihre Abläufe geprüft. Kabelöffnungen können Teil der Abstimmung sein."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Bezug oder Holz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein bezogener Kern und ein Tray aus Holz werden unterschiedlich aufgebaut und veredelt. Wir halten die Materialoptionen des gewählten Modells fest und stimmen eine abweichende Sonderanfertigung gesondert ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Holz oder bezogene Ausführung passend zum Einsatz",
+      "Individuelle Maße und Unterteilungen",
+      "Steppnaht und Logoveredelung nach Material",
+      "Inhalt und nutzbare Stellfläche im Briefing angeben"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Material",
+     "v": "Holz oder lederbezogene Ausführung"
+    },
+    {
+     "k": "Aufteilung",
+     "v": "Mit oder ohne Unterteilungen; Maße nach Inhalt und Stellfläche"
+    },
+    {
+     "k": "Formatbeispiele",
+     "v": "120 × 230 × 28 / 260 × 370 × 60 / 400 × 330 × 40 mm"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/trays-ablage/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/notizblockhalter/",
+     "title": "Notizblockhalter",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notizblock und Stift erhalten ihren festen Platz. Eine kleine, häufig genutzte Ergänzung für Gästezimmer, Konferenzräume und Empfang."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Freigestellte SFP-Notizblockhalter in verschiedenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tissue-boxen/",
+     "title": "Tissue-Boxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verbrauchsmaterial verschwindet hinter einer abgestimmten Oberfläche. Die Hülle wird auf das verwendete Tissue-Format und den vorgesehenen Standort abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue-Boxen in Holz und bezogenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/bestecktabletts/\">Bestecktabletts</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bestecktabletts ordnen Messer, Gabeln und Löffel beim Eindecken oder direkt am Tisch. Ein Kern aus Karton, MDF oder Echtholz wird mit PU-Leder bezogen; ein oder mehrere Trenner strukturieren den Innenraum. Zwei Ausgangsformate, Sondermaße, frei wählbare Garnfarben sowie Blind- oder Folienprägung ermöglichen eine projektbezogene Ausführung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-bestecktabletts.webp",
+       "alt": "Bestecktabletts – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/bestecktabletts/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=bestecktabletts",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/bestecktabletts/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/trays/\">Trays</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays ordnen Getränke, Pflegeprodukte oder Schreibutensilien auf Schreibtisch, Minibar und im Bad. Drei Ausgangsmaße sowie Sonderformate richten sich nach Inhalt und verfügbarer Fläche; Trenner strukturieren einzelne Gegenstände. MDF, Karton oder Echtholz, PU-Lederbezug, Ziernaht und Prägung erlauben eine passende Ausführung für jede konkrete Ablageaufgabe."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "Trays – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/trays/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=trays",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/trays/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

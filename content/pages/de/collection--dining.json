@@ -1,0 +1,236 @@
+{
+ "language": "de",
+ "key": "collection:dining",
+ "slug": "collection--dining",
+ "url": "/kollektionen/dining/",
+ "template": "collection",
+ "title": "Speisekarten & Dining",
+ "description": "Speisekarten, Rechnungsmappen und abgestimmte Tischaccessoires für Restaurants, Hotels und Clubs. Eine gemeinsame Handschrift vom Menü bis zur Rechnung.",
+ "alternate": {
+  "de": "/kollektionen/dining/",
+  "en": "/en/collections/dining/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Der erste Eindruck. Der letzte Schliff."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Speisekarten, Rechnungsmappen und abgestimmte Tischaccessoires für Restaurants, Hotels und Clubs. Eine gemeinsame Handschrift vom Menü bis zur Rechnung.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Speisekarten%20%26%20Dining",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine gemeinsame Materialwelt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vom ersten Öffnen der Speisekarte bis zur Rechnung begleiten Ihre Tischaccessoires den Besuch. Wir stimmen Menü, Tischset, Coaster und Rechnungspräsentation vollständig auf Ihren Service ab. Italienisches Echtleder, hochwertiges PU in vielen Farben und Oberflächen sowie modellbezogene weitere Bezüge geben Ihrer Kollektion eine eigene Haptik und Handschrift."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Entdecken Sie die Details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tischsets/",
+     "title": "Tischsets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine ruhige Basis für Ihr Tischkonzept. Form, Proportionen und Oberfläche werden auf Tisch, Geschirr und die Abläufe im Service abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Tischsets im Restaurantservice",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/speisekarten/",
+     "title": "Speisekarten",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ihr Menü verdient eine passende Hülle. Ausgewählte Bindungen und Materialien verbinden den Charakter Ihres Hauses mit den Anforderungen Ihres Service."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail der Schraubbindung einer SFP-Speisekarte",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/rechnungsmappen/",
+     "title": "Rechnungsmappen &amp; Rechnungsboxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein stimmiger Abschluss Ihres Service. Die Präsentation der Rechnung kann dieselbe Material- und Farbsprache aufnehmen wie Menükarte und Tischaccessoires."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Geschlossene Rechnungsmappe mit Logo – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/coaster/",
+     "title": "Coaster",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kleines Detail mit hoher Präsenz am Tisch. In Format und Oberfläche auf Gläser, Tischsets und das Materialkonzept abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Runde und eckige Coaster in verschiedenen Materialien – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jeder Artikel im Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Modelle, Materialauswahl und Ausstattungsoptionen finden Sie in unserer vollständigen Produktübersicht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel ansehen",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

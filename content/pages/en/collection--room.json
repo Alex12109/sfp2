@@ -1,0 +1,186 @@
+{
+ "language": "en",
+ "key": "collection:room",
+ "slug": "collection--room",
+ "url": "/en/collections/room-accessories/",
+ "template": "collection",
+ "title": "Room accessories",
+ "description": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space.",
+ "alternate": {
+  "de": "/kollektionen/raumaccessoires/",
+  "en": "/en/collections/room-accessories/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "The quiet details of a distinctive room."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-collection-room.webp",
+     "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Room%20accessories",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A shared material palette."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hotel OS&amp;E includes the familiar essentials: waste bins, tissue box covers and everyday organisers. We develop these accessories around your room scheme and have them handmade in the EU. A single suite or a very small addition is as welcome as an extensive guest-room commission."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Explore the details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/waste-bins/",
+     "title": "Waste bins",
+     "body": [
+      {
+       "type": "p",
+       "html": "A functional object that belongs within the interior. Its specification is considered alongside the room, its use and the surrounding accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Waste bin with a brown exterior — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/tissue-box-covers/",
+     "title": "Tissue box covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Everyday consumables sit behind a coordinated finish. The cover is specified for your chosen tissue refill and its intended location."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue box covers in wood and covered finishes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every accessory in detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Find individual models, material choices and specification options in our complete accessory collection."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/",
+     "label": "View all accessories",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

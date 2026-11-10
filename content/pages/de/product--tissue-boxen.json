@@ -1,0 +1,508 @@
+{
+ "language": "de",
+ "key": "product:tissue-boxen",
+ "slug": "product--tissue-boxen",
+ "url": "/produkte/tissue-boxen/",
+ "template": "family",
+ "title": "Tissue-Boxen",
+ "description": "Eine Tissue-Box macht aus einem alltäglichen Verbrauchsartikel ein stimmiges Detail – auf dem Waschtisch, am Empfang oder im persönlichen Arbeitsbereich.",
+ "alternate": {
+  "de": "/produkte/tissue-boxen/",
+  "en": "/en/products/tissue-box-covers/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/raumaccessoires/",
+     "label": "Raumaccessoires",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Tissue-Boxen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Tissue-Box macht aus einem alltäglichen Verbrauchsartikel ein stimmiges Detail – auf dem Waschtisch, am Empfang oder im persönlichen Arbeitsbereich.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=tissue-boxen",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Tissue-Boxen",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue-Boxen in Holz und bezogenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ein alltäglicher Handgriff. Schön gefasst."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Tissue-Box macht aus einer wechselnden Kartonverpackung ein ruhiges Produkt im Raum. Auf dem Waschtisch, am Bett, im Besprechungsraum oder auf dem Schreibtisch ist sie klein, aber oft im direkten Blickfeld. Die Ausgangsformate 130 × 130 × 145 und 265 × 245 × 85 mm beschreiben zwei sehr unterschiedliche Proportionen. Welche passt, entscheidet die tatsächlich verwendete Tissue-Verpackung. Eine klare Kontur kann sich unauffällig in die Ausstattung einordnen; Lederfarbe, Narbung und eine sorgfältig gesetzte Öffnung geben dem Überzug dennoch eine eigene Präsenz. Der Inhalt soll dabei leicht erreichbar bleiben und nicht von der Hülle inszeniert werden müssen."
+    },
+    {
+     "type": "p",
+     "html": "Senden Sie eine Originalpackung oder belastbare Außen- und Öffnungsmaße in die Entwicklung. Innenmaß, Entnahmeöffnung und Zugang zum Nachfüllen müssen zusammen funktionieren. Bei wechselnden Lieferanten lohnt es sich, die vorgesehenen Packungen miteinander zu vergleichen; ein Sonderformat wird um die bestätigte Verpackung herum entwickelt. Im Muster prüfen Housekeeping oder Office Management, wie der Karton eingesetzt und wieder entnommen wird. Standort, Feuchtigkeit und verwendete Reinigungsmittel gehören ebenfalls ins Briefing, damit Oberfläche und Pflege konkret abgestimmt werden können. Die Logoprägung bleibt meist ein leises Detail. Entscheidend ist die genaue Passung: Erst wenn keine Kante drängt und jedes Tissue leicht nachgeführt wird, wirkt der Alltagsgriff so selbstverständlich wie das Produkt selbst."
+    },
+    {
+     "type": "p",
+     "html": "Werden im Haus mehrere Tissue-Formate verwendet, erhält jede Hülle eine klare Zuordnung zu Packung und Standort. So vermeidet eine einheitliche Optik die Verwechslung nicht durch Annahmen, sondern durch nachvollziehbare Projektdaten."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-tissue-refill.webp",
+     "alt": "Geöffnete Tissue-Box zum Nachfüllen",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-tissue-base.webp",
+     "alt": "Schiebeboden einer Tissue-Box aus Holz",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Tissue-Verpackung und Innenmaß abgleichen",
+        "Öffnung und Nachfüllweg testen",
+        "Standort und Reinigungsroutine berücksichtigen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=tissue-boxen",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=tissue-boxen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Passend zur Nachfüllung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Quadratische und rechteckige Formen werden mit der tatsächlich verwendeten Verpackung abgeglichen. Ein Originalmuster der Box hilft bei der Abstimmung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Öffnen &amp; Nachfüllen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Entnahmeöffnung und Boden- beziehungsweise Klappenkonstruktion werden gemeinsam betrachtet. Der Wechsel soll zum Housekeeping-Ablauf passen."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Ruhige Materialwelt",
+     "body": [
+      {
+       "type": "p",
+       "html": "Lederbezug, PU oder eine Holzvariante werden für den konkreten Einsatz geprüft. Farbe und Prägung verbinden die Box mit der übrigen Ausstattung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Tissue-Verpackung und Entnahmeöffnung aufeinander abstimmen",
+      "Zugang zum Nachfüllen berücksichtigen",
+      "Lederbezogene oder Holz-Ausführungen nach Projekt"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formate",
+     "v": "130 × 130 × 145 / 265 × 245 × 85 mm"
+    },
+    {
+     "k": "Passung",
+     "v": "Sonderformat nach Tissue-Verpackung; Öffnung und Nachfüllung abstimmen"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/raumaccessoires/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/papierkoerbe/",
+     "title": "Papierkörbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein funktionales Produkt als selbstverständlicher Teil des Interieurs. Wir stimmen die Ausführung auf Raum, Nutzung und die weiteren Accessoires ab."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Papierkorb mit brauner Außenfläche – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/tissue-boxen/\">Tissue-Boxen</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tissue-Boxen verkleiden quadratische oder rechteckige Taschentuchspender für Zimmer und Bad. Die Entnahmeöffnung kann rund, oval oder rechteckig ausgeführt werden; ein Magnetboden erleichtert je nach Konfiguration das Nachfüllen. Zwei Ausgangsformate, Sondermaße, Ausführungen in PU-Leder oder Holz, Polsterung, Ziernaht und Prägung stimmen die Hülle auf die verwendete Originalbox ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue-Boxen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/tissue-boxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=tissue-boxen",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/tissue-boxen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

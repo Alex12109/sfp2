@@ -1,0 +1,316 @@
+{
+ "language": "de",
+ "key": "scenario:interior-design",
+ "slug": "scenario--interior-design",
+ "url": "/loesungen/interior-design/",
+ "template": "scenario",
+ "title": "Ihre Gestaltung hört nicht beim Möbel auf.",
+ "description": "Bespoke-Accessoires als Teil Ihres Raumkonzepts. Für Innenarchitekten, Designstudios und Projektteams mit einem klaren gestalterischen Anspruch.",
+ "alternate": {
+  "de": "/loesungen/interior-design/",
+  "en": "/en/solutions/interior-design/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ihre Gestaltung hört nicht beim Möbel auf."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke-Accessoires als Teil Ihres Raumkonzepts. Für Innenarchitekten, Designstudios und Projektteams mit einem klaren gestalterischen Anspruch.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Interior%20Design%20%26%20Architektur",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Materialboard zeigt eine Richtung; ein Produktbrief macht sie umsetzbar. Ergänzen Sie Farb- und Oberflächenreferenzen um Stellflächen, Nutzung und Stückzahlen. So lassen sich offene gestalterische Fragen von bereits festen technischen Vorgaben trennen. Muster und Layouts führen beide Ebenen in einer überprüfbaren Ausführung zusammen."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/schreibunterlagen/",
+     "label": "Schreibunterlagen",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/notizblockhalter/",
+     "label": "Notizblockhalter",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/trays/",
+     "label": "Trays & Tabletts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Das Interior in Produkte übersetzen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein gelungenes Raumkonzept lebt von abgestimmten Proportionen und Materialien. Gerade kleine funktionale Artikel können diesen Zusammenhang stärken. Wir übersetzen Moodboards, Materialmuster und Skizzen in konkrete Vorschläge für Leder- und Holzartikel: passend zur Möblierung, zum Nutzungskonzept und zum gewünschten Markenauftritt."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vom Entwurf zur prüfbaren Ausführung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Sondermaße, Formen und Unterteilungen entwickeln wir vollständig nach Ihrem Entwurf und Bedarf. Technische Layouts klären die Details; ein Handmuster macht Haptik und Proportionen erfahrbar. Feines italienisches Echtleder, hochwertiges PU in umfangreichen Farb- und Oberflächenwelten sowie weitere geeignete Materialien werden mit Ihrem Konzept abgeglichen. Die abgestimmten Produkte entstehen in EU-Handfertigung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Eine klare Grundlage für die Abstimmung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hilfreich sind bemaßte Flächen, relevante Möbelansichten, Farbreferenzen, Logodaten und die geplante Anzahl je Artikel. Nennen Sie auch, welche Merkmale unverzichtbar sind und wo gestalterischer Spielraum besteht. So lassen sich offene Punkte früh sichtbar machen und verschiedene Ausführungen sinnvoll vergleichen."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/trays-ablage/",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/raumaccessoires/",
+     "title": "Raumaccessoires",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe und Tissue-Boxen als Teil Ihres Interieurs. In einer Material- und Farbsprache, die selbstverständlich zum Raum gehört."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Moodboard, Materialkonzept, bemaßte Skizzen und Liste der benötigten Artikel."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Interior%20Design%20%26%20Architektur",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Aus der Praxis."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "title": "Vier Jahreszeiten, München",
+     "body": [
+      {
+       "type": "p",
+       "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/projekte/william-blair/",
+     "title": "William Blair",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Runder Leder-Coaster mit William-Blair-Blindprägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/bespoke-projektbriefing/\">Was in ein gutes Bespoke-Briefing gehört.Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen.Beitrag lesen</a><a href=\"/journal/sonderanfertigung-kleinserie/\">Wann sich eine eigene Ausführung lohnt.Bestehendes Modell, individuelle Anpassung oder neue Entwicklung: Welcher Weg zu Ihrem Projekt passt.Beitrag lesen</a><a href=\"/journal/materialwelt-statt-einheitsfarbe/\">Eine Materialwelt ist mehr als eine Farbe.Wie Leder, Naht, Holz und Metall zu einer zusammengehörigen Kollektion werden – ohne dass jedes Produkt gleich aussehen muss.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

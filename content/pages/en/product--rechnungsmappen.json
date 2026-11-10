@@ -1,0 +1,608 @@
+{
+ "language": "en",
+ "key": "product:rechnungsmappen",
+ "slug": "product--rechnungsmappen",
+ "url": "/en/products/bill-presenters/",
+ "template": "family",
+ "title": "Bill presenters & bill boxes",
+ "description": "The bill is one of the final touchpoints with your restaurant. A considered folder or box carries the care of your service through to that moment.",
+ "alternate": {
+  "de": "/produkte/rechnungsmappen/",
+  "en": "/en/products/bill-presenters/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/dining/",
+     "label": "Menu covers & dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Bill presenters &amp; bill boxes"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The bill is one of the final touchpoints with your restaurant. A considered folder or box carries the care of your service through to that moment.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=rechnungsmappen",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Bill%20presenters%20%26%20bill%20boxes",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Closed branded bill folder — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v5-bill.webp",
+       "alt": "Open SFP bill box",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The final detail stays with you."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The bill is more than an administrative step: it is the final object presented to a guest at the table. A flat bill presenter frames that moment directly and discreetly; a bill box gives the handover greater physical presence. The 125 × 230 mm presenter and 130 × 230 × 35 mm box are available as starting points. Custom dimensions, stitching and branding are resolved around the application. Colour and finish may echo the menus without copying them exactly. Restraint matters on this small surface: receipt, means of payment and perhaps a pen need their place while the gesture remains light and assured."
+    },
+    {
+     "type": "p",
+     "html": "Walk through the handover with the actual receipts. What is inserted, what should remain concealed, and how does the service team retrieve the presenter or box? The internal arrangement follows that sequence. Table size, service tray and space at the till may also influence the choice between a flat holder and a box. A sample reveals whether it can be carried securely, placed quietly and prepared promptly for its next use. Branding is positioned at actual size in relation to the interior and edge. Together with the menu cover, the piece creates a deliberate link: the first and final objects of the visit share a visual language while performing quite different tasks."
+    },
+    {
+     "type": "p",
+     "html": "Where several outlets are involved, assign every version clearly. A recurring leather or logo can connect them while interior layout and dimensions suit each payment routine."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-bill-interior.webp",
+     "alt": "Bill folder with an inside pocket and pen holder",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-bill-box.webp",
+     "alt": "Wood and leather detail of a bill box",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Review receipt size and the handover routine",
+        "Choose a presenter or box to suit service",
+        "Connect the design with your menu covers"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=rechnungsmappen",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=rechnungsmappen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Folder or box",
+     "body": [
+      {
+       "type": "p",
+       "html": "A slim format feels understated; a box provides a defined interior. Choose according to handling and the intended presentation."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "The payment routine",
+     "body": [
+      {
+       "type": "p",
+       "html": "Receipt size and your actual service routine are the starting point. Include requirements for cards, receipts or inserts in the brief."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "A connection with the menu",
+     "body": [
+      {
+       "type": "p",
+       "html": "Shared materials or deliberately layered colours connect menu covers, bill presentation and placemats."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Folder or box selected for your service concept",
+      "Consider receipt format and the payment process",
+      "Coordinated colour and branding finish"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Bill presenter",
+     "v": "125 × 230 mm"
+    },
+    {
+     "k": "Bill box",
+     "v": "130 × 230 × 35 mm"
+    },
+    {
+     "k": "Options",
+     "v": "Custom dimensions, stitching and branding"
+    },
+    {
+     "k": "Internal details",
+     "v": "Pockets, magnetic strips or pen holders for folders; internal layout according to specification"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Leather menu cover with the VOX logo on a set table",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/grand-hyatt-vox/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/dining/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/placemats/",
+     "title": "Placemats",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered foundation for your table setting. Shape, proportions and finish are selected around the table, tableware and service routine."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats in restaurant service",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/menu-covers/",
+     "title": "Menu covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Your menu deserves a considered presentation. Selected bindings and materials connect your restaurant’s character with the requirements of service."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail of screw-post binding in an SFP menu cover",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/coasters/",
+     "title": "Coasters",
+     "body": [
+      {
+       "type": "p",
+       "html": "A small but visible part of the table setting. Dimensions and finish are considered alongside glassware, placemats and your material scheme."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Round and square coasters in different materials — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/rechnungsboxen/\">Bill Boxes</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bill boxes give the final handover in service a defined, three-dimensional form. The board or wood core can be fully or partly covered in leather, book cloth or piqué. Standard or custom dimensions, pockets, magnetic strips, padding and bespoke branding allow the box to be specified around the payment routine and visual identity."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsboxen.webp",
+       "alt": "Bill Boxes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/rechnungsboxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=rechnungsboxen",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/rechnungsboxen/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/rechnungsmappen/\">Bill Folders</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bill folders present the receipt and payment card in a slim format that is easy to hand to the guest. They can be made in genuine leather, PU leather, book cloth or piqué, with pockets, magnetic strips or a pen holder. Rectangular and square starting sizes, custom dimensions, stitching, padding and branding can be tailored to the service routine."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Bill Folders — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/rechnungsmappen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=rechnungsmappen",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/rechnungsmappen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

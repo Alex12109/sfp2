@@ -1,0 +1,61 @@
+{
+ "language": "de",
+ "key": "scenarios",
+ "slug": "scenarios",
+ "url": "/loesungen/",
+ "template": "page",
+ "title": "Besondere Anforderungen. Passende Antworten.",
+ "description": "Individuelle Produkte für Orte, Marken und Menschen. Entdecken Sie den Ausgangspunkt für Ihr Projekt.",
+ "alternate": {
+  "de": "/loesungen/",
+  "en": "/en/solutions/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Besondere Anforderungen. Passende Antworten."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Produkte für Orte, Marken und Menschen. Entdecken Sie den Ausgangspunkt für Ihr Projekt.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/loesungen/hotels/\">Hotels &amp; Resorts</a><a href=\"/loesungen/restaurants/\">Restaurants &amp; Bars</a><a href=\"/loesungen/interior-design/\">Interior Design &amp; Architektur</a><a href=\"/loesungen/corporate-gifts/\">Corporate Gifts &amp; Events</a><a href=\"/loesungen/clubs/\">Golfclubs &amp; Private Clubs</a><a href=\"/loesungen/yachts/\">Yachten &amp; Marine Interiors</a><a href=\"/loesungen/private-aviation/\">Private Aviation</a><a href=\"/loesungen/executive-offices/\">Executive Offices &amp; Institutionen</a>",
+     "role": "scenario-index"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

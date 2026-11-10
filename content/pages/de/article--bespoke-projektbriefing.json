@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:bespoke-projektbriefing",
+ "slug": "article--bespoke-projektbriefing",
+ "url": "/journal/bespoke-projektbriefing/",
+ "template": "article",
+ "title": "Was in ein gutes Bespoke-Briefing gehört.",
+ "description": "Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen.",
+ "alternate": {
+  "de": "/journal/bespoke-projektbriefing/",
+  "en": "/en/journal/briefing-a-bespoke-project/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Was in ein gutes Bespoke-Briefing gehört."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/atelier.webp",
+     "alt": "Materialstudie mit Händen, Ledermustern und Werkzeugen auf einer Arbeitsfläche",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Beginnen Sie mit der Nutzung",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein gutes Briefing muss noch keine fertige Lösung enthalten. Es sollte aber beschreiben, was das Produkt leisten soll. Ein Tray für eine Kaffeemaschine hat andere Aufgaben als eine Ablage für Schmuck. Ein Notizblockhalter im Gästezimmer wird anders genutzt als eine Schreibunterlage im Konferenzraum. Nennen Sie den Standort, die Nutzer und die Gegenstände, die zusammenkommen. Fotos der Fläche sind oft hilfreicher als eine lange Liste von Adjektiven."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Maße brauchen einen Bezug",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Breite, Tiefe und Höhe sind ein Anfang. Ergänzen Sie, ob es sich um Außenmaße, eine nutzbare Innenfläche oder die Größe einer vorhandenen Nische handelt. Bei Trays gehören die Abmessungen der eingesetzten Gegenstände dazu. Bei einer Speisekarte sind Papierformat, Seitenzahl und die Art des Einlegens wichtig. Kennzeichnen Sie feste Grenzen und Maße, bei denen noch Spielraum besteht. So vermeiden Sie, dass eine ansprechende Gestaltung am späteren Einsatzort vorbeigeht."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Material und Marke konkret zeigen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ein Moodboard vermittelt die Atmosphäre. Für die Umsetzung sind zusätzlich Materialmuster, Farbreferenzen und verwendbare Logodaten hilfreich. Beschreiben Sie die gewünschte Wirkung der Prägung: zurückhaltend Ton-in-Ton oder als sichtbarer Akzent. Betrachten Sie das Logo dabei in seiner tatsächlichen Größe. Eine fein gezeichnete Marke kann auf einem kleinen Anhänger eine andere Umsetzung benötigen als auf einer großen Mappe."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Mengen und Freigaben mitdenken",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Geben Sie die benötigte Menge je Artikel und den tatsächlichen Einsatztermin an. Bei SFP sind Einzelanfertigungen und sehr kleine Serien willkommen; zugleich besteht Kapazität für große Ausstattungsprojekte. Menge, Material und Ausführung werden deshalb gemeinsam geplant. Benennen Sie, wer Gestaltung, Material und Angebot freigibt. Bringen Sie Einkauf, Design und Betrieb vor der Musterfreigabe zusammen und trennen Sie klar, was feststeht und was SFP vorschlagen soll."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/interior-design/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

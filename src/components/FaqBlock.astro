@@ -1,0 +1,35 @@
+---
+// Fragen oder Prozessschritte als aufklappbare Liste.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad } from '../lib/content';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; no?: number; tone?: string }
+const { s, no, tone = 'tone-ivory' } = Astro.props;
+const faq = s.faq ?? [];
+const steps = faq.some((f) => f.no);
+---
+<section class:list={['sec faq', tone, steps && 'faq--steps']} id={s.id}>
+  <div class="wrap faq__grid">
+    <header class="faq__head" data-reveal>
+      {no && <p class="label">N° {pad(no)}</p>}
+      {s.title && <h2 set:html={heading(s.title.html)} />}
+      <Rich blocks={s.body} />
+      <Actions links={s.actions} />
+      {s.media?.[0] && <Picture img={s.media[0]} frame reveal ratio="ar-4x3" class="faq__media" />}
+    </header>
+    <div class="faq__list" data-reveal style="--i:1">
+      {faq.map((f, i) => (
+        <details class="fold" open={f.open || (steps && i === 0)} name={steps ? `steps-${s.kind}` : undefined}>
+          <summary>
+            {f.no && <span class="fold__no">{f.no}</span>}
+            <h3 class="fold__q" set:html={f.q} />
+            <span class="fold__mark" aria-hidden="true"></span>
+          </summary>
+          <div class="fold__body"><Rich blocks={f.a} /></div>
+        </details>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,191 @@
+{
+ "language": "en",
+ "key": "case:william-blair",
+ "slug": "case--william-blair",
+ "url": "/en/projects/william-blair/",
+ "template": "project",
+ "title": "William Blair · A design direction becomes a collection.",
+ "description": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification.",
+ "alternate": {
+  "de": "/projekte/william-blair/",
+  "en": "/en/projects/william-blair/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "A design direction becomes a collection."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-blair.webp",
+     "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "William Blair"
+    },
+    {
+     "k": "Application",
+     "v": "Corporate · Office"
+    },
+    {
+     "k": "Scope",
+     "v": "Office accessories · Leather · Personalisation"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "William Blair is a global partnership with expertise in investment banking, investment management and private wealth management. In a professional setting of this kind, meeting rooms, desks and reception areas are places where the brand is experienced in everyday use. SFP received a direct commission for personalised leather office accessories. The starting point is significant: William Blair supplied its own design inspiration. SFP was therefore not asked to invent an unrelated visual language, but to understand an existing idea and translate it into physical objects."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The particular challenge was one of translation: shape, leather, colour, edges and branding needed to reflect the supplied reference while becoming a clear specification that could be made. Office pieces are seen at close quarters and handled often. Tactility, controlled proportions and an appropriately scaled mark therefore matter more than decorative complexity."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The client’s visual inspiration provided a shared reference for the discussion. SFP used it to define the leather pieces and their personalisation. In a process of this kind, an image or moodboard has to be broken down into reviewable decisions: which proportions carry the idea, which surface creates the intended character, how will a blind deboss behave in the selected leather, and where should it sit on the object? Where several pieces are involved, recurring characteristics need defining without obscuring their individual functions."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "William Blair received more than a written interpretation of the brief: it received personalised leather objects that carried its own inspiration into the working environment. That is the specific value of SFP’s role. A visual direction was refined until it could become tangible, branded products. The restrained deboss allows identity and material to work together, which suits a professional setting where details should be present without becoming loud. Instead, the case demonstrates a clear division of expertise: the client supplied the creative idea, and SFP made it practicable as a product."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-blair-detail.webp",
+     "alt": "Leather accessory from the William Blair project selection",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=William%20Blair",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/desk-table/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

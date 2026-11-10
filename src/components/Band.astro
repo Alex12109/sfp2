@@ -1,0 +1,24 @@
+---
+// Abschluss mit Handlungsaufforderung.
+import type { Section, Lang } from '../lib/types';
+import { heading } from '../lib/content';
+import Rich from './Rich.astro';
+import Arrow from './Arrow.astro';
+interface Props { s: Section; lang: Lang }
+const { s } = Astro.props;
+const a = s.actions?.[0];
+---
+<section class="sec band tone-forest">
+  <div class="wrap band__grid">
+    <div class="band__copy" data-reveal>
+      {s.title && <h2 set:html={heading(s.title.html)} />}
+      <Rich blocks={s.body} />
+    </div>
+    {a && (
+      <a class="band__cta" href={a.href} data-reveal style="--i:1">
+        <span>{a.label}</span>
+        <span class="band__circle" aria-hidden="true"><Arrow /></span>
+      </a>
+    )}
+  </div>
+</section>

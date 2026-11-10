@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:materialauswahl-hospitality",
+ "slug": "article--materialauswahl-hospitality",
+ "url": "/journal/materialauswahl-hospitality/",
+ "template": "article",
+ "title": "Materialwahl beginnt beim Einsatzort.",
+ "description": "Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe.",
+ "alternate": {
+  "de": "/journal/materialauswahl-hospitality/",
+  "en": "/en/journal/choosing-materials-for-hospitality/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Materialwahl beginnt beim Einsatzort."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/leather.webp",
+     "alt": "Nahaufnahme einer feinen Lederoberfläche",
+     "width": 500,
+     "height": 500,
+     "kind": "swatch"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Haptik, Oberfläche und Funktion zusammen betrachten",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Auf einem Bildschirm lassen sich Farben vergleichen. Wie sich ein Material in der Hand anfühlt, wie es auf Licht reagiert und wie es sich an einer Kante verhält, zeigt erst ein Muster. Beginnen Sie deshalb nicht mit einer abstrakten Rangfolge von Materialien. Beginnen Sie mit dem Artikel: Wird er häufig bewegt, auf dem Tisch verschoben oder vor allem als ruhiges Ausstattungsdetail wahrgenommen?"
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Echtleder bewusst einsetzen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP bietet feines italienisches Echtleder, dessen Narbung und Haptik ein Produkt prägen. Die Wirkung hängt von der konkreten Lederart und Zurichtung ab: glatt, genarbt, matt oder stärker glänzend sind unterschiedliche Gestaltungsentscheidungen. Vergleichen Sie das ausgewählte Leder mit den übrigen Materialien im Raum. Bei einer Kollektion sollten auch natürliche Unterschiede und die gewünschte optische Einheitlichkeit besprochen werden."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "PU und Holz als eigenständige Optionen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Hochwertiges PU eröffnet bei SFP eine umfangreiche Auswahl an Farben und Oberflächen. Entscheidend bleiben das konkrete Muster, die Materialoptionen des Modells und seine vorgesehene Nutzung. Holz und weitere geeignete Materialien können das Konzept ergänzen. Bei Holz prägen Maserung, Beizung, Lackierung oder Öl die Wirkung. Reinigung und Pflege sind jeweils auf die konkrete Ausführung abzustimmen; daraus folgt keine pauschale Eignung für jede Umgebung."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Das Muster im Raum beurteilen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Legen Sie die Muster neben Möbeloberflächen, Textilien und Beschläge. Prüfen Sie Tageslicht und die abendliche Beleuchtung. Beziehen Sie die Kollegen ein, die mit den Artikeln arbeiten oder sie reinigen. Erst aus dieser gemeinsamen Betrachtung entsteht eine belastbare Auswahl. Dokumentieren Sie die freigegebene Ausführung und besprechen Sie bei späteren Ergänzungen erneut die Verfügbarkeit. Ein digitaler Farbton ersetzt keine Materialfreigabe."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/hotels/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

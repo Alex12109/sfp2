@@ -1,0 +1,191 @@
+{
+ "language": "en",
+ "key": "case:grand-hyatt-vox",
+ "slug": "case--grand-hyatt-vox",
+ "url": "/en/projects/grand-hyatt-vox/",
+ "template": "project",
+ "title": "Grand Hyatt Berlin · VOX · From the first menu to the final bill.",
+ "description": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point.",
+ "alternate": {
+  "de": "/projekte/grand-hyatt-vox/",
+  "en": "/en/projects/grand-hyatt-vox/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "From the first menu to the final bill."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Leather menu cover with the VOX logo on a set table",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "Grand Hyatt Berlin · VOX"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Food &amp; beverage"
+    },
+    {
+     "k": "Scope",
+     "v": "Menu covers · Bill presenter · Consultation"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "VOX is the restaurant at Grand Hyatt Berlin. Established in 1998, VOX combines authentic Japanese sushi with modern dining. The restaurant, terrace and bar create several service settings, each with its own content and rhythm. That is the context for SFP’s work: menu covers here are not detached pieces of print, but frequently handled elements of the restaurant identity. Guests and staff open them, pass them across the table and update their contents over time. Presenting the bill forms part of the same sequence."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The task was therefore to create a family for several kinds of content, rather than repeat one format unchanged. Food, drinks and supplementary menus may differ in page count, frequency of update and the way staff handle them; a bill presenter serves a distinct purpose at the close of the visit. A coherent collection can share materials, colour language, edge treatment and branding while allowing dimensions, binding and internal layout to follow each function. Project photographs show menu covers carrying the VOX identity."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Personal consultation on the specification provided the starting point. Developing a family of menu covers means considering actual content and service routines together: paper size and page count affect the binding; frequently changing material has different needs from a menu that remains in place; and the logo, stitching and edges need enough space for the cover to feel composed. The bill presenter adds further questions around receipt format, handover and storage between services. The design approach connects these different objects through recurring details rather than making them identical."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "VOX received a coordinated set of objects for several moments in the dining experience. Its value lies in continuity: the restaurant identity does not stop at the printed menu, but continues through the cover, its tactile character and the presentation of the bill. Different covers can accommodate their particular content while remaining recognisable as one family. Developing the pieces together also gives the operation a clear reference point when content changes or further formats are considered, although materials and execution should always be reviewed again for any later order."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox-detail.webp",
+     "alt": "Menu covers from the VOX project selection",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Grand%20Hyatt%20Berlin%20%C2%B7%20VOX",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/dining/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

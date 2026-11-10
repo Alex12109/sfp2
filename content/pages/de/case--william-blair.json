@@ -1,0 +1,191 @@
+{
+ "language": "de",
+ "key": "case:william-blair",
+ "slug": "case--william-blair",
+ "url": "/projekte/william-blair/",
+ "template": "project",
+ "title": "William Blair · Eine gestalterische Idee wird Ausstattung.",
+ "description": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung.",
+ "alternate": {
+  "de": "/projekte/william-blair/",
+  "en": "/en/projects/william-blair/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Eine gestalterische Idee wird Ausstattung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-blair.webp",
+     "alt": "Runder Leder-Coaster mit William-Blair-Blindprägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "William Blair"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Corporate · Office"
+    },
+    {
+     "k": "Umfang",
+     "v": "Büroaccessoires · Leder · Individualisierung"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "William Blair ist eine globale Partnerschaft mit Expertise in Investment Banking, Investment Management und Private Wealth Management. In einem professionellen Umfeld dieser Art gehören Besprechungsräume, Arbeitsplätze und Empfangsbereiche zu den Orten, an denen die Marke im Alltag erlebt wird. SFP erhielt einen direkten Auftrag für hochwertige, individualisierte Lederartikel im Büro. Bemerkenswert ist der Ausgangspunkt: William Blair brachte eine eigene gestalterische Inspiration ein. SFP musste daher keine freie Markenwelt erfinden, sondern eine bereits vorhandene Idee verstehen und in konkrete Produkte übersetzen. Der Kunde bestimmte die Richtung; SFP übernahm die produktbezogene Ausarbeitung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Produktgruppe sind individualisierte Lederartikel für den Bürobereich. In der aktuellen SFP-Bildbeschreibung ist ein runder Leder-Coaster mit William-Blair-Blindprägung zu sehen; ein weiteres Bild zeigt ein Lederaccessoire aus derselben Projektauswahl. Die besondere Anforderung lag in der Übersetzung: Form, Leder, Farbton, Kanten und Prägung mussten die mitgebrachte Referenz aufnehmen, zugleich aber als klare Produktspezifikation formuliert werden. Büroaccessoires werden aus kurzer Distanz betrachtet und häufig berührt. Dadurch werden Haptik, saubere Proportionen und eine kontrollierte Logogröße wichtiger als dekorative Komplexität."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die kundenseitige Inspiration diente als gemeinsame Referenz für die weitere Abstimmung. SFP konkretisierte daraus die Lederartikel und ihre Individualisierung. In einem solchen Prozess wird ein Bild oder Moodboard in überprüfbare Entscheidungen zerlegt: Welche Proportion trägt die Idee? Welche Oberfläche erzeugt die gewünschte Wirkung? Wie verhält sich eine Blindprägung im gewählten Leder, und wo sitzt sie ruhig auf der Fläche? Bei mehreren Produkten müssen wiederkehrende Merkmale definiert werden, ohne ihre jeweilige Funktion zu verwischen. Die sichtbare Blindprägung auf dem Coaster zeigt einen materialgerechten, zurückhaltenden Weg der Kennzeichnung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "William Blair erhielt keine bloße Interpretation des Briefings in Worten, sondern individualisierte Lederartikel, die die eigene Inspiration in den Büroalltag übertragen. Darin liegt der konkrete Wert von SFPs Rolle: Eine visuelle Richtung wurde so präzisiert, dass daraus greifbare, gekennzeichnete Produkte entstehen konnten. Die zurückhaltende Prägung lässt Marke und Material zusammenwirken und eignet sich damit für ein professionelles Umfeld, in dem Details präsent, aber nicht laut sein sollen. Sie zeigt stattdessen eine saubere Arbeitsteilung: Der Kunde brachte die gestalterische Idee ein; SFP machte daraus eine realisierbare Ausführung."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-blair-detail.webp",
+     "alt": "Lederaccessoire aus der William-Blair-Projektauswahl",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=William%20Blair",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "language": "de",
+ "key": "collection:trays",
+ "slug": "collection--trays",
+ "url": "/kollektionen/trays-ablage/",
+ "template": "collection",
+ "title": "Trays & Ablage",
+ "description": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service.",
+ "alternate": {
+  "de": "/kollektionen/trays-ablage/",
+  "en": "/en/collections/trays-organisers/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ordnung. In Ihrer Form."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-collection-table.webp",
+     "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Trays%20%26%20Ablage",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine gemeinsame Materialwelt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein passgenaues Tray bringt zusammen, was im Alltag zusammengehört. Von der Kaffeemaschine bis zum Willkommensgruß entwickeln wir Form und Unterteilung nach Ihrem Inhalt. Holz und bezogene Konstruktionen eröffnen unterschiedliche Möglichkeiten; Material und Veredelung werden für die gewählte Bauweise vereinbart. Auch ein einzelnes Tray kann als eigene Entwicklung in EU-Handfertigung entstehen."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Entdecken Sie die Details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/trays/",
+     "title": "Trays &amp; Tabletts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Für Minibar, Schreibtisch oder die Präsentation von Pflegeprodukten. Individuelle Formate und Unterteilungen schaffen einen Platz für die tatsächlich verwendeten Gegenstände."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "SFP-Tablett mit Tasse und unterteilter Ablage – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jeder Artikel im Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Modelle, Materialauswahl und Ausstattungsoptionen finden Sie in unserer vollständigen Produktübersicht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel ansehen",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

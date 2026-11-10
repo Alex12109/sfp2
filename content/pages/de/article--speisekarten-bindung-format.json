@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:speisekarten-bindung-format",
+ "slug": "article--speisekarten-bindung-format",
+ "url": "/journal/speisekarten-bindung-format/",
+ "template": "article",
+ "title": "Die richtige Speisekarte für Ihren Service.",
+ "description": "Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert.",
+ "alternate": {
+  "de": "/journal/speisekarten-bindung-format/",
+  "en": "/en/journal/menu-covers-binding-and-format/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Die richtige Speisekarte für Ihren Service."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-menu-restaurant.webp",
+     "alt": "Vollständige geöffnete Ledermenümappe in einem Restaurant",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Vom Inhalt zur Hülle",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Bevor Material und Prägung feststehen, lohnt sich ein Blick auf den tatsächlichen Inhalt. Eine Menüfolge, eine Getränkekarte und eine umfangreiche Weinauswahl stellen unterschiedliche Anforderungen. Drucken Sie die geplanten Seiten in Originalgröße aus. Prüfen Sie Schriftgröße, Ränder und Lesbarkeit unter der Beleuchtung Ihres Restaurants. Erst danach lässt sich ein Format wählen, das Inhalt und Handhabung zusammenbringt."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Wie häufig wechseln die Seiten?",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Wer täglich einzelne Blätter austauscht, braucht eine passende Handhabung. Wer eine umfangreiche Weinkarte über längere Zeit verwendet, stellt andere Anforderungen an den Aufbau. Bei einer Schraubbindung werden die gelochten Seiten durch Schraubstifte gehalten. Das SFP-Modell Berlin kann mit sichtbarer oder verdeckter Schraubenleiste ausgeführt werden. Die konkrete Auslegung richtet sich nach dem Inhalt und der gewünschten Gestaltung."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Material und Details bilden eine Einheit",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Echtleder, PU oder textile Bezüge erzeugen unterschiedliche Eindrücke. Ecken, Polsterung, Innentaschen und die Position des Logos beeinflussen das Gesamtbild ebenso. Wählen Sie diese Details nicht isoliert aus. Eine ruhige Blindprägung kann zu einer zurückhaltenden Gestaltung passen; eine Folienprägung kann bewusst auf die Marke aufmerksam machen. Ein Muster hilft, die tatsächliche Größenwirkung zu beurteilen."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Mit einer kleinen Serviceprobe abschließen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Lassen Sie Ihr Team die Musterkarte öffnen, reichen, ablegen und mit den vorgesehenen Seiten bestücken. Prüfen Sie auch, wie viel Platz die Karte auf einem gedeckten Tisch benötigt. Wenn Rechnungsmappen, Barkarten und Tischsets zur gleichen Serie gehören sollen, legen Sie sie nebeneinander. So wird aus einer schönen Einzelkarte eine Ausstattung, die zum gesamten Service passt."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/restaurants/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

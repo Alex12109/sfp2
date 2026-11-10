@@ -1,0 +1,137 @@
+{
+ "language": "en",
+ "key": "article:interior-konzept-produktbrief",
+ "slug": "article--interior-konzept-produktbrief",
+ "url": "/en/journal/from-interior-concept-to-product-brief/",
+ "template": "article",
+ "title": "From an interior concept to a product brief.",
+ "description": "The information that moves a bespoke leather accessory forward: use, dimensions, material direction and considered approvals.",
+ "alternate": {
+  "de": "/journal/interior-konzept-produktbrief/",
+  "en": "/en/journal/from-interior-concept-to-product-brief/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "From an interior concept to a product brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The information that moves a bespoke leather accessory forward: use, dimensions, material direction and considered approvals.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-collection.webp",
+     "alt": "Leather collection in cognac, olive, burgundy and taupe on warm stone",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Describe the task before the form",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A brief becomes clearer when it starts with use. Must a tray hold a coffee machine, two cups and accessories? Does a menu cover need frequently changing sheets? Must a notepad holder fit beside an existing telephone? These details lead to a useful construction more directly than a purely aesthetic adjective. Describe what the item should do and who will handle it each day. A photograph of the setting often adds more than a long list of abstract preferences."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Gather the dimensions that matter",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "External dimensions, internal dimensions and available surface area are different things. A tissue box cover depends on the actual carton; a menu cover needs paper size and page count. Measure the objects the accessory must hold and consider access. A correctly sized compartment is of limited use if its contents are difficult to remove. Mark which dimensions are fixed and which are guidance, preserving design flexibility where it is useful."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Be specific about materials, without closing the brief",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A moodboard can show a direction without prescribing every answer. Name the intended colours, finishes and relationship to the interior. If genuine leather, PU or timber is required, say so explicitly. If you are unsure, describe the desired impression and practical use. Add available references and distinguish fixed requirements from inspiration. This helps everyone assess proposals against the same criteria."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Bring operations into the conversation early",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Interior design, procurement and the eventual users see the same accessory from different perspectives. Service and housekeeping care about filling, emptying, carrying and cleaning. Design focuses on proportion and materials. Gather these requirements before approval and consolidate feedback. A shared point of contact helps prevent isolated decisions from conflicting only when the product is complete."
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Use approvals as a shared reference",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Record the accessory, specification, material reference, branding, quantity and required delivery in a clear summary. Open questions can remain visible. Artwork and samples help resolve them in turn. Agree who approves each aspect and how changes are recorded. Photographs and references of the approved specification are valuable for later additions. Material availability and possible differences must be reviewed again for repeat orders. A useful product brief therefore supports both the first commission and the next conversation."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/interior-design/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

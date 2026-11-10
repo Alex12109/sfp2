@@ -1,0 +1,127 @@
+{
+ "language": "de",
+ "key": "article:sonderanfertigung-kleinserie",
+ "slug": "article--sonderanfertigung-kleinserie",
+ "url": "/journal/sonderanfertigung-kleinserie/",
+ "template": "article",
+ "title": "Wann sich eine eigene Ausführung lohnt.",
+ "description": "Bestehendes Modell, individuelle Anpassung oder neue Entwicklung: Welcher Weg zu Ihrem Projekt passt.",
+ "alternate": {
+  "de": "/journal/sonderanfertigung-kleinserie/",
+  "en": "/en/journal/bespoke-and-small-batch-production/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Wann sich eine eigene Ausführung lohnt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bestehendes Modell, individuelle Anpassung oder neue Entwicklung: Welcher Weg zu Ihrem Projekt passt.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 Minuten Lesezeit",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-boutique-world.webp",
+     "alt": "Gestaltungsstudie ausgewählter Lederaccessoires in einem ruhigen Boutique-Hotel-Interieur",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Eine gute Vorlage nutzen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Nicht jede Anforderung braucht einen vollständigen Neuentwurf. Ein vorhandenes Format kann bereits die richtige Funktion erfüllen. Bei einer Schreibunterlage lassen sich beispielsweise mehrere Ausgangsformate prüfen, bevor ein Sondermaß festgelegt wird. Zeit für die Abstimmung bleibt trotzdem sinnvoll: Die Fläche, die Kanten und der Platz für weitere Gegenstände müssen zusammenpassen."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Dort anpassen, wo es einen Unterschied macht",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Eine Tissue-Box muss zur verwendeten Verpackung passen. Ein Notizblockhalter braucht das richtige Papierformat. Ein Tray soll die tatsächlich eingesetzten Gegenstände aufnehmen. Solche Anforderungen machen eine Anpassung konkret. Dazu kommen gestalterische Entscheidungen wie Farbton, Steppnaht oder Prägung. Trennen Sie im Briefing notwendige Funktionen von offenen Gestaltungswünschen."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Die Kleinserie vollständig planen",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Eine eigene Ausführung ist bei SFP auch als Einzelanfertigung oder sehr kleine Serie willkommen. Materialauswahl, Layout und Freigabe bleiben dabei wichtige Schritte; gefertigt wird in der EU von Hand. Ebenso ist Kapazität für große Projekte vorhanden. Nennen Sie die tatsächlich benötigte Menge, damit Material, Aufbau und Fertigung passend zum Vorhaben geplant werden können."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Die Serie weiterdenken",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Wenn später ergänzt werden soll, halten Sie Maße, Materialreferenz und freigegebenes Layout fest. Die jährlichen Nachbestellungen für Vier Jahreszeiten München seit 2017 zeigen, wie relevant dieser Blick über die Erstbestellung hinaus sein kann. Bei jeder Ergänzung werden Verfügbarkeit und Ausführung erneut abgeglichen."
+       }
+      ]
+     }
+    ],
+    "summary": "Sie planen ein eigenes Projekt? Beschreiben Sie uns Einsatz, Menge und Ihre Idee. Wir besprechen die passende Ausführung mit Ihnen.",
+    "nav": [
+     {
+      "href": "/loesungen/interior-design/",
+      "label": "Passende Lösungen entdecken",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

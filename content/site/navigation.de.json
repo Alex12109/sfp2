@@ -1,0 +1,263 @@
+{
+ "home": "/",
+ "groups": [
+  {
+   "label": "Bespoke",
+   "title": "Ihre Idee. Unsere Handwerkskunst.",
+   "tagline": "Von der ersten Richtung bis zum abgestimmten Produkt.",
+   "links": [
+    {
+     "label": "Beratung & Entwicklung",
+     "href": "/leistungen/"
+    },
+    {
+     "label": "Vom Entwurf zur Fertigung",
+     "href": "/prozess/"
+    },
+    {
+     "label": "Material & Veredelung",
+     "href": "/materialien/"
+    },
+    {
+     "label": "White Label für Agenturen",
+     "href": "/white-label/"
+    },
+    {
+     "label": "Ihr Projekt zusammenstellen",
+     "href": "/projektplaner/"
+    }
+   ],
+   "image": {
+    "alt": "Materialstudie mit Händen, Ledermustern und Werkzeugen auf einer Arbeitsfläche",
+    "src": "/assets/atelier.webp"
+   }
+  },
+  {
+   "label": "Projekte & Welten",
+   "title": "Für Räume. Für Menschen. Für Marken.",
+   "tagline": "Erkunden Sie Referenzen und Möglichkeiten für Ihr Umfeld.",
+   "links": [
+    {
+     "label": "Alle Projekte & Referenzen",
+     "href": "/projekte/"
+    },
+    {
+     "label": "Hotels & Resorts",
+     "href": "/loesungen/hotels/"
+    },
+    {
+     "label": "Restaurants & Bars",
+     "href": "/loesungen/restaurants/"
+    },
+    {
+     "label": "Interior Design",
+     "href": "/loesungen/interior-design/"
+    },
+    {
+     "label": "Corporate Gifts & Events",
+     "href": "/loesungen/corporate-gifts/"
+    },
+    {
+     "label": "Executive Offices",
+     "href": "/loesungen/executive-offices/"
+    },
+    {
+     "label": "Yachten",
+     "href": "/loesungen/yachts/"
+    },
+    {
+     "label": "Private Aviation",
+     "href": "/loesungen/private-aviation/"
+    },
+    {
+     "label": "Golfclubs & Private Clubs",
+     "href": "/loesungen/clubs/"
+    }
+   ],
+   "image": {
+    "alt": "Kofferanhänger mit BMW Group Classic Branding im Detail",
+    "src": "/assets/v15-bmw-seat.webp"
+   }
+  },
+  {
+   "label": "Kollektionen",
+   "title": "Individuelle Lederartikel. Eine Handschrift.",
+   "tagline": "Sinnvoll geordnet. Individuell für Sie gefertigt.",
+   "links": [
+    {
+     "label": "Alle Kollektionen",
+     "href": "/kollektionen/"
+    },
+    {
+     "label": "Alle Artikel & Modelle",
+     "href": "/produkte/"
+    },
+    {
+     "label": "Speisekarten & Dining",
+     "href": "/kollektionen/dining/"
+    },
+    {
+     "label": "Schreibkultur & Konferenz",
+     "href": "/kollektionen/schreibkultur-tisch/"
+    },
+    {
+     "label": "Trays & Ablage",
+     "href": "/kollektionen/trays-ablage/"
+    },
+    {
+     "label": "Raumaccessoires",
+     "href": "/kollektionen/raumaccessoires/"
+    },
+    {
+     "label": "Travel & Gifts",
+     "href": "/kollektionen/travel-gifts/"
+    },
+    {
+     "label": "Boxen & besondere Artikel",
+     "href": "/kollektionen/weitere-objekte/"
+    }
+   ],
+   "image": {
+    "alt": "Gestaltungsstudie: geöffnete Rechnungsbox mit bordeauxfarbenem Deckel und taupefarbene Rechnungsmappe",
+    "src": "/assets/v5-bill.webp"
+   }
+  },
+  {
+   "label": "SFP",
+   "title": "Persönlich aus Berlin.",
+   "tagline": "Lernen Sie uns und unsere Sicht auf die Details kennen.",
+   "links": [
+    {
+     "label": "Unser Unternehmen",
+     "href": "/unternehmen/"
+    },
+    {
+     "label": "Journal & Inspiration",
+     "href": "/journal/"
+    },
+    {
+     "label": "Pflege & Service",
+     "href": "/pflege-service/"
+    },
+    {
+     "label": "Kontakt aufnehmen",
+     "href": "/kontakt/"
+    }
+   ],
+   "image": {
+    "alt": "Materialstudie mit Ledernarbungen in Bordeaux, Grün, Taupe, Cognac und Dunkelblau",
+    "src": "/assets/finish-study.webp"
+   }
+  }
+ ],
+ "cta": {
+  "label": "Projekt anfragen",
+  "href": "/kontakt/"
+ },
+ "menuLabel": "Menü",
+ "footer": {
+  "claim": "Individuelle Produkte. Gemeinsame Handschrift.",
+  "origin": "Berlin · European craftsmanship",
+  "scope": "Ausschließlich für Geschäftskunden.",
+  "columns": [
+   {
+    "title": "SFP entdecken",
+    "links": [
+     {
+      "label": "Leistungen",
+      "href": "/leistungen/"
+     },
+     {
+      "label": "Unser Prozess",
+      "href": "/prozess/"
+     },
+     {
+      "label": "Material & Veredelung",
+      "href": "/materialien/"
+     },
+     {
+      "label": "Unternehmen",
+      "href": "/unternehmen/"
+     },
+     {
+      "label": "Journal",
+      "href": "/journal/"
+     },
+     {
+      "label": "Pflege & Service",
+      "href": "/pflege-service/"
+     }
+    ]
+   },
+   {
+    "title": "Für Ihr Projekt",
+    "links": [
+     {
+      "label": "Branchen & Einsatzwelten",
+      "href": "/loesungen/"
+     },
+     {
+      "label": "Projekte & Referenzen",
+      "href": "/projekte/"
+     },
+     {
+      "label": "Kollektionen",
+      "href": "/kollektionen/"
+     },
+     {
+      "label": "Speisekarten & Dining",
+      "href": "/kollektionen/dining/"
+     },
+     {
+      "label": "Corporate Gifts",
+      "href": "/loesungen/corporate-gifts/"
+     },
+     {
+      "label": "White Label",
+      "href": "/white-label/"
+     },
+     {
+      "label": "Projektplaner",
+      "href": "/projektplaner/"
+     },
+     {
+      "label": "Alle Artikel",
+      "href": "/produkte/"
+     }
+    ]
+   },
+   {
+    "title": "Im Gespräch bleiben",
+    "links": [
+     {
+      "label": "mail@sfp-berlin.com",
+      "href": "mailto:mail@sfp-berlin.com"
+     },
+     {
+      "label": "+49 (0)30 236 078 65",
+      "href": "tel:+493023607865"
+     }
+    ]
+   }
+  ],
+  "address": [
+   "Dahlmannstraße 11",
+   "10629 Berlin · Germany"
+  ],
+  "copyright": "© 2026 SFP Hospitality GmbH",
+  "legal": [
+   {
+    "label": "Impressum",
+    "href": "/impressum/"
+   },
+   {
+    "label": "Datenschutz",
+    "href": "/datenschutz/"
+   },
+   {
+    "label": "Kontakt",
+    "href": "/kontakt/"
+   }
+  ]
+ }
+}

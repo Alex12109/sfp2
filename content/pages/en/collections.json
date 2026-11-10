@@ -1,0 +1,321 @@
+{
+ "language": "en",
+ "key": "collections",
+ "slug": "collections",
+ "url": "/en/collections/",
+ "template": "page",
+ "title": "Selected objects. Individually yours.",
+ "description": "Five product families as a starting point for your project. Materials, dimensions and finishes come together in your own specification.",
+ "alternate": {
+  "de": "/kollektionen/",
+  "en": "/en/collections/"
+ },
+ "sections": [
+  {
+   "kind": "collection-intro",
+   "title": {
+    "level": "h1",
+    "html": "Individual objects.<br> <em>One shared language.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Our collections are starting points. Choose the functions your project needs; together we develop a material palette, from the first menu cover to the final detail in a guest room."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/",
+     "label": "Plan your collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "collection-atlas",
+   "shade": true,
+   "items": [
+    {
+     "role": "atlas-row",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material and design study: navy desk pad and notepad holder on a walnut desk",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/desk-table/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/desk-pads/",
+       "label": "Desk pads",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/notepad-holders/",
+       "label": "Notepad holders",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/desk-table/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/desk-table/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/trays-organisers/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/hospitality-trays/",
+       "label": "Hospitality trays",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/trays-organisers/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/trays-organisers/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/room-accessories/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/waste-bins/",
+       "label": "Waste bins",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/tissue-box-covers/",
+       "label": "Tissue box covers",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/room-accessories/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/room-accessories/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Travel &amp; gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags, keyrings and bespoke leather gifts. Personal companions for guests, clients and special occasions."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/gifts.webp",
+       "alt": "Cognac and green luggage tags with a matching keyring",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/travel-gifts/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/luggage-tags/",
+       "label": "Luggage tags",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/keyrings/",
+       "label": "Leather keyrings",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/travel-gifts/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/travel-gifts/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Menu covers &amp; dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Menu covers, bill presenters and coordinated tabletop accessories for restaurants, hotels and clubs. A shared identity from the menu to the bill."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Burgundy and olive menu covers with a coordinated bill presenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/dining/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/placemats/",
+       "label": "Placemats",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/menu-covers/",
+       "label": "Menu covers",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/bill-presenters/",
+       "label": "Bill presenters & bill boxes",
+       "style": "text"
+      },
+      {
+       "href": "/en/products/coasters/",
+       "label": "Coasters",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/dining/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/dining/"
+    },
+    {
+     "role": "atlas-row",
+     "title": "Boxes &amp; bespoke accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity and condiment boxes, guest directories, pen pots and further service accessories, specified around the way you work."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Open amenity box with grooming accessories on a dressing table",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/collections/other-accessories/",
+       "role": "atlas-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/products/amenity-boxes/",
+       "label": "Amenity boxes & other accessories",
+       "style": "text"
+      },
+      {
+       "href": "/en/collections/other-accessories/",
+       "label": "Explore the collection",
+       "style": "button"
+      }
+     ],
+     "href": "/en/collections/other-accessories/"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

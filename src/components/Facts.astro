@@ -1,0 +1,12 @@
+---
+import type { Section, Lang } from '../lib/types';
+interface Props { s: Section; lang: Lang; tone?: string }
+const { s, tone = 'tone-parchment' } = Astro.props;
+---
+<section class:list={['sec sec--tight facts', tone]}>
+  <div class="wrap">
+    <dl class="facts__list">
+      {(s.specs ?? []).map((r, i) => <div data-reveal style={`--i:${i}`}><dt class="label label--plain">{r.k}</dt><dd set:html={r.v} /></div>)}
+    </dl>
+  </div>
+</section>

@@ -1,0 +1,278 @@
+{
+ "language": "de",
+ "key": "scenario:executive-offices",
+ "slug": "scenario--executive-offices",
+ "url": "/loesungen/executive-offices/",
+ "template": "scenario",
+ "title": "Räume für Entscheidungen. Details mit Haltung.",
+ "description": "Abgestimmte Lederaccessoires für Konferenztische, repräsentative Büros und Empfangsbereiche. Sachlich in der Funktion, eigenständig im Ausdruck.",
+ "alternate": {
+  "de": "/loesungen/executive-offices/",
+  "en": "/en/solutions/executive-offices/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Räume für Entscheidungen. Details mit Haltung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Abgestimmte Lederaccessoires für Konferenztische, repräsentative Büros und Empfangsbereiche. Sachlich in der Funktion, eigenständig im Ausdruck.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-desk.webp",
+     "alt": "Gestaltungsstudie: cognacfarbener Notizblockhalter, taupefarbene Schreibunterlage und Papierkorb in einer Suite",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Executive%20Offices%20%26%20Institutionen",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Auf einem Konferenztisch wirken mehrere Produkte gleichzeitig: Unterlage, Notizblockhalter, Coaster und kleine Ablagen. Proportionen und Abstände prägen das Bild mindestens so stark wie die Materialfarbe. Prüfen Sie das Ensemble mit dem vorgesehenen Tisch, der Technik und dem tatsächlichen Ablauf einer Besprechung."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/schreibunterlagen/",
+     "label": "Schreibunterlagen",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/notizblockhalter/",
+     "label": "Notizblockhalter",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/trays/",
+     "label": "Trays & Tabletts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Eine ruhige Ordnung am Arbeitsplatz"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Vom einzelnen Schreibtisch bis zu vielen Konferenzplätzen entwickeln wir Schreibunterlagen, Notizblockhalter, Trays und Papierkörbe als abgestimmte Ausstattung. Feines italienisches Echtleder oder hochwertiges PU in vielfältigen Farben und Oberflächen wird passend zum jeweiligen Artikel gewählt. Maße, Prägung und Details folgen Ihrem Arbeitsumfeld; gefertigt wird in der EU von Hand."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Für Marke und tägliche Nutzung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Neben dem Corporate Design interessieren uns die praktischen Abläufe: Wie viele Plätze werden ausgestattet, welche Unterlagen liegen bereit, welche Formate werden regelmäßig genutzt? Bei Institutionen beziehen wir die von Ihnen vorgegebenen Beschaffungs- und Dokumentationsanforderungen in die Abstimmung ein."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/trays-ablage/",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/raumaccessoires/",
+     "title": "Raumaccessoires",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe und Tissue-Boxen als Teil Ihres Interieurs. In einer Material- und Farbsprache, die selbstverständlich zum Raum gehört."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Arbeitsplatz- oder Sitzplatzanzahl, Tischmaße, Materialkonzept und Vorgaben zur Personalisierung."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Executive%20Offices%20%26%20Institutionen",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Aus der Praxis."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/william-blair/",
+     "title": "William Blair",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individualisierte Lederartikel für das Büro. SFP übersetzte die vom Kunden eingebrachte Inspiration in eine konkrete Ausführung."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Runder Leder-Coaster mit William-Blair-Blindprägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/bespoke-projektbriefing/\">Was in ein gutes Bespoke-Briefing gehört.Von der ersten Idee zur prüfbaren Ausführung: Welche Informationen die Entwicklung individueller Accessoires voranbringen.Beitrag lesen</a><a href=\"/journal/materialauswahl-hospitality/\">Materialwahl beginnt beim Einsatzort.Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe.Beitrag lesen</a><a href=\"/journal/speisekarten-bindung-format/\">Die richtige Speisekarte für Ihren Service.Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

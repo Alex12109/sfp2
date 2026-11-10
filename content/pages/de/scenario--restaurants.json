@@ -1,0 +1,266 @@
+{
+ "language": "de",
+ "key": "scenario:restaurants",
+ "slug": "scenario--restaurants",
+ "url": "/loesungen/restaurants/",
+ "template": "scenario",
+ "title": "Gastlichkeit, die man in die Hand nimmt.",
+ "description": "Speisekarten, Rechnungsmappen und Tischaccessoires, die Ihren gastronomischen Auftritt bis zum letzten Moment begleiten.",
+ "alternate": {
+  "de": "/loesungen/restaurants/",
+  "en": "/en/solutions/restaurants/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Gastlichkeit, die man in die Hand nimmt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Speisekarten, Rechnungsmappen und Tischaccessoires, die Ihren gastronomischen Auftritt bis zum letzten Moment begleiten.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Restaurants%20%26%20Bars",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Gehen Sie einen Besuch aus Sicht des Gastes durch: Welche Karte kommt zuerst? Was bleibt auf dem Tisch? Wie wird die Rechnung übergeben? Diese Reihenfolge gibt der Kollektion Struktur. Die Gestaltung folgt dann Ihrem Licht, Geschirr und Service – mit einer gemeinsamen Materialwelt und unterschiedlichen Formaten für unterschiedliche Aufgaben."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/schreibunterlagen/",
+     "label": "Schreibunterlagen",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/notizblockhalter/",
+     "label": "Notizblockhalter",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/tischsets/",
+     "label": "Tischsets",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Vom Menü bis zur Rechnung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Speisekarte wird geöffnet und weitergereicht; die Rechnung begleitet den Abschluss. Wir gestalten diese Berührungspunkte mit Tischsets und Coastern als zusammengehörige Ausstattung. Feines italienisches Echtleder und hochwertiges PU bieten unterschiedliche Wege zu Ihrem Auftritt – mit einer breiten Farb- und Oberflächenauswahl und den Materialoptionen des jeweiligen Modells als Grundlage."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Das Format folgt Ihrem Service"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine kurze Menüfolge braucht eine andere Präsentation als eine umfangreiche Weinkarte. Wir betrachten Seitenumfang, Wechselhäufigkeit und die Handhabung durch Ihr Team. Bei Modell Berlin lassen sich beispielsweise sichtbare oder verdeckte Schraubbindungen einsetzen. Material, Format und Innenausstattung stimmen wir auf Ihren tatsächlichen Inhalt ab."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Auch im Alltag stimmig"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Prüfen Sie Muster nicht nur unter Studiolicht, sondern auf Ihrem Tisch und in Ihrer Barbeleuchtung. Lesbarkeit, Gewicht und Griffgefühl entscheiden mit. Für Materialpflege und Reinigung sollte die gewählte Oberfläche mit den Abläufen im Betrieb abgestimmt werden. Die spätere Erweiterung um eine Barkarte oder ein zweites Restaurant lässt sich im Briefing bereits mitdenken."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/dining/",
+     "title": "Speisekarten &amp; Dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Speisekarten, Rechnungsmappen und abgestimmte Tischaccessoires für Restaurants, Hotels und Clubs. Eine gemeinsame Handschrift vom Menü bis zur Rechnung."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Menü- und Weinkartenumfang, gewünschte Formate, Materialwünsche und Ihr Logo."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Restaurants%20%26%20Bars",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Aus der Praxis."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/grand-hyatt-vox/",
+     "title": "Grand Hyatt Berlin · VOX",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/speisekarten-bindung-format/\">Die richtige Speisekarte für Ihren Service.Format, Bindung und Seitenumfang bestimmen, wie gut eine Menümappe im täglichen Betrieb funktioniert.Beitrag lesen</a><a href=\"/journal/restaurant-ausstattung-planen/\">Ein neuer Restaurantauftritt beginnt bei den Abläufen.Menükarten, Rechnungsmappen und Tischaccessoires gemeinsam planen – vom Inhalt bis zur Freigabe im Service.Beitrag lesen</a><a href=\"/journal/speisekarten-rechnungsmappen-restaurantidentitaet/\">Speisekarten und Rechnungsmappen für eine klare RestaurantidentitätVom Inhalt über die Bindung bis zur Rechnungsübergabe: So werden Menücover und Bill Presenter Teil einer stimmigen Servicekultur.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

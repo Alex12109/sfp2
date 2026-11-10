@@ -1,0 +1,236 @@
+{
+ "language": "en",
+ "key": "collection:dining",
+ "slug": "collection--dining",
+ "url": "/en/collections/dining/",
+ "template": "collection",
+ "title": "Menu covers & dining",
+ "description": "Menu covers, bill presenters and coordinated tabletop accessories for restaurants, hotels and clubs. A shared identity from the menu to the bill.",
+ "alternate": {
+  "de": "/kollektionen/dining/",
+  "en": "/en/collections/dining/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "The first impression. The finishing touch."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Menu covers, bill presenters and coordinated tabletop accessories for restaurants, hotels and clubs. A shared identity from the menu to the bill.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Menu%20covers%20%26%20dining",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A shared material palette."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "From opening the menu to presenting the bill, your tabletop accessories accompany the visit. We specify menu covers, placemats, coasters and bill presenters entirely around your service. Genuine Italian leather, high-quality PU in many colours and finishes, and other model-specific coverings give the collection its own feel and identity."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Explore the details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/placemats/",
+     "title": "Placemats",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered foundation for your table setting. Shape, proportions and finish are selected around the table, tableware and service routine."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Placemats in restaurant service",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/menu-covers/",
+     "title": "Menu covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Your menu deserves a considered presentation. Selected bindings and materials connect your restaurant’s character with the requirements of service."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail of screw-post binding in an SFP menu cover",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/bill-presenters/",
+     "title": "Bill presenters &amp; bill boxes",
+     "body": [
+      {
+       "type": "p",
+       "html": "A considered final touch to service. Bill presentation can echo the materials and colours of your menu covers and tabletop accessories."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Closed branded bill folder — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/coasters/",
+     "title": "Coasters",
+     "body": [
+      {
+       "type": "p",
+       "html": "A small but visible part of the table setting. Dimensions and finish are considered alongside glassware, placemats and your material scheme."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Round and square coasters in different materials — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every accessory in detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Find individual models, material choices and specification options in our complete accessory collection."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/",
+     "label": "View all accessories",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

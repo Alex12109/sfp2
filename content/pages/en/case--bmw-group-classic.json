@@ -1,0 +1,191 @@
+{
+ "language": "en",
+ "key": "case:bmw-group-classic",
+ "slug": "case--bmw-group-classic",
+ "url": "/en/projects/bmw-group-classic/",
+ "template": "project",
+ "title": "BMW Group Classic Events · A brand experience that travels.",
+ "description": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater.",
+ "alternate": {
+  "de": "/projekte/bmw-group-classic/",
+  "en": "/en/projects/bmw-group-classic/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "A brand experience that travels."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v15-bmw-seat.webp",
+     "alt": "Luggage tag with BMW Group Classic branding in detail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "BMW Group Classic Events"
+    },
+    {
+     "k": "Application",
+     "v": "Automotive · Corporate gifts"
+    },
+    {
+     "k": "Scope",
+     "v": "Leather luggage tags · Event gifts"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "BMW Group Classic preserves and communicates the history of BMW, BMW Motorrad, MINI and Rolls-Royce. Its remit spans archives, historic vehicles, restoration, clubs and a dedicated events programme. The events celebrate the brands and bring together people who share an enthusiasm for classic vehicles. A gift in this setting therefore has to feel more considered than a generic promotional item: it is handled by an audience with a close interest in design, materials and brand heritage. SFP’s brief was to create a giveaway for people attending BMW Group Classic events."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The chosen object was a genuine-leather luggage tag. The connection between occasion and use is immediate: a travel accessory suits events centred on historic motor vehicles and can continue as a personal companion once the event is over. Developing the item meant bringing practical and visual requirements together. A luggage tag needs a clear form, a dependable means of attaching it to a case and an appropriate way of handling personal address details. At the same time, the leather, tactility, detailing and branding had to sit comfortably within the BMW Group Classic identity."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The agency provided the link to the wider brand experience, while SFP translated the requirements into a producible leather item. SFP’s remit covered material selection, detailed development and manufacture. On an object of this scale, the outline, leather surface, strap, hardware, edge treatment and position of the mark need to be considered as one composition. This preserves visual calm and keeps the branding from overwhelming the object’s purpose. Production also depends on a clear approved specification that can be followed consistently across the order."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The outcome was a functional event gift with a clear relationship to both brand and occasion. Rather than serving purely as a keepsake, the luggage tag has a practical role during travel, while carrying the identity of its sender in a restrained, material-led form. For BMW Group Classic, the value lay in that connection: the gift belonged naturally to the event yet was designed for use beyond it. For Metzler+Vater, the collaboration provided product expertise that carried a creative concept through to manufacture."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-bmw-detail.webp",
+     "alt": "Original photograph: foil branding and stitching on the BMW Group Classic luggage tag",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=BMW%20Group%20Classic%20Events",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/travel-gifts/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,551 @@
+{
+ "language": "de",
+ "key": "product:amenity-boxen",
+ "slug": "product--amenity-boxen",
+ "url": "/produkte/amenity-boxen/",
+ "template": "family",
+ "title": "Amenity-Boxen & weitere Artikel",
+ "description": "Pflegeprodukte, kleine Aufmerksamkeiten und Serviceutensilien verdienen einen eigenen Platz. Boxen und ergänzende Accessoires vollenden die gemeinsame Materialwelt.",
+ "alternate": {
+  "de": "/produkte/amenity-boxen/",
+  "en": "/en/products/amenity-boxes/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/weitere-objekte/",
+     "label": "Boxen & besondere Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Amenity-Boxen &amp; weitere Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Pflegeprodukte, kleine Aufmerksamkeiten und Serviceutensilien verdienen einen eigenen Platz. Boxen und ergänzende Accessoires vollenden die gemeinsame Materialwelt.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=amenity-boxen",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Amenity-Boxen%20%26%20weitere%20Artikel",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Geöffnete Amenity-Box mit Pflegeprodukten – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Geöffnete Amenity-Box mit Pflegeaccessoires auf einem Ankleidetisch",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v13-stiftekocher.webp",
+       "alt": "Runder Stifteköcher – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail findet seinen Platz."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine Amenity-Box wird dann überzeugend, wenn sie eine konkrete Aufgabe löst. Sie kann Pflegeprodukte sammeln, kleine Gegenstände ordnen, Condiments bereitstellen oder ein Präsent rahmen. Das Ausgangsformat 250 × 260 × 60 mm und eine Aufteilung mit zwei Unterteilungen bieten erste Orientierung; eine individuelle Innenaufteilung folgt dem tatsächlichen Inhalt. Flakons, Sachets und Schachteln bestimmen Länge, Höhe und Zugriff. Erst danach entsteht die äußere Proportion. Eine lederbezogene Box kann sich in die Zimmerkollektion einfügen, während ein anderer abgestimmter Aufbau eine eigene materielle Note setzt. Auswahl und Konstruktion bleiben vom Ort und der vorgesehenen Nutzung abhängig."
+    },
+    {
+     "type": "p",
+     "html": "Erfassen Sie jeden Inhalt mit Foto, Maß und vorgesehener Position. Was steht nebeneinander, was darf übereinanderliegen, und was muss mit einem Griff erreichbar sein? Offene Fächer erleichtern direkten Zugriff; Deckel oder geschlossene Bereiche verändern Präsentation und Nachfüllen. Housekeeping, Minibar-Team oder Service sollten das Muster bestücken und wieder leeren. Dabei werden Fingerraum, Fachhöhe und mögliche Veränderungen der Verpackungen sichtbar. Standort, Reinigungsroutine und gewünschte Materialwelt gehören ebenfalls ins Briefing. Die Prägung kann außen eine diskrete Orientierung geben, während innen jedes Fach seine Aufgabe erfüllt. So wirkt die Box ruhig, obwohl sie viele kleine Dinge präzise zusammenhält."
+    },
+    {
+     "type": "p",
+     "html": "Ändern sich Produkte saisonal oder zwischen Zimmerkategorien, sollte jede bestätigte Bestückung als eigene Variante mit Datum dokumentiert werden. Ein gemeinsames Äußeres kann bleiben, während Einsätze und Fächer auf den konkreten Inhalt und seinen Nachfüllweg reagieren."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-condiment-boxen.webp",
+     "alt": "Condiment-Box mit unterteiltem Innenraum – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-zimmermappen.webp",
+     "alt": "Zimmermappe für Gästeinformationen – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Inhalte vollständig mit Maßen aufnehmen",
+        "Zugriff, Deckel und Unterteilungen besprechen",
+        "Standort und gewünschte Materialwelt zeigen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=amenity-boxen",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=amenity-boxen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Vom Inhalt ausgehend",
+     "body": [
+      {
+       "type": "p",
+       "html": "Maße der Pflegeprodukte oder Verbrauchsmaterialien helfen, Innenraum und Unterteilung passend zu entwickeln."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Deckel &amp; Zugriff",
+     "body": [
+      {
+       "type": "p",
+       "html": "Offene Präsentation oder geschlossene Box: Die Ausführung richtet sich danach, wie Gäste und Service auf den Inhalt zugreifen."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Über die Box hinaus",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ergänzende Artikel werden in dieselbe Materialwelt eingebunden. Beschreiben Sie auch Ideen, für die Sie noch kein konkretes Produkt gefunden haben."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Amenity- und Condiment-Boxen",
+      "Zimmermappen, Stifteköcher und Prospektständer",
+      "Türanhänger und ergänzende Serviceartikel",
+      "Individuelle Anfragen auch außerhalb dieser Auswahl"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Ausgangsformat",
+     "v": "250 × 260 × 60 mm"
+    },
+    {
+     "k": "Innenaufteilung",
+     "v": "Zwei Unterteilungen oder individuelle Aufteilung"
+    },
+    {
+     "k": "Konstruktion",
+     "v": "Imprägnierter Karton-Kern mit PU-Bezug; Unterteilungen und optionaler Deckel"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/weitere-objekte/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/notizblockhalter/",
+     "title": "Notizblockhalter",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notizblock und Stift erhalten ihren festen Platz. Eine kleine, häufig genutzte Ergänzung für Gästezimmer, Konferenzräume und Empfang."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Freigestellte SFP-Notizblockhalter in verschiedenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tissue-boxen/",
+     "title": "Tissue-Boxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verbrauchsmaterial verschwindet hinter einer abgestimmten Oberfläche. Die Hülle wird auf das verwendete Tissue-Format und den vorgesehenen Standort abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue-Boxen in Holz und bezogenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/amenity-boxen/\">Amenity-Boxen</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity-Boxen ordnen Kosmetik- und Pflegeartikel im Hotelbad. Das Ausgangsformat von 250 × 260 × 60 mm kann an Inhalt und Stellfläche angepasst werden; Trenner strukturieren den Innenraum. Ein imprägnierter Karton-Kern mit PU-Lederbezug, optionaler Deckel, Ziernaht und Blind- oder Folienprägung verbinden geschützte Aufbewahrung mit dem Zimmerdesign."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Amenity-Boxen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/amenity-boxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=amenity-boxen",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/amenity-boxen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

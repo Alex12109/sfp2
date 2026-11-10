@@ -1,0 +1,410 @@
+{
+ "language": "de",
+ "key": "item:menu-passepartout",
+ "slug": "item--menu-passepartout",
+ "url": "/produkte/modelle/menu-passepartout/",
+ "template": "model",
+ "title": "Speisekarte Passepartout · Individuelle Ausführung",
+ "description": "Passepartout rahmt eine oder zwei Seiten für Tagesempfehlungen, Menüs oder Desserts. Vollrahmen oder Taschen können ein- oder beidseitig ausgeführt und dezent gekennzeichnet werden; der Inhalt bleibt schnell austauschbar. DIN A3, A4 und A5 sowie Sondermaße, unterschiedliche Bezugsmaterialien, Naht, Ecken und Polsterung erlauben eine präzise Abstimmung auf Papier und Tisch.",
+ "alternate": {
+  "de": "/produkte/modelle/menu-passepartout/",
+  "en": "/en/products/models/menu-passepartout/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Speisekarte Passepartout"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Passepartout rahmt eine oder zwei Seiten für Tagesempfehlungen, Menüs oder Desserts. Vollrahmen oder Taschen können ein- oder beidseitig ausgeführt und dezent gekennzeichnet werden; der Inhalt bleibt schnell austauschbar. DIN A3, A4 und A5 sowie Sondermaße, unterschiedliche Bezugsmaterialien, Naht, Ecken und Polsterung erlauben eine präzise Abstimmung auf Papier und Tisch.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "item-opening",
+   "title": {
+    "level": "h2",
+    "html": "Für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "ul",
+     "items": [
+      "Anwendungsbereich: Tagesempfehlungen, Menükarte, Dessertkarte",
+      "Seitenanzahl: 1–2 Seiten",
+      "Formate: DIN A3 · DIN A4 (standard, quadratisch, schmal) · DIN A5 oder nach Wunsch"
+     ],
+     "role": "item-features"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-menu-passepartout.webp",
+     "alt": "Speisekarte Passepartout – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?item=menu-passepartout",
+     "label": "Diesen Artikel konfigurieren",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "item-specifications",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Formate, Materialien &amp; Details"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eigene Abmessungen und weitere Wünsche können Sie direkt im Konfigurator hinterlegen. Die technische Umsetzbarkeit bestätigen wir im Angebot."
+    }
+   ],
+   "items": [
+    {
+     "role": "item-option",
+     "title": "Lederprägung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blindprägung · Folienprägung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Folienfarbe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Ecken",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gerade Ecken · Abgerundete Ecken"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Polsterung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Polsterung · Mit Polsterung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ohne Taschen · Mit Taschen"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Taschenausführung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell nach Abstimmung"
+      }
+     ]
+    },
+    {
+     "role": "item-option",
+     "title": "Naht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nicht entschieden · Keine Naht · Naht ton-in-ton · Kontrastnaht · Naht in spezieller Farbe"
+      }
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "k": "Formatbeispiele",
+     "v": "DIN A4 · DIN A4 quadratisch · DIN A4 schmal · DIN A5 · DIN A3"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Tagesempfehlungen, Menükarte, Dessertkarte"
+    },
+    {
+     "k": "Seitenanzahl",
+     "v": "1–2 Seiten"
+    },
+    {
+     "k": "Kern & Innenausführung",
+     "v": "Hochwertiges Cardboard"
+    },
+    {
+     "k": "Außenmaterial",
+     "v": "PU-Leder, Echtleder, Buchbinderleinen, Piquét-Stoff"
+    },
+    {
+     "k": "Bindung",
+     "v": "Passepartout, Taschen, Ecken"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Materialrichtungen für diesen Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Farben am Bildschirm dienen der Orientierung. Für Ihre Freigabe stimmen wir Farbe, Oberfläche und Verfügbarkeit am Materialmuster ab.",
+     "role": "field-note"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "title": "Echtleder · Classic",
+     "media": [
+      {
+       "src": "/assets/swatch-550ff591cf4aaf.webp",
+       "alt": "Echtleder · Classic",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Mountain Bear",
+     "media": [
+      {
+       "src": "/assets/swatch-99dafc90149b51.webp",
+       "alt": "Echtleder · Mountain Bear",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Seta",
+     "media": [
+      {
+       "src": "/assets/swatch-684cf28501e410.webp",
+       "alt": "Echtleder · Seta",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Echtleder · Tuscania",
+     "media": [
+      {
+       "src": "/assets/swatch-8456fdf0eecff7.webp",
+       "alt": "Echtleder · Tuscania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Buffalo",
+     "media": [
+      {
+       "src": "/assets/swatch-c37df3f3d7a4a0.webp",
+       "alt": "PU-Leder · Buffalo",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Colorado",
+     "media": [
+      {
+       "src": "/assets/swatch-429e05fb87c4da.webp",
+       "alt": "PU-Leder · Colorado",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Fania",
+     "media": [
+      {
+       "src": "/assets/swatch-34d1ed2ca43ea5.webp",
+       "alt": "PU-Leder · Fania",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas",
+     "media": [
+      {
+       "src": "/assets/swatch-9246e064e588a0.webp",
+       "alt": "PU-Leder · Texas",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "PU-Leder · Texas-Pearl",
+     "media": [
+      {
+       "src": "/assets/swatch-46e479068b0a04.webp",
+       "alt": "PU-Leder · Texas-Pearl",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Buchbinderleinen"
+    },
+    {
+     "role": null,
+     "title": "Gewebe · Jolly",
+     "media": [
+      {
+       "src": "/assets/swatch-15fbb1cf7396f4.webp",
+       "alt": "Gewebe · Jolly",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "item-gallery",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/catalog-90766b84ce2c74.webp",
+     "alt": "Passepartout Produktansicht",
+     "width": 1500,
+     "height": 1500,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/catalog-631b396dfc8dee.webp",
+     "alt": "Passepartout Produktansicht",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

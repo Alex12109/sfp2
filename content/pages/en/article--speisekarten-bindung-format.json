@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:speisekarten-bindung-format",
+ "slug": "article--speisekarten-bindung-format",
+ "url": "/en/journal/menu-covers-binding-and-format/",
+ "template": "article",
+ "title": "Choosing menu covers for your service.",
+ "description": "Format, binding and page count determine how well a menu cover works in daily service.",
+ "alternate": {
+  "de": "/journal/speisekarten-bindung-format/",
+  "en": "/en/journal/menu-covers-binding-and-format/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Choosing menu covers for your service."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Format, binding and page count determine how well a menu cover works in daily service.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-menu-restaurant.webp",
+     "alt": "A complete open leather menu cover in a restaurant setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Work from the content to the cover",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Before choosing the material and branding, look at the actual content. A tasting menu, drinks list and extensive wine selection have different requirements. Print the proposed pages at their intended size. Check type size, margins and readability under your restaurant’s lighting. You can then select a format that balances content and handling."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "How often do the inserts change?",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Daily insert changes call for an appropriate handling routine. A substantial wine list used over a longer period may require a different construction. Screw-post binding holds punched sheets with binding posts. SFP’s Berlin model can be specified with an exposed or concealed binding strip. The final construction is selected around the content and the desired appearance."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Materials and details work together",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Genuine leather, PU and textile coverings create different impressions. Corners, padding, internal pockets and logo placement also shape the result. Select these details together. Discreet blind debossing may suit an understated design, while foil stamping can deliberately draw attention to the brand. A sample helps establish the effect at its actual scale."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Finish with a practical service review",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Ask your team to open, hand over, place and refill the sample using the intended inserts. Check how much room it occupies on a set table. If bill presenters, bar menus and placemats are to form one collection, review them side by side. This turns an attractive individual cover into an accessory that belongs within the whole service experience."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/restaurants/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

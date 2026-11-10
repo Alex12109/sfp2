@@ -1,0 +1,24 @@
+---
+// Rendert importierte Textblöcke. Reihenfolge und Wortlaut bleiben unverändert.
+import type { BodyBlock } from '../lib/types';
+import Arrow from './Arrow.astro';
+interface Props { blocks?: BodyBlock[]; class?: string; lead?: boolean }
+const { blocks = [], class: cls = '', lead = false } = Astro.props;
+const leadRoles = ['lead', 'intro', 'product-lead', 'company-story-intro'];
+---
+{blocks.length > 0 && (
+  <div class:list={['rich', cls]}>
+    {blocks.map((b, i) => {
+      if (b.type === 'p') return <p class:list={[b.role, (leadRoles.includes(b.role ?? '') || (lead && i === 0)) && 'lead']} set:html={b.html} />;
+      if (b.type === 'h') return b.level === 'h4' ? <h4 set:html={b.html} /> : <h3 set:html={b.html} />;
+      if (b.type === 'ul') return <ul class={b.role}>{b.items.map((li) => <li set:html={li} />)}</ul>;
+      if (b.type === 'ol') return <ol>{b.items.map((li) => <li set:html={li} />)}</ol>;
+      if (b.type === 'quote') return <blockquote set:html={b.html} />;
+      if (b.type === 'table') return <table><tbody>{b.rows.map((r) => <tr>{r.map((c) => <td set:html={c} />)}</tr>)}</tbody></table>;
+      if (b.type === 'img') return <img src={b.src} alt={b.alt} width={b.width ?? undefined} height={b.height ?? undefined} loading="lazy" decoding="async" />;
+      if (b.type === 'faq') return <details class="fold"><summary><span set:html={b.q} /><span class="fold__mark" aria-hidden="true"></span></summary><div class="fold__body"><p set:html={b.a} /></div></details>;
+      if (b.type === 'links') return <p class="linklist">{b.links.map((l) => <a class="link" href={l.href}>{l.label}<Arrow /></a>)}</p>;
+      return null;
+    })}
+  </div>
+)}

@@ -1,0 +1,512 @@
+{
+ "language": "en",
+ "key": "product:notizblockhalter",
+ "slug": "product--notizblockhalter",
+ "url": "/en/products/notepad-holders/",
+ "template": "family",
+ "title": "Notepad holders",
+ "description": "A pen within reach, a neatly framed notepad, a pleasing surface: a notepad holder turns a small service detail into a considered experience.",
+ "alternate": {
+  "de": "/produkte/notizblockhalter/",
+  "en": "/en/products/notepad-holders/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/desk-table/",
+     "label": "Desk & conference",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Notepad holders"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A pen within reach, a neatly framed notepad, a pleasing surface: a notepad holder turns a small service detail into a considered experience.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=notizblockhalter",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Notepad%20holders",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "SFP notepad holders in different specifications, isolated from the background — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Make room for a thought."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A notepad holder gives loose paper a settled place. On a bedside table, in a meeting room or beside a suite telephone, it keeps pad and pen together without slowing the spontaneous gesture of writing. A6 feels personal and compact; A5 gives meeting notes more room. An open holder makes the contents immediately visible, while a cover quietens the surface and draws the paper back into the object. Depending on the specification, stitching and padding can alter both depth and softness. The essential test is not how the holder looks on a moodboard, but how naturally it works with the pad that staff and guests will actually use."
+    },
+    {
+     "type": "p",
+     "html": "Bring the actual pad, its exact dimensions and the intended pen to the sample review. Paper size, pad thickness, refill route and pen recess affect one another; even a different glued edge can change removal. A rigid construction has a clear, architectural presence, whereas felt or leather within the build can introduce a softer feel. Choosing a cover is therefore more than a stylistic decision: it changes the gesture of access. We coordinate construction, finish, stitching and possible debossing with the setting and use. At sample stage, procurement, housekeeping or office management should test replenishment while the design and brand teams assess proportion and identity."
+    },
+    {
+     "type": "p",
+     "html": "If the holder is used in several settings, record the pad supplier and refill format for each location. The design can remain coherent while paper quantity, pen and preferred access vary appropriately."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-notepad-open.webp",
+     "alt": "Open notepad holder with debossing and pen recess",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-notepad-felt.webp",
+     "alt": "Felt notepad holder with a pen recess",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Provide the actual pad or exact paper dimensions",
+        "Test refilling and pen access on the sample",
+        "Choose an open design or a cover"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=notizblockhalter",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=notizblockhalter"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Paper &amp; fit",
+     "body": [
+      {
+       "type": "p",
+       "html": "A6 and A5 provide established starting points. The actual pad, its thickness and the available space determine the fit."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Open or covered",
+     "body": [
+      {
+       "type": "p",
+       "html": "Choose the cover, padding and pen recess around the setting. Quick access and a composed appearance can call for different constructions."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Part of the collection",
+     "body": [
+      {
+       "type": "p",
+       "html": "Echo the materials and branding of your desk pads. Individual formats can differ while the shared design language connects them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Specify around your chosen paper size",
+      "Agree the pen recess and construction",
+      "Coordinate materials and branding with other accessories"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Paper size",
+     "v": "A6 / A5"
+    },
+    {
+     "k": "Construction",
+     "v": "With or without a cover; stitching and padding according to specification"
+    },
+    {
+     "k": "Construction",
+     "v": "MDF, board or metal core depending on the model; alternative felt-and-leather construction"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/desk-table/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/desk-pads/",
+     "title": "Desk pads",
+     "body": [
+      {
+       "type": "p",
+       "html": "A defined working surface for desks, meeting tables or reception. Dimensions, material and branding are coordinated for your project."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Understated desk pad from the SFP collection — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/notizblockhalter/\">Notepad Holders</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Notepad holders give paper and pen a defined place in the guest room or at reception. Three starting sizes and custom dimensions can be matched to the notepad in use. With or without a cover, with a semicircular or elongated pen recess, decorative stitching and branding, the PU-leather finish is configured around the desk, paper size and surrounding accessories."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "Notepad Holders — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/notizblockhalter/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=notizblockhalter",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/notizblockhalter/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

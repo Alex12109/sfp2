@@ -1,0 +1,161 @@
+{
+ "language": "en",
+ "key": "collection:other",
+ "slug": "collection--other",
+ "url": "/en/collections/other-accessories/",
+ "template": "collection",
+ "title": "Boxes & bespoke accessories",
+ "description": "Amenity and condiment boxes, guest directories, pen pots and further service accessories, specified around the way you work.",
+ "alternate": {
+  "de": "/kollektionen/weitere-objekte/",
+  "en": "/en/collections/other-accessories/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "A considered form for every detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Amenity and condiment boxes, guest directories, pen pots and further service accessories, specified around the way you work.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-amenity-scene.webp",
+     "alt": "Open amenity box with grooming accessories on a dressing table",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Boxes%20%26%20bespoke%20accessories",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A shared material palette."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A special box, an unusual format or a coordinated ensemble: some ideas call for fully bespoke development. We agree the construction and appropriate materials with you, followed by hand manufacture in the EU. One-offs and very small runs are welcome, alongside major projects involving many coordinated objects."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Explore the details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/amenity-boxes/",
+     "title": "Amenity boxes &amp; other accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Smaller operational details deserve the same attention. Alongside the main collections, we develop solutions for guest amenities, documents and service routines."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Open amenity box holding guest toiletries — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every accessory in detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Find individual models, material choices and specification options in our complete accessory collection."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/",
+     "label": "View all accessories",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

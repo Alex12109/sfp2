@@ -1,0 +1,252 @@
+{
+ "language": "en",
+ "key": "services",
+ "slug": "services",
+ "url": "/en/services/",
+ "template": "page",
+ "title": "Bespoke leather goods – our services",
+ "description": "Leather goods and accessories made to your specification, for your property, your brand and your guests. Designed around your brief and handmade in the EU.",
+ "alternate": {
+  "de": "/leistungen/",
+  "en": "/en/services/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Leather goods. Entirely your own."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather goods and accessories made to your specification, for your property, your brand and your guests. Designed around your brief and handmade in the EU.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-coordinated-collection.webp",
+     "alt": "SFP product detail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Your brief shapes every decision."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A menu cover that feels right in the hand. A tray sized for a particular console. A coordinated collection for your suites. We listen, ask questions and turn your ideas into leather goods and accessories made entirely to your specification."
+    },
+    {
+     "type": "p",
+     "html": "For hotels, these pieces form part of OS&amp;E: Operating Supplies &amp; Equipment. Whether intended for daily service, a guest room or a personal gift, each accessory is considered for its function, design and place within your brand. We guide you from the initial brief to an agreed specification."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "The right material makes the difference."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Our premium leather goods are made in fine genuine Italian leather. We also offer high-quality PU in a wide range of finishes and an extensive choice of colours, with other materials available to suit the project. The choice is guided by the accessory, its intended use and the look and feel you want to achieve."
+    },
+    {
+     "type": "p",
+     "html": "We agree dimensions, shape, lining, stitching and branding with you. Technical drawings, material samples and physical prototypes help you assess colour, feel and proportion. The scope and terms of sampling are agreed for each project."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From a single commission to a major project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "We welcome one-off commissions and very small runs, with the capacity to deliver large projects and extensive collections. From an individual gift to a coordinated range of accessories, your requirements and the agreed specification remain at the heart of the work."
+    },
+    {
+     "type": "p",
+     "html": "You have a personal point of contact in Berlin, with each piece handmade in the EU. We coordinate materials, details and the scope of your order throughout. Additions and repeat orders are discussed against your requirements and current material availability."
+    }
+   ]
+  },
+  {
+   "kind": "service-routes-section",
+   "title": {
+    "level": "h2",
+    "html": "Ways to make it distinctly yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Established design. Your specification.",
+     "body": [
+      {
+       "type": "p",
+       "html": "You have found the right starting point.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Start with an established design, such as a menu cover, tray or luggage tag. Choose the material, colour and branding, and we will work through the details with you to suit its purpose and your identity."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v5-desk.webp",
+       "alt": "Design study: cognac notepad holder, taupe desk pad and waste bin in a suite",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Adapted to your requirements.",
+     "body": [
+      {
+       "type": "p",
+       "html": "An existing design needs to work differently.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Different dimensions, additional compartments, a particular lining or stitching detail: we adapt the construction to your brief. The result is a familiar accessory specified for the way you work and the setting it belongs in."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/menu-detail-v3.webp",
+       "alt": "Design study of an open burgundy menu cover with screw-post binding",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Bespoke from the outset.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Your idea calls for a design of its own.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "A sketch, an interior scheme or a practical challenge can be the starting point. Together, we develop the form, function and construction of a new leather article or accessory. Drawings and an agreed sampling process let you review the design before production."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/atelier.webp",
+       "alt": "Material study with hands, leather samples and tools on a work surface",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Considered as a collection.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Several accessories. One coherent identity.",
+       "role": "service-sub"
+      },
+      {
+       "type": "p",
+       "html": "Menu covers, trays, waste bins and other accessories are coordinated in material, colour and detail. For a hotel, property or large project, we develop a cohesive collection in which each piece serves its own purpose."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Design study of coordinated tray, tissue box cover, desk pad, notepad holder and waste bin",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Where your idea comes to life."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/solutions/hotels/\">Hotels &amp; resorts</a><a href=\"/en/solutions/restaurants/\">Restaurants &amp; bars</a><a href=\"/en/solutions/interior-design/\">Interior design &amp; architecture</a><a href=\"/en/solutions/corporate-gifts/\">Corporate gifts &amp; events</a><a href=\"/en/solutions/clubs/\">Golf clubs &amp; private members’ clubs</a><a href=\"/en/solutions/yachts/\">Yachts &amp; marine interiors</a><a href=\"/en/solutions/private-aviation/\">Private aviation</a><a href=\"/en/solutions/executive-offices/\">Executive offices &amp; institutions</a>",
+     "role": "scenario-index"
+    }
+   ]
+  },
+  {
+   "kind": "planner-invite",
+   "title": {
+    "level": "h2",
+    "html": "For agencies and brands."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "White-label development with clear points of contact: you bring the client’s idea, we develop the product specification."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/white-label/",
+     "label": "Explore white label",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

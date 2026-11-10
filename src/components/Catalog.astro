@@ -1,0 +1,71 @@
+---
+// Artikelkatalog: Bereiche, Suche, Leerzustand.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad, strip } from '../lib/content';
+import { t } from '../i18n/ui';
+import Rich from './Rich.astro';
+import Picture from './Picture.astro';
+import Arrow from './Arrow.astro';
+interface Props { s: Section; lang: Lang }
+const { s, lang } = Astro.props;
+const ui = t(lang);
+const groups = s.groups ?? [];
+const total = groups.reduce((n, g) => n + (g.items?.length ?? 0), 0);
+---
+<section class="sec sec--flush-top catalog tone-ivory" data-catalog>
+  <div class="wrap">
+    <form class="catalog__bar" role="search" data-catalog-form>
+      <div class="field catalog__search">
+        <label for="catalog-search">{ui.catalogSearch}</label>
+        <input type="search" id="catalog-search" placeholder={ui.catalogSearchPlaceholder} autocomplete="off" />
+      </div>
+      <div class="catalog__filters" role="group" aria-label={ui.catalogAll}>
+        <button type="button" class="chip" data-category="" aria-pressed="true">{ui.catalogAll}</button>
+        {groups.map((g) => <button type="button" class="chip" data-category={g.id} aria-pressed="false" set:html={heading(g.title?.html)} />)}
+      </div>
+      <div class="catalog__summary">
+        <p role="status" aria-live="polite" aria-atomic="true" data-catalog-status>{ui.catalogCount(total)}</p>
+        <button type="reset" class="link" disabled data-catalog-reset>{ui.filterReset}</button>
+      </div>
+    </form>
+
+    {groups.map((g, gi) => (
+      <section class="catalog__group" id={g.id ?? undefined} data-catalog-group aria-labelledby={`${g.id}-title`}>
+        <header class="catalog__group-head">
+          <p class="label">N° {pad(gi + 1)}</p>
+          <h2 id={`${g.id}-title`} set:html={heading(g.title?.html)} />
+          <p class="catalog__group-count" data-group-count>{g.items?.length}</p>
+        </header>
+        <ul class="cards__list cards__list--3" role="list">
+          {(g.items ?? []).map((item) => {
+            const href = item.href ?? item.media?.[0]?.href;
+            const configure = (item.actions ?? []).find((a) => /projektplaner|project-planner/.test(a.href));
+            const title = strip(item.title);
+            const text = (item.body ?? []).map((b) => (b.type === 'p' ? strip(b.html) : '')).join(' ');
+            return (
+              <li class="card" data-catalog-card data-search={`${title} ${text}`.toLowerCase()}>
+                {item.media?.[0] && <a class="card__media" href={href} tabindex="-1" aria-hidden="true"><Picture img={item.media[0]} ratio="ar-4x3" sizes="(min-width: 900px) 33vw, 100vw" /></a>}
+                <div class="card__body">
+                  <h3 class="card__title"><a href={href}>{title}</a></h3>
+                  <Rich blocks={item.body} class="card__clamp" />
+                  <p class="card__links">
+                    <a class="link" href={href} aria-label={`${ui.details}: ${title}`}>{ui.details}<Arrow /></a>
+                    {configure && <a class="link" href={configure.href} aria-label={`${configure.label}: ${title}`}>{configure.label}<Arrow /></a>}
+                  </p>
+                </div>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    ))}
+    <div class="empty" data-catalog-empty hidden>
+      <h2>{ui.catalogEmptyTitle}</h2>
+      <p>{ui.catalogEmptyText}</p>
+      <button type="button" class="btn btn--outline" data-catalog-reset>{ui.filterReset}</button>
+    </div>
+  </div>
+</section>
+<script>
+  import '../scripts/catalog';
+</script>

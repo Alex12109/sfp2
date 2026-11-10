@@ -1,0 +1,191 @@
+{
+ "language": "de",
+ "key": "case:vier-jahreszeiten-muenchen",
+ "slug": "case--vier-jahreszeiten-muenchen",
+ "url": "/projekte/vier-jahreszeiten-muenchen/",
+ "template": "project",
+ "title": "Vier Jahreszeiten, München · Individuell entwickelt. Über Jahre ergänzt.",
+ "description": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017.",
+ "alternate": {
+  "de": "/projekte/vier-jahreszeiten-muenchen/",
+  "en": "/en/projects/vier-jahreszeiten-muenchen/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Individuell entwickelt. Über Jahre ergänzt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-kempinski.svg",
+     "alt": "Kempinski Hotels",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "Vier Jahreszeiten, München"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hospitality · Zimmerausstattung"
+    },
+    {
+     "k": "Umfang",
+     "v": "Lederartikel fürs Zimmer · Vor-Ort-Beratung · Nachbestellungen"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Das Hotel Vier Jahreszeiten Kempinski München ist ein Fünf-Sterne-Haus an der Maximilianstraße. Das 1858 von König Maximilian II. errichtete Hotel verbindet seine Geschichte mit zeitgenössischem Luxus, Gastronomie, Spa und Veranstaltungsbereichen. In einem solchen Haus reicht Zimmerausstattung bis zu den kleinen Gegenständen, die Gäste täglich sehen und berühren. Diese Produkte müssen sich in das Interieur einfügen und zugleich im Betrieb funktionieren. Für SFP begann die Zusammenarbeit mit einer Beratung vor Ort. So konnten Raumwirkung, Nutzung und gestalterische Details gemeinsam betrachtet werden."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Der Leistungsumfang umfasst individuell entwickelte Lederartikel für die Zimmerausstattung. Für Zimmerartikel entstehen die spezifischen Anforderungen aus dem Zusammenspiel von Haus und Funktion: Proportionen müssen zu Möbeln und Stellflächen passen, Oberflächen zur Materialwelt des Interieurs und Details zur täglichen Handhabung. Bei Behältern oder Ablagen sind die tatsächlichen Inhalte relevant; bei sichtbaren Markenartikeln auch Maßstab und Position der Kennzeichnung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Vor-Ort-Beratung gab SFP eine konkrete Grundlage für die Ausarbeitung. Sinnvoll ist bei einer solchen Kollektion, gemeinsame Merkmale und variable Merkmale zu trennen: Ledercharakter, Farbton, Kantenbild oder Prägung können eine Familie bilden, während Maße und Innenaufteilung dem jeweiligen Einsatz folgen. Ein Muster kann anschließend Proportion, Haptik und Kennzeichnung im tatsächlichen Raum überprüfbar machen. Seit 2017 werden jährlich Artikel nachbestellt. Für solche Ergänzungen dienen vorhandene Ausführung und frühere Freigaben als Referenz; Materialverfügbarkeit und Details sollten dennoch bei jeder Bestellung erneut abgeglichen werden."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Der unmittelbare Wert lag in einer Zimmerausstattung, die aus dem konkreten Umfeld des Hauses heraus entwickelt wurde. Die Lederartikel konnten als zusammenhängende Familie gedacht werden, statt als zufällige Einzelartikel in den Raum zu kommen."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vier-detail.webp",
+     "alt": "Produktdetails der Vier-Jahreszeiten-Zimmeraccessoires",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Vier%20Jahreszeiten%2C%20M%C3%BCnchen",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/raumaccessoires/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

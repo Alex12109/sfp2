@@ -1,0 +1,23 @@
+---
+import { srcset } from '../lib/content';
+import type { Img } from '../lib/types';
+interface Props { img: Img; ratio?: string; sizes?: string; eager?: boolean; frame?: boolean; class?: string; reveal?: boolean }
+const { img, ratio = 'ar-3x2', sizes = '(min-width: 900px) 50vw, 100vw', eager = false, frame = false, class: cls = '', reveal = false } = Astro.props;
+const technical = img.kind === 'technical';
+const set = srcset(img.src, img.width);
+---
+<div class:list={[frame && 'frame', cls]}>
+  <div class:list={['media', ratio, technical && 'media--technical']} data-reveal={reveal ? 'clip' : undefined}>
+    <img
+      src={img.src}
+      srcset={set}
+      sizes={set ? sizes : undefined}
+      alt={img.alt}
+      width={img.width ?? undefined}
+      height={img.height ?? undefined}
+      loading={eager ? 'eager' : 'lazy'}
+      fetchpriority={eager ? 'high' : undefined}
+      decoding="async"
+    />
+  </div>
+</div>

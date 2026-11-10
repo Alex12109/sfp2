@@ -1,0 +1,261 @@
+{
+ "language": "de",
+ "key": "scenario:corporate-gifts",
+ "slug": "scenario--corporate-gifts",
+ "url": "/loesungen/corporate-gifts/",
+ "template": "scenario",
+ "title": "Ihre Marke. Ein bleibender Begleiter.",
+ "description": "Individuelle Lederpräsente für Kunden, Gäste und besondere Anlässe. Mit einer Funktion, die über den Moment der Übergabe hinausreicht.",
+ "alternate": {
+  "de": "/loesungen/corporate-gifts/",
+  "en": "/en/solutions/corporate-gifts/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ihre Marke. Ein bleibender Begleiter."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Lederpräsente für Kunden, Gäste und besondere Anlässe. Mit einer Funktion, die über den Moment der Übergabe hinausreicht.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-travel.webp",
+     "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Corporate%20Gifts%20%26%20Events",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein gutes Präsent verbindet den Anlass mit dem späteren Gebrauch. Fragen Sie deshalb nicht nur, wo das Logo stehen soll, sondern wann das Produkt wieder in die Hand genommen wird. Material, Form und Verpackung können eine gemeinsame Geschichte erzählen. Empfängergruppe, Stückzahl und Bedarfstermin geben der Entwicklung einen konkreten Rahmen."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/kofferanhaenger/",
+     "label": "Kofferanhänger",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/schluesselanhaenger/",
+     "label": "Schlüsselanhänger",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Den Anlass in ein passendes Produkt übersetzen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Kofferanhänger begleitet Geschäftsreisen; ein Schlüsselanhänger bleibt im Alltag präsent. Entscheidend ist, was zum Empfänger und zum Anlass passt. Wir helfen, aus bestehenden Produktformen oder einer individuellen Idee ein stimmiges Präsent zu entwickeln. Auch mehrere Artikel können als abgestimmtes Geschenkset geplant werden."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Branding mit Zurückhaltung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Materialfarbe, Prägeposition und Beschläge bestimmen die Wirkung. Eine Blindprägung hält die Marke dezent, eine Folienprägung setzt einen gezielten Akzent. Bei unseren Kofferanhängern sind unter anderem Sonderformen, gold- oder silberfarbene Schnallen und mehrere Logos möglich. Die gewünschte Ausführung wird am konkreten Artikel abgestimmt."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Vom einzelnen Giveaway zum Set"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein persönliches Einzelstück und sehr kleine Geschenkserien sind willkommen; für umfangreiche Event- und Markenprojekte bringen wir ebenso die Kapazität mit. Wir fertigen in der EU von Hand und stimmen Produkt, Verpackung und Übergabe gemeinsam ab. Nennen Sie den gewünschten Bedarfstermin frühzeitig, damit Materialwahl, Muster und Freigaben in die Planung einfließen."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/travel-gifts/",
+     "title": "Travel &amp; Gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger, Schlüsselanhänger und individuelle Lederpräsente. Persönliche Begleiter für Gäste, Kunden und besondere Anlässe."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Anlass, Empfängergruppe, Stückzahl, Wunschlieferung, Logo und Verpackungswunsch."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Corporate%20Gifts%20%26%20Events",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Aus der Praxis."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/bmw-group-classic/",
+     "title": "BMW Group Classic Events",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "Kofferanhänger mit BMW Group Classic Branding im Detail",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/projekte/hapag-lloyd-tui/",
+     "title": "Hapag-Lloyd Cruises &amp; TUI",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger und Kosmetiktaschen für eigene Travelbüros in Europa. Direkt beauftragte Accessoires mit einem klaren Bezug zum Reisen."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-hapag.webp",
+       "alt": "Kofferanhänger und Reisetäschchen mit Hapag-Lloyd Cruises Branding – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/blindpraegung-folienpraegung/\">Ein Logo muss nicht laut sein.Wie Prägeverfahren, Größe und Position die Wirkung eines Lederprodukts verändern.Beitrag lesen</a><a href=\"/journal/ledergeschenke-planen/\">Ein gutes Geschenk beginnt vor der Verpackung.Empfänger, Anlass und Personalisierung als Grundlage für Lederpräsente und abgestimmte Geschenksets.Beitrag lesen</a><a href=\"/journal/kundenbindung-mitarbeitergeschenke/\">Ein Geschenk. Zwei unterschiedliche Aufgaben.Kundenpräsente und Mitarbeitergeschenke brauchen unterschiedliche Briefings. Anlass, Nutzen und Personalisierung geben die Richtung vor.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "language": "de",
+ "key": "product:schluesselanhaenger",
+ "slug": "product--schluesselanhaenger",
+ "url": "/produkte/schluesselanhaenger/",
+ "template": "family",
+ "title": "Schlüsselanhänger",
+ "description": "Ein Schlüsselanhänger begleitet tägliche Wege. Als durchdachtes Lederpräsent trägt er Ihre Identität in einer Form weiter, die sich angenehm und selbstverständlich anfühlt.",
+ "alternate": {
+  "de": "/produkte/schluesselanhaenger/",
+  "en": "/en/products/keyrings/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Travel & Gifts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Schlüsselanhänger"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Schlüsselanhänger begleitet tägliche Wege. Als durchdachtes Lederpräsent trägt er Ihre Identität in einer Form weiter, die sich angenehm und selbstverständlich anfühlt.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=schluesselanhaenger",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Schl%C3%BCsselanh%C3%A4nger",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leder-Schlüsselanhänger in einer Geschenkbox – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ein täglicher Begleiter mit Identität."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Schlüsselanhänger wird beinahe beiläufig benutzt und dabei immer wieder berührt. Gewicht, Kante, Biegsamkeit und Beschlag prägen seinen Charakter ebenso stark wie die Silhouette. Ein länglicher Lederanhänger gibt der Steppnaht Raum; eine kompakte Form lässt Ring oder Beschlag stärker hervortreten. Als kleines Markenpräsent kann er Nähe schaffen, wenn Material und Gestaltung zum Empfänger und Anlass passen. Die Prägung darf sich zurücknehmen und erst beim zweiten Blick zeigen. So bleibt der Schlüsselring ein persönlicher Gebrauchsgegenstand und wird nicht zur verkleinerten Werbefläche. Form, Leder und Metallteil sollten immer als ein einziges Produkt entworfen werden."
+    },
+    {
+     "type": "p",
+     "html": "Für die Ausarbeitung bestimmen wir Format, Beschlag, Farbton, Naht, Prägefläche und gegebenenfalls Verpackung gemeinsam. Das Logo wird in Originalgröße auf dem Leder geprüft, denn feine Linien und Buchstaben verhalten sich auf einer kleinen, genarbten Fläche anders als auf dem Bildschirm. Soll der Anhänger mit einem Kofferanhänger oder einem weiteren Lederpräsent kombiniert werden, kann dieselbe Oberfläche oder Veredelung die Teile verbinden. Identische Formen sind dafür nicht nötig. Entscheidend bleibt der Gebrauch: Lässt sich der Ring leicht bestücken, liegt der Anhänger angenehm in der Hand und passt die Verpackung zum Übergabemoment? Diese Fragen machen aus einer kleinen Aufmerksamkeit ein sorgfältig entwickeltes Accessoire."
+    },
+    {
+     "type": "p",
+     "html": "Bei mehreren Varianten werden Beschlag, Lederfarbe und Prägevorlage einzeln dokumentiert. Dadurch lassen sich Mitgliedergruppen, Events oder interne Anlässe unterscheiden, ohne die gemeinsame Gestaltung aus dem Blick zu verlieren."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-keyring-detail.webp",
+     "alt": "Logoprägung auf einem Schlüsselanhänger",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-keyring-hardware.webp",
+     "alt": "Metallelemente und Lederschlaufen von Schlüsselanhängern",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Format und Beschlag zusammen abstimmen",
+        "Logo auch im kleinen Maßstab prüfen",
+        "Einzelpräsent oder Set entscheiden"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=schluesselanhaenger",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=schluesselanhaenger"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Form &amp; Griffgefühl",
+     "body": [
+      {
+       "type": "p",
+       "html": "Die Kontur soll zur Nutzung und zur Marke passen. Größe und Material werden im Entwurf gemeinsam festgelegt."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Branding im kleinen Format",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein Logo braucht auch auf wenig Fläche die richtigen Proportionen. Prägeposition und Lesbarkeit werden im Layout geprüft."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Ein abgestimmtes Set",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verbinden Sie Schlüssel- und Kofferanhänger über Farbe, Naht und Verpackung zu einem gemeinsamen Geschenk."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Form und Material im Projekt abstimmen",
+      "Personalisierung mit Ihrem Logo besprechen",
+      "Verpackung als Teil der Präsentation planen"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Details",
+     "v": "Steppnaht, individuelle Prägung und Verpackung nach Abstimmung"
+    },
+    {
+     "k": "Material & Präsentation",
+     "v": "Echtleder mit Metallelementen; abgestimmte Kartonverpackung möglich"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ein Präsent wird Teil einer Geschichte."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für Kunden, Mitglieder oder ein besonderes Ereignis: Wir denken Empfänger, Anlass und Übergabe gemeinsam mit dem Produkt. So wird aus einem Artikel ein persönliches Zeichen der Wertschätzung."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-gifts.webp",
+     "alt": "Gestaltungsstudie: Kofferanhänger in Cognac, olivgrüner Schlüsselanhänger und passende Präsentationsbox",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/loesungen/corporate-gifts/",
+     "label": "Corporate Gifts entdecken",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/kofferanhaenger/",
+     "title": "Kofferanhänger",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein nützlicher Reisebegleiter mit Ihrer Markenidentität. Mit geschütztem Visitenkartenfenster und einer auf Material und Farbe abgestimmten Personalisierung."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Kofferanhänger mit geprägtem Logo und Schnalle – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/schlusselanhanger/\">Schlüsselanhänger</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Der Schlüsselanhänger verbindet ein Echtleder-Element mit Metall und eignet sich als kompaktes, häufig genutztes Präsent. Neben der Standardlänge von 120 mm sind Sonderausführungen möglich. Metallelemente stehen in verschiedenen Formen sowie gold- oder silberfarben zur Wahl; Blind- oder Folienprägung und eine bedruckbare Kartonverpackung gestalten Produkt und Übergabe als Einheit."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Schlüsselanhänger – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/schlusselanhanger/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=schlusselanhanger",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/schlusselanhanger/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "language": "de",
+ "key": "white-label",
+ "slug": "white-label",
+ "url": "/white-label/",
+ "template": "page",
+ "title": "White Label für Agenturen & Marken",
+ "description": "White-Label-Lederartikel für Agenturen und Marken. Vom kundenseitigen Entwurf bis zur abgestimmten Fertigung.",
+ "alternate": {
+  "de": "/white-label/",
+  "en": "/en/white-label/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ihre Marke. Unsere Umsetzung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "White-Label-Lederartikel für Agenturen und Marken. Vom kundenseitigen Entwurf bis zur abgestimmten Fertigung.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/luggage-detail-v3.webp",
+     "alt": "Gestaltungsstudie eines cognacfarbenen Leder-Kofferanhängers mit Schnalle und Sichtfenster",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Mit Ihrer Idee starten"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Moodboard, eine Skizze oder ein bestehendes Produkt kann den Anfang bilden. Wir klären mit Ihnen Material, Maße, Ausstattung und Branding. Die Rollen im Projekt werden früh vereinbart: Wer führt die Gestaltung, wer bündelt Rückmeldungen, wer gibt die Ausführung frei?"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ihre Kundenbeziehung respektieren"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wir unterstützen Agenturen bei der produktseitigen Umsetzung. Ansprechpartner, Präsentation und Abstimmungswege richten wir auf die Zusammenarbeit aus. Anforderungen an Vertraulichkeit und Kennzeichnung gehören in das erste Briefing."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vom Muster zur Serie"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Materialmuster, Layout und die vereinbarte Bemusterung machen Ihre Idee prüfbar. Nach Freigabe wird die abgestimmte Ausführung in der EU von Hand gefertigt. Ob eine Einzelanfertigung für einen besonderen Anlass, eine sehr kleine Serie oder ein großer Markenauftrag: Wir planen den Umfang mit Ihnen und behalten mögliche Ergänzungen im Blick."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Zusammenarbeit mit Agenturbezug."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/bmw-group-classic/",
+     "title": "BMW Group Classic Events",
+     "body": [
+      {
+       "type": "p",
+       "html": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "Kofferanhänger mit BMW Group Classic Branding im Detail",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "language": "en",
+ "key": "article:hotelzimmer-lederaccessoires-abstimmen",
+ "slug": "article--hotelzimmer-lederaccessoires-abstimmen",
+ "url": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/",
+ "template": "article",
+ "title": "How to design a coordinated hotel-room leather collection",
+ "description": "A practical guide for interior designers, procurement and housekeeping: coordinate functions, dimensions, materials and approvals.",
+ "alternate": {
+  "de": "/journal/hotelzimmer-lederaccessoires-abstimmen/",
+  "en": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "How to design a coordinated hotel-room leather collection"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A practical guide for interior designers, procurement and housekeeping: coordinate functions, dimensions, materials and approvals.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 8 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-coordinated-collection.webp",
+     "alt": "Design study of coordinated tray, tissue box cover, desk pad, notepad holder and waste bin",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Begin with the room, not the product",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A coordinated collection of leather accessories begins with a simple room audit. Which gestures take place there, which objects are already present, and how much surface is genuinely clear? On the desk, the pad, notepad, telephone, lamp and guest’s laptop meet. At the coffee station, the machine, cups, glasses, water and cable routes determine the hospitality tray. In the bathroom, a tissue box cover must suit both the chosen carton and the route for refilling it. A waste bin may sit at the edge, yet it remains within the visual field."
+       },
+       {
+        "type": "p",
+        "html": "Create an accessory schedule for each room category. A standard room, suite and public area need not be identical. Record the location, available surface, contents and responsible operational team. This schedule prevents individual items being selected in isolation. It also reveals where repeating a form makes sense and where a different construction is required. A shared design language comes later; first, every task needs to be clear."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/solutions/hotels/",
+          "label": "leather accessories for hotels",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Set a hierarchy for the collection",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Coherence does not require every object to be wrapped in the same leather and branded at the same scale. A convincing collection has a hierarchy. A large hospitality tray or desk pad can carry the room’s main material statement. Smaller pieces, such as the notepad holder and coaster, may repeat selected cues. The waste bin and tissue box cover can remain quieter, so the room never feels like a product display."
+       },
+       {
+        "type": "p",
+        "html": "Define two or three connecting elements: perhaps a colour, a leather grain and an approach to edges or stitching. Then identify the differences required by function. Timber may bring structural clarity to a tray, while leather offers another feel on the writing surface. Branding might be visible on a notepad holder and absent from the bin. These rules are more useful than insisting that everything match exactly. They give interior design and procurement a clear framework while allowing each object to be constructed appropriately."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/products/desk-pads/",
+          "label": "desk pads",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "img",
+        "src": "/assets/v8-on-set-desk.webp",
+        "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+        "width": 1536,
+        "height": 1024,
+        "kind": "context"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Work with actual dimensions and contents",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Dimensioned plans are an essential foundation, but they do not replace the objects that will eventually occupy the room. The tissue carton determines the internal size and aperture of its cover. Pad format, thickness and pen influence the notepad holder. For a tray, the coffee machine’s width and depth are only the beginning: its door, water tank, cable and lifting clearance matter too. Even cups and glasses need finger room."
+       },
+       {
+        "type": "p",
+        "html": "Gather original samples or precise product data and label each version clearly. Photograph every proposed arrangement from above and at handling height. Add the usable surface, adjacent walls, sockets and furniture edges. For a desk pad, 380 × 280 × 4, 505 × 316 × 4 and 600 × 400 × 4 mm provide starting sizes, yet any bespoke dimension still needs testing against the actual desk. This diligence cannot prevent every later change, but it makes the consequences visible while there is still time to discuss them."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/products/hospitality-trays/",
+          "label": "hospitality trays",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Bring housekeeping to the sample table early",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Guests see the accessories, but housekeeping repeatedly handles, replenishes and replaces them. The operational team therefore belongs at the sample table. Ask them to fit the real carton inside the tissue box cover. Lift trays and boxes with their complete contents. Remove the waste-bin insert and discuss emptying and liner use. Check whether every object returns to an obvious position after cleaning."
+       },
+       {
+        "type": "p",
+        "html": "Do not merely ask whether a sample is “practical”. Walk through the sequence: pick up, open, replenish, wipe, inspect and return. Where do the hands naturally grip? Which edges receive the most contact? Must the piece be moved to another surface during cleaning? The answers influence rim height, aperture, compartments and underside. They also help the team select a finish and agree its care. Performance needs to be considered on the actual sample; the word leather alone does not define suitability for every setting."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/products/tissue-box-covers/",
+          "label": "tissue box covers",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Judge colour, leather and timber in the room light",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP offers fine genuine Italian leather and high-quality PU in an extensive choice of colours and finishes; timber and other appropriate materials can complement the collection. Material samples change with their surroundings. A warm cognac tone may sit quietly on dark timber and appear much more pronounced beside cool stone. Fine grain reads differently close up than it does from the room entrance. Timber adds natural figure of its own and should not be treated like a printed colour. Review a small composition of furniture finish, textile, metal and proposed accessory rather than isolated swatches."
+       },
+       {
+        "type": "p",
+        "html": "Assess the selection in daylight and beneath the installed lighting. Put the sample in its real position and photograph it from the usual viewpoints. Leather, PU and timber must remain clearly identified within the specification; similar colours do not make different materials equivalent. Decide deliberately where an object should recede tonally and where contrast will aid use. The collection feels coherent when colour and material respond to room and function, rather than asking every piece to command equal attention."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/materials/",
+          "label": "explore materials",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-5",
+      "title": "Control branding through proportion rather than repetition",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A logo connects an accessory with the property, but its effect depends on surface, material and viewing distance. One fixed measurement may disappear on a desk pad and overwhelm a coaster. Prepare artwork at actual size for every product. Establish its distance from the edge, stitching, aperture and contents. Blind debossing can settle quietly into a surface; foil stamping introduces a visible colour or metallic accent. Technical suitability must be assessed for the particular artwork and material."
+       },
+       {
+        "type": "p",
+        "html": "Also decide which objects should carry the identity at all. A clear mark on one principal piece, followed by the same material language without further branding, is often enough. An item the guest handles closely or takes away may justify different visibility from a waste bin. This hierarchy feels calmer and allows the room to remain the main experience. Approval should cover the exact position, scale and process rather than a logo file alone."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/contact/",
+          "label": "discuss a bespoke project",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-6",
+      "title": "Use one sample as a shared approval point",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A physical sample turns a drawing and material card into an object that can be handled and used. Before the review, define the questions it needs to answer. Interior design assesses proportion, colour and relationship with the room. Housekeeping tests handling and replenishment. Procurement compares it with the agreed specification. Brand management reviews the logo and its position. Separate comments from each role can create a chain of conflicting alterations; a shared session makes the dependencies visible."
+       },
+       {
+        "type": "p",
+        "html": "Record decisions against the item itself: external and internal dimensions, material reference, stitching, hardware, underside, branding and packaging. Photographs help, but they do not replace these details. Name the approved version and list unresolved points separately. Only after the real contents and location have also been tested does the sample provide a sound basis for ordering. Material availability and specification are reviewed again for later additions."
+       }
+      ]
+     },
+     {
+      "id": "article-section-7",
+      "title": "Organise variants without losing the family",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Hotels rarely require a single configuration. A suite may have a larger writing mat, while a standard room uses a compact notepad holder. Coffee-station equipment may change between room types. Rather than redesigning every variant, establish a system of fixed and variable characteristics. Colour, leather grain and edge language can remain constant; dimensions, compartments and internal build can respond to function."
+       },
+       {
+        "type": "p",
+        "html": "Create a variant matrix listing room category, accessory, contents, dimensions and reference. Avoid labels such as “small” and “large” when exact measurements are available. Where versions look similar, an unambiguous item code helps housekeeping and procurement. At the same time, ask whether every difference is necessary: fewer variants can simplify orientation, provided fit is not compromised. Good coordination means managing differences deliberately and retaining the visual relationship in the places where it matters."
+       }
+      ]
+     },
+     {
+      "id": "article-section-8",
+      "title": "Plan handover and future additions",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "At project handover, operations need more than a set of attractive objects. Provide a clear schedule of approved accessories, materials and care routines. Assign each item to its room category and location. Record the consumables it accommodates and the original pack used as the basis for development. This information helps when setting up new rooms, training teams and assessing later changes."
+       },
+       {
+        "type": "p",
+        "html": "Retain dimensions, material references and approved branding artwork as well. A photograph alone cannot establish the exact leather, internal measurements or hardware. If a supplier changes a tissue carton or coffee machine, fit should be checked before a repeat order. Material availability may change too. Good project records cannot guarantee an identical future addition, but they provide a dependable starting point. The collection remains a managed system understood by design, procurement and operations."
+       }
+      ]
+     },
+     {
+      "id": "article-section-9",
+      "title": "Turn the brief into a clear enquiry",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A useful enquiry brings design and operations together in a small set of dependable documents. Send room categories and intended quantities for each item, dimensioned surfaces, photographs or elevations, material and colour direction, and usable logo artwork. Add the confirmed contents of trays and boxes, exact consumable sizes and the required date. Mark which points are fixed and where alternatives should be explored."
+       },
+       {
+        "type": "p",
+        "html": "This information is not yet a finished construction, but it creates a shared language for consultation, quotation, sampling and approval. Questions about finish, compartments or branding can then be answered on the right object. Priorities help too: which function is essential, which visual direction is preferred and where is there room to develop? The more clearly the use is described, the more purposefully an established model, a custom adaptation or a new development can be compared as routes for the project."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Frequently asked questions",
+      "blocks": [
+       {
+        "type": "faq",
+        "q": "Which leather accessories belong in a hotel room?",
+        "a": "Hotel OS&amp;E (Operating Supplies &amp; Equipment) may include a desk pad, notepad holder, hospitality tray, tissue box cover, waste bin, coasters or an amenity box. SFP develops the selection around your room scheme and operations, with hand manufacture in the EU. Every room category need not contain every item."
+       },
+       {
+        "type": "faq",
+        "q": "Must every accessory use the same material?",
+        "a": "No. Colour, finish, edge treatment or branding can create coherence. A timber tray and leather-covered desk pad can still feel related when their differences are deliberately resolved."
+       },
+       {
+        "type": "faq",
+        "q": "What should the brief contain?",
+        "a": "Include room categories, quantities, dimensioned surfaces, photographs, actual contents and consumables, the material scheme, logo artwork and notes on use, cleaning and replenishment."
+       },
+       {
+        "type": "faq",
+        "q": "Who should approve the sample?",
+        "a": "Interior design, procurement and the relevant operational teams should assess the same sample. Brand management may also be involved. One named person should record the shared approval and outstanding points."
+       },
+       {
+        "type": "faq",
+        "q": "How can different room categories be coordinated?",
+        "a": "Use a variant matrix listing each room category, item, contents, dimensions and reference. Shared colours or finishes connect the variants while dimensions and internal layouts follow their particular use."
+       },
+       {
+        "type": "faq",
+        "q": "What matters for later repeat orders?",
+        "a": "Keep dimensions, material references, hardware details and approved branding artwork. Recheck consumables, equipment, availability and specification before each addition, as project conditions can change."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "h",
+        "level": "h4",
+        "html": "Further project source"
+       },
+       {
+        "type": "ul",
+        "items": [
+         "<a href=\"https://sfp-premium.de/projekt/vier-jahreszeiten/\">SFP Hospitality · vier jahreszeiten</a>"
+        ]
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/hotels/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

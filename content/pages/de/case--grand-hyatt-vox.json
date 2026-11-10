@@ -1,0 +1,191 @@
+{
+ "language": "de",
+ "key": "case:grand-hyatt-vox",
+ "slug": "case--grand-hyatt-vox",
+ "url": "/projekte/grand-hyatt-vox/",
+ "template": "project",
+ "title": "Grand Hyatt Berlin · VOX · Vom ersten Menü bis zur Rechnung.",
+ "description": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt.",
+ "alternate": {
+  "de": "/projekte/grand-hyatt-vox/",
+  "en": "/en/projects/grand-hyatt-vox/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Vom ersten Menü bis zur Rechnung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "Grand Hyatt Berlin · VOX"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hospitality · Food &amp; Beverage"
+    },
+    {
+     "k": "Umfang",
+     "v": "Karten · Rechnungsmappe · Beratung"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Das VOX ist das Restaurant des Grand Hyatt Berlin am Potsdamer Platz. Seit 1998 verbindet das VOX japanisches Sushi mit Modern Dining. Restaurant, Terrasse und Bar schaffen mehrere Situationen mit jeweils eigener Karte und eigenem Servicerhythmus. Genau darin liegt der Kontext des SFP-Projekts: Menükarten sind hier keine losgelösten Drucksachen, sondern häufig berührte Bestandteile des Restaurantauftritts. Sie werden von Gästen und Serviceteam geöffnet, weitergereicht und immer wieder neu bestückt. Auch die Übergabe der Rechnung ist Teil derselben Abfolge."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Auswahl umfasste unterschiedliche Karten und eine Rechnungsmappe für den F&amp;B-Bereich. Damit musste nicht ein einziges Format wiederholt, sondern eine Familie für verschiedene Inhalte gedacht werden. Speise-, Getränke- oder ergänzende Karten können sich in Seitenumfang, Wechselhäufigkeit und Handhabung unterscheiden; eine Rechnungsmappe erfüllt am Ende des Besuchs eine andere Funktion. Zusammengehörigkeit entsteht daher sinnvollerweise über Material, Farbwelt, Kantenbild und Kennzeichnung, während Format, Bindung und Innenaufteilung der jeweiligen Aufgabe folgen. Die Projektbilder zeigen Karten mit VOX-Kennzeichnung."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ausgangspunkt war die persönliche Beratung zur Ausführung. Für eine Kartenfamilie bedeutet das, reale Inhalte und Abläufe zusammenzubringen: Papierformat und Seitenzahl beeinflussen die Bindung; häufige Wechsel stellen andere Anforderungen als eine dauerhaft bestückte Karte; Logo, Naht und Kanten brauchen genügend Raum, damit das Titelbild ruhig bleibt. Bei der Rechnungsmappe kommen Belegformat, Übergabe und Ablage im Service hinzu. Der Entwurfsansatz verbindet diese Unterschiede durch wiederkehrende Details, statt jedes Produkt identisch zu machen. So kann die Menüpräsentation bis zum letzten Kontaktpunkt des Besuchs als Einheit gelesen werden."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Für das VOX entstand eine abgestimmte Ausstattung für mehrere Momente des Restaurantbesuchs. Der Wert liegt in der Kontinuität: Die Identität des Hauses endet nicht am gedruckten Menü, sondern wird über die Hülle, ihre Haptik und die Rechnungsübergabe weitergeführt. Unterschiedliche Karten können ihren jeweiligen Inhalt passend aufnehmen und bleiben dennoch als Familie erkennbar. Für den Betrieb schafft die gemeinsame Entwicklung außerdem einen klaren Bezugspunkt für spätere Inhaltswechsel oder ergänzende Formate, auch wenn Materialverfügbarkeit und Ausführung bei jeder Ergänzung neu geprüft werden müssen."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox-detail.webp",
+     "alt": "Karten aus der VOX-Projektauswahl",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Grand%20Hyatt%20Berlin%20%C2%B7%20VOX",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

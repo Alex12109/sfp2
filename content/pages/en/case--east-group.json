@@ -1,0 +1,149 @@
+{
+ "language": "en",
+ "key": "case:east-group",
+ "slug": "case--east-group",
+ "url": "/en/projects/east-group/",
+ "template": "project",
+ "title": "east GROUP, Hamburg · A relationship beyond individual orders.",
+ "description": "A range of leather accessories for a varied hospitality setting. The relationship with east GROUP began in 2012, with personal advice and quality at the heart of its client feedback.",
+ "alternate": {
+  "de": "/projekte/east-group/",
+  "en": "/en/projects/east-group/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "A relationship beyond individual orders."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A range of leather accessories for a varied hospitality setting. The relationship with east GROUP began in 2012, with personal advice and quality at the heart of its client feedback.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "east GROUP, Hamburg"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Long-standing relationship"
+    },
+    {
+     "k": "Scope",
+     "v": "Leather goods across several applications · Personal advice"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Today’s east cosmos brings together hotels and dining concepts in Hamburg, Berlin, Wismar and Mallorca. The group developed from east Hotel &amp; Restaurant into a varied hospitality business spanning properties, restaurants, bars and event settings. The original east Hotel in Hamburg alone combines a hotel, restaurant, lounges and bar within a former iron foundry. SFP’s relationship with the east GROUP began in 2012. In the existing client feedback, east describes SFP as an established partner for a range of leather accessories."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Products and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A range of leather goods is verified, but a complete product schedule is not. That distinction matters. The distinctive requirement comes from the breadth of settings. Each object first has to suit its own use, then establish an appropriate relationship with the relevant property or concept. A group identity does not necessarily mean one colour or shape everywhere. Materials, proportions and branding may vary deliberately, provided that each specification is coordinated precisely with procurement, operations and design."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Advice and project continuity"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "In a continuing relationship, advice becomes the link between different requests. A new brief can draw on earlier experience: which finishes have already been used, which details belong to a particular operation, and where does a deliberately new concept begin? Existing samples and approvals may provide a reference, while material availability and actual requirements still need to be checked for each project. The client feedback specifically values the personal, detailed advice. Here, that is relevant as an established part of the relationship rather than a generic service promise."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Beyond individual orders, the relationship creates a form of project memory: new requirements can be discussed in relation to existing pieces, brand settings and operational experience. That supports clearer decisions, although each specification is aligned with its particular use."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:ledergeschenke-planen",
+ "slug": "article--ledergeschenke-planen",
+ "url": "/en/journal/planning-bespoke-leather-gifts/",
+ "template": "article",
+ "title": "A thoughtful gift begins before the packaging.",
+ "description": "Recipients, occasion and personalisation as the starting point for leather gifts and coordinated gift sets.",
+ "alternate": {
+  "de": "/journal/ledergeschenke-planen/",
+  "en": "/en/journal/planning-bespoke-leather-gifts/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A thoughtful gift begins before the packaging."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Recipients, occasion and personalisation as the starting point for leather gifts and coordinated gift sets.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-gifts.webp",
+     "alt": "Design study: cognac luggage tag, olive keyring and coordinated presentation box",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Who is the gift for?",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A gift for travelling guests, a thank-you to business partners and a membership gift serve different purposes. Start with the recipient and a realistic use. A luggage tag makes sense when it fits the person’s life. Asking how the object will be used is more useful than simply looking for the most conspicuous promotional item."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Balance the brand and the object",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Material, shape and construction create the first impression. Branding should support that effect. Discreet debossing, appropriate hardware and a restrained colour combination can give a gift character without dominating its everyday use. Consider the object from the recipient’s perspective: would they choose to use it beyond the occasion?"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "A set needs a reason to belong together",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Several items do not automatically make a better gift. A set works when its pieces belong together functionally or visually. Luggage tags and keyrings can share a material and colour palette. Plan packaging around the actual dimensions and the way the gift will be presented: at an event, in a guest room or by post."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Plan seasonal gifting from the required date",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "For Christmas, anniversaries and events, the occasion is often known well in advance. State the actual required date and distinguish delivery from subsequent distribution. Materials, samples, approvals and packaging all belong in the plan. There is no universal order deadline for bespoke projects: the available time and requested specification need to be considered together. A specific enquiry with a quantity and product idea provides the best starting point."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/corporate-gifts/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

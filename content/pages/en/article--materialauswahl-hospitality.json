@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:materialauswahl-hospitality",
+ "slug": "article--materialauswahl-hospitality",
+ "url": "/en/journal/choosing-materials-for-hospitality/",
+ "template": "article",
+ "title": "Material selection starts with the setting.",
+ "description": "Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.",
+ "alternate": {
+  "de": "/journal/materialauswahl-hospitality/",
+  "en": "/en/journal/choosing-materials-for-hospitality/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Material selection starts with the setting."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/leather.webp",
+     "alt": "Close-up of a fine leather surface",
+     "width": 500,
+     "height": 500,
+     "kind": "swatch"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Consider feel, finish and function together",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A screen can help compare colours. A sample reveals how a material feels, responds to light and behaves around an edge. Rather than starting with an abstract hierarchy of materials, start with the object. Will it be handled frequently, moved across a table or mainly seen as a quiet detail within the room?"
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Specify genuine leather deliberately",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP offers fine genuine Italian leather whose grain and feel help define an accessory. Its appearance depends on the particular leather and finish: smooth, grained, matt and glossy are different design decisions. Compare the selected leather with other materials in the room. For a collection, discuss natural variation and the level of visual consistency required."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Consider PU and wood on their own terms",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP’s high-quality PU opens up an extensive choice of colours and finishes. The actual sample, the model’s material options and intended use remain decisive. Timber and other appropriate materials can complement the scheme. With timber, grain, stain, lacquer and oil shape the appearance. Cleaning and care need to suit the particular finish; no material should be assumed suitable for every environment."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Review the sample in the room",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Place samples alongside furniture finishes, textiles and hardware. Review them in daylight and under evening lighting. Involve the colleagues who will use or clean the accessories. This combined assessment provides a stronger basis for selection. Record the approved specification and review availability again when planning additions. A digital colour reference is not a substitute for material approval."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/hotels/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

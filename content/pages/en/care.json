@@ -1,0 +1,104 @@
+{
+ "language": "en",
+ "key": "care",
+ "slug": "care",
+ "url": "/en/care-service/",
+ "template": "page",
+ "title": "Care & service",
+ "description": "The right care depends on the material and finish. Discuss cleaning and handling with us at the sampling stage.",
+ "alternate": {
+  "de": "/pflege-service/",
+  "en": "/en/care-service/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Care in everyday use."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The right care depends on the material and finish. Discuss cleaning and handling with us at the sampling stage.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Know the specification"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Genuine leather, PU and wood require different care. Finishes also vary within each material group. Follow the guidance for your specific item and discuss any existing cleaning products with us before use."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Start gently"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Remove loose dust with a soft, dry cloth first. Avoid abrasive tools, vigorous rubbing and soaking the material. For stains or uncertainty, tell us the item and material so we can advise on an appropriate next step."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Agree an operational routine"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ask housekeeping or service to review an approved sample against the intended routine. Document the agreed care alongside the material reference so different teams work from the same guidance."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Plan additions clearly"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "For repeat orders, the item name, dimensions, material reference and a photograph of the existing specification are useful. We review current availability and discuss any changes with you."
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

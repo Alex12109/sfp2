@@ -1,0 +1,59 @@
+---
+// Kopfbereich mit Bild oder Bildfolge (Leistungen, Lösungen, Kollektionen, Produktfamilien, Projekte).
+import type { Section, Lang, Img } from '../lib/types';
+import { heading, strip, thumb } from '../lib/content';
+import { t } from '../i18n/ui';
+import Crumbs from './Crumbs.astro';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; crumbs?: Section['crumbs'] }
+const { s, lang, crumbs } = Astro.props;
+const ui = t(lang);
+const slides: Img[] = (s.items ?? []).filter((i) => i.role === 'gallery-slide').flatMap((i) => i.media ?? []);
+const media = s.media ?? [];
+const brand = media.find((m) => /logo-/.test(m.src));
+const photos = slides.length ? slides : media.filter((m) => m !== brand);
+const lines = heading(s.title?.html).split(/<br\s*\/?>/);
+const gid = `gallery-${s.kind}`;
+---
+<section class:list={['sec hero tone-ivory', !photos.length && 'hero--text']}>
+  <div class="wrap">
+    <Crumbs crumbs={crumbs ?? s.crumbs} lang={lang} current={strip(s.title?.html)} />
+    <div class="hero__grid">
+      <div class="hero__copy">
+        <h1>{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i}`} set:html={l} />)}</h1>
+        <div class="anim-rise" style="--i:2"><Rich blocks={s.body} lead /></div>
+        <div class="anim-rise" style="--i:3"><Actions links={s.actions} /></div>
+        {brand && <div class="hero__brand anim-rise" style="--i:4"><img src={brand.src} alt={brand.alt} loading="eager" /></div>}
+      </div>
+      {photos.length === 1 && (
+        <Picture img={photos[0]} frame eager ratio="ar-4x5" class="hero__media anim-unveil" sizes="(min-width: 900px) 46vw, 100vw" />
+      )}
+      {photos.length > 1 && (
+        <div class="hero__media gallery anim-unveil" data-gallery>
+          <div class="frame">
+            <div class="gallery__stage" id={gid}>
+              {photos.map((p, i) => (
+                <div class="gallery__slide" data-gallery-slide hidden={i > 0}>
+                  <Picture img={p} eager={i === 0} ratio="ar-4x5" sizes="(min-width: 900px) 46vw, 100vw" />
+                </div>
+              ))}
+            </div>
+          </div>
+          <div class="gallery__bar">
+            <div class="gallery__thumbs" role="group" aria-label={ui.next}>
+              {photos.map((p, i) => (
+                <button type="button" class="gallery__thumb" data-gallery-choice={i} aria-pressed={i === 0 ? 'true' : 'false'} aria-controls={gid}>
+                  <img src={thumb(p.src)} alt="" width="96" height="72" loading="lazy" decoding="async" />
+                  <span class="sr-only">{i + 1} / {photos.length}: {p.alt}</span>
+                </button>
+              ))}
+            </div>
+            <p class="gallery__count" aria-hidden="true"><span data-gallery-index>1</span> / {photos.length}</p>
+          </div>
+        </div>
+      )}
+    </div>
+  </div>
+</section>

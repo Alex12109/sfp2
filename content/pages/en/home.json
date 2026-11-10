@@ -1,0 +1,911 @@
+{
+ "language": "en",
+ "key": "home",
+ "slug": "home",
+ "url": "/en/",
+ "template": "home",
+ "title": "Bespoke leather goods. Made for your brand.",
+ "description": "Bespoke leather accessories for hotels, interiors and brands. Fine genuine Italian leather, high-quality PU and hand manufacture in the EU, specified around your project.",
+ "alternate": {
+  "de": "/",
+  "en": "/en/"
+ },
+ "sections": [
+  {
+   "kind": "signature-hero",
+   "data": {
+    "hero-scenes": ""
+   },
+   "title": {
+    "level": "h1",
+    "html": "Leather. Form.<br> Your <em>signature.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke leather accessories for hotels, interiors and brands. Developed entirely around your requirements, handmade in the EU and personally coordinated from Berlin."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Our work",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "0"
+     },
+     "media": [
+      {
+       "src": "/assets/v8-on-set-room.webp",
+       "alt": "Concept scene with an olive tissue cover and taupe amenity box on a bedside table.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "1"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "signature-scene",
+     "data": {
+      "hero-scene": "2"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Hospitality",
+     "data": {
+      "hero-choice": "0"
+     }
+    },
+    {
+     "label": "Dining",
+     "data": {
+      "hero-choice": "1"
+     }
+    },
+    {
+     "label": "Gifting",
+     "data": {
+      "hero-choice": "2"
+     }
+    }
+   ]
+  },
+  {
+   "kind": "reference-logos",
+   "shade": true,
+   "media": [
+    {
+     "src": "/assets/logo-bmw-roundel.svg",
+     "alt": "BMW",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/bmw-group-classic/",
+     "role": "logo-bmw"
+    },
+    {
+     "src": "/assets/logo-hyatt.svg",
+     "alt": "Grand Hyatt",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/grand-hyatt-vox/",
+     "role": "logo-grand"
+    },
+    {
+     "src": "/assets/logo-williambllair.svg",
+     "alt": "William Blair",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/william-blair/",
+     "role": "logo-william"
+    },
+    {
+     "src": "/assets/logo-marriott.svg",
+     "alt": "Marriott International",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/marriott-berlin/",
+     "role": "logo-marriott"
+    },
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/ritz-carlton-wolfsburg/",
+     "role": "logo-ritz"
+    },
+    {
+     "src": "/assets/logo-east-footer.png",
+     "alt": "east Hamburg / east GROUP",
+     "width": 200,
+     "height": 80,
+     "kind": "context",
+     "href": "/en/projects/east-group/",
+     "role": "logo-east"
+    }
+   ]
+  },
+  {
+   "kind": "material-manifesto",
+   "id": "approach",
+   "title": {
+    "level": "h2",
+    "html": "Bespoke leather accessories<br> <em>for your project.</em>"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "We develop menu covers, desk pads, trays, guest-room accessories and gifts for hotels, restaurants and brands. Shape, dimensions, materials and branding are tailored to their intended use."
+    },
+    {
+     "type": "p",
+     "html": "Adapt an existing design or develop a new accessory with us. We coordinate your project personally from Berlin, with hand production in the EU."
+    },
+    {
+     "type": "p",
+     "html": "For a collection, we coordinate colours, materials and details across the accessories. Samples and artwork help you review the specification before production."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/services/",
+     "label": "What we develop for you",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "manifesto-note",
+     "title": "One-off pieces, small runs and collections.",
+     "body": [
+      {
+       "type": "p",
+       "html": "We welcome one-off commissions and very small runs, and also deliver extensive collections. Tell us your idea, the quantity and your preferred delivery date."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "object-library",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Our collections."
+   },
+   "items": [
+    {
+     "role": "object-tile",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads · Notepad holders"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material and design study: navy desk pad and notepad holder on a walnut desk",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Hospitality trays"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/en/collections/room-accessories/",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins · Tissue box covers"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/en/collections/travel-gifts/",
+     "title": "Travel &amp; gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags · Leather keyrings"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/gifts.webp",
+       "alt": "Cognac and green luggage tags with a matching keyring",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/en/collections/dining/",
+     "title": "Menu covers &amp; dining",
+     "body": [
+      {
+       "type": "p",
+       "html": "Placemats · Menu covers · Bill presenters &amp; bill boxes · Coasters"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Burgundy and olive menu covers with a coordinated bill presenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "object-tile",
+     "href": "/en/collections/other-accessories/",
+     "title": "Boxes &amp; bespoke accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity boxes &amp; other accessories"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Open amenity box with grooming accessories on a dressing table",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "project-theatre",
+   "data": {
+    "project-theatre": ""
+   },
+   "title": {
+    "level": "h2",
+    "html": "Selected projects."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Menu covers, guest-room accessories and branded gifts: examples of our work for hotels and businesses."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "Explore all projects",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": null,
+     "data": {
+      "project-panel": "0"
+     },
+     "title": "A brand experience that travels.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "BMW Group Classic luggage tag styled on the leather seat of a classic BMW",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/projects/bmw-group-classic/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/projects/bmw-group-classic/",
+       "label": "View project",
+       "style": "text"
+      }
+     ],
+     "href": "/en/projects/bmw-group-classic/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "1"
+     },
+     "hidden": true,
+     "title": "From the first menu to the final bill.",
+     "body": [
+      {
+       "type": "p",
+       "html": "A selection of menu covers and a bill presenter for VOX at Grand Hyatt Berlin. Personal consultation and specification development formed the starting point."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/case-vox.webp",
+       "alt": "Leather menu cover with the VOX logo on a set table",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical",
+       "href": "/en/projects/grand-hyatt-vox/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/projects/grand-hyatt-vox/",
+       "label": "View project",
+       "style": "text"
+      }
+     ],
+     "href": "/en/projects/grand-hyatt-vox/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "2"
+     },
+     "hidden": true,
+     "title": "Individually developed. Added to over the years.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/projects/vier-jahreszeiten-muenchen/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/projects/vier-jahreszeiten-muenchen/",
+       "label": "View project",
+       "style": "text"
+      }
+     ],
+     "href": "/en/projects/vier-jahreszeiten-muenchen/"
+    },
+    {
+     "role": null,
+     "data": {
+      "project-panel": "3"
+     },
+     "hidden": true,
+     "title": "A design direction becomes a collection.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/projects/william-blair/",
+       "role": "theatre-image"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/projects/william-blair/",
+       "label": "View project",
+       "style": "text"
+      }
+     ],
+     "href": "/en/projects/william-blair/"
+    }
+   ],
+   "tabs": [
+    {
+     "label": "BMW Group Classic Events",
+     "data": {
+      "project-choice": "0"
+     }
+    },
+    {
+     "label": "Grand Hyatt Berlin · VOX",
+     "data": {
+      "project-choice": "1"
+     }
+    },
+    {
+     "label": "Vier Jahreszeiten, München",
+     "data": {
+      "project-choice": "2"
+     }
+    },
+    {
+     "label": "William Blair",
+     "data": {
+      "project-choice": "3"
+     }
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-macro.webp",
+     "alt": "Leather edges with tonal stitching and visible grain",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "worlds-feature",
+   "title": {
+    "level": "h2",
+    "html": "For worlds<br> with their own standards."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A boutique hotel calls for different answers from an executive office. A yacht requires different proportions from a clubhouse. We begin with your setting and connect the right accessories through a considered concept."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-boutique-world.webp",
+     "alt": "Design study of considered leather accessories in a quiet boutique hotel interior",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/solutions/hotels/",
+     "label": "Hotels & resorts",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/restaurants/",
+     "label": "Restaurants & bars",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/interior-design/",
+     "label": "Interior design & architecture",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/corporate-gifts/",
+     "label": "Corporate gifts & events",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/clubs/",
+     "label": "Golf clubs & private members’ clubs",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/yachts/",
+     "label": "Yachts & marine interiors",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/private-aviation/",
+     "label": "Private aviation",
+     "style": "text",
+     "nav": "world-links"
+    },
+    {
+     "href": "/en/solutions/executive-offices/",
+     "label": "Executive offices & institutions",
+     "style": "text",
+     "nav": "world-links"
+    }
+   ]
+  },
+  {
+   "kind": "process-preview",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From enquiry to delivery."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A photograph, sketch or description of what you need is enough to start. We agree the specification with you before production begins."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-process-2.webp",
+     "alt": "Sample development: a leather tray beside its design drawing and material swatches",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "Explore the complete process",
+     "style": "text"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Enquiry &amp; proposal",
+     "no": "01",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss the application, product idea, quantity and required delivery. Together, these define the scope for materials, specification and quotation."
+      },
+      {
+       "type": "p",
+       "html": "A clear project scope.",
+       "role": "process-result"
+      }
+     ],
+     "open": true
+    },
+    {
+     "q": "Design &amp; sampling",
+     "no": "02",
+     "a": [
+      {
+       "type": "p",
+       "html": "Form, material, colour and branding become tangible. Technical layouts and project-specific samples help assess tactility and proportions before production."
+      },
+      {
+       "type": "p",
+       "html": "A design you can review.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Order &amp; approval",
+     "no": "03",
+     "a": [
+      {
+       "type": "p",
+       "html": "We record the agreed specification. Approvals, commercial terms and the production schedule are confirmed before manufacturing begins."
+      },
+      {
+       "type": "p",
+       "html": "An agreed specification.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Production &amp; quality checks",
+     "no": "04",
+     "a": [
+      {
+       "type": "p",
+       "html": "Your accessories are handmade in the EU. The specification approved together provides the basis for production and for checking the details."
+      },
+      {
+       "type": "p",
+       "html": "Care in every detail.",
+       "role": "process-result"
+      }
+     ]
+    },
+    {
+     "q": "Delivery &amp; repeat orders",
+     "no": "05",
+     "a": [
+      {
+       "type": "p",
+       "html": "We coordinate delivery and discuss any further requirements. For additions, we review the specification and current material availability with you."
+      },
+      {
+       "type": "p",
+       "html": "Ready for use.",
+       "role": "process-result"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "journal-showcase",
+   "title": {
+    "level": "h2",
+    "html": "Knowledge for<br> considered decisions."
+   },
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "journal-feature",
+     "href": "/en/journal/from-interior-concept-to-product-brief/",
+     "title": "From an interior concept to a product brief.",
+     "body": [
+      {
+       "type": "p",
+       "html": "The information that moves a bespoke leather accessory forward: use, dimensions, material direction and considered approvals."
+      },
+      {
+       "type": "p",
+       "html": "Read the article",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Leather collection in cognac, olive, burgundy and taupe on warm stone",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/en/journal/blind-debossing-and-foil-stamping/",
+     "title": "A logo does not need to be loud.",
+     "body": [
+      {
+       "type": "p",
+       "html": "How branding method, scale and placement change the character of a leather accessory."
+      },
+      {
+       "type": "p",
+       "html": "Read the article",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-blind-debossing.webp",
+       "alt": "Close-up of understated blind debossing in leather",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/en/journal/coordinating-leather-accessories-for-hotel-rooms/",
+     "title": "How to design a coordinated hotel-room leather collection",
+     "body": [
+      {
+       "type": "p",
+       "html": "A practical guide for interior designers, procurement and housekeeping: coordinate functions, dimensions, materials and approvals."
+      },
+      {
+       "type": "p",
+       "html": "Read the article",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-coordinated-collection.webp",
+       "alt": "Design study of coordinated tray, tissue box cover, desk pad, notepad holder and waste bin",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "journal-feature",
+     "href": "/en/journal/menu-covers-binding-and-format/",
+     "title": "Choosing menu covers for your service.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Format, binding and page count determine how well a menu cover works in daily service."
+      },
+      {
+       "type": "p",
+       "html": "Read the article",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "A complete open leather menu cover in a restaurant setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "home-questions",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "An idea.<br> A few first questions."
+   },
+   "faq": [
+    {
+     "q": "Do I need a finished design?",
+     "a": [
+      {
+       "type": "p",
+       "html": "No. A photograph of the setting, moodboard, sketch or practical requirement can be enough to begin. Together, we clarify function, dimensions, materials and the next decisions."
+      }
+     ]
+    },
+    {
+     "q": "Can you develop a complete collection?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We consider the accessories together and coordinate materials, colours and finishes. The construction still follows the purpose of each individual item."
+      }
+     ]
+    },
+    {
+     "q": "What belongs in the first enquiry?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the application, accessory or idea, quantity and required delivery date. We welcome one-offs and very small runs, and can also deliver large projects. Reference photographs and dimensions help us agree the right specification and schedule with you."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

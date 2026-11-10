@@ -1,0 +1,137 @@
+{
+ "language": "en",
+ "key": "article:materialwelt-statt-einheitsfarbe",
+ "slug": "article--materialwelt-statt-einheitsfarbe",
+ "url": "/en/journal/a-material-palette-not-a-single-colour/",
+ "template": "article",
+ "title": "A material palette is more than a colour.",
+ "description": "How leather, stitching, timber and metal become a coherent collection without making every accessory look the same.",
+ "alternate": {
+  "de": "/journal/materialwelt-statt-einheitsfarbe/",
+  "en": "/en/journal/a-material-palette-not-a-single-colour/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A material palette is more than a colour."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "How leather, stitching, timber and metal become a coherent collection without making every accessory look the same.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v7-macro.webp",
+     "alt": "Leather edges with tonal stitching and visible grain",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Begin with the room",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The colour of a leather accessory is rarely seen in isolation. Cognac reads differently beside pale stone and dark walnut; muted olive can blend into a textile wall finish or deliberately contrast with it. Place material samples in the intended setting. Look at them in daylight and under the specified lighting. A colour photograph is useful guidance, but it is not a definitive basis for the final selection. The relationship between the actual surfaces should set the direction."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Consistency allows variation",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A collection need not use identical coverings throughout. A tray can connect with a notepad holder through its edging, while a waste bin carries the same colour on a different construction. What matters is the recurring detail: warmth of tone, a particular sheen, tonal stitching or discreet branding. Choose a small number of repeated characteristics and give them a clear role. This creates coherence without restricting the function of individual accessories."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Surface changes the impression",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Fine grain can give a surface a quiet appearance; a more pronounced texture makes the material character visible. Smooth finishes emphasise edges and proportions. Genuine leather and PU coverings are different materials and should be named explicitly in the brief. Their selection depends on the desired effect, construction, use and care. A colour name alone does not describe a finish. Record the material reference and specification together."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Treat branding and stitching as design",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Branding need not be the most conspicuous detail. Blind debossing works with depth and light; foil introduces another colour or metallic tone. Both should be assessed in relation to surface area and grain. Tonal stitching can define the outline without interrupting the material colour. Review the logo at its actual size and intended position. What looks restrained on a large screen may already dominate a small luggage tag."
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Turn a material board into a decision",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A useful first discussion can begin with photographs of the space, existing material references and a list of intended accessories. Add which elements are fixed and where you are open to suggestions. Selected materials are then brought together with artwork and project-specific sampling. The question is not simply what looks good, but how the accessory feels, works and can be cared for. Considering these things together turns a colour direction into a practical collection."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/interior-design/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

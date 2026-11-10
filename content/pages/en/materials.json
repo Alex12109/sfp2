@@ -1,0 +1,457 @@
+{
+ "language": "en",
+ "key": "materials",
+ "slug": "materials",
+ "url": "/en/materials/",
+ "template": "materials",
+ "title": "Materials & finishes",
+ "description": "Genuine leather, PU, wood and bespoke branding for your SFP project.",
+ "alternate": {
+  "de": "/materialien/",
+  "en": "/en/materials/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Material becomes character."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Surface, colour and finish determine how an object looks, and how it feels.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/finish-study.webp",
+     "alt": "Material study with leather grains in burgundy, green, taupe, cognac and navy",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "material-studio",
+   "id": "material-studio",
+   "data": {
+    "studio": "",
+    "contact": "/en/contact/"
+   },
+   "title": {
+    "level": "h2",
+    "html": "Play with colour.<br> Explore the finishing touches."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "What feels right for your world? Switch between colour palettes, explore how they work together and try your own lettering. A little room for ideas – no finished concept needed."
+    },
+    {
+     "type": "p",
+     "html": "<strong>Write something!</strong> For blind debossing, a metal die is heated in the press and then pressed into the material. This creates an impression without colour. Place hot-stamping foil between the die and the material, and the design takes on a finish – from clear foil and rich red to metallic champagne. Impressive! :)"
+    },
+    {
+     "type": "p",
+     "html": ":-)",
+     "role": "stamp-invitation"
+    },
+    {
+     "type": "p",
+     "html": "Brush the suede: right for a lighter nap, left for a darker one. Swipe sideways on your phone, or use the arrow keys on a keyboard.",
+     "role": "sr-only"
+    },
+    {
+     "type": "p",
+     "html": "An interactive material and branding study. We agree the appropriate surface and finish for your accessory using a physical sample.",
+     "role": "studio-experiment-note"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v19-suede.webp",
+     "alt": "Fine cognac suede nap for the interactive material study",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/wordmark-v16.svg",
+     "alt": "SFP",
+     "width": 294,
+     "height": 110,
+     "kind": "context"
+    }
+   ],
+   "items": [
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "0"
+     },
+     "media": [
+      {
+       "src": "/assets/v7-collection.webp",
+       "alt": "Leather collection in cognac, olive, burgundy and taupe on warm stone",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "1"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v7-dining.webp",
+       "alt": "Burgundy and olive menu covers with a coordinated bill presenter",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "2"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/room-scene.webp",
+       "alt": "Material and design study: coordinated leather accessories beside a vanity",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-scene",
+     "data": {
+      "studio-scene": "3"
+     },
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/writing-scene.webp",
+       "alt": "Material and design study: navy desk pad and notepad holder on a walnut desk",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "studio-controls",
+     "title": "Which palette feels like you?",
+     "items": [
+      {
+       "role": null,
+       "data": {
+        "palette-description": "0"
+       },
+       "title": "Cognac, taupe &amp; dark timber.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Warm tones sit naturally alongside walnut, brass and quiet stone. Cognac brings an accent; taupe gives a collection a connecting surface. Tonal stitching allows the outline to speak."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "1"
+       },
+       "hidden": true,
+       "title": "Burgundy meets olive.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Two rich, muted colours give a table character. A fine leather grain and restrained branding balance glass, ceramics and linen. A considered direction for coordinated menu covers, wine lists and bill presenters."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "2"
+       },
+       "hidden": true,
+       "title": "Sand, stone &amp; a touch of olive.",
+       "body": [
+        {
+         "type": "p",
+         "html": "A layered palette helps individual objects feel part of the room. Interest comes from contrasting surfaces: matt coverings, visible grain and precisely defined edges. A useful direction for a coordinated guest-room collection."
+        }
+       ]
+      },
+      {
+       "role": null,
+       "data": {
+        "palette-description": "3"
+       },
+       "hidden": true,
+       "title": "Dark tones. Precise details.",
+       "body": [
+        {
+         "type": "p",
+         "html": "Dark surfaces give forms presence. Blind debossing works through light and shadow; carefully chosen hardware adds small reflections. The character remains restrained, suited to workspaces, meeting rooms and personal gifts."
+        }
+       ]
+      }
+     ],
+     "tabs": [
+      {
+       "label": "A warm welcome",
+       "data": {
+        "palette": "0",
+        "selection": "Cognac / taupe / dark timber"
+       }
+      },
+      {
+       "label": "Depth & contrast",
+       "data": {
+        "palette": "1",
+        "selection": "Burgundy / olive / tonal stitching"
+       }
+      },
+      {
+       "label": "Quiet nuances",
+       "data": {
+        "palette": "2",
+        "selection": "Sand / taupe / olive"
+       }
+      },
+      {
+       "label": "Defined outlines",
+       "data": {
+        "palette": "3",
+        "selection": "Dark brown / charcoal / blind debossing"
+       }
+      }
+     ]
+    }
+   ],
+   "tabs": [
+    {
+     "label": "Black",
+     "data": {
+      "leather-choice": "black"
+     }
+    },
+    {
+     "label": "Dark brown",
+     "data": {
+      "leather-choice": "brown"
+     }
+    },
+    {
+     "label": "Cognac",
+     "data": {
+      "leather-choice": "cognac"
+     }
+    },
+    {
+     "label": "Navy",
+     "data": {
+      "leather-choice": "navy"
+     }
+    },
+    {
+     "label": "Cream",
+     "data": {
+      "leather-choice": "cream"
+     }
+    },
+    {
+     "label": "Blind debossing",
+     "data": {
+      "finish-choice": "blind"
+     }
+    },
+    {
+     "label": "Foil stamping",
+     "data": {
+      "finish-choice": "foil"
+     }
+    },
+    {
+     "label": "Reset the nap",
+     "data": {
+      "suede-reset": ""
+     }
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "items": [
+    {
+     "role": "card",
+     "title": "Genuine leather",
+     "body": [
+      {
+       "type": "p",
+       "html": "Fine genuine Italian leather with distinctive grain and feel. Colour and finish are selected in relation to the accessory, interior and daily use, with the particular specification reviewed through samples."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/leather.webp",
+       "alt": "Close-up of a fine leather surface",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "title": "PU &amp; other coverings",
+     "body": [
+      {
+       "type": "p",
+       "html": "High-quality PU in an extensive range of colours and finishes gives your design scheme room to develop. Other coverings are considered according to the model and project. The actual sample and operational requirements guide the selection."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/linen.webp",
+       "alt": "Finely textured material surface",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "title": "Wood",
+     "body": [
+      {
+       "type": "p",
+       "html": "Grain and surface treatment give wood accessories their character. Trays, for example, can be specified with stained, lacquered or oiled finishes."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/wood.webp",
+       "alt": "Wood grain in close-up",
+       "width": 500,
+       "height": 500,
+       "kind": "swatch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Discreet branding. A precise identity."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Blind debossing, foil stamping and engraving on suitable wooden objects connect the accessory with your brand. Placement, scale and technical feasibility are assessed for the chosen material."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "The sample makes the difference."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Screen colours provide an indication. For approval, assess the material, construction and colour in the actual setting. Availability and detailed specifications are confirmed for each project."
+    }
+   ]
+  },
+  {
+   "kind": "material-notes",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "What a sample can tell you."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Grain &amp; feel",
+     "body": [
+      {
+       "type": "p",
+       "html": "A visible grain gives an accessory depth; smoother surfaces emphasise form and proportion. Compare tactility as well as colour samples in the intended setting."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Choose leather and PU deliberately",
+     "body": [
+      {
+       "type": "p",
+       "html": "Genuine leather and PU coverings offer different design and practical possibilities. The right choice depends on the accessory, use, cleaning and intended impression. The actual material is specified before approval."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Colour in the room",
+     "body": [
+      {
+       "type": "p",
+       "html": "Cognac reads differently beside dark timber and pale stone. Burgundy, olive and taupe can echo a room or introduce accents. Lighting, neighbouring materials and brand identity all inform the decision."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Stitching, edges &amp; branding",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tonal stitching continues the outline. The edge frames the object; proportionate branding adds a signature. These details are considered together rather than applied in isolation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

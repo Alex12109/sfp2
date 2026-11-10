@@ -1,0 +1,508 @@
+{
+ "language": "de",
+ "key": "product:papierkoerbe",
+ "slug": "product--papierkoerbe",
+ "url": "/produkte/papierkoerbe/",
+ "template": "family",
+ "title": "Papierkörbe",
+ "description": "Ein Papierkorb gehört zum Raum wie ein Möbelstück. In Material, Farbe und Proportion abgestimmt, fügt er sich selbstverständlich in ein anspruchsvolles Interior ein.",
+ "alternate": {
+  "de": "/produkte/papierkoerbe/",
+  "en": "/en/products/waste-bins/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/raumaccessoires/",
+     "label": "Raumaccessoires",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Papierkörbe"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Papierkorb gehört zum Raum wie ein Möbelstück. In Material, Farbe und Proportion abgestimmt, fügt er sich selbstverständlich in ein anspruchsvolles Interior ein.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=papierkoerbe",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Papierk%C3%B6rbe",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Papierkorb mit brauner Außenfläche – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Auch Funktion verdient Form."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Papierkorb bleibt im Hintergrund und gehört dennoch zu jedem Blick unter den Schreibtisch oder neben die Konsole. Gerade an diesem stillen Produkt zeigt sich, ob eine Zimmerkollektion konsequent gedacht wurde. Als Ausgangspunkte stehen ein runder Metallkörper mit 15 Litern sowie eine eckige Ausführung mit Metalleinsatz. Die runde Silhouette wirkt weich und lässt sich frei im Raum drehen; eine rechteckige Form kann sich enger an Möbelkanten orientieren. Bezug, Farbton und Steppnaht verbinden den Abfallbehälter mit Schreibunterlage, Tray oder Tissue-Box, ohne dass alle Teile gleich gebaut sein müssen. Eine bewusst zurückhaltende Oberfläche lässt Architektur und Möblierung führen."
+    },
+    {
+     "type": "p",
+     "html": "Die Auswahl beginnt am Standort. Messen Sie Nischen, Tischunterseiten und Laufwege und prüfen Sie, wie Housekeeping den Behälter erreicht. Entleerung, Herausnehmen des Metalleinsatzes und mögliche Beutelnutzung gehören zur Bemusterung. Die 15-Liter-Angabe gilt für den vorhandenen runden Ausgangskörper; andere Formate werden nicht daraus abgeleitet, sondern projektbezogen besprochen. Leder oder ein anderer Bezug wird nach konkreter Oberfläche und Pflegeroutine bewertet. Auch die Oberkante verdient Aufmerksamkeit, weil sie beim täglichen Griff besonders präsent ist. Wenn Papierkorb, Tissue-Box und Tray als Familie entstehen, kann ein gemeinsamer Ton oder ein wiederkehrendes Nahtdetail genügen, um den Raum leise zusammenzuhalten."
+    },
+    {
+     "type": "p",
+     "html": "Für unterschiedliche Zimmerkategorien wird eindeutig dokumentiert, wo runde und eckige Ausführungen eingesetzt und wie sie täglich geleert werden. Das erleichtert Einrichtung und Ersatz, ohne aus ähnlicher Optik eine technische Austauschbarkeit abzuleiten."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-papierkorbe.webp",
+     "alt": "Papierkörbe in unterschiedlichen Farben und Formen – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/original-bin-corner.webp",
+     "alt": "Lederbezug und Kante eines Papierkorbs",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Standort unter oder neben dem Tisch prüfen",
+        "Entleerung und Beutelnutzung besprechen",
+        "Mit Tissue-Box und Tray als Serie abstimmen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=papierkoerbe",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=papierkoerbe"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Form im Raum",
+     "body": [
+      {
+       "type": "p",
+       "html": "Runde und rechteckige Modelle reagieren unterschiedlich auf Möbel und Laufwege. Nennen Sie uns den vorgesehenen Standort."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Innen wie außen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Volumen, Einsatz und Zugriff gehören zur Auswahl. Bei rechteckigen Ausführungen ist ein Metalleinsatz ein möglicher Ausgangspunkt."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Abgestimmte Ausstattung",
+     "body": [
+      {
+       "type": "p",
+       "html": "Der Bezug kann mit Tissue-Box und Schreibunterlage zusammenspielen. Tonale Nähte und Prägeposition setzen die gemeinsame Linie fort."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Format und Form passend zum Einsatzort",
+      "Farb- und Materialabstimmung mit der Zimmerausstattung",
+      "Innenausführung und Reinigung vorab besprechen"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Form",
+     "v": "Rund mit Metallkörper, 15 l / eckig mit Metalleinsatz"
+    },
+    {
+     "k": "Details",
+     "v": "Bezug, Farbton und Steppnaht abstimmen"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/raumaccessoires/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tissue-boxen/",
+     "title": "Tissue-Boxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Verbrauchsmaterial verschwindet hinter einer abgestimmten Oberfläche. Die Hülle wird auf das verwendete Tissue-Format und den vorgesehenen Standort abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue-Boxen in Holz und bezogenen Ausführungen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/papierkorbe/\">Papierkörbe</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe werden rund oder eckig mit MDF- oder Metallkern gefertigt und mit PU-Leder bezogen. MDF-Ausführungen erhalten ein Metall-Inlay für den vorgesehenen Einsatz im Hotelzimmer. Drei Ausgangsmaße, Sondergrößen, Kunststofffüße, Ziernaht und Prägung stimmen Form, Bodenschutz und Kennzeichnung auf Zimmer, Bad oder öffentlichen Bereich ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Papierkörbe – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/papierkorbe/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=papierkorbe",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/papierkorbe/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

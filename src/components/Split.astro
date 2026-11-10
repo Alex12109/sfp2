@@ -1,0 +1,49 @@
+---
+// Zweispaltiger Textabschnitt: Titel links, Inhalt rechts; optional Bild, Daten, Randnotiz.
+import type { Section, Lang } from '../lib/types';
+import { heading, pad } from '../lib/content';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang; no?: number; tone?: string }
+const { s, no, tone = 'tone-ivory' } = Astro.props;
+const media = s.media ?? [];
+const notes = s.items ?? [];
+const navLinks = (s.actions ?? []).filter((a) => a.nav);
+const actions = (s.actions ?? []).filter((a) => !a.nav);
+const withMedia = media.length > 0;
+---
+<section class:list={['sec split', tone, withMedia && 'split--media', !s.title && !(s.body ?? []).length && 'sec--tight']} id={s.id}>
+  <div class="wrap split__grid">
+    <header class="split__head" data-reveal>
+      {no && <p class="label">N° {pad(no)}</p>}
+      {s.title && <h2 set:html={heading(s.title.html)} />}
+    </header>
+    <div class="split__body" data-reveal style="--i:1">
+      <Rich blocks={s.body} />
+      {s.specs && s.specs.length > 0 && (
+        <dl class="specs">{s.specs.map((r) => <div><dt>{r.k}</dt><dd set:html={r.v} /></div>)}</dl>
+      )}
+      {navLinks.length > 0 && (
+        <ul class="index-links">{navLinks.map((l, i) => <li><a href={l.href}><span aria-hidden="true">{pad(i + 1)}</span>{l.label}</a></li>)}</ul>
+      )}
+      <Actions links={actions} />
+      {notes.map((n) => (
+        <aside class="margin-note">
+          {n.title && <h3 set:html={heading(n.title)} />}
+          <Rich blocks={n.body} />
+          <Actions links={n.actions} />
+        </aside>
+      ))}
+    </div>
+    {withMedia && (
+      <div class:list={['split__media', media.length > 1 && 'split__media--pair']}>
+        {media.slice(0, 2).map((m, i) => (
+          m.href
+            ? <a href={m.href} class="split__media-link" tabindex="-1" aria-hidden="true"><Picture img={m} frame={i === 0} reveal ratio={media.length > 1 ? 'ar-4x5' : 'ar-4x3'} /></a>
+            : <Picture img={m} frame={i === 0} reveal ratio={media.length > 1 ? 'ar-4x5' : 'ar-4x3'} />
+        ))}
+      </div>
+    )}
+  </div>
+</section>

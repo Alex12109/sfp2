@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import { ui } from '../i18n/ui';
+import Arrow from '../components/Arrow.astro';
+---
+<Base lang="de" title="Seite nicht gefunden · Page not found" url="/404/" alternate={{ de: '/', en: '/en/' }} template="404">
+  <section class="sec notfound tone-ivory">
+    <div class="wrap notfound__grid">
+      <p class="notfound__no" aria-hidden="true">404</p>
+      {(['de', 'en'] as const).map((l) => (
+        <div lang={l}>
+          <h1 class={l === 'en' ? 'notfound__second' : undefined}>{ui[l].notFound.title}</h1>
+          <p class="lead">{ui[l].notFound.text}</p>
+          <div class="actions">
+            <a class="btn" href={l === 'de' ? '/' : '/en/'}>{ui[l].notFound.home}<Arrow /></a>
+            <a class="link" href={ui[l].catalogUrl}>{ui[l].notFound.catalog}<Arrow /></a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</Base>

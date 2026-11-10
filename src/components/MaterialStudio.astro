@@ -1,0 +1,102 @@
+---
+// Materialstudie: Farbwelten und Prägung zum Ausprobieren (spielerisch, keine Produktzusage).
+import type { Section, Lang } from '../lib/types';
+import { heading } from '../lib/content';
+import Rich from './Rich.astro';
+import Picture from './Picture.astro';
+interface Props { s: Section; lang: Lang }
+const { s, lang } = Astro.props;
+const en = lang === 'en';
+const items = s.items ?? [];
+const scenes = items.filter((i) => i.role === 'studio-scene');
+const descriptions = items.filter((i) => i.data && 'palette-description' in i.data);
+const controls = items.find((i) => i.role === 'studio-controls');
+const paletteTabs = (controls?.tabs ?? s.tabs ?? []).filter((x) => x.data && 'palette' in x.data);
+const allTabs = [...(s.tabs ?? []), ...items.flatMap((i) => i.tabs ?? [])];
+const leathers = allTabs.filter((x) => x.data && 'leather-choice' in x.data);
+const finishes = allTabs.filter((x) => x.data && 'finish-choice' in x.data);
+const resetTab = allTabs.find((x) => x.data && 'suede-reset' in x.data);
+// Farbchips der Bestandsstudie (Bildschirmannäherungen der gezeigten Lederfarben, keine Markenfarben)
+const chips = [['#ad754d', '#d0bda4', '#4f3930'], ['#63373e', '#626448', '#b39b7e'], ['#b2a18b', '#8b8470', '#3f4135'], ['#373a36', '#604b3c', '#aa8b62']];
+const leatherHex: Record<string, string> = { black: '#252321', brown: '#493127', cognac: '#a66b40', navy: '#203147', cream: '#e5d8bb' };
+const foils = en
+  ? [['gold', 'Matt gold'], ['silver', 'Matt silver'], ['copper', 'Matt copper'], ['black', 'Black'], ['red', 'Red'], ['blue', 'Blue']]
+  : [['gold', 'Gold matt'], ['silver', 'Silber matt'], ['copper', 'Kupfer matt'], ['black', 'Schwarz'], ['red', 'Rot'], ['blue', 'Blau']];
+const paras = (s.body ?? []).filter((b) => b.type === 'p');
+const intro = paras.filter((b) => b.type === 'p' && !b.role).slice(0, 1);
+const hint = paras.find((b) => b.type === 'p' && !b.role && b.html.includes('<strong>'));
+const note = paras.find((b) => b.type === 'p' && b.role === 'studio-experiment-note');
+---
+<section class="sec studio tone-forest" id={s.id ?? 'material-studio'} data-studio>
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div>
+        <p class="label">{en ? 'Material study' : 'Materialstudie'}</p>
+        {s.title && <h2 set:html={heading(s.title.html)} />}
+      </div>
+      <div class="sec-head__side"><Rich blocks={intro} /></div>
+    </header>
+
+    <div class="studio__palette">
+      <div class="frame studio__visual">
+        {scenes.map((sc, i) => (
+          <div class="studio__scene" data-studio-scene={i} data-active={i === 0 ? 'true' : undefined} aria-hidden={i === 0 ? undefined : 'true'}>
+            <Picture img={sc.media![0]} ratio="ar-3x2" sizes="(min-width: 900px) 60vw, 100vw" />
+          </div>
+        ))}
+      </div>
+      <div class="studio__controls">
+        {controls?.title && <h3 set:html={controls.title} />}
+        <div class="studio__options" role="group" aria-label={en ? 'Choose a material direction' : 'Materialrichtung wählen'}>
+          {paletteTabs.map((tab, i) => (
+            <button type="button" class="swatch-choice" data-palette={i} aria-pressed={i === 0 ? 'true' : 'false'}>
+              <span class="swatch-choice__chips" aria-hidden="true">{chips[i]?.map((c) => <i style={`background:${c}`}></i>)}</span>
+              <span>{tab.label}</span>
+            </button>
+          ))}
+        </div>
+        <div class="studio__descriptions" aria-live="polite">
+          {descriptions.map((d, i) => (
+            <div data-palette-description={i} hidden={i > 0}>
+              {d.title && <h4 set:html={d.title} />}
+              <Rich blocks={d.body} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <div class="studio__stamp" data-stamp-study data-leather="navy" data-finish="blind" data-foil="gold">
+      <div class="stamp" style={`--leather:${leatherHex.navy}`} data-stamp-surface>
+        <span class="stamp__mark" data-stamp-mark aria-hidden="true">SFP</span>
+      </div>
+      <div class="studio__stamp-controls">
+        {hint && hint.type === 'p' && <p class="studio__hint" id="studio-mark-hint" set:html={hint.html} />}
+        <div class="choice-row" role="group" aria-label={en ? 'Choose a leather colour' : 'Lederfarbe wählen'}>
+          {leathers.map((l) => (
+            <button type="button" class="chip" data-leather-choice={l.data!['leather-choice']} data-hex={leatherHex[l.data!['leather-choice']]} aria-pressed={l.data!['leather-choice'] === 'navy' ? 'true' : 'false'}>
+              <i style={`background:${leatherHex[l.data!['leather-choice']]}`} aria-hidden="true"></i>{l.label}
+            </button>
+          ))}
+        </div>
+        <div class="choice-row" role="group" aria-label={en ? 'Choose a finish' : 'Veredelung wählen'}>
+          {finishes.map((f) => (
+            <button type="button" class="chip" data-finish-choice={f.data!['finish-choice']} aria-pressed={f.data!['finish-choice'] === 'blind' ? 'true' : 'false'}>{f.label}</button>
+          ))}
+        </div>
+        <div class="studio__entry">
+          <div class="field">
+            <label for="studio-mark">{en ? 'Text to stamp' : 'Text zum Prägen'}</label>
+            <input id="studio-mark" maxlength="16" autocomplete="off" spellcheck="false" placeholder="SFP" aria-describedby="studio-mark-hint" />
+          </div>
+          <div class="field" data-foil-field>
+            <label for="studio-foil">{en ? 'Choose a foil colour' : 'Folienfarbe wählen'}</label>
+            <select id="studio-foil" disabled>{foils.map(([v, l]) => <option value={v}>{l}</option>)}</select>
+          </div>
+        </div>
+        {note && note.type === 'p' && <p class="note" set:html={note.html} />}
+        <p class="sr-only" role="status" data-studio-status></p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,551 @@
+{
+ "language": "en",
+ "key": "product:amenity-boxen",
+ "slug": "product--amenity-boxen",
+ "url": "/en/products/amenity-boxes/",
+ "template": "family",
+ "title": "Amenity boxes & other accessories",
+ "description": "Guest amenities, thoughtful extras and service essentials deserve a dedicated place. Boxes and complementary accessories complete a shared material palette.",
+ "alternate": {
+  "de": "/produkte/amenity-boxen/",
+  "en": "/en/products/amenity-boxes/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/other-accessories/",
+     "label": "Boxes & bespoke accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Amenity boxes &amp; other accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Guest amenities, thoughtful extras and service essentials deserve a dedicated place. Boxes and complementary accessories complete a shared material palette.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=amenity-boxen",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Amenity%20boxes%20%26%20other%20accessories",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Open amenity box holding guest toiletries — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v10-amenity-scene.webp",
+       "alt": "Open amenity box with grooming accessories on a dressing table",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v13-stiftekocher.webp",
+       "alt": "Round pen pot — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A place for every detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "An amenity box succeeds when it answers a defined task. It may gather toiletries, organise small belongings, present condiments or frame a gift. The 250 × 260 × 60 mm starting size and an arrangement with two dividers provide initial references; a bespoke internal layout follows the real contents. Bottles, sachets and cartons determine length, height and access, and only then should the outer proportion be resolved. A leather-covered box can join a guest-room collection, while another agreed construction may introduce its own material note. Selection and build remain dependent on the setting and intended use."
+    },
+    {
+     "type": "p",
+     "html": "Record each intended item with a photograph, dimensions and planned position. What sits side by side, what may be stacked, and what must be reached in a single gesture? Open compartments give immediate access; a lid or enclosed section changes both presentation and replenishment. Housekeeping, minibar staff or service should fill and empty the sample. This reveals finger clearance, compartment height and possible variations in packaging. Location, cleaning routine and the desired material palette also belong in the brief. A discreet outer deboss can provide identity while each compartment performs its task within. The box looks calm even as it holds many small elements in precise order."
+    },
+    {
+     "type": "p",
+     "html": "If products change seasonally or between room categories, document each confirmed arrangement as a separate variant. The outer language may remain consistent while inserts and compartments respond to the actual contents."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-condiment-boxen.webp",
+     "alt": "Compartmented condiment box — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-zimmermappen.webp",
+     "alt": "Guest information directory — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Record the complete contents and dimensions",
+        "Discuss access, cover and compartments",
+        "Show the setting and intended material palette"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=amenity-boxen",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=amenity-boxen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Start with the contents",
+     "body": [
+      {
+       "type": "p",
+       "html": "Dimensions of toiletries or consumables help establish an interior and compartments that fit."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Cover &amp; access",
+     "body": [
+      {
+       "type": "p",
+       "html": "Open presentation or a closed box: the construction follows how guests and staff access the contents."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Beyond the box",
+     "body": [
+      {
+       "type": "p",
+       "html": "Complementary accessories can share the same material palette. Tell us about ideas for which you have not yet found a specific product."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Amenity and condiment boxes",
+      "Guest directories, pen pots and brochure holders",
+      "Door hangers and additional service accessories",
+      "Bespoke enquiries beyond the items shown here"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Starting format",
+     "v": "250 × 260 × 60 mm"
+    },
+    {
+     "k": "Internal layout",
+     "v": "Two dividers or a bespoke layout"
+    },
+    {
+     "k": "Construction",
+     "v": "Impregnated board core with PU covering; compartments and an optional lid"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/other-accessories/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/notepad-holders/",
+     "title": "Notepad holders",
+     "body": [
+      {
+       "type": "p",
+       "html": "A dedicated place for a notepad and pen. A small, frequently used accessory for guest rooms, meeting rooms and reception."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "SFP notepad holders in different specifications, isolated from the background — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/tissue-box-covers/",
+     "title": "Tissue box covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Everyday consumables sit behind a coordinated finish. The cover is specified for your chosen tissue refill and its intended location."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue box covers in wood and covered finishes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/amenity-boxen/\">Amenity Boxes</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Amenity boxes organise toiletries and care products in the hotel bathroom. The 250 × 260 × 60 mm starting size can be adapted to the contents and available surface, with dividers structuring the interior. An impregnated board core with a PU-leather covering, optional lid, decorative stitching and blind debossing or foil stamping combine protected storage with the room design."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Amenity Boxes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/amenity-boxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=amenity-boxen",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/amenity-boxen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "language": "en",
+ "key": "collection:writing",
+ "slug": "collection--writing",
+ "url": "/en/collections/desk-table/",
+ "template": "collection",
+ "title": "Desk & conference",
+ "description": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding.",
+ "alternate": {
+  "de": "/kollektionen/schreibkultur-tisch/",
+  "en": "/en/collections/desk-table/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "A place for ideas. And conversation."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-desk.webp",
+     "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Desk%20%26%20conference",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A shared material palette."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A workspace feels composed when proportions and materials work together. From an individual desk pad to accessories for many meeting places, we develop your own collection, handmade in the EU. Fine genuine Italian leather or high-quality PU is selected for the particular model; colour, dimensions and branding connect each piece with your interior."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Explore the details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/desk-pads/",
+     "title": "Desk pads",
+     "body": [
+      {
+       "type": "p",
+       "html": "A defined working surface for desks, meeting tables or reception. Dimensions, material and branding are coordinated for your project."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schreibunterlagen.webp",
+       "alt": "Understated desk pad from the SFP collection — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/notepad-holders/",
+     "title": "Notepad holders",
+     "body": [
+      {
+       "type": "p",
+       "html": "A dedicated place for a notepad and pen. A small, frequently used accessory for guest rooms, meeting rooms and reception."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "SFP notepad holders in different specifications, isolated from the background — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every accessory in detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Find individual models, material choices and specification options in our complete accessory collection."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/",
+     "label": "View all accessories",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "language": "en",
+ "key": "scenario:private-aviation",
+ "slug": "scenario--private-aviation",
+ "url": "/en/solutions/private-aviation/",
+ "template": "scenario",
+ "title": "A distinctive identity. Throughout the cabin.",
+ "description": "Bespoke accessories for considered cabin schemes and guest service, from coordinated trays to travel gifts.",
+ "alternate": {
+  "de": "/loesungen/private-aviation/",
+  "en": "/en/solutions/private-aviation/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "A distinctive identity. Throughout the cabin."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke accessories for considered cabin schemes and guest service, from coordinated trays to travel gifts.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/writing-scene.webp",
+     "alt": "Material and design study: navy desk pad and notepad holder on a walnut desk",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Private%20aviation",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Development follows the intended areas of use and the requirements of the responsible outfitter. Dimensions, storage and handling belong in the brief alongside any required documentation. Aviation-specific approvals require separate agreement; material selection or bespoke production does not replace that review."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Precision in a compact space"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A cabin project starts with accurate dimensions, stowage and a clear brief for use. With your design or outfitting team, we develop each accessory entirely around that brief. Our offer includes one-off commissions and very small runs, handmade in the EU. Material suitability is reviewed against your project’s mandatory requirements."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Establish requirements before design"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "On-board use may involve specific requirements for materials and construction. Include these in the brief, together with the evidence your project team requires. Feasibility is assessed for the individual project. The product ideas presented here do not imply blanket aviation approval or certification."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/travel-gifts/",
+     "title": "Travel &amp; gifts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Luggage tags, keyrings and bespoke leather gifts. Personal companions for guests, clients and special occasions."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognac luggage tag and burgundy keyring with an open presentation box.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Cabin scheme, precise dimensions, quantities and mandatory material requirements."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Private%20aviation",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/briefing-a-bespoke-project/\">What makes a useful bespoke brief?From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.Read the article</a><a href=\"/en/journal/choosing-materials-for-hospitality/\">Material selection starts with the setting.Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.Read the article</a><a href=\"/en/journal/menu-covers-binding-and-format/\">Choosing menu covers for your service.Format, binding and page count determine how well a menu cover works in daily service.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "language": "de",
+ "key": "collection:other",
+ "slug": "collection--other",
+ "url": "/kollektionen/weitere-objekte/",
+ "template": "collection",
+ "title": "Boxen & besondere Artikel",
+ "description": "Amenity- und Condiment-Boxen, Zimmermappen, Stifteköcher und weitere Serviceartikel. Individuell abgestimmt auf Ihre Abläufe.",
+ "alternate": {
+  "de": "/kollektionen/weitere-objekte/",
+  "en": "/en/collections/other-accessories/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Auch das Besondere findet seine Form."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Amenity- und Condiment-Boxen, Zimmermappen, Stifteköcher und weitere Serviceartikel. Individuell abgestimmt auf Ihre Abläufe.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-amenity-scene.webp",
+     "alt": "Geöffnete Amenity-Box mit Pflegeaccessoires auf einem Ankleidetisch",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Boxen%20%26%20besondere%20Artikel",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "collection-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine gemeinsame Materialwelt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine besondere Box, ein ungewöhnliches Format oder ein abgestimmtes Ensemble: Manche Ideen brauchen eine vollständig eigene Entwicklung. Wir stimmen Aufbau und geeignete Materialien mit Ihnen ab und fertigen in der EU von Hand. Ein Einzelstück und sehr kleine Serien sind willkommen; ebenso begleiten wir große Projekte mit vielen aufeinander abgestimmten Produkten."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Entdecken Sie die Details."
+   },
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/amenity-boxen/",
+     "title": "Amenity-Boxen &amp; weitere Artikel",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kleine Ausstattungsdetails verdienen dieselbe Aufmerksamkeit. Neben den Hauptkollektionen planen wir passende Lösungen für Pflegeprodukte, Unterlagen und Serviceabläufe."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-amenity-boxen.webp",
+       "alt": "Geöffnete Amenity-Box mit Pflegeprodukten – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jeder Artikel im Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Modelle, Materialauswahl und Ausstattungsoptionen finden Sie in unserer vollständigen Produktübersicht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/",
+     "label": "Alle Artikel ansehen",
+     "style": "text"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "language": "en",
+ "key": "case:ritz-carlton-wolfsburg",
+ "slug": "case--ritz-carlton-wolfsburg",
+ "url": "/en/projects/ritz-carlton-wolfsburg/",
+ "template": "project",
+ "title": "The Ritz-Carlton, Wolfsburg · A small holder. A considered welcome.",
+ "description": "A genuine-leather key card holder for The Ritz-Carlton in Wolfsburg, developed directly with the hotel.",
+ "alternate": {
+  "de": "/projekte/ritz-carlton-wolfsburg/",
+  "en": "/en/projects/ritz-carlton-wolfsburg/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/projects/",
+     "label": "Projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "A small holder. A considered welcome."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A genuine-leather key card holder for The Ritz-Carlton in Wolfsburg, developed directly with the hotel.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-ritz.webp",
+     "alt": "Black key card holder with The Ritz-Carlton Wolfsburg debossing — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Client / project",
+     "v": "The Ritz-Carlton, Wolfsburg"
+    },
+    {
+     "k": "Application",
+     "v": "Hospitality · Guest experience"
+    },
+    {
+     "k": "Scope",
+     "v": "Key card holder · Genuine leather · Consultation"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Client and context"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The Ritz-Carlton, Wolfsburg sits within the Autostadt, where the five-star hotel stands against an industrial backdrop. Luxury hospitality, automotive culture and a highly designed setting therefore meet in one place. Check-in marks the first direct transition from arrival to a guest’s personal stay. The room key card has a small but visible part in that moment: it is presented on arrival, carried throughout the stay and handled repeatedly. SFP’s direct commission addressed this touchpoint. The hotel required a genuine-leather holder and sought advice on its specification."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Product and specific requirements"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A key card holder needs to retain the card securely without making it awkward to remove. Its proportions and opening therefore begin with the card actually used by the hotel; edges and transitions also need to feel comfortable in repeated handling. Because the object is presented at close range during check-in, the leather surface, feel in the hand and precision of the branding carry particular weight."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Development and detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP developed the specification directly with the hotel. On such a restrained object, the effect comes less from adding features than from proportion, material and carefully positioned branding. The card establishes the internal size; leather thickness, fold and edge construction determine how compactly the holder sits in the hand. The mark needs to be legible without crowding the small surface. The reception handover is part of the consideration too: staff should be able to pick up and present the holder naturally."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Value delivered"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The hotel received a bespoke holder for an essential functional item. A loose room key card became an ordered, tactile part of the arrival experience. The genuine-leather piece carries the identity of the property while giving the guest a defined place for the card during the stay. Its value lies in the quality of this particular touchpoint: the function remains clear, while the material and execution relate to the hotel setting."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Planning something similar?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Tell us the application, quantity and design direction you have in mind."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-ritz-detail.webp",
+     "alt": "Detail of the Ritz-Carlton key card holder",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=The%20Ritz-Carlton%2C%20Wolfsburg",
+     "label": "Discuss your project",
+     "style": "button"
+    },
+    {
+     "href": "/en/collections/other-accessories/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/en/projects/",
+     "label": "All projects",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

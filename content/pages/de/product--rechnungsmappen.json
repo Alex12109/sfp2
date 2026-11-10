@@ -1,0 +1,608 @@
+{
+ "language": "de",
+ "key": "product:rechnungsmappen",
+ "slug": "product--rechnungsmappen",
+ "url": "/produkte/rechnungsmappen/",
+ "template": "family",
+ "title": "Rechnungsmappen & Rechnungsboxen",
+ "description": "Die Rechnung ist ein letzter Berührungspunkt mit Ihrem Haus. Eine passende Mappe oder Box führt die Sorgfalt des Service bis zu diesem Moment fort.",
+ "alternate": {
+  "de": "/produkte/rechnungsmappen/",
+  "en": "/en/products/bill-presenters/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Speisekarten & Dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Rechnungsmappen &amp; Rechnungsboxen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Rechnung ist ein letzter Berührungspunkt mit Ihrem Haus. Eine passende Mappe oder Box führt die Sorgfalt des Service bis zu diesem Moment fort.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=rechnungsmappen",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Rechnungsmappen%20%26%20Rechnungsboxen",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Geschlossene Rechnungsmappe mit Logo – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v5-bill.webp",
+       "alt": "Geöffnete SFP-Rechnungsbox",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der letzte Moment bleibt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Rechnung ist kein bloßer Verwaltungsschritt, sondern der letzte Gegenstand, den ein Gast am Tisch erhält. Eine Rechnungsmappe kann diesen Moment diskret und direkt fassen; eine Rechnungsbox gibt der Übergabe mehr räumliche Präsenz. Als Ausgangspunkte stehen die Mappe mit 125 × 230 mm und die Box mit 130 × 230 × 35 mm zur Verfügung. Individuelles Format, Steppnaht und Prägung werden auf den Einsatz abgestimmt. Farbe und Oberfläche können die Speisekarten zitieren, ohne sie exakt zu kopieren. Besonders bei einer kleinen Fläche entscheidet die Zurückhaltung: Beleg, Zahlungsmittel und möglicher Stift sollen Platz finden, während die Geste leicht und selbstverständlich bleibt."
+    },
+    {
+     "type": "p",
+     "html": "Spielen Sie die Übergabe mit den tatsächlichen Belegen durch. Was wird eingelegt, was soll verdeckt bleiben, und wie nimmt der Service die Mappe oder Box wieder auf? Die Innenaufteilung richtet sich nach diesem Ablauf. Auch Tischgröße, Servicetablett und der Platz an der Kasse können die Entscheidung zwischen flacher Mappe und Box beeinflussen. Ein Muster zeigt, ob es sicher getragen, leise abgelegt und zügig für den nächsten Einsatz vorbereitet werden kann. Die Prägung wird in Originalgröße zu Innenaufteilung und Kante gesetzt. Gemeinsam mit der Menükarte entsteht so eine bewusste Klammer: Das erste und das letzte Produkt des Besuchs sprechen dieselbe gestalterische Sprache, erfüllen aber ihre jeweils eigene Aufgabe."
+    },
+    {
+     "type": "p",
+     "html": "Werden mehrere Outlets ausgestattet, erhält jede Version eine eindeutige Zuordnung. Ein wiederkehrendes Leder oder Logo kann die Häuser verbinden, während Innenaufteilung und Format zum jeweiligen Zahlungsablauf passen."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-bill-interior.webp",
+     "alt": "Rechnungsmappe mit Innentasche und Stifthalterung",
+     "width": 1500,
+     "height": 1000,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-bill-box.webp",
+     "alt": "Holz und Lederdetail einer Rechnungsbox",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Belegformat und Übergabeablauf prüfen",
+        "Mappe oder Box passend zum Service wählen",
+        "Mit den Speisekarten gestalterisch verbinden"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=rechnungsmappen",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=rechnungsmappen"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Mappe oder Box",
+     "body": [
+      {
+       "type": "p",
+       "html": "Die flache Form wirkt reduziert, eine Box schafft einen gefassten Innenraum. Wählen Sie nach Handhabung und gewünschter Präsentation."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Der Zahlungsablauf",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rechnungsformat und tatsächliche Abläufe sind die Grundlage. Anforderungen an Karten, Belege oder Einlagen gehören ins Briefing."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Eine Linie mit dem Menü",
+     "body": [
+      {
+       "type": "p",
+       "html": "Gleiche Materialien oder bewusst abgestufte Farben verbinden Speisekarte, Rechnungspräsentation und Tischset."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Mappe oder Box passend zum Servicekonzept",
+      "Platz für Rechnung und Zahlungsablauf mitdenken",
+      "Abgestimmte Farbe und Logoveredelung"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Rechnungsmappe",
+     "v": "125 × 230 mm"
+    },
+    {
+     "k": "Rechnungsbox",
+     "v": "130 × 230 × 35 mm"
+    },
+    {
+     "k": "Optionen",
+     "v": "Individuelles Format, Steppnaht und Prägung"
+    },
+    {
+     "k": "Innenausstattung",
+     "v": "Taschen, Magnetleisten oder Stifthalterung bei Mappen; Innenaufteilung nach Ausführung"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/projekte/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/grand-hyatt-vox/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tischsets/",
+     "title": "Tischsets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine ruhige Basis für Ihr Tischkonzept. Form, Proportionen und Oberfläche werden auf Tisch, Geschirr und die Abläufe im Service abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Tischsets im Restaurantservice",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/speisekarten/",
+     "title": "Speisekarten",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ihr Menü verdient eine passende Hülle. Ausgewählte Bindungen und Materialien verbinden den Charakter Ihres Hauses mit den Anforderungen Ihres Service."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail der Schraubbindung einer SFP-Speisekarte",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/coaster/",
+     "title": "Coaster",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kleines Detail mit hoher Präsenz am Tisch. In Format und Oberfläche auf Gläser, Tischsets und das Materialkonzept abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Runde und eckige Coaster in verschiedenen Materialien – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/rechnungsboxen/\">Rechnungsboxen</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rechnungsboxen geben der Übergabe am Ende des Service eine feste, dreidimensionale Form. Der Kern kann aus Karton oder Holz bestehen und ganz oder teilweise mit Leder, Buchbinderleinen oder Piquét bezogen werden. Standard- und Sondermaße, Taschen, Magnetleisten, Polsterung und eine individuelle Prägung stimmen die Box auf Zahlungsablauf und Markenauftritt ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsboxen.webp",
+       "alt": "Rechnungsboxen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/rechnungsboxen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=rechnungsboxen",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/rechnungsboxen/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/rechnungsmappen/\">Rechnungsmappen</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rechnungsmappen präsentieren Beleg und Karte in einem flachen, gut zu übergebenden Format. Sie werden aus Echtleder, PU-Leder, Buchbinderleinen oder Piquét gefertigt und können Taschen, Magnetleisten oder einen Stifthalter aufnehmen. Zwei rechteckige sowie ein quadratisches Ausgangsformat, Sondermaße, Naht, Polsterung und Prägung lassen sich auf den Service abstimmen."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Rechnungsmappen – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/rechnungsmappen/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=rechnungsmappen",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/rechnungsmappen/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

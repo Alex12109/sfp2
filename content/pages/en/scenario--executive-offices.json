@@ -1,0 +1,278 @@
+{
+ "language": "en",
+ "key": "scenario:executive-offices",
+ "slug": "scenario--executive-offices",
+ "url": "/en/solutions/executive-offices/",
+ "template": "scenario",
+ "title": "Spaces for decisions. Details with purpose.",
+ "description": "Coordinated leather accessories for boardrooms, executive offices and reception areas. Functional, considered and distinctively yours.",
+ "alternate": {
+  "de": "/loesungen/executive-offices/",
+  "en": "/en/solutions/executive-offices/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Spaces for decisions. Details with purpose."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Coordinated leather accessories for boardrooms, executive offices and reception areas. Functional, considered and distinctively yours.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v5-desk.webp",
+     "alt": "Design study: cognac notepad holder, taupe desk pad and waste bin in a suite",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Executive%20offices%20%26%20institutions",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "On a meeting table, several accessories appear together: desk pads, notepad holders, coasters and small trays. Proportions and spacing shape the impression as much as colour. Review the ensemble alongside the intended table, equipment and the actual meeting routine."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "A considered approach to the workspace"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "From a single desk to a large suite of meeting spaces, we develop desk pads, notepad holders, trays and waste bins as coordinated accessories. Fine genuine Italian leather or high-quality PU in a wide choice of colours and finishes is selected to suit each item. Dimensions, branding and details follow your working environment, with hand manufacture in the EU."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "For brand identity and daily use"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Beyond corporate identity, we consider practical routines: how many places need equipping, which documents will be available and what formats are used regularly? For institutional projects, we incorporate your stated procurement and documentation requirements into the discussion."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/room-accessories/",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Number of workstations or seats, table dimensions, material scheme and branding requirements."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Executive%20offices%20%26%20institutions",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "From our work."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/william-blair/",
+     "title": "William Blair",
+     "body": [
+      {
+       "type": "p",
+       "html": "Personalised leather office accessories. SFP translated the client’s design inspiration into a practical specification."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-blair.webp",
+       "alt": "Round leather coaster with William Blair blind debossing — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/briefing-a-bespoke-project/\">What makes a useful bespoke brief?From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.Read the article</a><a href=\"/en/journal/choosing-materials-for-hospitality/\">Material selection starts with the setting.Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.Read the article</a><a href=\"/en/journal/menu-covers-binding-and-format/\">Choosing menu covers for your service.Format, binding and page count determine how well a menu cover works in daily service.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

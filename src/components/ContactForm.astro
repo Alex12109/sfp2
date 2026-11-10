@@ -1,0 +1,143 @@
+---
+/**
+ * Projektbrief in drei Schritten. Es wird nichts versendet: Ergebnis ist ein
+ * E-Mail-Entwurf, eine Kopie oder ein Textdownload (Bestandsweg).
+ */
+import type { Lang, Section } from '../lib/types';
+import { t, scenarios, collections } from '../i18n/ui';
+import { heading } from '../lib/content';
+import { ENQUIRY_MODE } from '../services/enquiry-service';
+import Arrow from './Arrow.astro';
+interface Props { lang: Lang; s: Section }
+const { lang, s } = Astro.props;
+const ui = t(lang);
+const f = ui.form;
+const body = (s.body ?? []).filter((b) => b.type === 'p');
+const role = (r?: string) => body.filter((b) => b.type === 'p' && b.role === r);
+const intro = role(undefined);
+const links = role('contact-links')[0];
+const scope = role('business-scope')[0];
+const note = role('note')[0];
+const lines = heading(s.title?.html).split(/<br\s*\/?>/);
+---
+<section class="sec enquiry tone-ivory">
+  <div class="wrap enquiry__grid">
+    <aside class="enquiry__aside">
+      <p class="label anim-rise">{f.reviewTitle.replace(/^(Ihr|Your) /, '')}</p>
+      <h1>{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i + 1}`} set:html={l} />)}</h1>
+      <div class="anim-rise" style="--i:3">
+        {intro.map((p) => p.type === 'p' && <p class="lead" set:html={p.html} />)}
+        {links && links.type === 'p' && <p class="enquiry__links" set:html={links.html} />}
+        {scope && scope.type === 'p' && <p class="enquiry__scope" set:html={scope.html} />}
+        {note && note.type === 'p' && <p class="note" set:html={note.html} />}
+      </div>
+    </aside>
+
+    <div class="enquiry__main" data-enquiry data-lang={lang} data-mode={ENQUIRY_MODE} data-catalog={`/data/catalog.${lang}.json`} data-planner={ui.plannerUrl}>
+      {ENQUIRY_MODE === 'demo' && <p class="status status--demo" role="note">{f.demoBadge}</p>}
+      <ol class="steps" aria-label={f.progress}>
+        {f.steps.map((label, i) => (
+          <li class:list={[i === 0 && 'is-active']} aria-current={i === 0 ? 'step' : undefined}>
+            <button type="button" data-step={i} disabled={i > 0}><span>{String(i + 1).padStart(2, '0')}</span>{label}</button>
+          </li>
+        ))}
+      </ol>
+      <form id="inquiry" novalidate>
+        <fieldset data-panel>
+          <legend tabindex="-1">{f.legend1}</legend>
+          <div class="field">
+            <label for="scenario">{f.scenario}</label>
+            <select name="scenario" id="scenario">
+              {scenarios.map((o) => <option value={o.value} data-aliases={JSON.stringify([o.de, o.en])}>{o[lang]}</option>)}
+            </select>
+          </div>
+          <div class="field">
+            <label for="collection">{f.collection}</label>
+            <select name="collection" id="collection">
+              {collections.map((o) => <option value={o.value} data-aliases={JSON.stringify([o.de, o.en])}>{o[lang]}</option>)}
+            </select>
+          </div>
+          <div class="form-buttons">
+            <span></span>
+            <button type="button" class="btn" data-next>{f.next}<Arrow /></button>
+          </div>
+        </fieldset>
+
+        <fieldset data-panel>
+          <legend tabindex="-1">{f.legend2}</legend>
+          <details class="enquiry__selection" data-selection hidden>
+            <summary>{f.selectionTitle}<span class="fold__mark" aria-hidden="true"></span></summary>
+            <pre class="brief" data-selection-text></pre>
+            <a class="link" href={ui.plannerUrl} data-edit-selection>{f.editSelection}<Arrow /></a>
+          </details>
+          <div class="field-row">
+            <div class="field">
+              <label for="quantity">{f.quantity}</label>
+              <input id="quantity" name="quantity" type="text" placeholder={f.quantityPlaceholder} />
+            </div>
+            <div class="field">
+              <label for="delivery">{f.delivery}</label>
+              <input id="delivery" name="delivery" type="text" placeholder={f.deliveryPlaceholder} />
+            </div>
+          </div>
+          <div class="field">
+            <label for="description" data-label={f.description}>{f.description} *</label>
+            <p id="description-help" class="note">{f.descriptionHelp}</p>
+            <textarea name="description" id="description" rows="6" aria-describedby="description-help" required></textarea>
+          </div>
+          <div class="form-buttons">
+            <button type="button" class="btn btn--outline" data-back>{f.back}</button>
+            <button type="button" class="btn" data-next>{f.next}<Arrow /></button>
+          </div>
+        </fieldset>
+
+        <fieldset data-panel>
+          <legend tabindex="-1">{f.legend3}</legend>
+          <div class="field-row">
+            <div class="field">
+              <label for="name">{f.name} *</label>
+              <input id="name" name="name" type="text" required autocomplete="name" />
+            </div>
+            <div class="field">
+              <label for="company">{f.company}</label>
+              <input id="company" name="company" type="text" autocomplete="organization" />
+            </div>
+          </div>
+          <div class="field-row">
+            <div class="field">
+              <label for="email">{f.email} *</label>
+              <input id="email" name="email" type="email" required autocomplete="email" />
+            </div>
+            <div class="field">
+              <label for="phone">{f.phone}</label>
+              <input id="phone" name="phone" type="tel" autocomplete="tel" />
+            </div>
+          </div>
+          <p class="note">{f.required} <a href={ui.privacyUrl}>{f.privacy}</a></p>
+          <div class="form-buttons">
+            <button type="button" class="btn btn--outline" data-back>{f.back}</button>
+            <button class="btn" type="submit">{f.prepare}<Arrow /></button>
+          </div>
+        </fieldset>
+      </form>
+
+      <div id="review" class="review" tabindex="-1" hidden>
+        <h2>{f.reviewTitle}</h2>
+        <pre id="summary" class="brief"></pre>
+        <p class="note review__notice">{f.notSent}</p>
+        <div class="actions">
+          <a id="email-link" class="btn" href="mailto:mail@sfp-berlin.com">{f.openEmail}<Arrow /></a>
+          <button type="button" class="btn btn--outline" id="copy-brief">{f.copy}</button>
+          <button type="button" class="btn btn--outline" id="download-brief">{f.download}</button>
+          {ENQUIRY_MODE !== 'draft' && <button type="button" class="btn btn--outline" id="demo-send">{f.demoSend}</button>}
+        </div>
+      </div>
+      <p id="form-status" class="status" role="status" aria-live="polite"></p>
+      <p><button type="button" class="link" id="enquiry-reset">{f.reset}</button></p>
+      <noscript><p class="status status--error">{f.noscript}</p></noscript>
+    </div>
+  </div>
+</section>
+<script>
+  import '../scripts/contact-boot';
+</script>

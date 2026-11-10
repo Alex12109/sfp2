@@ -1,0 +1,522 @@
+{
+ "language": "de",
+ "key": "product:kofferanhaenger",
+ "slug": "product--kofferanhaenger",
+ "url": "/produkte/kofferanhaenger/",
+ "template": "family",
+ "title": "Kofferanhänger",
+ "description": "Ein Kofferanhänger verbindet ein persönliches Geschenk mit echtem Nutzen. Die richtige Form, eine angenehme Haptik und ein diskretes Logo machen ihn zu einem Begleiter.",
+ "alternate": {
+  "de": "/produkte/kofferanhaenger/",
+  "en": "/en/products/luggage-tags/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Travel & Gifts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Kofferanhänger"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Kofferanhänger verbindet ein persönliches Geschenk mit echtem Nutzen. Die richtige Form, eine angenehme Haptik und ein diskretes Logo machen ihn zu einem Begleiter.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=kofferanhaenger",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Kofferanh%C3%A4nger",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Kofferanhänger mit geprägtem Logo und Schnalle – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-travel.webp",
+       "alt": "Cognacfarbener Kofferanhänger und burgunderfarbener Schlüsselanhänger mit geöffneter Geschenkbox.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/luggage-detail-v3.webp",
+       "alt": "Gestaltungsstudie eines cognacfarbenen Leder-Kofferanhängers mit Schnalle und Sichtfenster",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Ihre Marke geht auf Reisen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Kofferanhänger ist ein kleines Lederaccessoire mit einer sehr persönlichen Aufgabe. Er kennzeichnet Gepäck, begleitet eine Reise und kann lange nach einem Event an ein Haus oder eine Marke erinnern. Das Ausgangsformat 65 × 112 mm gibt eine erste Proportion vor; Sonderformat und individuelle Verpackung werden auf Anfrage besprochen. Seine Wirkung entsteht aus der Balance von Silhouette, Leder, Adressfenster, Lasche und Schnalle. Ein Logo muss dafür nicht groß sein. Blindprägung oder ein anderer abgestimmter Markenakzent kann die Identität ruhig tragen, während die Beschläge dem Anhänger Rhythmus und Gewicht geben. Alles bleibt auf die tatsächliche Ausführung bezogen."
+    },
+    {
+     "type": "p",
+     "html": "Im Briefing klären wir, welche Angaben sichtbar sein sollen und wie die Adresskarte gewechselt wird. Breite und Länge der Lasche müssen zum Gepäckgriff passen; die Schnalle sollte gemeinsam mit Kanten, Naht und Logo betrachtet werden. Ein Layout in Originalgröße zeigt, ob feine Schrift und kleine Markenbestandteile auf der verfügbaren Fläche funktionieren. Denken Sie auch an den Moment der Übergabe: einzeln, in einer individuellen Verpackung, als Teil eines Reisesets oder mit einer persönlichen Nachricht. Sonderformen können eine Marke aufnehmen, müssen aber weiterhin gut zu handhaben sein. Das Muster verbindet deshalb grafische Prüfung und praktischen Test, bevor aus dem Give-away ein Begleiter für echte Reisen wird."
+    },
+    {
+     "type": "p",
+     "html": "Für mehrere Empfängergruppen können Farbe, Prägung oder Verpackung variieren, während Grundform und Materialwelt verbunden bleiben. Jede Version wird mit Anlass, Menge und freigegebenem Layout eindeutig bezeichnet."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-luggage-window.webp",
+     "alt": "Kofferanhänger mit Kartenfenster",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-luggage-form.webp",
+     "alt": "Form und Schnalle eines Kofferanhängers",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Adressfenster und gewünschte Sichtbarkeit festlegen",
+        "Schnalle und Logo als Gesamtbild betrachten",
+        "Verpackung und Anlass gemeinsam planen"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=kofferanhaenger",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=kofferanhaenger"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Eine eigene Kontur",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nutzen Sie eine bewährte Form oder besprechen Sie Sondermaße und eine markentypische Silhouette."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Diskretion &amp; Beschläge",
+     "body": [
+      {
+       "type": "p",
+       "html": "Sichtschutzklappe und Kartenfenster verbinden Funktion mit Zurückhaltung. Gold- und silberfarbene Schnallen sind mögliche Details."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Als Präsent gedacht",
+     "body": [
+      {
+       "type": "p",
+       "html": "Logogröße, Blind- oder Folienprägung und Verpackung bestimmen gemeinsam den Eindruck bei der Übergabe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Echtleder oder PU-Material, zwei Standardgrößen",
+      "Sondergrößen und Sonderformen auf Anfrage",
+      "Visitenkartenfenster mit Sichtschutzklappe",
+      "Gold- oder silberfarbene Schnalle; Blind- oder Folienprägung"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Ausgangsformat",
+     "v": "65 × 112 mm"
+    },
+    {
+     "k": "Optionen",
+     "v": "Sonderformat und individuelle Verpackung auf Anfrage"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "BMW Group Classic Events"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuell gefertigte Kofferanhänger aus Echtleder für BMW Group Classic Events. Produktseitig umgesetzt von SFP in Zusammenarbeit mit der betreuenden Agentur Metzler+Vater."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v15-bmw-seat.webp",
+     "alt": "Kofferanhänger mit BMW Group Classic Branding im Detail",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/projekte/bmw-group-classic/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/bmw-group-classic/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/schluesselanhaenger/",
+     "title": "Schlüsselanhänger",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kompaktes Präsent für tägliche Wege. Material und Veredelung lassen sich mit Kofferanhängern oder anderen Präsenten zu einer gemeinsamen Linie verbinden."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-schlusselanhanger.webp",
+       "alt": "Leder-Schlüsselanhänger in einer Geschenkbox – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Modelle &amp; einzelne Artikel"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie einen konkreten Artikel als Ausgangspunkt. Materialien, Formate und Details lassen sich in Ihrer Anfrage pro Position festhalten."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/produkte/modelle/kofferanhanger/\">Kofferanhänger</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Kofferanhänger kennzeichnen Gepäck und verbergen die persönlichen Daten hinter einem Sichtschutz. Zwei Standardgrößen sowie Sondermaße und Sonderformen stehen zur Wahl; Echt- oder PU-Leder bildet den Körper. Eine gold- oder silberfarbene Schnalle, unterschiedliche Formen sowie Blind- oder Folienprägung verbinden Reisebezug, praktische Nutzung und sichtbare Markenkennzeichnung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-kofferanhanger.webp",
+       "alt": "Kofferanhänger – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/kofferanhanger/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=kofferanhanger",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/kofferanhanger/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

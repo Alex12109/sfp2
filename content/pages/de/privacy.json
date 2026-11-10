@@ -1,0 +1,96 @@
+{
+ "language": "de",
+ "key": "privacy",
+ "slug": "privacy",
+ "url": "/datenschutz/",
+ "template": "legal",
+ "title": "Datenschutz",
+ "description": "Informationen zur Nutzung dieser Website und zur Kontaktaufnahme.",
+ "alternate": {
+  "de": "/datenschutz/",
+  "en": "/en/privacy/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Datenschutz"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Informationen zur Nutzung dieser Website und zur Kontaktaufnahme.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "prose": {
+    "chapters": [
+     {
+      "id": null,
+      "title": "Ihre Produktauswahl",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Der Konfigurator speichert Ihre Produktauswahl und Ihren Anfrageentwurf einschließlich eingegebener Kontaktdaten für die aktuelle Browsersitzung lokal. So können Sie Artikel bearbeiten oder die Sprache wechseln, ohne Ihren Entwurf zu verlieren. Über „Neue Anfrage beginnen“ können Sie den Entwurf löschen. Es werden dabei keine Konfigurationsdaten automatisch an SFP gesendet."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Verantwortlicher Kontakt",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "SFP Hospitality GmbH, Dahlmannstraße 11, 10629 Berlin. Für Fragen zum Umgang mit Ihren Angaben erreichen Sie uns unter mail@sfp-berlin.com."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Ihr Projektbrief",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Angaben im Projektbrief-Formular werden während der Eingabe im Browser verarbeitet. Diese Website speichert den Brief nicht in einer eigenen Datenbank und versendet ihn nicht automatisch. Wenn Sie den E-Mail-Entwurf öffnen, werden die Angaben an Ihr E-Mail-Programm übergeben. Erst durch Ihren dortigen Versand erreicht die Anfrage SFP. Sie können den Brief alternativ als Textdatei herunterladen oder kopieren."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Kontakt per E-Mail oder Telefon",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Wenn Sie SFP kontaktieren, nutzen wir Ihre übermittelten Kontaktdaten und Projektinformationen zur Bearbeitung Ihrer Anfrage und zur weiteren Abstimmung. Bitte senden Sie nur Informationen, die für Ihr Anliegen erforderlich sind. Fragen zur Berichtigung oder Löschung Ihrer Angaben richten Sie bitte an die oben genannte Kontaktadresse."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Technische Bereitstellung",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Die Seiten verwenden lokal eingebundene Bilder, lokal eingebundene Schriften und eigenes JavaScript. In der Website sind keine zusätzlichen Analyse-, Werbe- oder Social-Media-Trackingdienste eingebunden. Für die technische Bereitstellung und eine gegebenenfalls erforderliche Anmeldung gelten zusätzlich die Informationen des Hosting-Anbieters."
+       }
+      ]
+     }
+    ],
+    "summary": null,
+    "nav": []
+   }
+  }
+ ]
+}

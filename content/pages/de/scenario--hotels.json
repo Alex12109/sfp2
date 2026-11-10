@@ -1,0 +1,316 @@
+{
+ "language": "de",
+ "key": "scenario:hotels",
+ "slug": "scenario--hotels",
+ "url": "/loesungen/hotels/",
+ "template": "scenario",
+ "title": "Ein Haus mit Charakter. Bis ins kleinste Detail.",
+ "description": "Individuelle Lederaccessoires als Teil Ihres Hotel-OS&E: Operating Supplies & Equipment. Für Gästezimmer, Suiten und Empfang, nach Ihrem Interior und Ihren Abläufen gestaltet und in der EU von Hand gefertigt.",
+ "alternate": {
+  "de": "/loesungen/hotels/",
+  "en": "/en/solutions/hotels/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Ein Haus mit Charakter. Bis ins kleinste Detail."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Individuelle Lederaccessoires als Teil Ihres Hotel-OS&amp;E: Operating Supplies &amp; Equipment. Für Gästezimmer, Suiten und Empfang, nach Ihrem Interior und Ihren Abläufen gestaltet und in der EU von Hand gefertigt.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-collection-room.webp",
+     "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Hotels%20%26%20Resorts",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Jedes Detail gehört zum Erlebnis."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Denken Sie in Berührungspunkten: Ankommen, Arbeiten, Kaffeepause, Bad und Abreise. Eine gemeinsame Materiallinie kann diese Momente verbinden. Im Briefing unterscheiden wir Zimmerkategorien und öffentliche Bereiche, damit nicht jede Funktion dieselbe Konstruktion erhält. Entscheidend ist, wo eine einheitliche Handschrift trägt und wo der Betrieb eine eigene Lösung braucht."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/produkte/schreibunterlagen/",
+     "label": "Schreibunterlagen",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/notizblockhalter/",
+     "label": "Notizblockhalter",
+     "style": "text"
+    },
+    {
+     "href": "/produkte/trays/",
+     "label": "Trays & Tabletts",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion statt einzelner Entscheidungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Schreibtisch, eine Minibar und ein Badezimmer erfüllen unterschiedliche Aufgaben. Material, Proportionen und Veredelung können sie dennoch miteinander verbinden. Wir stimmen Schreibunterlagen, Trays, Notizblockhalter, Papierkörbe und Tissue-Boxen als zusammengehörige Ausstattung ab. Dabei muss nicht jeder Artikel gleich aussehen: Die gemeinsame Handschrift entsteht aus passenden Oberflächen und sorgfältig gesetzten Details."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Für Neueröffnung, Refurbishment und Ergänzung"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Eine einzelne Suite, eine sehr kleine Ergänzungsserie oder die Ausstattung eines ganzen Hauses: Wir richten den Projektumfang nach Ihrem Bedarf aus und verfügen auch für große Vorhaben über die nötige Kapazität. Raumpläne, Referenzfotos und die vorgesehenen Gegenstände helfen, Formate und Unterteilungen zu entwickeln. Bei Nachbestellungen gleichen wir vorhandene Ausführung und aktuelle Materialverfügbarkeit ab."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Design und Betrieb gemeinsam denken"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Beziehen Sie Interior Design, Einkauf und Housekeeping früh in die Abstimmung ein. Wie wird ein Artikel genutzt, gereinigt und nachgefüllt? Passt das Tray zur gewählten Kaffeemaschine? Lässt sich die Tissue-Box mit dem vorgesehenen Verbrauchsmaterial bestücken? Diese Fragen gehören in die Bemusterung, bevor die Serie entsteht."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Passende Ausgangspunkte."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/kollektionen/schreibkultur-tisch/",
+     "title": "Schreibkultur &amp; Konferenz",
+     "body": [
+      {
+       "type": "p",
+       "html": "Schreibunterlagen und Notizblockhalter für Suiten, Arbeitsplätze und Konferenztische. In Format, Material und Prägung als gemeinsame Linie entwickelt."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupefarbene Schreibunterlage und Notizblockhalter mit cognacfarbenem Tray auf einem Nussbaumschreibtisch.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/trays-ablage/",
+     "title": "Trays &amp; Ablage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Tabletts und Ablagen, deren Maße sich nach dem Inhalt richten. Für Minibar, Schreibtisch und einen sorgfältig inszenierten Service."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Tischkollektion mit Coastern, Trays und Tischsets in Olive, Taupe und Cognac aus der Vogelperspektive.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/kollektionen/raumaccessoires/",
+     "title": "Raumaccessoires",
+     "body": [
+      {
+       "type": "p",
+       "html": "Papierkörbe und Tissue-Boxen als Teil Ihres Interieurs. In einer Material- und Farbsprache, die selbstverständlich zum Raum gehört."
+      },
+      {
+       "type": "p",
+       "html": "Entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Abgestimmte Zimmerkollektion aus dunkelbraunem Papierkorb, Tissue-Box und Tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Das hilft uns beim Start."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Zimmerkategorien, Stückzahlen, Einsatzbereiche und vorhandenes Materialkonzept."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Hotels%20%26%20Resorts",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Aus der Praxis."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/projekte/vier-jahreszeiten-muenchen/",
+     "title": "Vier Jahreszeiten, München",
+     "body": [
+      {
+       "type": "p",
+       "html": "Lederartikel für die Zimmerausstattung, mit Erstberatung vor Ort und jährlichen Nachbestellungen seit 2017."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-vier.webp",
+       "alt": "Abgestimmte Zimmeraccessoires mit Vier-Jahreszeiten-Prägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/projekte/ritz-carlton-wolfsburg/",
+     "title": "The Ritz-Carlton, Wolfsburg",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein Keycard-Etui aus Echtleder für The Ritz-Carlton in Wolfsburg. Entwickelt in direkter Abstimmung mit dem Hotel."
+      },
+      {
+       "type": "p",
+       "html": "Projekt ansehen",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-case-ritz.webp",
+       "alt": "Schwarzes Keycard-Etui mit The Ritz-Carlton Wolfsburg Prägung – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideen für Ihr nächstes Projekt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/journal/materialauswahl-hospitality/\">Materialwahl beginnt beim Einsatzort.Echtleder, PU und Holz erfüllen unterschiedliche gestalterische Aufgaben. Eine gute Entscheidung berücksichtigt mehr als die Farbe.Beitrag lesen</a><a href=\"/journal/hotelaccessoires-als-kollektion/\">Eine Zimmerkollektion muss zusammenarbeiten.Warum sich Accessoires gemeinsam mit Interior Design, Einkauf und Housekeeping besser planen lassen.Beitrag lesen</a><a href=\"/journal/hotelzimmer-lederaccessoires-abstimmen/\">Lederaccessoires fürs Hotelzimmer als Kollektion planenEin praktischer Leitfaden für Interior Design, Einkauf und Housekeeping: Funktionen, Maße, Materialien und Freigaben gemeinsam planen.Beitrag lesen</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/journal/",
+     "label": "Zum Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

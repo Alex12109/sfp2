@@ -1,0 +1,198 @@
+{
+ "language": "de",
+ "key": "case:hapag-lloyd-tui",
+ "slug": "case--hapag-lloyd-tui",
+ "url": "/projekte/hapag-lloyd-tui/",
+ "template": "project",
+ "title": "Hapag-Lloyd Cruises & TUI · Reiseaccessoires für den direkten Kundenkontakt.",
+ "description": "Kofferanhänger und Kosmetiktaschen für eigene Travelbüros in Europa. Direkt beauftragte Accessoires mit einem klaren Bezug zum Reisen.",
+ "alternate": {
+  "de": "/projekte/hapag-lloyd-tui/",
+  "en": "/en/projects/hapag-lloyd-tui/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Reiseaccessoires für den direkten Kundenkontakt."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Kofferanhänger und Kosmetiktaschen für eigene Travelbüros in Europa. Direkt beauftragte Accessoires mit einem klaren Bezug zum Reisen.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-hapag-lloyd-cruises-current.svg",
+     "alt": "Hapag-Lloyd Cruises",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/logo-tui-cruises-current.svg",
+     "alt": "TUI Cruises",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-hapag.webp",
+     "alt": "Kofferanhänger und Reisetäschchen mit Hapag-Lloyd Cruises Branding – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "Hapag-Lloyd Cruises &amp; TUI"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Travel · Markenpräsente"
+    },
+    {
+     "k": "Umfang",
+     "v": "Kofferanhänger · Kosmetiktaschen · Travelbüros"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Hapag-Lloyd Cruises steht für Luxus- und Expeditionskreuzfahrten; zum Angebot gehören Reisen mit den Schiffen EUROPA und EUROPA 2 sowie drei HANSEATIC-Expeditionsschiffen. Das SFP-Projekt entstand für eigene Travelbüros von Hapag-Lloyd Cruises und TUI in Europa. Diese Büros sind ein persönlicher Kontaktpunkt vor der eigentlichen Reise: Beratung, Auswahl und Vorfreude treffen dort auf den Markenauftritt. Mit Kofferanhängern und Kosmetiktaschen fiel die Wahl auf zwei Produkte, deren Nutzung unmittelbar zur Reise gehört. Die Kombination verlagert die Erinnerung an das Gespräch aus dem Büro in eine spätere, praktische Situation."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die Auswahl verbindet einen Kofferanhänger zur Kennzeichnung von Gepäck mit einer Tasche für persönliche Reiseutensilien. Beide Produkte teilen den Reisekontext, erfüllen aber unterschiedliche Aufgaben. Beim Anhänger stehen Befestigung, Adressfeld und der Umgang mit persönlichen Daten im Vordergrund. Bei der Kosmetiktasche bestimmen Inhalt, Öffnung, Verschluss und Handhabung die sinnvolle Form. Eine gemeinsame Markenwirkung kann über Material, Farbe und Kennzeichnung entstehen, ohne die Produkte konstruktiv gleich zu behandeln."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP setzte die Auswahl produktseitig für die Travelbüros um. Bei einer zweiteiligen Geschenkserie beginnt die Abstimmung mit dem gemeinsamen Auftritt: Wie sichtbar soll die Marke sein, welche Material- und Farbwirkung verbindet beide Produkte, und wie werden sie am Beratungsort übergeben? Danach folgt die funktionsbezogene Ausarbeitung. Ein Kofferanhänger muss kompakt am Gepäck sitzen; eine Tasche braucht Volumen und einen gut bedienbaren Zugang. Wiederkehrende Kennzeichnung kann die beiden Begleiter als Set lesbar machen, während ihre Proportionen dem Gebrauch folgen."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Die beiden Accessoires geben dem Giveaway einen nachvollziehbaren Platz in der Customer Journey. Sie werden im Travelbüro überreicht, sind aber für die anschließende Reise bestimmt. Dadurch bleibt die Markenbeziehung an eine konkrete Nutzung gebunden: Der Anhänger begleitet das Gepäck, die Tasche ordnet persönliche Dinge. Für Hapag-Lloyd Cruises und TUI entstand eine Auswahl, die Beratung und Reise in einer gemeinsamen Produktidee verbindet. Für die Büros bietet das Set außerdem einen klaren erzählerischen Anlass bei der Übergabe, ohne dass der Nutzen ausführlich erklärt werden muss."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-hapag-detail.webp",
+     "alt": "Details der Hapag-Lloyd Reiseaccessoires",
+     "width": 1200,
+     "height": 800,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=Hapag-Lloyd%20Cruises%20%26%20TUI",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/travel-gifts/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

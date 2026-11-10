@@ -1,0 +1,134 @@
+{
+ "language": "en",
+ "key": "white-label",
+ "slug": "white-label",
+ "url": "/en/white-label/",
+ "template": "page",
+ "title": "White label for agencies & brands",
+ "description": "White-label leather accessories for agencies and brands, from your design direction to an agreed production specification.",
+ "alternate": {
+  "de": "/white-label/",
+  "en": "/en/white-label/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Your brand. Our expertise."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "White-label leather accessories for agencies and brands, from your design direction to an agreed production specification.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/luggage-detail-v3.webp",
+     "alt": "Design study of a cognac leather luggage tag with a buckle and privacy window",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Start with your idea"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A moodboard, sketch or existing accessory can provide the starting point. We work through materials, dimensions, fittings and branding with you. Roles are agreed early: who leads the design, who consolidates feedback and who approves the specification?"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Respect your client relationship"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "We support agencies with product development and execution. Contacts, presentation and review routes are aligned with the working relationship. Confidentiality and labelling requirements belong in the initial brief."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "From sample to production"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Material samples, artwork and the agreed sampling process make your idea reviewable. After approval, the agreed specification is handmade in the EU. Whether you need a one-off for a special occasion, a very small run or a substantial brand commission, we plan the scope with you and consider future additions."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "An agency collaboration in practice."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/projects/bmw-group-classic/",
+     "title": "BMW Group Classic Events",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bespoke genuine-leather luggage tags for BMW Group Classic Events. Realised by SFP in collaboration with the appointed agency, Metzler+Vater."
+      },
+      {
+       "type": "p",
+       "html": "View project",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v15-bmw-seat.webp",
+       "alt": "Luggage tag with BMW Group Classic branding in detail",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

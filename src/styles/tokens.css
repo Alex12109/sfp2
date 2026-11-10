@@ -1,0 +1,109 @@
+/*
+ * SFP // Old Copper – Design-Tokens (Corporate Design Final 1.2, 28.10.2026)
+ * Farben und Schriftrollen stammen unverändert aus 04_BRAND. Abgeleitete Werte
+ * (Linien, gedämpfter Text) sind Mischungen dieser sieben Farben, keine neuen Töne.
+ */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/brand/fonts/Montserrat.woff2') format('woff2');
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Newsreader';
+  src: url('/brand/fonts/Newsreader.woff2') format('woff2');
+  font-weight: 200 800;
+  font-display: swap;
+}
+
+:root {
+  /* Palette */
+  --sfp-sand: #d6c8b6;
+  --sfp-forest: #253f3b;
+  --sfp-copper: #b77550;
+  --sfp-ivory: #f5f1e9;
+  --sfp-charcoal: #252725;
+  --sfp-parchment: #eee3d4;
+  --sfp-bronze: #80563d;
+
+  /* Schriftrollen */
+  --font-display: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-ui: 'Montserrat', Arial, Helvetica, sans-serif;
+
+  /* Schriftgrade (fluid, 320 → 1600 px) */
+  --t-hero: clamp(2.75rem, 1.35rem + 6.6vw, 7.25rem);
+  --t-h1: clamp(2.4rem, 1.5rem + 4vw, 5rem);
+  --t-h2: clamp(1.9rem, 1.3rem + 2.5vw, 3.4rem);
+  --t-h3: clamp(1.3rem, 1.15rem + 0.65vw, 1.75rem);
+  --t-lead: clamp(1.1rem, 1rem + 0.5vw, 1.4rem);
+  --t-body: 1.0625rem;
+  --t-small: 0.9rem;
+  --t-label: 0.75rem;
+
+  /* Raum */
+  --gutter: clamp(1.25rem, 0.4rem + 3.6vw, 4rem);
+  --section: clamp(4rem, 2.4rem + 7vw, 9.5rem);
+  --gap: clamp(1.25rem, 0.8rem + 1.6vw, 2.5rem);
+  --maxw: 96rem;
+  --measure: 62ch;
+  --mark: 0.7rem; /* Länge der Schnittmarken */
+
+  /* Bewegung */
+  --ease: cubic-bezier(0.2, 0.7, 0.1, 1);
+  --ease-soft: cubic-bezier(0.4, 0, 0.2, 1);
+  --dur: 0.6s;
+
+  --header-h: 123px; /* Wortmarke 08 bei 220 px inkl. Schutzraum */
+}
+@media (max-width: 899px) {
+  :root { --header-h: 106px; } /* Wortmarke 08 bei 190 px */
+}
+
+/* Flächen: jede Fläche setzt Vordergrund, Linie und Akzent passend zum Kontrastziel. */
+.tone-ivory, :root {
+  --bg: var(--sfp-ivory);
+  --fg: var(--sfp-charcoal);
+  --fg-soft: color-mix(in srgb, var(--sfp-charcoal) 84%, var(--sfp-ivory));
+  --structure: var(--sfp-forest);
+  --rule: color-mix(in srgb, var(--sfp-forest) 26%, transparent);
+  --rule-strong: var(--sfp-forest);
+  --accent: var(--sfp-copper); /* nur dekorativ / große Ziffern */
+  --accent-text: var(--sfp-bronze); /* nur ab 24 px regulär bzw. 18,67 px fett */
+  --field: var(--sfp-ivory);
+  --panel: var(--sfp-parchment);
+  --btn-bg: var(--sfp-forest);
+  --btn-fg: var(--sfp-ivory);
+  --btn-hover: var(--sfp-charcoal);
+}
+.tone-parchment {
+  --bg: var(--sfp-parchment);
+  --fg: var(--sfp-charcoal);
+  --fg-soft: color-mix(in srgb, var(--sfp-charcoal) 86%, var(--sfp-parchment));
+  --rule: color-mix(in srgb, var(--sfp-forest) 30%, transparent);
+  --panel: var(--sfp-ivory);
+  --field: var(--sfp-ivory);
+}
+.tone-sand {
+  --bg: var(--sfp-sand);
+  --fg: var(--sfp-charcoal);
+  --fg-soft: var(--sfp-charcoal);
+  --rule: color-mix(in srgb, var(--sfp-forest) 40%, transparent);
+  --accent-text: var(--sfp-forest);
+  --panel: var(--sfp-ivory);
+}
+.tone-forest, .tone-charcoal {
+  --bg: var(--sfp-forest);
+  --fg: var(--sfp-ivory);
+  --fg-soft: color-mix(in srgb, var(--sfp-ivory) 88%, var(--sfp-forest));
+  --structure: var(--sfp-ivory);
+  --rule: color-mix(in srgb, var(--sfp-ivory) 26%, transparent);
+  --rule-strong: var(--sfp-ivory);
+  --accent: var(--sfp-copper);
+  --accent-text: var(--sfp-sand);
+  --field: color-mix(in srgb, var(--sfp-ivory) 8%, transparent);
+  --panel: color-mix(in srgb, var(--sfp-ivory) 7%, transparent);
+  --btn-bg: var(--sfp-ivory);
+  --btn-fg: var(--sfp-charcoal);
+  --btn-hover: var(--sfp-sand);
+}
+.tone-charcoal { --bg: var(--sfp-charcoal); --fg-soft: color-mix(in srgb, var(--sfp-ivory) 86%, var(--sfp-charcoal)); }

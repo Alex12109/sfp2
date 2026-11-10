@@ -1,0 +1,127 @@
+{
+ "language": "en",
+ "key": "article:blindpraegung-folienpraegung",
+ "slug": "article--blindpraegung-folienpraegung",
+ "url": "/en/journal/blind-debossing-and-foil-stamping/",
+ "template": "article",
+ "title": "A logo does not need to be loud.",
+ "description": "How branding method, scale and placement change the character of a leather accessory.",
+ "alternate": {
+  "de": "/journal/blindpraegung-folienpraegung/",
+  "en": "/en/journal/blind-debossing-and-foil-stamping/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "A logo does not need to be loud."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "How branding method, scale and placement change the character of a leather accessory.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 2 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v10-blind-debossing.webp",
+     "alt": "Close-up of understated blind debossing in leather",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Decide the effect before the technique",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Should the brand be immediately visible, or reveal itself on a second look? This helps guide the choice of finish. A luggage tag given as a gift has a different context from a restaurant menu cover. The size of the object and its surface texture also influence how the mark is perceived."
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Blind debossing: texture rather than colour",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Blind debossing presses the mark into the material without adding coloured foil. Light and shadow reveal the impression. The effect can be understated, but legibility varies between surfaces. Fine lettering and complex artwork should therefore be assessed on the chosen material at the intended size."
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Foil stamping: a deliberate accent",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Foil stamping adds a visible colour or metallic finish. It can connect the branding with hardware or other elements of the identity. Its relationship with the background is important: strong contrast can make even a small logo prominent. Review scale, distance from the edge and orientation alongside the chosen foil colour."
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Approve artwork at its actual size",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Usable logo artwork and clear dimensions make the review more precise. Assess the design on the actual item rather than only as an enlarged file. Branding does not have to be the same size on every product. A consistent relationship between the mark, surface and edge often works better than identical measurements. Technical feasibility is assessed for the material and artwork."
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/corporate-gifts/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

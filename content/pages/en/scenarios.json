@@ -1,0 +1,61 @@
+{
+ "language": "en",
+ "key": "scenarios",
+ "slug": "scenarios",
+ "url": "/en/solutions/",
+ "template": "page",
+ "title": "Distinctive requirements. Considered solutions.",
+ "description": "Bespoke accessories for spaces, brands and people. Find a starting point for your project.",
+ "alternate": {
+  "de": "/loesungen/",
+  "en": "/en/solutions/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Distinctive requirements. Considered solutions."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Bespoke accessories for spaces, brands and people. Find a starting point for your project.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/solutions/hotels/\">Hotels &amp; resorts</a><a href=\"/en/solutions/restaurants/\">Restaurants &amp; bars</a><a href=\"/en/solutions/interior-design/\">Interior design &amp; architecture</a><a href=\"/en/solutions/corporate-gifts/\">Corporate gifts &amp; events</a><a href=\"/en/solutions/clubs/\">Golf clubs &amp; private members’ clubs</a><a href=\"/en/solutions/yachts/\">Yachts &amp; marine interiors</a><a href=\"/en/solutions/private-aviation/\">Private aviation</a><a href=\"/en/solutions/executive-offices/\">Executive offices &amp; institutions</a>",
+     "role": "scenario-index"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

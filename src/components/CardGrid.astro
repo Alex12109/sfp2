@@ -1,0 +1,92 @@
+---
+// Bildkarten: Kollektionen, Artikel, Journal, Projekte. Optional mit Filter (Speisekarten).
+import type { Section, Lang, Item } from '../lib/types';
+import { heading, pad, strip } from '../lib/content';
+import { t } from '../i18n/ui';
+import Rich from './Rich.astro';
+import Actions from './Actions.astro';
+import Picture from './Picture.astro';
+import Arrow from './Arrow.astro';
+interface Props { s: Section; lang: Lang; no?: number; tone?: string; variant?: 'grid' | 'rail' | 'feature'; level?: 'h2' | 'h3' }
+const { s, lang, no, tone = 'tone-ivory', variant = 'grid', level = 'h2' } = Astro.props;
+const ui = t(lang);
+const items = s.items ?? [];
+const cols = items.length === 1 ? 1 : items.length === 2 || items.length === 4 ? 2 : 3;
+const H = level;
+const itemHref = (i: Item) => i.href ?? i.media?.[0]?.href;
+const bodyOf = (i: Item) => (i.body ?? []).filter((b) => !(b.type === 'p' && ['textlink', 'round-action'].includes(b.role ?? '')));
+const cta = (i: Item) => (i.body ?? []).find((b) => b.type === 'p' && b.role === 'textlink');
+const fid = `filter-${s.id ?? 'menu'}`;
+---
+<section class:list={['sec cards', tone, `cards--${variant}`]} id={s.id} data-menu-finder={s.filter ? '' : undefined}>
+  <div class="wrap">
+    {(s.title || s.body) && (
+      <header class="sec-head" data-reveal>
+        <div>
+          {no && <p class="label">N° {pad(no)}</p>}
+          {s.title && <H set:html={heading(s.title.html)} />}
+        </div>
+        <div class="sec-head__side">
+          <Rich blocks={s.body} />
+          <Actions links={s.actions} />
+        </div>
+      </header>
+    )}
+    {s.filter && (
+      <form class="filterbar" data-menu-controls aria-label={s.filter.label} hidden>
+        <div class="filterbar__fields">
+          {s.filter.fields.map((f) => (
+            <div class="field">
+              <label for={`${fid}-${f.name}`}>{f.label}</label>
+              <select id={`${fid}-${f.name}`} name={f.name} aria-controls={`${fid}-results`}>
+                {f.options.map((o) => <option value={o.value}>{o.label}</option>)}
+              </select>
+            </div>
+          ))}
+        </div>
+        <div class="filterbar__summary">
+          <p data-menu-status role="status" aria-live="polite" aria-atomic="true">{ui.menuCount(items.length, items.length)}</p>
+          <button type="reset" class="link" disabled>{s.filter.reset}</button>
+        </div>
+      </form>
+    )}
+    <ul class:list={['cards__list', `cards__list--${cols}`]} id={s.filter ? `${fid}-results` : undefined} role="list">
+      {items.map((item, i) => {
+        const href = itemHref(item);
+        const img = item.media?.[0];
+        const more = cta(item);
+        const configure = (item.actions ?? []).find((a) => /projektplaner|project-planner/.test(a.href));
+        const data = Object.fromEntries(Object.entries(item.data ?? {}).map(([k, v]) => [`data-${k}`, v]));
+        return (
+          <li class="card" data-reveal style={`--i:${i % cols}`} {...data}>
+            {img && (
+              href
+                ? <a class="card__media" href={href} tabindex="-1" aria-hidden="true"><Picture img={img} ratio="ar-4x3" sizes={`(min-width: 900px) ${Math.round(100 / cols)}vw, 100vw`} /></a>
+                : <div class="card__media"><Picture img={img} ratio="ar-4x3" sizes={`(min-width: 900px) ${Math.round(100 / cols)}vw, 100vw`} /></div>
+            )}
+            <div class="card__body">
+              <p class="card__no" aria-hidden="true">{pad(i + 1)}</p>
+              <h3 class="card__title">{href ? <a href={href} set:html={strip(item.title)} /> : <Fragment set:html={heading(item.title)} />}</h3>
+              <Rich blocks={bodyOf(item)} />
+              {(more || configure) && (
+                <p class="card__links">
+                  {more && href && <a class="link" href={href} aria-label={`${strip(more.type === 'p' ? more.html : '')}: ${strip(item.title)}`}><Fragment set:html={more.type === 'p' ? more.html : ''} /><Arrow /></a>}
+                  {configure && <a class="link" href={configure.href} aria-label={`${configure.label}: ${strip(item.title)}`}>{configure.label}<Arrow /></a>}
+                </p>
+              )}
+              {!more && !configure && item.actions && item.actions.length > 0 && !href?.startsWith('mailto') && <Actions links={item.actions.filter((a) => a.href !== href || a.style !== 'text')} />}
+              {href?.startsWith('mailto') && <p><a class="link" href={href}>{href.replace('mailto:', '')}</a></p>}
+            </div>
+          </li>
+        );
+      })}
+    </ul>
+    {s.filter && (
+      <div class="empty" data-menu-empty hidden>
+        <h3>{ui.menuEmptyTitle}</h3>
+        <p>{ui.menuEmptyText}</p>
+        <button type="button" class="btn btn--outline" data-menu-reset>{s.filter.reset}</button>
+      </div>
+    )}
+  </div>
+</section>

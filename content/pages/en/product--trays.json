@@ -1,0 +1,580 @@
+{
+ "language": "en",
+ "key": "product:trays",
+ "slug": "product--trays",
+ "url": "/en/products/hospitality-trays/",
+ "template": "family",
+ "title": "Hospitality trays",
+ "description": "A good tray does more than organise objects. It turns coffee, glassware or guest amenities into a considered arrangement.",
+ "alternate": {
+  "de": "/produkte/trays/",
+  "en": "/en/products/hospitality-trays/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/trays-organisers/",
+     "label": "Trays & organisers",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Hospitality trays"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A good tray does more than organise objects. It turns coffee, glassware or guest amenities into a considered arrangement.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=trays",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Hospitality%20trays",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "SFP tray with a cup and compartmented organiser — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/original-tray-insert.webp",
+       "alt": "Padded tray insert",
+       "width": 1800,
+       "height": 1200,
+       "kind": "technical"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Order that feels effortless."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A successful tray starts with what it needs to hold rather than with its outer edge. Cups, glasses, a coffee machine, water bottles, toiletries or personal belongings each call for different clearances, rim heights and routes of access. Timber brings its own grain and structural clarity; a leather-covered specification can connect more closely with other guest-room accessories. Both are starting points whose suitability is considered for the actual setting. An open interior remains flexible, while compartments give particular objects a defined place. The composition may look serene, but it must remain intuitive when staff replenish it and when a guest reaches for its contents."
+    },
+    {
+     "type": "p",
+     "html": "Photograph and measure every intended item for the brief, together with the usable surface. Doors, sockets, cables and the opening direction of a coffee machine belong in that record too. Dimensions and compartments follow these relationships; where appropriate, an existing construction with a cable opening may provide a reference. Its fit with the equipment and location is assessed for the project. At sample stage, work through replenishing, lifting, cleaning and returning the tray in full. Access, rim height, stitching and branding can then be judged in context. The hospitality tray becomes a composed setting for its contents rather than an object that imposes unnecessary constraints on them."
+    },
+    {
+     "type": "p",
+     "html": "Where several room categories are involved, name each equipment arrangement as a separate variant. A shared colour may connect the series, but internal size and layout must follow the confirmed contents."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-tray-detail.webp",
+     "alt": "Two SFP trays with different inserts",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-tray-cable.webp",
+     "alt": "Tray cable opening in detail",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "List every intended item and its dimensions",
+        "Agree compartments, rim height and cable routing",
+        "Check the available surface and staff access"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=trays",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=trays"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Designed around its contents",
+     "body": [
+      {
+       "type": "p",
+       "html": "Send dimensions or photographs of equipment, glassware and containers to establish the layout and compartments."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Rim &amp; inserts",
+     "body": [
+      {
+       "type": "p",
+       "html": "Open areas, individual compartments or removable inserts are assessed for your routine. Cable openings can be considered in the specification."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Covered or timber",
+     "body": [
+      {
+       "type": "p",
+       "html": "A covered core and a timber tray have different constructions and finishing possibilities. We record the selected model’s material options and discuss any bespoke departure separately."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Wood or a covered specification suited to the application",
+      "Custom dimensions and compartments",
+      "Stitching and branding according to the material",
+      "Include contents and available surface dimensions in your brief"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Material",
+     "v": "Wood or a leather-covered specification"
+    },
+    {
+     "k": "Compartments",
+     "v": "With or without compartments; dimensions based on contents and available space"
+    },
+    {
+     "k": "Example dimensions",
+     "v": "120 × 230 × 28 / 260 × 370 × 60 / 400 × 330 × 40 mm"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/trays-organisers/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/notepad-holders/",
+     "title": "Notepad holders",
+     "body": [
+      {
+       "type": "p",
+       "html": "A dedicated place for a notepad and pen. A small, frequently used accessory for guest rooms, meeting rooms and reception."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-notizblockhalter.webp",
+       "alt": "SFP notepad holders in different specifications, isolated from the background — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/en/products/tissue-box-covers/",
+     "title": "Tissue box covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Everyday consumables sit behind a coordinated finish. The cover is specified for your chosen tissue refill and its intended location."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue box covers in wood and covered finishes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/bestecktabletts/\">Cutlery Trays</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Cutlery trays organise knives, forks and spoons during table setting or at the place setting itself. A board, MDF or solid-wood core is covered in PU leather, with one or more dividers defining the interior. Two starting sizes, custom dimensions, a choice of thread colours and blind debossing or foil stamping allow a project-specific finish."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-bestecktabletts.webp",
+       "alt": "Cutlery Trays — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/bestecktabletts/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=bestecktabletts",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/bestecktabletts/"
+    },
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/trays/\">Trays</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays organise drinks, amenities or stationery on the desk, minibar and in the bathroom. Three starting sizes and custom dimensions respond to the contents and available surface, with dividers separating individual items. MDF, board or solid wood, a PU-leather covering, decorative stitching and branding allow a suitable specification for each particular storage task."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-trays.webp",
+       "alt": "Trays — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/trays/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=trays",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/trays/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "language": "en",
+ "key": "article:speisekarten-rechnungsmappen-restaurantidentitaet",
+ "slug": "article--speisekarten-rechnungsmappen-restaurantidentitaet",
+ "url": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/",
+ "template": "article",
+ "title": "Bespoke menus and bill presenters for a distinctive restaurant identity",
+ "description": "From content and binding to presenting the bill: make menu covers and bill presenters part of a coherent service culture.",
+ "alternate": {
+  "de": "/journal/speisekarten-rechnungsmappen-restaurantidentitaet/",
+  "en": "/en/journal/bespoke-menus-and-bill-presenters-for-restaurant-identity/"
+ },
+ "sections": [
+  {
+   "kind": "page-top",
+   "title": {
+    "level": "h1",
+    "html": "Bespoke menus and bill presenters for a distinctive restaurant identity"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "From content and binding to presenting the bill: make menu covers and bill presenters part of a coherent service culture.",
+     "role": "lead"
+    }
+   ],
+   "crumbs": [
+    {
+     "href": "/en/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/en/journal/",
+     "label": "Journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP Journal · 7 min read",
+     "role": "article-meta"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v8-on-set-dining.webp",
+     "alt": "Burgundy menu cover and bill presenter beside an olive placemat in a restaurant.",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "prose": {
+    "chapters": [
+     {
+      "id": "article-section-0",
+      "title": "Translate restaurant identity into a gesture",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The menu is often the first branded object a guest consciously picks up. A bill presenter or box may be the last. The whole service sits between these two moments. Material, weight, opening action and branding can connect them without trying to explain the restaurant in words. A quiet leather surface, precise edge or restrained mark is often sufficient when it belongs with the room, cooking and style of hospitality."
+       },
+       {
+        "type": "p",
+        "html": "Begin with three questions rather than a model number. What should the guest feel when lifting the menu? How will the service team work with it? Which elements of the visual identity translate meaningfully into material and proportion? Place the brand guidelines, interior samples and actual printed matter side by side. That context creates a brief with more substance than “black leather with a logo”, while still leading to concrete decisions."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/solutions/restaurants/",
+          "label": "solutions for restaurants and bars",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-1",
+      "title": "Organise the content first",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Food, wine, bar, breakfast and dessert menus differ in more than appearance. Page count, paper, update cycle and reading situation vary in each case. Gather every piece of content before deciding format and binding. For each menu, record the maximum page count, trimmed paper size, stock and how often individual sheets change. Include seasonal lists, additional inserts and multiple languages."
+       },
+       {
+        "type": "p",
+        "html": "A short lunch menu renewed daily may suit a clamp very differently from an extensive wine list with a stable core. A5 is compact on a small table, while A4 offers more space for content. A4, A5 and custom dimensions provide starting points; A3 is also listed for window-mount formats. Typography must remain legible at its final size. Print a complete dummy rather than a cover sheet alone. Only the real page block reveals weight, spine depth and the movement of turning pages."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/products/menu-covers/",
+          "label": "explore menu covers",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "img",
+        "src": "/assets/original-menu-hidden.webp",
+        "alt": "Concealed screw-post binding in a menu cover",
+        "width": 1800,
+        "height": 1200,
+        "kind": "technical"
+       }
+      ]
+     },
+     {
+      "id": "article-section-2",
+      "title": "Choose binding around the update cycle",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Binding determines how content and cover work together in service. Screw-post models such as Berlin and London hold the sheets as a defined block. Bonn uses elastic cord, while Rome uses a clamp. Pockets, window mounts, corner fixings and ring mechanisms offer further model-dependent routes. No option is universally the most luxurious. The decision depends on who changes pages, how frequently and which printed piece must be held securely."
+       },
+       {
+        "type": "p",
+        "html": "Ask the team to complete a page change using the sample. Does it require a tool or several actions? Do loose inserts stay in place when passed across the table? Can a marked sheet be replaced on its own? How does the binding behave at the maximum planned page count? Check how the closed menu rests on the table too. The answers often lead to different bindings within one family: food and wine menus can look related while their mechanisms respond to their respective content."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/products/bill-presenters/",
+          "label": "bill presenters",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-3",
+      "title": "Review size, table and movement together",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A menu is not only read. It is lifted by the host, carried, presented, opened, placed down and collected again. Put the sample on the actual table with place setting, glassware and lamp. Can it open without displacing a plate or decoration? Is eye contact still comfortable? Can staff take a secure hold when clearing? These observations are especially useful at small tables for two."
+       },
+       {
+        "type": "p",
+        "html": "Then follow the menu’s route through the restaurant: storage, preparation, service station and return. Its outer dimensions and spine must fit the allocated shelf or compartment. Judge weight in relation to page count and handling rather than as an abstract sign of quality. A bespoke format can express the identity precisely, but it also creates its own print and storage requirement. Record both the closed cover and the insert size. A successful object moves naturally through the whole service, not just through its moment at the guest’s table."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/materials/",
+          "label": "materials and finishes",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-4",
+      "title": "Choose material in the context of light and use",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Leather, PU and timber are distinct materials and must remain clearly identified in the quotation and approval. Selection begins with the design intention but also considers location, handling and care. Finely grained leather can feel warm and quiet in subdued light; a smoother covering reflects light and shows contact differently. Timber introduces its own figure. No photograph replaces examining the actual sample under the restaurant and bar lighting."
+       },
+       {
+        "type": "p",
+        "html": "Place cover, paper and tabletop together. Review them by day, during evening service and, where relevant, by candlelight. A dark tone can feel elegant, but typography, edges and branding still need definition. Discuss how the surface will be cleaned and stored with operations. Care guidance and technical suitability are agreed for the selected material; the generic description “leather menu” does not carry a blanket performance promise. Sensory quality grows from a specification that is both precise and realistic."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/projects/grand-hyatt-vox/",
+          "label": "Grand Hyatt Berlin · VOX project",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-5",
+      "title": "Treat branding as part of the surface",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "A menu logo is seen at close range and touched repeatedly. Scale, position and process therefore need developing alongside material and format. Blind debossing works with light and the depth of the surface. Foil stamping introduces visible colour or a metallic accent. Engraving may be an option on suitable timber. Technical feasibility depends on artwork and substrate and is assessed for the particular project."
+       },
+       {
+        "type": "p",
+        "html": "Use production-ready logo artwork and place a full-size view on the sample. Review fine lines, spacing and the relationship with stitching, edge and closure. Food, wine and bar menus need not repeat one fixed branding size; a consistent proportion to each surface often feels more coherent. Leaving an inner panel unmarked may create welcome calm. The identity feels more assured when every surface is not filled and the mark supports the material character."
+       },
+       {
+        "type": "links",
+        "links": [
+         {
+          "href": "/en/contact/",
+          "label": "discuss a restaurant project",
+          "style": "text"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "article-section-6",
+      "title": "Plan the bill as part of the same story",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "The bill closes the visit and deserves the same attention as its beginning. A flat bill presenter feels discreet and can be handed over directly. A box has more volume and changes the gesture. SFP’s 125 × 230 mm presenter and 130 × 230 × 35 mm box provide starting dimensions; custom sizes, stitching and branding are agreed for the project."
+       },
+       {
+        "type": "p",
+        "html": "Walk through the sequence with real receipts, card terminal, pen and possible means of payment. What must be concealed, secured or easily removed? Is the bill carried on a tray? Where is the presenter prepared afterwards? Its interior should support those gestures. Material and branding can echo the menus, while weight and construction respond to the handover. When menu and bill presenter become two distinct objects within one family, they frame the dining experience without simply copying one another."
+       }
+      ]
+     },
+     {
+      "id": "article-section-7",
+      "title": "Test with the service team under working conditions",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Approval at a meeting table reveals colour and construction, but not service. Give the sample to hosts, sommeliers and waiting staff. Ask them to take it from storage, load it, carry it to a laid table, open it, pass it on and collect it again. Simulate a page change and preparation of the bill. Record specific observations rather than general impressions."
+       },
+       {
+        "type": "p",
+        "html": "Watch the grip points, sound on placement, stability of inserts and space required. Check whether the front is immediately clear and whether staff orientate the menu correctly in subdued light. A change to stitching or mechanism may affect internal dimensions and paper; keep those dependencies together. Design, procurement and operations should see the same final version. Their shared review turns an attractive sample into a dependable specification for the realities of restaurant service."
+       }
+      ]
+     },
+     {
+      "id": "article-section-8",
+      "title": "Document approval, spares and later additions",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "Before ordering, every menu family needs an unambiguous approval record. Document model, outer and paper dimensions, maximum page count, binding, material, colour, stitching, branding, interior and packaging. Identify the artwork file and exact branding position. Where several restaurants or dayparts are involved, a variant matrix prevents confusion. Agree whether spare copies are needed and how they will be stored."
+       },
+       {
+        "type": "p",
+        "html": "Plan for future menu changes and additions without promising exact continuity over many years. Retain the material reference, technical drawing and approved sample in a traceable form. Availability and specification should be checked again for a repeat order. If paper, page count or service routine changes, reconsider the binding too. Good records keep the identity coherent while allowing function to develop with the restaurant. Bespoke menu covers and bill presenters remain a living part of the service culture."
+       }
+      ]
+     },
+     {
+      "id": "article-section-9",
+      "title": "Bring menu and bill requirements into one brief",
+      "blocks": [
+       {
+        "type": "p",
+        "html": "For a focused enquiry, list every menu type with its paper size, page count and update cycle. Add quantities, the genuine required date, photographs of tables and interiors, storage notes, logo artwork and material direction. For the bill, include receipt size, payment routine and whether a presenter or box is being considered. Mark the details already confirmed and those that need testing on a sample."
+       },
+       {
+        "type": "p",
+        "html": "This brief exposes dependencies early. A change in page count may affect binding; if a bespoke size changes print production, the printer needs to join the discussion. Prominent branding may call for a quieter material choice. Considering food, wine and bar menus alongside the bill presenter prevents the pieces being developed one after another without a relationship. Consultation and sampling can then begin with the restaurant’s real decisions."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": "Frequently asked questions",
+      "blocks": [
+       {
+        "type": "faq",
+        "q": "Which binding suits menus that change frequently?",
+        "a": "It depends on paper, page count and the team. Clamps, elastic cord, screw posts, pockets and rings support different update routines. Test the preferred route with the real page block in a sample."
+       },
+       {
+        "type": "faq",
+        "q": "Which sizes are available?",
+        "a": "A4, A5 and custom dimensions provide possible starting points; A3 is also listed for window mounts. Table size, content, typography and binding determine which format suits the project."
+       },
+       {
+        "type": "faq",
+        "q": "Should food and wine menus look the same?",
+        "a": "They should feel like a family, but need not be identical. Material, colour or branding can connect them while size and mechanism respond to page count and frequency of change."
+       },
+       {
+        "type": "faq",
+        "q": "Is a bill presenter or bill box better?",
+        "a": "The service determines the choice. A presenter is flat and direct; a box changes volume and presentation. Test receipt size, payment process, table and preparation with a sample."
+       },
+       {
+        "type": "faq",
+        "q": "How can a logo be applied to leather?",
+        "a": "Blind debossing and foil stamping are possible routes; engraving may suit some timber pieces. Artwork, scale, position and technical feasibility are assessed for the selected material."
+       },
+       {
+        "type": "faq",
+        "q": "What information belongs in the enquiry?",
+        "a": "Send menu types, paper sizes, page counts, update cycles, quantities, material direction, logo artwork and required date. Photographs of tables, interiors and storage make the brief more specific."
+       }
+      ]
+     },
+     {
+      "id": null,
+      "title": null,
+      "blocks": [
+       {
+        "type": "h",
+        "level": "h4",
+        "html": "Further project source"
+       },
+       {
+        "type": "ul",
+        "items": [
+         "<a href=\"https://sfp-premium.de/projekt/grand-hyatt-berlin-vox/\">SFP Hospitality · grand hyatt berlin vox</a>"
+        ]
+       }
+      ]
+     }
+    ],
+    "summary": "Planning a project of your own? Tell us the application, quantity and your idea. We’ll discuss the right specification with you.",
+    "nav": [
+     {
+      "href": "/en/solutions/restaurants/",
+      "label": "Explore related solutions",
+      "style": "text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

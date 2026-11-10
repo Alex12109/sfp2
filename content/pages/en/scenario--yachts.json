@@ -1,0 +1,243 @@
+{
+ "language": "en",
+ "key": "scenario:yachts",
+ "slug": "scenario--yachts",
+ "url": "/en/solutions/yachts/",
+ "template": "scenario",
+ "title": "Bespoke details. Considered for life on board.",
+ "description": "Made-to-measure leather and wood accessories for private yacht interiors. Developed around the design scheme, equipment and intended areas of use.",
+ "alternate": {
+  "de": "/loesungen/yachts/",
+  "en": "/en/solutions/yachts/"
+ },
+ "sections": [
+  {
+   "kind": "hero",
+   "title": {
+    "level": "h1",
+    "html": "Bespoke details. Considered for life on board."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Made-to-measure leather and wood accessories for private yacht interiors. Developed around the design scheme, equipment and intended areas of use.",
+     "role": "intro"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/tray-scene.webp",
+     "alt": "Material and design study: olive and taupe leather trays on wood",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Yachts%20%26%20marine%20interiors",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "scenario-spread",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Every detail belongs to the experience."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "For a made-to-measure interior, discussion begins with available surfaces and fitted furniture. Where will a tray sit, what must it hold and how will it be stored? Material, securing and special operating requirements must be specified and reviewed for the actual project. They are not inherent properties of a leather accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/products/desk-pads/",
+     "label": "Desk pads",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/notepad-holders/",
+     "label": "Notepad holders",
+     "style": "text"
+    },
+    {
+     "href": "/en/products/hospitality-trays/",
+     "label": "Hospitality trays",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Make precise use of the available space"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "On board, every available centimetre matters. We develop trays, desk pads, tissue box covers and small organisers entirely around your dimensions and intended contents. One-offs and very small runs are welcome and are handmade in the EU. Materials are selected for the particular setting and your project team’s requirements."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Include the operating conditions in the brief"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Dry interiors, bathrooms and exterior areas present different requirements. Moisture, cleaning products, secure stowage and any project-specific requirements need to be discussed before materials are selected. A bespoke design does not in itself imply marine certification or suitability for a particular technical specification."
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "A place to begin."
+   },
+   "items": [
+    {
+     "role": "card",
+     "href": "/en/collections/desk-table/",
+     "title": "Desk &amp; conference",
+     "body": [
+      {
+       "type": "p",
+       "html": "Desk pads and notepad holders for suites, workspaces and meeting tables. Developed as a coordinated collection of formats, materials and branding."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-on-set-desk.webp",
+       "alt": "Taupe desk pad and notepad holder with a cognac tray on a walnut desk.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/trays-organisers/",
+     "title": "Trays &amp; organisers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Trays and organisers sized around their contents. For minibars, desks and carefully considered service."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-table.webp",
+       "alt": "Overhead tabletop collection of coasters, trays and placemats in olive, taupe and cognac.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "card",
+     "href": "/en/collections/room-accessories/",
+     "title": "Room accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins and tissue box covers as part of your interior. Materials and colours that feel naturally at home in the space."
+      },
+      {
+       "type": "p",
+       "html": "Explore",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A useful starting brief."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Dimensioned surfaces, interior scheme, operating conditions and project-specific requirements."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/contact/?topic=Yachts%20%26%20marine%20interiors",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  },
+  {
+   "kind": "reading-selection",
+   "title": {
+    "level": "h2",
+    "html": "Ideas for your next project."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "<a href=\"/en/journal/briefing-a-bespoke-project/\">What makes a useful bespoke brief?From an initial idea to a reviewable specification: the information that helps move bespoke accessories forward.Read the article</a><a href=\"/en/journal/choosing-materials-for-hospitality/\">Material selection starts with the setting.Genuine leather, PU and wood offer different design possibilities. A considered choice looks beyond colour.Read the article</a><a href=\"/en/journal/menu-covers-binding-and-format/\">Choosing menu covers for your service.Format, binding and page count determine how well a menu cover works in daily service.Read the article</a>",
+     "role": "grid"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/journal/",
+     "label": "Explore the journal",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

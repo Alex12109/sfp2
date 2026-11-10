@@ -1,0 +1,1349 @@
+{
+ "language": "de",
+ "key": "product:speisekarten",
+ "slug": "product--speisekarten",
+ "url": "/produkte/speisekarten/",
+ "template": "family",
+ "title": "Speisekarten",
+ "description": "Noch bevor ein Gericht auf dem Tisch steht, hält der Gast Ihre Speisekarte in der Hand. Material, Gewicht und Öffnung geben diesem Moment einen eigenen Charakter.",
+ "alternate": {
+  "de": "/produkte/speisekarten/",
+  "en": "/en/products/menu-covers/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/kollektionen/",
+     "label": "Kollektionen",
+     "style": "text"
+    },
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Speisekarten & Dining",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Speisekarten"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Noch bevor ein Gericht auf dem Tisch steht, hält der Gast Ihre Speisekarte in der Hand. Material, Gewicht und Öffnung geben diesem Moment einen eigenen Charakter.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Individuelle Ausführungen",
+      "Material &amp; Branding nach Ihrem Konzept",
+      "Persönlich begleitet aus Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projektplaner/?product=speisekarten",
+     "label": "Im Projektplaner zusammenstellen",
+     "style": "button"
+    },
+    {
+     "href": "/kontakt/?topic=Speisekarten",
+     "label": "Projekt anfragen",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v10-menu-restaurant.webp",
+       "alt": "Detail der Schraubbindung einer SFP-Speisekarte",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-on-set-dining.webp",
+       "alt": "Burgunderfarbene Menü- und Rechnungsmappe neben einem olivfarbenen Tischset in einem Restaurant.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/menu-detail-v3.webp",
+       "alt": "Gestaltungsstudie einer geöffneten bordeauxfarbenen Menümappe mit Schraubbindung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Charakter",
+     "style": "text"
+    },
+    {
+     "href": "#model-comparison",
+     "label": "Modelle",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Möglichkeiten",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Maße & Ausführung",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Fragen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der erste Eindruck liegt in der Hand."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Format und Bindung richten sich nach Ihrem Menü: A4, A5 und Sonderformate sind mögliche Papiergrößen; beim Passepartout ist auch A3 aufgeführt. Je nach Modell stehen Schraubbindung, Gummizug, Klemmmechanik, Taschen, Passepartout oder Ringmechanik zur Auswahl."
+    },
+    {
+     "type": "p",
+     "html": "Teilen Sie uns Papierformat, Seitenzahl und die Häufigkeit Ihrer Kartenwechsel mit. Berlin und London mit Schraubbindung, Bonn mit Gummizug oder Rome mit Klemmmechanik bieten unterschiedliche Ausgangspunkte. Prüfen Sie die Handhabung mit Ihrem Papier am Muster. Material, Farbe und Prägung können über Speise-, Wein- und Barkarten hinweg abgestimmt werden."
+    },
+    {
+     "type": "p",
+     "html": "Für eine Anfrage genügen zunächst das gewünschte Modell oder die Bindung, Papierformat, Seitenzahl und Stückzahl. Offene Fragen klären wir gemeinsam."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/original-menu-binding.webp",
+     "alt": "Detail einer sichtbaren Schraubbindung",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    },
+    {
+     "src": "/assets/original-menu-hidden.webp",
+     "alt": "Verdeckte Schraubbindung einer Menümappe",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "Darauf kommt es beim Entwurf an.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Papier, Seitenzahl und Wechselhäufigkeit festlegen",
+        "Mechanik mit Ihrem Service-Team prüfen",
+        "Speise-, Wein- und Barkarten als Familie denken"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?product=speisekarten",
+       "label": "Im Projektplaner zusammenstellen",
+       "style": "text"
+      }
+     ],
+     "href": "/projektplaner/?product=speisekarten"
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "id": "model-comparison",
+   "data": {
+    "menu-finder": ""
+   },
+   "title": {
+    "level": "h2",
+    "html": "Speisekarten im Überblick"
+   },
+   "items": [
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-grand-dinner",
+      "binding": "pocket",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "pu fabric-wood",
+      "pages-min": "8",
+      "pages-max": "8"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-grand-dinner/\">Speisekarte Grand Dinner</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Grand Dinner ist eine Menümappe mit Taschen für acht Seiten. Format, Rahmenaufteilung, Bezug, Naht, Polsterung und Logo werden für Speise-, Getränke- oder Weinkarte gemeinsam festgelegt."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-grand-dinner.webp",
+       "alt": "Speisekarte Grand Dinner – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-grand-dinner/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-grand-dinner",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-grand-dinner/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-grande-bistro",
+      "binding": "mount",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "3",
+      "pages-max": "4"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-grande-bistro/\">Speisekarte Grande Bistro</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Grande Bistro ist eine dreiteilige Menükarte für drei oder vier präsentierte Seiten. Das Papier wird in vertikalen oder horizontalen Taschen beziehungsweise in Vollrahmen gehalten und lässt sich bei Kartenwechseln austauschen. Außenmaterial, kontrastierendes Piquét im Inneren, Format, Ecken, Polsterung und Prägung können passend zu Menü, Tagesempfehlung oder Dessertauswahl kombiniert werden."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-grande-bistro.webp",
+       "alt": "Speisekarte Grande Bistro – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-grande-bistro/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-grande-bistro",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-grande-bistro/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-fine-dining",
+      "binding": "pocket",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "2"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-fine-dining/\">Speisekarte Fine Dining</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Fine Dining präsentiert zwei Seiten in einer reduzierten Menümappe aus Leder oder einem anderen gewählten Bezugsmaterial. Das Papier sitzt in Taschen und kann bei einem Wechsel unkompliziert entnommen werden; Form und Ausführung der Taschen sind anpassbar. DIN-A4- und DIN-A5-Varianten, Sonderformate, Ziernaht, Ecken, Polsterung und Logo machen das Modell für Menüs oder Tagesempfehlungen konfigurierbar."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-fine-dining.webp",
+       "alt": "Speisekarte Fine Dining – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-fine-dining/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-fine-dining",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-fine-dining/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-rome",
+      "binding": "clamp",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "6",
+      "pages-max": "35"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-rome/\">Speisekarte Rome</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Rome hält wechselnde Menüblätter mit Metallklemmen oder einer Kunststoffschiene. Die Seitenzahl kann variieren, ohne dass eine neue Mappe benötigt wird; offene oder verdeckte Nieten differenzieren die Metallausführung. Gängige Formate und Sondermaße, Leder, Piquét oder Buchbinderleinen sowie Naht, Taschen, Polsterung und Prägung decken unterschiedliche Gastronomiekonzepte ab."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-rome.webp",
+       "alt": "Speisekarte Rome – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-rome/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-rome",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-rome/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-bonn",
+      "binding": "elastic",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "6"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-bonn/\">Speisekarte Bonn</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bonn verwendet eine Schnurbindung für gefaltete Menüblätter und eignet sich damit für Inhalte, die regelmäßig wechseln. Farbe und Material der Schnur sind wählbar; sie kann sichtbar außen liegen oder in den Rücken eingearbeitet werden. DIN-A4- und DIN-A5-Formate, Sondermaße, Taschen, Polsterung, Naht und Prägung ergänzen die Ausführung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-bonn.webp",
+       "alt": "Speisekarte Bonn – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-bonn/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-bonn",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-bonn/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-london",
+      "binding": "screw",
+      "formats": "a4 a4-square a4-narrow a5 custom a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "6",
+      "pages-max": "50"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-london/\">Speisekarte London</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "London ist eine schraubgebundene Menümappe mit getrennten Deckeln oder einem durchgehenden Umschlag. Längere oder kürzere Schrauben passen die Kapazität an eine veränderte Seitenzahl an; Farbe und Abstand der Schrauben sind wählbar. Buchbinderleinen, PU- oder Echtleder, Taschen, Naht, Polsterung, Ecken und Logo bestimmen den individuellen Aufbau."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-london.webp",
+       "alt": "Speisekarte London – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-london/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-london",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-london/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-hamburg",
+      "binding": "mount",
+      "formats": "a4 a4-square a4-narrow a5 custom a5-square",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "2",
+      "pages-max": "20"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-hamburg/\">Speisekarte Hamburg</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Hamburg arbeitet mit laminierten Passepartouts, die wechselnde Inhalte schützen und schnell zugänglich machen. Anzahl, Form und Kartonfarbe der Rahmen werden auf Papier, Bezug und Umfang abgestimmt; möglich sind bis zu zwanzig Seiten. DIN-A4- und DIN-A5-Formate, Sondermaße, Leder oder Buchbinderleinen sowie Naht, Taschen, Polsterung und Prägung ergänzen die Karte."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-hamburg.webp",
+       "alt": "Speisekarte Hamburg – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-hamburg/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-hamburg",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-hamburg/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-vintage",
+      "binding": "",
+      "formats": "a4 a4-square a4-narrow a5 custom",
+      "materials": "fabric-wood",
+      "pages-min": "",
+      "pages-max": ""
+     },
+     "title": "<a href=\"/produkte/modelle/menu-vintage/\">Speisekarte Vintage</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Vintage ist eine Holzkarte mit Ringmechanik für eine frei wählbare Zahl von Blättern. Ringanzahl und Ringgröße folgen dem Inhalt; die Mechanik kann farbig lackiert werden. Eiche, Birke oder Kiefer stehen als Ausgangsmaterial zur Wahl und können gebeizt oder lackiert werden. DIN-A4-, DIN-A5- und Sonderformate sowie Prägungen individualisieren das Modell."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-vintage.webp",
+       "alt": "Speisekarte Vintage – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-vintage/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-vintage",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-vintage/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-clipboard",
+      "binding": "clamp",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape a3",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "1",
+      "pages-max": "20"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-clipboard/\">Speisekarte Clipboard</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Clipboard fixiert einzelne oder wechselnde Blätter mit Bügel-, Krokodil- oder Magnetklemme. Seiten lassen sich ohne Bindung schnell austauschen; Art und Farbe der Klemme sind wählbar. Die Trägerplatte kann aus Holz, Leder oder Buchbinderleinen bestehen. Formate von DIN A3 bis DIN A5, Sondermaße, Naht und Prägung passen sie an den Einsatz an."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-clipboard.webp",
+       "alt": "Speisekarte Clipboard – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-clipboard/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-clipboard",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-clipboard/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-berlin",
+      "binding": "screw",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape",
+      "materials": "leather pu",
+      "pages-min": "15",
+      "pages-max": "50"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-berlin/\">Speisekarte Berlin</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Berlin ist eine Leder-Menümappe mit Schraubbindung und wahlweise offener oder verdeckter Schraubenleiste. Die Schraubenlänge lässt sich an die Seitenzahl anpassen; das Modell nimmt bis zu fünfzig Seiten auf. DIN-A4- und DIN-A5-Varianten, Sondermaße, Taschen, Naht, Ecken, Polsterung und Blind- oder Folienprägung definieren die projektspezifische Ausführung."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-berlin.webp",
+       "alt": "Speisekarte Berlin – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-berlin/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-berlin",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-berlin/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-nizza",
+      "binding": "",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "",
+      "pages-max": ""
+     },
+     "title": "<a href=\"/produkte/modelle/menu-nizza/\">Speisekarte Nizza</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nizza kombiniert einen umfangreichen Hauptteil mit einer separat bestückbaren Empfehlungsseite. Der Inhalt wird rechts in einer Ringmechanik oder als gefalteter Stapel gehalten; links nehmen Taschen Tagesangebote auf. Bis zu hundert Seiten, gängige Formate und Sondermaße sowie variable Taschen, Polsterung, Naht, Ecken und Prägung machen die Karte besonders flexibel."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-nizza.webp",
+       "alt": "Speisekarte Nizza – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-nizza/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-nizza",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-nizza/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-passepartout",
+      "binding": "mount pocket corners",
+      "formats": "a4 a4-square a4-narrow a5 custom a3",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "1",
+      "pages-max": "2"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-passepartout/\">Speisekarte Passepartout</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Passepartout rahmt eine oder zwei Seiten für Tagesempfehlungen, Menüs oder Desserts. Vollrahmen oder Taschen können ein- oder beidseitig ausgeführt und dezent gekennzeichnet werden; der Inhalt bleibt schnell austauschbar. DIN A3, A4 und A5 sowie Sondermaße, unterschiedliche Bezugsmaterialien, Naht, Ecken und Polsterung erlauben eine präzise Abstimmung auf Papier und Tisch."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-passepartout.webp",
+       "alt": "Speisekarte Passepartout – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-passepartout/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-passepartout",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-passepartout/"
+    },
+    {
+     "role": "catalog-card",
+     "data": {
+      "menu-model": "menu-ringbinder",
+      "binding": "ring",
+      "formats": "a4 a4-square a4-narrow a5 custom a4-landscape a5-landscape",
+      "materials": "leather pu fabric-wood",
+      "pages-min": "10",
+      "pages-max": "35"
+     },
+     "title": "<a href=\"/produkte/modelle/menu-ringbinder/\">Speisekarte Ringbinder</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ringbinder ist für umfangreiche Wein-, Bar- oder Speisekarten mit häufig wechselnden Seiten ausgelegt. Ringgröße, Ringanzahl und Mechanik werden an Inhalt und Kapazität angepasst; das Modell nimmt zehn bis fünfunddreißig Seiten auf. DIN-A4- und DIN-A5-Varianten, Sondermaße, Taschen, Naht, Ecken sowie Leder, Piquét oder Buchbinderleinen gestalten die Mappe passend zum Betrieb."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-menu-ringbinder.webp",
+       "alt": "Speisekarte Ringbinder – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/produkte/modelle/menu-ringbinder/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/projektplaner/?item=menu-ringbinder",
+       "label": "Individuell konfigurieren",
+       "style": "text"
+      }
+     ],
+     "href": "/produkte/modelle/menu-ringbinder/"
+    }
+   ],
+   "filter": {
+    "label": "Speisekarten filtern",
+    "fields": [
+     {
+      "name": "binding",
+      "label": "Bindung",
+      "options": [
+       {
+        "value": "",
+        "label": "Alle"
+       },
+       {
+        "value": "screw",
+        "label": "Schrauben"
+       },
+       {
+        "value": "elastic",
+        "label": "Gummizug/Schnur"
+       },
+       {
+        "value": "clamp",
+        "label": "Zum Klemmen"
+       },
+       {
+        "value": "pocket",
+        "label": "Taschen"
+       },
+       {
+        "value": "mount",
+        "label": "Passepartout"
+       },
+       {
+        "value": "corners",
+        "label": "Ecken"
+       },
+       {
+        "value": "ring",
+        "label": "Ringmechanik"
+       }
+      ]
+     },
+     {
+      "name": "pages",
+      "label": "Seitenanzahl",
+      "options": [
+       {
+        "value": "",
+        "label": "Alle"
+       },
+       {
+        "value": "1",
+        "label": "1"
+       },
+       {
+        "value": "2",
+        "label": "2"
+       },
+       {
+        "value": "3",
+        "label": "3"
+       },
+       {
+        "value": "4",
+        "label": "4"
+       },
+       {
+        "value": "5",
+        "label": "5"
+       },
+       {
+        "value": "6",
+        "label": "6"
+       },
+       {
+        "value": "7",
+        "label": "7"
+       },
+       {
+        "value": "8",
+        "label": "8"
+       },
+       {
+        "value": "9",
+        "label": "9"
+       },
+       {
+        "value": "10",
+        "label": "10"
+       },
+       {
+        "value": "11",
+        "label": "11"
+       },
+       {
+        "value": "12",
+        "label": "12"
+       },
+       {
+        "value": "13",
+        "label": "13"
+       },
+       {
+        "value": "14",
+        "label": "14"
+       },
+       {
+        "value": "15",
+        "label": "15"
+       },
+       {
+        "value": "16",
+        "label": "16"
+       },
+       {
+        "value": "17",
+        "label": "17"
+       },
+       {
+        "value": "18",
+        "label": "18"
+       },
+       {
+        "value": "19",
+        "label": "19"
+       },
+       {
+        "value": "20",
+        "label": "20"
+       },
+       {
+        "value": "21",
+        "label": "21"
+       },
+       {
+        "value": "22",
+        "label": "22"
+       },
+       {
+        "value": "23",
+        "label": "23"
+       },
+       {
+        "value": "24",
+        "label": "24"
+       },
+       {
+        "value": "25",
+        "label": "25"
+       },
+       {
+        "value": "26",
+        "label": "26"
+       },
+       {
+        "value": "27",
+        "label": "27"
+       },
+       {
+        "value": "28",
+        "label": "28"
+       },
+       {
+        "value": "29",
+        "label": "29"
+       },
+       {
+        "value": "30",
+        "label": "30"
+       },
+       {
+        "value": "31",
+        "label": "31"
+       },
+       {
+        "value": "32",
+        "label": "32"
+       },
+       {
+        "value": "33",
+        "label": "33"
+       },
+       {
+        "value": "34",
+        "label": "34"
+       },
+       {
+        "value": "35",
+        "label": "35"
+       },
+       {
+        "value": "36",
+        "label": "36"
+       },
+       {
+        "value": "37",
+        "label": "37"
+       },
+       {
+        "value": "38",
+        "label": "38"
+       },
+       {
+        "value": "39",
+        "label": "39"
+       },
+       {
+        "value": "40",
+        "label": "40"
+       },
+       {
+        "value": "41",
+        "label": "41"
+       },
+       {
+        "value": "42",
+        "label": "42"
+       },
+       {
+        "value": "43",
+        "label": "43"
+       },
+       {
+        "value": "44",
+        "label": "44"
+       },
+       {
+        "value": "45",
+        "label": "45"
+       },
+       {
+        "value": "46",
+        "label": "46"
+       },
+       {
+        "value": "47",
+        "label": "47"
+       },
+       {
+        "value": "48",
+        "label": "48"
+       },
+       {
+        "value": "49",
+        "label": "49"
+       },
+       {
+        "value": "50",
+        "label": "50"
+       }
+      ]
+     },
+     {
+      "name": "formats",
+      "label": "Format",
+      "options": [
+       {
+        "value": "",
+        "label": "Alle"
+       },
+       {
+        "value": "a3",
+        "label": "A3"
+       },
+       {
+        "value": "a4",
+        "label": "A4"
+       },
+       {
+        "value": "a4-landscape",
+        "label": "A4 quer"
+       },
+       {
+        "value": "a4-square",
+        "label": "A4 quadratisch"
+       },
+       {
+        "value": "a4-narrow",
+        "label": "A4 schmal"
+       },
+       {
+        "value": "a5",
+        "label": "A5"
+       },
+       {
+        "value": "a5-landscape",
+        "label": "A5 quer"
+       },
+       {
+        "value": "a5-square",
+        "label": "A5 quadratisch"
+       },
+       {
+        "value": "custom",
+        "label": "Sonderformat"
+       }
+      ]
+     },
+     {
+      "name": "materials",
+      "label": "Material",
+      "options": [
+       {
+        "value": "",
+        "label": "Alle"
+       },
+       {
+        "value": "leather",
+        "label": "Echtleder"
+       },
+       {
+        "value": "pu",
+        "label": "PU-Leder"
+       },
+       {
+        "value": "fabric-wood",
+        "label": "Gewebe/Holz"
+       }
+      ]
+     }
+    ],
+    "reset": "Filter zurücksetzen"
+   }
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Die Details machen es zu Ihrem Produkt."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Bindung nach Inhalt",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein saisonales Menü und eine umfangreiche Weinkarte stellen andere Anforderungen. Vergleichen Sie die Mechaniken und Modelle weiter unten."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Material &amp; Haptik",
+     "body": [
+      {
+       "type": "p",
+       "html": "Feines italienisches Echtleder, hochwertiges PU in umfangreichen Farb- und Oberflächenwelten und je nach Modell Buchbinderleinen oder Piquét geben Ihrer Karte einen eigenen Griff. Die verfügbaren Bezüge des gewählten Modells vergleichen Sie am Muster."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Bis zur Innenseite",
+     "body": [
+      {
+       "type": "p",
+       "html": "Prägung, Ecken, Taschen, Polsterung und Schraubenfarbe werden modellbezogen besprochen. Auch das Papier gehört zur Gesamtwirkung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "title": {
+    "level": "h2",
+    "html": "Die Grundlage für Ihre Ausführung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Diese Formate und Optionen sind Ausgangspunkte. Wir entwickeln daraus mit Ihnen die passende Ausführung – oder beginnen mit einer eigenen Idee."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Modell Berlin mit offener oder verdeckter Schraubbindung",
+      "Echtleder, PU, Buchbinderleinen oder Piquét je nach Modell",
+      "Standardformate und individuelle Ausführungen",
+      "Logoprägung, Ecken und Innenausstattung projektbezogen"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/prozess/",
+     "label": "So entsteht Ihr Artikel",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Papierformat",
+     "v": "A4 / A5 / Sonderformat; Passepartout auch A3"
+    },
+    {
+     "k": "Mechaniken",
+     "v": "Schraubbindung, Gummizug, Klemmmechanik, Taschen, Passepartout oder Ringmechanik – modellabhängig"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Materialien und Veredelung."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Wählen Sie aus italienischem Echtleder, hochwertigem PU und weiteren produktabhängigen Materialien. Farbe, Oberfläche und Verarbeitung stimmen wir anhand von Mustern auf Ihren Artikel ab."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/materialien/#material-studio",
+     "label": "Materialien ansehen",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Ihr Logo auf dem Produkt.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei einer Blindprägung wird das Motiv ohne Farbe in die Oberfläche gedrückt. Folienprägung ergänzt einen farbigen oder metallischen Akzent. Verfahren, Größe und Position stimmen wir passend zum Material ab."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "title": {
+    "level": "h2",
+    "html": "Grand Hyatt Berlin · VOX"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Verschiedene Karten und eine Rechnungsmappe für das VOX im Grand Hyatt Berlin. Persönliche Beratung und die Abstimmung der Ausführung bildeten den Ausgangspunkt."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-vox.webp",
+     "alt": "Lederkarte mit VOX-Logo auf einem gedeckten Tisch",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical",
+     "href": "/projekte/grand-hyatt-vox/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/projekte/grand-hyatt-vox/",
+     "label": "Projekt ansehen",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut zu wissen."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein paar Antworten vor dem ersten Gespräch."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich eine eigene Form oder Größe entwickeln lassen?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Ja, wir besprechen Sondermaße und eigene Entwürfe anhand des konkreten Artikels. Eine Skizze, ein Foto des Einsatzortes oder Maße der aufzunehmenden Gegenstände helfen uns, Ihre Idee in eine prüfbare Ausführung zu übersetzen."
+      }
+     ]
+    },
+    {
+     "q": "Wie werden Material und Logo abgestimmt?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Wir besprechen Farbe, Oberfläche und Einsatzbedingungen. Materialmuster und ein Layout für die Logoposition helfen bei der Auswahl. Blindprägung, Folienprägung oder andere Verfahren richten sich nach Material und Artikel."
+      }
+     ]
+    },
+    {
+     "q": "Was benötigt SFP für ein Angebot?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Nennen Sie Artikel oder Idee, die benötigte Menge, Ihren Wunschtermin und die wichtigsten Gestaltungswünsche. Einzelstücke und sehr kleine Serien sind willkommen; auch große Projekte gehören zu unserem Angebot. Wir klären Ausführung und Lieferzeit passend zu Ihrem Bedarf. Der Projektplaner hilft, die Angaben zusammenzustellen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "title": {
+    "level": "h2",
+    "html": "Eine Kollektion entsteht im Zusammenspiel."
+   },
+   "actions": [
+    {
+     "href": "/kollektionen/dining/",
+     "label": "Zur Kollektion",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/produkte/tischsets/",
+     "title": "Tischsets",
+     "body": [
+      {
+       "type": "p",
+       "html": "Eine ruhige Basis für Ihr Tischkonzept. Form, Proportionen und Oberfläche werden auf Tisch, Geschirr und die Abläufe im Service abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/original-dining-table.webp",
+       "alt": "Tischsets im Restaurantservice",
+       "width": 1500,
+       "height": 1000,
+       "kind": "technical"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/rechnungsmappen/",
+     "title": "Rechnungsmappen &amp; Rechnungsboxen",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein stimmiger Abschluss Ihres Service. Die Präsentation der Rechnung kann dieselbe Material- und Farbsprache aufnehmen wie Menükarte und Tischaccessoires."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-rechnungsmappen.webp",
+       "alt": "Geschlossene Rechnungsmappe mit Logo – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "discovery-card",
+     "href": "/produkte/coaster/",
+     "title": "Coaster",
+     "body": [
+      {
+       "type": "p",
+       "html": "Ein kleines Detail mit hoher Präsenz am Tisch. In Format und Oberfläche auf Gläser, Tischsets und das Materialkonzept abgestimmt."
+      },
+      {
+       "type": "p",
+       "html": "Details entdecken",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-coaster-forms.webp",
+       "alt": "Runde und eckige Coaster in verschiedenen Materialien – Produktaufnahme in ergänzter Umgebung",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Gut geplant. Klar vereinbart."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Produktion",
+     "body": [
+      {
+       "type": "p",
+       "html": "Nach Ihrer Freigabe kann die Produktion 4–6 Wochen betragen. Den konkreten Liefertermin stimmen wir mit Ihnen ab."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express auf Anfrage",
+     "body": [
+      {
+       "type": "p",
+       "html": "Wenn Artikel, Material und Kapazitäten es ermöglichen, ist eine Expressbestellung gegen Aufpreis möglich – mit Erhalt der Artikel gegebenenfalls in weniger als zwei Wochen. Wir bestätigen die Machbarkeit vor Auftragserteilung."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Zahlung &amp; Freigabe",
+     "body": [
+      {
+       "type": "p",
+       "html": "Bei Neukunden bitten wir um 100 % Vorkasse. Bei großen Aufträgen von Bestandskunden bitten wir um 50 % Vorkasse. Die vereinbarten Konditionen halten wir im Angebot fest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

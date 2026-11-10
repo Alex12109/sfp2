@@ -1,0 +1,191 @@
+{
+ "language": "de",
+ "key": "case:ritz-carlton-wolfsburg",
+ "slug": "case--ritz-carlton-wolfsburg",
+ "url": "/projekte/ritz-carlton-wolfsburg/",
+ "template": "project",
+ "title": "The Ritz-Carlton, Wolfsburg · Ein kleines Etui. Ein bewusster Empfang.",
+ "description": "Ein Keycard-Etui aus Echtleder für The Ritz-Carlton in Wolfsburg. Entwickelt in direkter Abstimmung mit dem Hotel.",
+ "alternate": {
+  "de": "/projekte/ritz-carlton-wolfsburg/",
+  "en": "/en/projects/ritz-carlton-wolfsburg/"
+ },
+ "sections": [
+  {
+   "kind": "case-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/",
+     "label": "SFP",
+     "style": "text"
+    },
+    {
+     "href": "/projekte/",
+     "label": "Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "case-opening",
+   "title": {
+    "level": "h1",
+    "html": "Ein kleines Etui. Ein bewusster Empfang."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Keycard-Etui aus Echtleder für The Ritz-Carlton in Wolfsburg. Entwickelt in direkter Abstimmung mit dem Hotel.",
+     "role": "lead"
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/logo-ritz.svg",
+     "alt": "The Ritz-Carlton",
+     "width": 200,
+     "height": 80,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/v13-case-ritz.webp",
+     "alt": "Schwarzes Keycard-Etui mit The Ritz-Carlton Wolfsburg Prägung – Produktaufnahme in ergänzter Umgebung",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    }
+   ]
+  },
+  {
+   "kind": "facts",
+   "shade": true,
+   "specs": [
+    {
+     "k": "Kunde / Projekt",
+     "v": "The Ritz-Carlton, Wolfsburg"
+    },
+    {
+     "k": "Einsatz",
+     "v": "Hospitality · Gästeerlebnis"
+    },
+    {
+     "k": "Umfang",
+     "v": "Keycard-Etui · Echtleder · Beratung"
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Der Kunde und der Kontext"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "The Ritz-Carlton, Wolfsburg liegt in der Autostadt vor industrieller Kulisse. Damit treffen an einem Ort Luxushotellerie, Mobilitätskultur und eine stark gestaltete Umgebung aufeinander. Der Check-in ist der erste direkte Übergang vom Ankommen zum persönlichen Aufenthalt. Die Zimmerkarte spielt dabei eine kleine, aber sichtbare Rolle: Sie wird übergeben, während des Aufenthalts mitgeführt und wiederholt benutzt. Genau an diesem Kontaktpunkt setzte die direkte Beauftragung von SFP an. Das Hotel suchte eine Hülle aus Echtleder und ließ sich zur Ausführung beraten."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Produkt und besondere Anforderungen"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Ein Keycard-Etui muss die Karte sicher aufnehmen, ohne ihre Entnahme unnötig zu erschweren. Format und Öffnung ergeben sich daher aus der tatsächlich verwendeten Karte; Kanten und Übergänge sollten auch bei wiederholter Handhabung angenehm bleiben. Weil das Produkt am Empfang aus nächster Nähe übergeben wird, haben Lederoberfläche, Griffgefühl und Präzision der Kennzeichnung besonderes Gewicht. Das schwarze Etui erhielt eine Prägung für The Ritz-Carlton Wolfsburg."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "title": {
+    "level": "h2",
+    "html": "Ausarbeitung und Detail"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "SFP entwickelte die Ausführung in direkter Abstimmung mit dem Hotel. Bei einem so reduzierten Produkt entsteht Wirkung weniger durch zusätzliche Elemente als durch Proportion, Material und eine sorgfältig gesetzte Prägung. Die Karte definiert das Innenmaß; Lederstärke, Faltung und Kantenaufbau bestimmen, wie kompakt das Etui in der Hand liegt. Die Kennzeichnung muss sichtbar sein, ohne die kleine Fläche zu überladen. Auch die Übergabe am Empfang ist Teil der Betrachtung: Das Etui soll sich selbstverständlich aufnehmen und an den Gast weiterreichen lassen."
+    }
+   ]
+  },
+  {
+   "kind": "copy-grid",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Der Wert für den Kunden"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Das Hotel erhielt eine individuelle Hülle für einen täglich benötigten Artikel. Damit wurde aus der losen Zimmerkarte ein geordneter, haptischer Bestandteil des Ankommens. Das Echtleder-Etui trägt die Kennzeichnung des Hauses und gibt dem Gast zugleich einen festen Ort für die Karte während des Aufenthalts. Sein Wert liegt in der Qualität dieses konkreten Kontaktpunkts: Die Funktion bleibt verständlich, während Material und Ausführung an die Umgebung des Hotels anschließen."
+    }
+   ]
+  },
+  {
+   "kind": "project-detail",
+   "title": {
+    "level": "h2",
+    "html": "Ein vergleichbares Projekt?"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Erzählen Sie uns von Ihrem Einsatz, der benötigten Menge und Ihrer gestalterischen Idee."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/case-ritz-detail.webp",
+     "alt": "Detail des Ritz-Carlton Keycard-Etuis",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/kontakt/?topic=The%20Ritz-Carlton%2C%20Wolfsburg",
+     "label": "Projekt anfragen",
+     "style": "button"
+    },
+    {
+     "href": "/kollektionen/weitere-objekte/",
+     "label": "Passende Kollektion",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "actions": [
+    {
+     "href": "/projekte/",
+     "label": "Alle Projekte",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Lassen Sie uns etwas Eigenes gestalten."
+   },
+   "actions": [
+    {
+     "href": "/kontakt/",
+     "label": "Projekt anfragen",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}

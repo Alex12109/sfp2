@@ -1,0 +1,508 @@
+{
+ "language": "en",
+ "key": "product:papierkoerbe",
+ "slug": "product--papierkoerbe",
+ "url": "/en/products/waste-bins/",
+ "template": "family",
+ "title": "Waste bins",
+ "description": "A waste bin belongs to a room as surely as a piece of furniture. Considered in material, colour and proportion, it becomes a natural part of a refined interior.",
+ "alternate": {
+  "de": "/produkte/papierkoerbe/",
+  "en": "/en/products/waste-bins/"
+ },
+ "sections": [
+  {
+   "kind": "product-breadcrumb",
+   "crumbs": [
+    {
+     "href": "/en/collections/",
+     "label": "Collections",
+     "style": "text"
+    },
+    {
+     "href": "/en/collections/room-accessories/",
+     "label": "Room accessories",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-opening",
+   "title": {
+    "level": "h1",
+    "html": "Waste bins"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A waste bin belongs to a room as surely as a piece of furniture. Considered in material, colour and proportion, it becomes a natural part of a refined interior.",
+     "role": "product-lead"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Custom specifications",
+      "Materials &amp; branding for your concept",
+      "Personally coordinated from Berlin"
+     ],
+     "role": "product-promises"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/project-planner/?product=papierkoerbe",
+     "label": "Build your project brief",
+     "style": "button"
+    },
+    {
+     "href": "/en/contact/?topic=Waste%20bins",
+     "label": "Discuss your project",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "gallery-slide",
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Waste bin with a brown exterior — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    },
+    {
+     "role": "gallery-slide",
+     "hidden": true,
+     "media": [
+      {
+       "src": "/assets/v8-collection-room.webp",
+       "alt": "Coordinated room collection with a dark brown waste bin, tissue cover and tray.",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "page-jumps",
+   "actions": [
+    {
+     "href": "#product-story",
+     "label": "Character",
+     "style": "text"
+    },
+    {
+     "href": "#product-details",
+     "label": "Possibilities",
+     "style": "text"
+    },
+    {
+     "href": "#specification",
+     "label": "Specification",
+     "style": "text"
+    },
+    {
+     "href": "#product-questions",
+     "label": "Questions",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "object-study",
+   "id": "product-story",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Function deserves a considered form."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A waste bin sits in the background yet remains part of every view beneath a desk or beside a console. This quiet object often reveals whether a guest-room collection has been considered as a whole. The starting points are a round 15-litre metal body and a rectangular design with a metal insert. The round silhouette feels softer and can turn freely in the room; a rectangular form can align more closely with furniture edges. Covering, colour and stitching connect the bin with a desk pad, tray or tissue box cover without requiring each piece to share the same construction. A deliberately restrained finish allows the architecture and furniture to lead."
+    },
+    {
+     "type": "p",
+     "html": "Selection begins with the location. Measure niches, desk undersides and circulation routes, then check how housekeeping will reach the bin. Emptying, removal of the metal insert and possible liner use belong in the sample review. The 15-litre capacity refers to the existing round starting body; it does not imply other sizes, which are discussed for the project. Leather or another covering is assessed in relation to the particular surface and care routine. The top edge also deserves attention because it is prominent in daily handling. When the waste-paper basket, tissue box cover and tray form a family, a shared tone or recurring stitch detail may be enough to hold the room together quietly."
+    },
+    {
+     "type": "p",
+     "html": "For different room categories, document clearly where round and rectangular versions belong. This supports installation and replacement without implying that visually related constructions are technically interchangeable."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-papierkorbe.webp",
+     "alt": "Waste bins in different colours and shapes — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context"
+    },
+    {
+     "src": "/assets/original-bin-corner.webp",
+     "alt": "Waste-bin covering and edge detail",
+     "width": 1800,
+     "height": 1200,
+     "kind": "technical"
+    }
+   ],
+   "items": [
+    {
+     "role": "object-study-checks",
+     "title": "What matters in the design.",
+     "body": [
+      {
+       "type": "ul",
+       "items": [
+        "Check the position beneath or beside the desk",
+        "Discuss emptying and liners",
+        "Coordinate with tissue box covers and trays"
+       ]
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?product=papierkoerbe",
+       "label": "Build your project brief",
+       "style": "text"
+      }
+     ],
+     "href": "/en/project-planner/?product=papierkoerbe"
+    }
+   ]
+  },
+  {
+   "kind": "product-possibilities",
+   "id": "product-details",
+   "title": {
+    "level": "h2",
+    "html": "The details make it yours."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Form in the room",
+     "body": [
+      {
+       "type": "p",
+       "html": "Round and rectangular models relate differently to furniture and circulation. Tell us where the bin will be placed."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Inside and out",
+     "body": [
+      {
+       "type": "p",
+       "html": "Capacity, insert and access belong in the specification. A metal insert is one starting point for rectangular models."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Coordinated accessories",
+     "body": [
+      {
+       "type": "p",
+       "html": "The covering can coordinate with tissue box covers and desk pads. Tonal stitching and branding position carry that shared identity through."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-spec",
+   "id": "specification",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "The foundation of your specification."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "These formats and options are starting points. Together, we develop the right specification or begin with a bespoke idea."
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Dimensions and shape suited to the location",
+      "Colour and material coordinated with room accessories",
+      "Agree the interior construction and cleaning requirements"
+     ],
+     "role": "bullets"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/process/",
+     "label": "How your accessory takes shape",
+     "style": "text"
+    }
+   ],
+   "specs": [
+    {
+     "k": "Shape",
+     "v": "Round metal body, 15 litres / rectangular with a metal insert"
+    },
+    {
+     "k": "Details",
+     "v": "Coordinate covering, colour and stitching"
+    }
+   ]
+  },
+  {
+   "kind": "material-invitation",
+   "title": {
+    "level": "h2",
+    "html": "Materials and finishes."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose from genuine Italian leather, high-quality PU and other materials available for the product. We use samples to agree colour, finish and construction for your accessory."
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/materials/#material-studio",
+     "label": "View materials",
+     "style": "button"
+    }
+   ],
+   "items": [
+    {
+     "role": "material-invitation-notes",
+     "title": "Your logo on the product.",
+     "body": [
+      {
+       "type": "p",
+       "html": "Blind debossing presses the design into the surface without colour. Foil stamping adds a coloured or metallic finish. We agree the method, size and position to suit the material."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "product-reference",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Vier Jahreszeiten, München"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Leather guest-room accessories, beginning with an on-site consultation and followed by annual repeat orders since 2017."
+    }
+   ],
+   "media": [
+    {
+     "src": "/assets/v13-case-vier.webp",
+     "alt": "Coordinated guest-room accessories with Vier Jahreszeiten branding — product photograph with an edited setting",
+     "width": 1536,
+     "height": 1024,
+     "kind": "context",
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "role": "project-media"
+    }
+   ],
+   "actions": [
+    {
+     "href": "/en/projects/vier-jahreszeiten-muenchen/",
+     "label": "Explore the project",
+     "style": "text"
+    }
+   ]
+  },
+  {
+   "kind": "product-faq",
+   "id": "product-questions",
+   "title": {
+    "level": "h2",
+    "html": "Useful to know."
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "A few answers before our first conversation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can you develop a custom shape or size?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Yes. We discuss custom dimensions and original designs for the selected accessory. A sketch, a photograph of the setting or dimensions of the objects to be accommodated help translate your idea into a reviewable specification."
+      }
+     ]
+    },
+    {
+     "q": "How do we agree the material and branding?",
+     "a": [
+      {
+       "type": "p",
+       "html": "We discuss colour, finish and operating conditions. Material samples and artwork showing logo placement support the selection. Blind debossing, foil stamping and other methods depend on the material and accessory."
+      }
+     ]
+    },
+    {
+     "q": "What does SFP need for a quotation?",
+     "a": [
+      {
+       "type": "p",
+       "html": "Tell us the accessory or idea, quantity needed, required date and main design preferences. One-offs and very small runs are welcome, and our offer also covers large projects. We agree the specification and timing around your needs. The project planner helps you bring the details together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "generic",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "A collection comes together through its details."
+   },
+   "actions": [
+    {
+     "href": "/en/collections/room-accessories/",
+     "label": "Explore the collection",
+     "style": "text"
+    }
+   ],
+   "items": [
+    {
+     "role": "discovery-card",
+     "href": "/en/products/tissue-box-covers/",
+     "title": "Tissue box covers",
+     "body": [
+      {
+       "type": "p",
+       "html": "Everyday consumables sit behind a coordinated finish. The cover is specified for your chosen tissue refill and its intended location."
+      },
+      {
+       "type": "p",
+       "html": "Explore the details",
+       "role": "textlink"
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-tissue-boxen.webp",
+       "alt": "Tissue box covers in wood and covered finishes — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "individual-models",
+   "title": {
+    "level": "h2",
+    "html": "Models &amp; individual accessories"
+   },
+   "body": [
+    {
+     "type": "p",
+     "html": "Choose an individual accessory as your starting point. Specify materials, dimensions and details separately for every item in your enquiry."
+    }
+   ],
+   "items": [
+    {
+     "role": "catalog-card",
+     "title": "<a href=\"/en/products/models/papierkorbe/\">Waste Bins</a>",
+     "body": [
+      {
+       "type": "p",
+       "html": "Waste bins are made in round or rectangular forms with an MDF or metal core and a PU-leather covering. MDF versions include a metal liner for their intended hotel-room use. Three starting sizes, custom dimensions, plastic feet, decorative stitching and branding coordinate the shape, floor protection and identity with the room, bathroom or public area."
+      }
+     ],
+     "media": [
+      {
+       "src": "/assets/v13-papierkorbe.webp",
+       "alt": "Waste Bins — product photograph with an edited setting",
+       "width": 1536,
+       "height": 1024,
+       "kind": "context",
+       "href": "/en/products/models/papierkorbe/",
+       "role": "catalog-photo"
+      }
+     ],
+     "actions": [
+      {
+       "href": "/en/project-planner/?item=papierkorbe",
+       "label": "Configure this accessory",
+       "style": "text"
+      }
+     ],
+     "href": "/en/products/models/papierkorbe/"
+    }
+   ]
+  },
+  {
+   "kind": "commercial-terms",
+   "shade": true,
+   "title": {
+    "level": "h2",
+    "html": "Thoughtfully planned. Clearly agreed."
+   },
+   "items": [
+    {
+     "role": null,
+     "title": "Production",
+     "body": [
+      {
+       "type": "p",
+       "html": "Production can take 4–6 weeks after your approval. We agree the specific delivery date with you."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Express on request",
+     "body": [
+      {
+       "type": "p",
+       "html": "Where the product, materials and capacity allow, express orders are available for a surcharge, with delivery potentially in under two weeks. We confirm feasibility before you place the order."
+      }
+     ]
+    },
+    {
+     "role": null,
+     "title": "Payment &amp; approval",
+     "body": [
+      {
+       "type": "p",
+       "html": "For new customers, we request 100% payment in advance. For large orders from existing customers, we request a 50% advance payment. The agreed terms are set out in your quotation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "band",
+   "title": {
+    "level": "h2",
+    "html": "Let’s create something distinctly yours."
+   },
+   "actions": [
+    {
+     "href": "/en/contact/",
+     "label": "Discuss your project",
+     "style": "button"
+    }
+   ]
+  }
+ ]
+}
