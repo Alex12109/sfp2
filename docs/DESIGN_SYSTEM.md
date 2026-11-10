@@ -55,6 +55,15 @@ Ausnahme: die Material- und Folienchips der Materialstudie (Bildschirmwerte des 
 - Betonung in Überschriften: Bronze statt Kursive, nur auf Ivory (auf Parchment Forest, auf Dunkel keine Farbe).
 
 ## Bewegung
+Datei `src/styles/motion.css`. Wirkung entsteht ohne Verläufe, Schatten oder Rundungen: durch Aufrollen (`clip-path`),
+sich zeichnende Linien, Flächenwechsel und langsame Bildbewegung.
+- Schaltflächen: Fläche wischt von unten durch, Pfeil fliegt aus und wieder ein, Laufweite öffnet sich leicht.
+- Textlinks und Navigation: Unterstreichung zeichnet sich von links.
+- Karten: Bild fährt langsam heran, Schnittmarken erscheinen, Ziffer rückt.
+- Scrollen: Abschnitte rollen aus, Überschriften steigen aus einer Maske, Linien und Maßband zeichnen sich,
+  Bilder driften im Ausschnitt, Fortschrittslinie unter der Kopfzeile.
+- Seitenwechsel: weiches Überblenden (View Transitions), Aufklappen mit weicher Höhe.
+- Formulare: Feldlinie zeichnet sich bei Fokus, Schritte füllen sich, Meldungen und Brief rollen ein.
 - Seitenaufbau: Zeilen der H1 steigen gestaffelt auf (`.anim-rise`, `--i`), Bild wird aufgedeckt (`.anim-unveil`), Maßband zeichnet sich (`.anim-draw`). Nur CSS.
 - Scrollen: `[data-reveal]` blendet ein, Bilder mit `data-reveal="clip"` werden aufgedeckt (IntersectionObserver).
 - Ohne JavaScript oder bei `prefers-reduced-motion` ist alles sofort sichtbar.

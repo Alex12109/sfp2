@@ -1,7 +1,8 @@
 # Bekannte Einschränkungen und offene Punkte
 
 ## Nicht verbunden (bewusst)
-- **Kein Backend, kein Versand.** Der Projektbrief entsteht im Browser. Ergebnis: `mailto:`-Entwurf, Kopie oder Textdownload. `live` in `src/services/enquiry-service.ts` ist ein Platzhalter.
+- **Versand ist vorbereitet, aber nicht verbunden.** Standard bleibt `draft` (E-Mail-Entwurf, Kopie, Download). Der Live-Adapter sendet an `PUBLIC_ENQUIRY_ENDPOINT`; ein solcher Endpunkt existiert noch nicht. `server/enquiry-worker.mjs` ist eine Vorlage: Logik getestet, **keine echte E-Mail wurde je zugestellt**. Entscheidung und Zugangsdaten stehen aus (`docs/ENQUIRY_DELIVERY.md`).
+- **Einwilligungstext** im Live-Modus ist ein Entwurf ohne rechtliche Prüfung; die Datenschutzerklärung nennt den Versandweg noch nicht.
 - **Keine Uploads, kein CMS, kein CRM, keine Analyse-Skripte.**
 - **Keine Veröffentlichung.** Kein Hosting, keine Domain eingerichtet. `noindex, nofollow` ist gesetzt wie im Bestand.
 
@@ -36,7 +37,8 @@
 - `canonical` und `hreflang` sind relative Pfade, da die Domain offen ist. Keine `sitemap.xml`, keine `robots.txt`.
 - Konfigurator und Projektbrief laden `/data/catalog.{lang}.json` per `fetch`. Ohne JavaScript erscheint der Hinweis mit der E-Mail-Adresse; vom Dateisystem (`file://`) funktioniert der Abruf nicht.
 - Schriften sind variable WOFF2-Dateien (je ~215 KB) ohne Subsetting.
-- Bewegung: Seitenaufbau und Einblendungen laufen nur mit JavaScript und ohne `prefers-reduced-motion`. Der Szenenwechsel der Startseite läuft automatisch (6,5 s) und endet bei der ersten Interaktion; einen eigenen Pause-Knopf gibt es nicht.
+- Bewegung (`src/styles/motion.css`): Scrollgebundene Effekte (Bilddrift, Fortschrittslinie), Seitenübergänge und weiches Aufklappen nutzen neue CSS-Funktionen und laufen derzeit nur in Chromium-Browsern; andere zeigen die Seite ohne diese Effekte. Geprüft nur in headless Chromium, nicht auf echten Geräten und nicht auf Leistung.
+- Seitenaufbau und Einblendungen laufen nur mit JavaScript und ohne `prefers-reduced-motion`. Der Szenenwechsel der Startseite läuft automatisch (6,5 s) und endet bei der ersten Interaktion; einen eigenen Pause-Knopf gibt es nicht.
 - Geprüft wurde nur in Chromium (headless). Details in `STATE_CHECKLIST.md`.
 
 ## Entscheidungen für Alex

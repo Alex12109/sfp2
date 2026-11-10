@@ -85,7 +85,7 @@ const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 // ------------------------------------------------------------ Einblendungen
 (() => {
-  const nodes = document.querySelectorAll<HTMLElement>('[data-reveal]');
+  const nodes = document.querySelectorAll<HTMLElement>('[data-reveal], .ruler:not(.anim-draw)');
   if (!document.documentElement.classList.contains('motion')) return;
   const io = new IntersectionObserver(
     (entries) => entries.forEach((entry) => { if (entry.isIntersecting) { entry.target.classList.add('is-in'); io.unobserve(entry.target); } }),
@@ -107,12 +107,14 @@ document.querySelectorAll<HTMLElement>('[data-scenes]').forEach((root) => {
     scenes.forEach((s, n) => { s.toggleAttribute('data-active', n === i); if (n === i) s.removeAttribute('aria-hidden'); else s.setAttribute('aria-hidden', 'true'); });
     pressGroup(buttons, i);
   };
-  buttons.forEach((b, i) => b.addEventListener('click', () => { clearInterval(timer); show(i); }));
+  buttons.forEach((b, i) => b.addEventListener('click', () => { clearInterval(timer); root.removeAttribute('data-auto'); show(i); }));
   // Ruhiger automatischer Wechsel, endet bei der ersten Interaktion oder reduzierter Bewegung.
   if (!reduced && scenes.length > 1) {
+    const stop = () => { clearInterval(timer); root.removeAttribute('data-auto'); };
+    root.setAttribute('data-auto', '');
     timer = window.setInterval(() => show((index + 1) % scenes.length), 6500);
-    root.addEventListener('pointerenter', () => clearInterval(timer), { once: true });
-    root.addEventListener('focusin', () => clearInterval(timer), { once: true });
+    root.addEventListener('pointerenter', stop, { once: true });
+    root.addEventListener('focusin', stop, { once: true });
   }
 });
 document.querySelectorAll<HTMLElement>('[data-tabs]').forEach((root) => {

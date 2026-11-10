@@ -140,6 +140,15 @@ const de = {
     resetDone: 'Ihre neue Anfrage ist bereit.',
     noscript: 'Bitte schreiben Sie uns direkt an mail@sfp-berlin.com oder rufen Sie uns an.',
     notSent: 'Diese Seite versendet nichts. Der Brief verlässt Ihren Browser erst, wenn Sie die E-Mail selbst absenden.', // NEU
+    requiredLive: '* Pflichtangaben für Ihren Projektbrief. Ihre Angaben werden erst übertragen, wenn Sie die Anfrage senden.', // NEU (nur Live-Modus)
+    send: 'Anfrage senden', // NEU (nur Live-Modus)
+    sending: 'Ihre Anfrage wird übertragen …', // NEU
+    sent: (reference: string) => `Ihre Anfrage ist bei SFP eingegangen. Referenz: ${reference}`, // NEU
+    sendFailed: 'Bitte versuchen Sie es erneut oder nutzen Sie den E-Mail-Entwurf.', // NEU
+    sendNotice: 'Mit „Anfrage senden“ werden Ihre Angaben an SFP übertragen. Alternativ können Sie den Brief als E-Mail-Entwurf öffnen, kopieren oder herunterladen.', // NEU
+    consent: 'Ich bin einverstanden, dass SFP meine Angaben zur Bearbeitung dieser Anfrage verarbeitet.', // NEU – Wortlaut rechtlich prüfen
+    consentMissing: 'Bitte bestätigen Sie die Einwilligung.', // NEU
+    honeypot: 'Dieses Feld bitte leer lassen', // NEU
     demoSend: 'Senden (Demo – ohne Versand)', // NEU
     demoBadge: 'Demo-Modus: Es ist kein Versand angebunden.', // NEU
     progress: 'Fortschritt', // NEU
@@ -289,6 +298,15 @@ const en: typeof de = {
     resetDone: 'Your new enquiry is ready.',
     noscript: 'Please email mail@sfp-berlin.com directly or call us.',
     notSent: 'This page sends nothing. The brief only leaves your browser when you send the email yourself.',
+    requiredLive: '* Required for your project brief. Your details are transmitted only when you send the enquiry.',
+    send: 'Send enquiry',
+    sending: 'Your enquiry is being transmitted …',
+    sent: (reference) => `SFP has received your enquiry. Reference: ${reference}`,
+    sendFailed: 'Please try again or use the email draft.',
+    sendNotice: 'Choosing “Send enquiry” transmits your details to SFP. You can also open the brief as an email draft, copy it or download it.',
+    consent: 'I agree that SFP processes my details in order to handle this enquiry.',
+    consentMissing: 'Please confirm your consent.',
+    honeypot: 'Please leave this field empty',
     demoSend: 'Send (demo – nothing is sent)',
     demoBadge: 'Demo mode: no delivery is connected.',
     progress: 'Progress',

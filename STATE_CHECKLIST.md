@@ -31,6 +31,8 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 | Projektbrief | Vorschau, `mailto:` mit vollständigem Text | Kontakt | gemessen (Link-Inhalt), E-Mail-Programm offen |
 | Projektbrief | Kopieren, Kopierfehler, Download | Kontakt | Code vorhanden, **nicht gemessen** |
 | Projektbrief | Demo-Modus sichtbar gekennzeichnet | `PUBLIC_ENQUIRY_MODE=demo` | **nicht gemessen** |
+| Projektbrief | Live: ohne Einwilligung kein Versand; Fehler des Endpunkts; Annahme mit Referenz, Knopf gesperrt | `PUBLIC_ENQUIRY_MODE=live` | gemessen gegen simulierten Endpunkt; echte Zustellung **offen** |
+| Bewegung | Seitenaufbau, Einblenden, Hover, Scroll-Effekte | `motion.css` | gesichtet in Chromium (Zwischenzustände); andere Browser offen |
 | Ohne JavaScript | Inhalte sichtbar, Formulare zeigen Hinweis mit E-Mail-Adresse | alle Seiten | nicht gemessen |
 | Reduzierte Bewegung | Animationen und Einblendungen aus | global | Screenshots laufen in diesem Modus; sonst nicht gemessen |
 
@@ -38,7 +40,8 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 | Prüfung | Befehl | Ergebnis |
 |---|---|---|
 | Build | `npm run build` | 219 Seiten + 2 JSON, ohne Fehler |
-| Regeln | `npm test` | 19/19 |
+| Regeln und Live-Adapter | `npm test` | 26/26 |
+| Live-Versand im Browser (simulierter Endpunkt) | `node tests/e2e/live-send.cjs` | 3/3 |
 | Build-Integrität | `npm run check:dist` | 218 Routen, 13.884 Links, 2.994 Bilder, 0 Probleme |
 | Anfrageweg im Browser | `node tests/e2e/enquiry-flow.cjs` | 13/13 Schritte, 0 Skriptfehler |
 | Überlauf 320/390/768/1440 | `node tests/e2e/overflow.cjs` | 172 Ansichten (43 Routen), 0 Überlauf |

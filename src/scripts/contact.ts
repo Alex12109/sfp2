@@ -86,6 +86,8 @@ export function initContact(root: HTMLElement, products: Product[]) {
   form.querySelectorAll('[data-next]').forEach((b) => b.addEventListener('click', () => { if (validatePanel(panels[step], lang)) show(step + 1); }));
   form.querySelectorAll('[data-back]').forEach((b) => b.addEventListener('click', () => show(step - 1)));
   function changed() {
+    if (sendButton) sendButton.disabled = false;
+    delete root.dataset.sent;
     review.hidden = true;
     status('');
     persist();
@@ -136,8 +138,17 @@ export function initContact(root: HTMLElement, products: Product[]) {
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   });
   // Nur im Demo-/Live-Modus vorhanden. Eine Bestätigung erscheint ausschließlich bei echter Annahme.
-  root.querySelector('#demo-send')?.addEventListener('click', async () => {
+  const sendButton = root.querySelector<HTMLButtonElement>('#send-enquiry');
+  sendButton?.addEventListener('click', async () => {
     if (!enquiryService) return;
+    const consent = root.querySelector<HTMLInputElement>('#consent');
+    if (consent && !consent.checked) {
+      status(ui.consentMissing, 'error');
+      consent.setAttribute('aria-invalid', 'true');
+      consent.focus();
+      return;
+    }
+    consent?.removeAttribute('aria-invalid');
     const f = fields();
     const draft: EnquiryDraft = {
       schemaVersion: 1,
@@ -145,9 +156,26 @@ export function initContact(root: HTMLElement, products: Product[]) {
       items: state.items,
       project: { scenario: f.scenario, collection: f.collection, quantity: f.quantity, delivery: f.delivery, description: f.description || '' },
       contact: { name: f.name || '', company: f.company, email: f.email || '', phone: f.phone },
+      brief: summary(),
+      website: root.querySelector<HTMLInputElement>('#website')?.value || '',
     };
+    sendButton.disabled = true;
+    status(ui.sending);
     const result = await enquiryService.submit(draft);
-    status(result.status === 'accepted' ? result.reference : result.message, result.status === 'accepted' ? 'success' : result.status === 'failed' ? 'error' : 'note');
+    if (result.status === 'accepted') {
+      // Bestätigung nur nach echter Annahme durch den Endpunkt; Knopf bleibt gesperrt, damit nichts doppelt gesendet wird.
+      status(ui.sent(result.reference), 'success');
+      root.dataset.sent = 'true';
+      return;
+    }
+    sendButton.disabled = false;
+    if (result.status === 'failed') {
+      status(`${result.message} ${ui.sendFailed}`, 'error');
+      for (const [name, message] of Object.entries(result.fieldErrors || {})) {
+        const target = form.elements.namedItem(name) as HTMLElement | null;
+        if (target) { target.setAttribute('aria-invalid', 'true'); target.setAttribute('title', message); }
+      }
+    } else status(result.message);
   });
   root.querySelector('#enquiry-reset')!.addEventListener('click', () => {
     if (!window.confirm(ui.resetConfirm)) return;

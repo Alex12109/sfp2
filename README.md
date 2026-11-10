@@ -48,8 +48,10 @@ src/
   pages/data/…json.ts     Katalogdaten für den Browser (/data/catalog.{de,en}.json)
   lib/enquiry-model.ts    Regeln für Auswahl und Projektbrief (ohne DOM, getestet)
   services/enquiry-service.ts   Anfrage-Adapter mit Feature-Flag (draft | demo | live)
+  styles/motion.css       Bewegung, Mouseover- und Scroll-Effekte
   scripts/                Verhalten im Browser (Navigation, Konfigurator, Anfrage, Filter)
   i18n/ui.ts              Bedientexte DE/EN
+server/               Referenz-Endpunkt für den Live-Versand (nicht Teil des Builds)
 scripts/              Import, Build-Prüfung, Tabellen für die Übergabe
 tests/                Unit-Tests (Vitest) und optionale Browser-Prüfungen
 screenshots/          Orientierung Desktop/Mobil – maßgeblich ist der Code
@@ -70,7 +72,18 @@ verändert keine Texte und kopiert nur referenzierte Originaldateien. Danach `np
 Standard ist `PUBLIC_ENQUIRY_MODE=draft`: Die Seite versendet nichts. Sie erstellt einen E-Mail-Entwurf
 (`mailto:`), eine Kopie oder einen Textdownload – wie der Bestand. `demo` blendet zusätzlich einen als Demo
 gekennzeichneten Sendeknopf ein, der nur den Mock aus `src/services/enquiry-service.ts` aufruft.
-`live` ist für die spätere Backend-Anbindung vorgesehen und schlägt bis dahin bewusst fehl.
+
+`live` sendet den Projektbrief per `POST` (JSON) an `PUBLIC_ENQUIRY_ENDPOINT`:
+
+```
+PUBLIC_ENQUIRY_MODE=live PUBLIC_ENQUIRY_ENDPOINT=/api/enquiry npm run build
+```
+
+Dann erscheinen Einwilligung und „Anfrage senden“. Eine Bestätigung zeigt die Seite nur, wenn der Endpunkt mit
+200/202 und einer `reference` antwortet; jeder andere Fall ist eine Fehlermeldung, der E-Mail-Entwurf bleibt als Ausweg.
+Der Endpunkt gehört nicht zum Frontend. `server/enquiry-worker.mjs` ist eine Referenz für einen Cloudflare Worker
+(Prüfung, Honeypot, Origin-Liste, Zustellung über eine E-Mail-API). Seine Logik ist getestet, eine echte Zustellung nicht.
+Ohne gesetzten Endpunkt schlägt `live` bewusst fehl. Die Optionen stehen in `docs/ENQUIRY_DELIVERY.md`.
 
 ## Lizenzen
 

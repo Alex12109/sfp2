@@ -39,6 +39,7 @@ DE / EN:
 - „Diese Seite versendet nichts. Der Brief verlässt Ihren Browser erst, wenn Sie die E-Mail selbst absenden.“ / “This page sends nothing. …”
 - „Senden (Demo – ohne Versand)“, „Demo-Modus: Es ist kein Versand angebunden.“ (nur im Demo-Modus)
 - „Fortschritt“ / “Progress”; „Materialstudie“ / “Material study”; „Projektbrief“ (Zeile über der Kontakt-H1)
+- Nur im Live-Modus: „Anfrage senden“, „Ihre Anfrage wird übertragen …“, „Ihre Anfrage ist bei SFP eingegangen. Referenz: …“, Fehlerhinweis, Hinweis zur Übertragung, Pflichtfeldhinweis ohne E-Mail-Programm und der **Einwilligungstext** („Ich bin einverstanden, dass SFP meine Angaben zur Bearbeitung dieser Anfrage verarbeitet.“ – Entwurf, rechtlich zu prüfen), jeweils auch englisch.
 - 404: „Diese Seite gibt es nicht.“ samt Erklärung und zwei Links / “This page does not exist.”
 - Englische Fassungen des Speisekarten-Leerzustands und der Folienfarben wurden aus dem EN-Bestand übernommen, soweit vorhanden; sonst sinngleich übersetzt.
 
