@@ -19,11 +19,12 @@ zusätzlich braucht. Übernommen und im Code nachprüfbar:
 | Copper nur dekorativ und nur auf Ivory, Forest, Charcoal; Bronze nur auf Ivory ab 24 px | `.tone-parchment`/`.tone-sand` setzen Akzent auf Forest; Bronze nur in H1/H2-Hervorhebung auf Ivory |
 | Logo als fertige Datei, Schutzraum unangetastet, 08 für Kopfzeilen | Header 08 Charcoal, Footer 06 hell, keine negativen Ränder |
 
-**Stand 10.11.2026: Das Design System gilt nicht strikt** (Entscheidung Alex). Die Zeilen „Keine Verläufe, Glows,
-Schatten, Rundungen“ und „Copper nur auf Ivory, Forest, Charcoal“ der Tabelle sind damit aufgehoben. `src/styles/luxe.css`
+**Stand 10.11.2026: Verläufe, Schatten, Glows und Rundungen sind im Design System ausdrücklich erlaubt und gewünscht**
+(Entscheidung Alex). Die Zeilen „Keine Verläufe, Glows, Schatten, Rundungen“ und „Copper nur auf Ivory, Forest,
+Charcoal“ der Tabelle sind damit aufgehoben; die Logos selbst bleiben ohne Effekte. `src/styles/luxe.css`
 legt darüber: runde Schaltflächen mit Verlauf, Lichtkante und Schein, weiche Schatten, abgerundete Bilder und Flächen,
-mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Lichtschein auf dunklen Flächen.
-Unverändert bleiben Farben, Schriften, Schriftgewichte, Logo-Regeln, Fokus und Mindestgrößen.
+mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Kupferschein (Glow) an aktiven und
+berührten Elementen, Lichtschein auf dunklen Flächen. Unverändert bleiben Farben, Schriften, Schriftgewichte, Logo-Regeln, Fokus und Mindestgrößen.
 
 Weitere Ergänzungen: feine Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, eine Display-Schriftstufe über H1
 (bis 5,5 rem), fluide Abstände, Bewegung (`motion.css`), Wildleder-Studie (`scripts/suede.ts`).

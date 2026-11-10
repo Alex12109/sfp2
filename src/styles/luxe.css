@@ -1,8 +1,9 @@
 /*
  * Veredelung: Verläufe, Schatten, Rundungen.
- * Freigabe durch Alex am 10.11.2026: Das SFP Design System gilt hier nicht strikt
- * (es sieht ursprünglich keine Verläufe, Schatten und Rundungen vor). Farben, Schriften
- * und Logos bleiben unverändert Old Copper; Logos erhalten nie Effekte.
+ * Entscheidung von Alex am 10.11.2026 zum SFP Design System: Verläufe, Schatten, Glows und
+ * Rundungen sind ausdrücklich erlaubt und gewünscht (die Fassung Final 1.2 schloss sie noch aus).
+ * Farben, Schriften und Logo-Dateien bleiben unverändert Old Copper; die Logos selbst erhalten
+ * weiterhin keine Effekte, weil dazu nichts Neues entschieden wurde.
  */
 :root {
   --r-xs: 6px;
@@ -141,3 +142,24 @@ html.motion .notecard[data-reveal].is-in { background-size: auto; }
 .facts__list > div { border-top: 0; padding: 1.3rem 1.4rem; border-radius: var(--r-m); background: rgb(245 241 233 / 0.6); box-shadow: inset 0 0 0 1px var(--rule), var(--shadow-s); }
 /* Lichtschein darf die Seite nicht verbreitern */
 .home-hero, .band { overflow-x: clip; }
+
+/* ---------- Glows: warmer Kupferschein an aktiven und berührten Elementen ---------- */
+:root { --glow-soft: 0 0 0 1px rgb(183 117 80 / 0.35), 0 10px 34px -8px rgb(183 117 80 / 0.55); }
+.chip[aria-pressed='true'], .tray__count { box-shadow: var(--glow); }
+.card:hover .card__media { box-shadow: var(--shadow-l), 0 0 60px -18px rgb(183 117 80 / 0.55); }
+.frame:hover > .media, a:hover .frame > .media { box-shadow: var(--shadow-l), 0 0 70px -20px rgb(183 117 80 / 0.5); transition: box-shadow 0.8s var(--ease); }
+.field input:focus, .field select:focus, .field textarea:focus { box-shadow: 0 0 0 4px rgb(183 117 80 / 0.22), 0 8px 26px -10px rgb(183 117 80 / 0.55); border-color: var(--sfp-bronze); }
+.enquiry__main, .cfg__list { box-shadow: var(--shadow-l), 0 0 90px -30px rgb(183 117 80 / 0.45); }
+.notecard:hover { box-shadow: inset 0 0 0 1px var(--sfp-copper), var(--shadow-m), 0 0 50px -18px rgb(183 117 80 / 0.5); }
+.stamp-study { box-shadow: var(--shadow-l), 0 0 110px -30px rgb(183 117 80 / 0.6), inset 0 0 0 1px rgb(255 255 255 / 0.08); }
+.theatre__tabs button[aria-pressed='true'], .swatch-choice[aria-pressed='true'] { text-shadow: 0 0 22px rgb(183 117 80 / 0.7); }
+.tone-forest :is(h1, h2) em, .band h2 { filter: drop-shadow(0 0 26px rgb(183 117 80 / 0.28)); }
+.site-header__rule::after { box-shadow: 0 0 12px rgb(183 117 80 / 0.9); }
+.steps li.is-active::after { box-shadow: 0 0 14px rgb(183 117 80 / 0.7); }
+.status[data-kind='success']:not(:empty) { box-shadow: var(--shadow-s), 0 0 40px -14px rgb(37 63 59 / 0.6); }
+@media (prefers-reduced-motion: no-preference) {
+  /* Hauptknopf der Seite atmet leise */
+  @keyframes breathe { 50% { box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.2), 0 0 0 6px rgb(183 117 80 / 0.1), 0 14px 40px -12px rgb(183 117 80 / 0.75); } }
+  .home-hero .btn, .band__circle, #send-enquiry:not([disabled]) { animation: breathe 3.6s ease-in-out infinite; }
+  .home-hero .btn:hover, #send-enquiry:hover { animation: none; }
+}

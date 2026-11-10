@@ -49,7 +49,7 @@ src/
   lib/enquiry-model.ts    Regeln für Auswahl und Projektbrief (ohne DOM, getestet)
   services/enquiry-service.ts   Anfrage-Adapter mit Feature-Flag (draft | demo | live)
   styles/motion.css       Bewegung, Mouseover- und Scroll-Effekte
-  styles/luxe.css         Verläufe, Schatten, Rundungen (Design System nicht strikt, Freigabe 10.11.2026)
+  styles/luxe.css         Verläufe, Schatten, Glows, Rundungen (im Design System erlaubt und gewünscht, 10.11.2026)
   scripts/suede.ts        Wildleder-Studie der Materialseite (aus dem Bestand übernommen)
   scripts/                Verhalten im Browser (Navigation, Konfigurator, Anfrage, Filter)
   i18n/ui.ts              Bedientexte DE/EN
