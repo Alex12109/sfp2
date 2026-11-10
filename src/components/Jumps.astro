@@ -6,6 +6,6 @@ const { s } = Astro.props;
 ---
 <nav class="jumps tone-ivory" aria-label="Inhalt">
   <ul class="wrap">
-    {(s.actions ?? []).map((a, i) => <li><a href={a.href}><span aria-hidden="true">{pad(i + 1)}</span>{a.label}</a></li>)}
+    {(s.actions ?? []).map((a, i) => <li><a href={a.href}>{a.label}</a></li>)}
   </ul>
 </nav>

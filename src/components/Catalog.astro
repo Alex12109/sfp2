@@ -32,7 +32,6 @@ const total = groups.reduce((n, g) => n + (g.items?.length ?? 0), 0);
     {groups.map((g, gi) => (
       <section class="catalog__group" id={g.id ?? undefined} data-catalog-group aria-labelledby={`${g.id}-title`}>
         <header class="catalog__group-head">
-          <p class="label">N° {pad(gi + 1)}</p>
           <h2 id={`${g.id}-title`} set:html={heading(g.title?.html)} />
           <p class="catalog__group-count" data-group-count>{g.items?.length}</p>
         </header>

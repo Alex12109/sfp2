@@ -13,7 +13,6 @@ const steps = faq.some((f) => f.no);
 <section class:list={['sec faq', tone, steps && 'faq--steps']} id={s.id}>
   <div class="wrap faq__grid">
     <header class="faq__head" data-reveal>
-      {no && <p class="label">N° {pad(no)}</p>}
       {s.title && <h2 set:html={heading(s.title.html)} />}
       <Rich blocks={s.body} />
       <Actions links={s.actions} />

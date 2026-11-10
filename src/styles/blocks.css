@@ -120,7 +120,7 @@
 .card__media { display: block; overflow: hidden; }
 .card__media .media img { transition: transform 1.2s var(--ease); }
 .card:hover .card__media .media img { transform: scale(1.035); }
-.card__body { display: grid; gap: 0.7rem; align-content: start; padding-top: 1.1rem; border-top: 1px solid var(--rule-strong); }
+.card__body { display: grid; gap: 0.6rem; align-content: start; }
 .card__no { font-size: 0.68rem; font-weight: 600; letter-spacing: 0.14em; color: var(--structure); }
 .tone-forest .card__no { color: var(--sfp-sand); }
 .card__title { font-size: clamp(1.35rem, 1.1rem + 0.8vw, 1.8rem); }

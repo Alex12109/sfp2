@@ -16,7 +16,6 @@ const { s, tone = 'tone-parchment' } = Astro.props;
       return (
         <article class="atlas__row">
           <div class="atlas__copy" data-reveal>
-            <p class="label">N° {pad(i + 1)}</p>
             <h2 set:html={heading(item.title)} />
             <Rich blocks={item.body} />
             {tags.length > 0 && <ul class="tags">{tags.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>}

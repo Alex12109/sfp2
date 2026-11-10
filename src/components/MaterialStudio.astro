@@ -33,7 +33,6 @@ const suede = (s.media ?? []).find((m) => /suede/.test(m.src));
   <div class="wrap">
     <header class="sec-head" data-reveal>
       <div>
-        <p class="label">{en ? 'Material study' : 'Materialstudie'}</p>
         {s.title && <h2 set:html={heading(s.title.html)} />}
       </div>
       <div class="sec-head__side"><Rich blocks={intro} /></div>

@@ -74,7 +74,7 @@
   --section: clamp(4rem, 2.4rem + 7vw, 9.5rem);
   --gap: clamp(1.25rem, 0.8rem + 1.6vw, 2.5rem);
   --maxw: 96rem;
-  --measure: 62ch;
+  --measure: 68ch;
   --mark: 0.7rem; /* Länge der Schnittmarken */
 
   /* Bewegung */

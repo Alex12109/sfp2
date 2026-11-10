@@ -16,7 +16,6 @@ const withMedia = media.length > 0;
 <section class:list={['sec split', tone, withMedia && 'split--media', !s.title && !(s.body ?? []).length && 'sec--tight']} id={s.id}>
   <div class="wrap split__grid">
     <header class="split__head" data-reveal>
-      {no && <p class="label">N° {pad(no)}</p>}
       {s.title && <h2 set:html={heading(s.title.html)} />}
     </header>
     <div class="split__body" data-reveal style="--i:1">
@@ -25,7 +24,7 @@ const withMedia = media.length > 0;
         <dl class="specs">{s.specs.map((r) => <div><dt>{r.k}</dt><dd set:html={r.v} /></div>)}</dl>
       )}
       {navLinks.length > 0 && (
-        <ul class="index-links">{navLinks.map((l, i) => <li><a href={l.href}><span aria-hidden="true">{pad(i + 1)}</span>{l.label}</a></li>)}</ul>
+        <ul class="index-links">{navLinks.map((l, i) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
       )}
       <Actions links={actions} />
       {notes.map((n) => (

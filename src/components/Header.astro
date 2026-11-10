@@ -29,13 +29,12 @@ const isActive = (href: string) => href === url || (href !== nav.home && href.le
               <div class="nav__panel" id={`nav-panel-${i}`} hidden data-nav-panel>
                 <div class="nav__panel-inner wrap">
                   <div class="nav__intro">
-                    <span class="label">{g.label}</span>
                     <p class="nav__title">{g.title}</p>
                     <p class="nav__tagline">{g.tagline}</p>
                   </div>
                   <ul class="nav__links" style={`--rows:${Math.ceil(g.links.length / 2)}`}>
                     {g.links.map((l, n) => (
-                      <li><a href={l.href} aria-current={l.href === url ? 'page' : undefined}><span class="nav__no" aria-hidden="true">{String(n + 1).padStart(2, '0')}</span>{l.label}</a></li>
+                      <li><a href={l.href} aria-current={l.href === url ? 'page' : undefined}>{l.label}</a></li>
                     ))}
                   </ul>
                   {g.image && (

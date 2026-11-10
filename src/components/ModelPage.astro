@@ -37,7 +37,6 @@ for (const m of materials?.items ?? []) {
     <div class="model-top__grid">
       {opening?.media?.[0] && <Picture img={opening.media[0]} frame eager ratio="ar-4x3" class="model-top__media anim-unveil" sizes="(min-width: 900px) 56vw, 100vw" />}
       <div class="model-top__copy">
-        {category && <p class="label anim-rise" set:html={category} />}
         <h1>{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i + 1}`} set:html={l} />)}</h1>
         <div class="anim-rise" style="--i:3"><Rich blocks={top?.body} lead /></div>
         <div class="model-top__features anim-rise" style="--i:4">
@@ -57,7 +56,6 @@ for (const m of materials?.items ?? []) {
   <section class="sec model-specs tone-parchment">
     <div class="wrap split__grid">
       <header class="split__head" data-reveal>
-        <p class="label">N° 01</p>
         <h2 set:html={heading(specs.title?.html)} />
         <Rich blocks={specs.body} class="model-specs__note" />
       </header>
@@ -82,7 +80,7 @@ for (const m of materials?.items ?? []) {
   <section class="sec model-materials tone-ivory">
     <div class="wrap">
       <header class="sec-head" data-reveal>
-        <div><p class="label">N° 02</p><h2 set:html={heading(materials.title?.html)} /></div>
+        <div><h2 set:html={heading(materials.title?.html)} /></div>
         <div class="sec-head__side"><Rich blocks={materials.body} /></div>
       </header>
       <div class="swatchwall">
@@ -115,7 +113,7 @@ for (const m of materials?.items ?? []) {
 <section class="sec model-config tone-ivory" id="konfigurator">
   <div class="wrap">
     <header class="sec-head" data-reveal>
-      <div><p class="label">N° 03</p><h2>{ui.cfg.configureHere}</h2></div>
+      <div><h2>{ui.cfg.configureHere}</h2></div>
       <div class="sec-head__side"><p>{data?.description}</p></div>
     </header>
     <Configurator lang={lang} mode="model" fixed={id} categories={categories} />

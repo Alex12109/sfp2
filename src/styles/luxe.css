@@ -1,120 +1,132 @@
 /*
- * Veredelung: Verläufe, Schatten, Rundungen.
- * Entscheidung von Alex am 10.11.2026 zum SFP Design System: Verläufe, Schatten, Glows und
- * Rundungen sind ausdrücklich erlaubt und gewünscht (die Fassung Final 1.2 schloss sie noch aus).
- * Farben, Schriften und Logo-Dateien bleiben unverändert Old Copper; die Logos selbst erhalten
- * weiterhin keine Effekte, weil dazu nichts Neues entschieden wurde.
+ * Feinschliff: Schaltflächen, Tiefe, Rundungen und die Typo-Details der Bausteine.
+ *
+ * Rahmen: SFP Old Copper (Farben, Schriften, Logo-Regeln, Kontrast) plus die Entscheidung von Alex vom
+ * 10.11.2026, dass Verläufe, Schatten, Glows und Rundungen erlaubt und gewünscht sind.
+ *
+ * Gestaltungsregel für diese Datei: Die Auffälligkeit sitzt an EINER Stelle – der Schaltfläche (Verlauf,
+ * Lichtkante, Kupferschein). Alles andere bleibt ruhig: Linien statt Kästen, Schatten nur für Dinge, die
+ * tatsächlich über der Seite liegen, Rundungen abgestuft nach Größe.
  */
 :root {
-  --r-xs: 6px;
-  --r-s: 12px;
-  --r-m: 20px;
-  --r-l: 32px;
-  --r-pill: 999px;
-  --shadow-s: 0 1px 2px rgb(37 39 37 / 0.06), 0 8px 18px -8px rgb(37 39 37 / 0.18);
-  --shadow-m: 0 2px 4px rgb(37 39 37 / 0.05), 0 22px 44px -20px rgb(37 39 37 / 0.32);
-  --shadow-l: 0 4px 10px rgb(37 39 37 / 0.06), 0 44px 90px -34px rgb(37 39 37 / 0.5);
-  --glow: 0 16px 36px -14px rgb(183 117 80 / 0.7);
-  --grad-forest: linear-gradient(140deg, #31534d 0%, var(--sfp-forest) 48%, #1a2e2b 100%);
-  --grad-copper: linear-gradient(120deg, #c98a63 0%, var(--sfp-copper) 45%, var(--sfp-bronze) 100%);
+  --r-xs: 4px;   /* Bilder, Felder, kleine Kacheln */
+  --r-m: 16px;   /* schwebende Flächen: Formular, Auswahl, Menü */
+  --r-pill: 999px; /* Schaltflächen und Auswahlchips */
+  --shadow-float: 0 2px 6px rgb(37 39 37 / 0.06), 0 28px 60px -28px rgb(37 39 37 / 0.38);
+  --shadow-image: 0 24px 50px -30px rgb(37 39 37 / 0.45);
+  --glow: 0 12px 30px -12px rgb(183 117 80 / 0.7);
+  --grad-forest: linear-gradient(140deg, #2f4f4a 0%, var(--sfp-forest) 50%, #1c312e 100%);
 }
 
-/* ---------- Flächen: ruhig und einfarbig ---------- */
-/* Großflächige Verläufe, Lichtflecken und Verlaufsschrift sind entfernt: Sie wirkten in Chrome unter Windows
-   streifig bzw. fleckig. Verläufe bleiben dort, wo sie klein und sauber sind (Schaltflächen, Formularfläche, Linien). */
+/* ---------- Flächen: einfarbig ---------- */
 .theatre, .studio, .band { background: var(--sfp-forest); }
 .site-footer { background: var(--sfp-charcoal); }
-h1 em, h2 em { color: var(--sfp-bronze); }
-.tone-parchment :is(h1, h2) em { color: var(--sfp-bronze); }
-.tone-forest :is(h1, h2) em, .tone-charcoal :is(h1, h2) em { color: var(--sfp-copper); }
-.timeline__no, .notecard__no, .notfound__no, .cfg__count, .fold__no, .catalog__group-count { color: var(--sfp-copper); }
-
-/* ---------- Kopfzeile ---------- */
 .site-header { background: var(--sfp-ivory); }
-.site-header.is-scrolled { box-shadow: 0 14px 34px -22px rgb(37 39 37 / 0.45); }
-.nav__panel { border-bottom: 0; border-radius: 0 0 var(--r-l) var(--r-l); box-shadow: var(--shadow-l); background: var(--sfp-parchment); }
-@media (max-width: 1099px) { .nav__panel { border-radius: 0; box-shadow: none; background: none; } }
-.tray__count { border-radius: var(--r-pill); background: var(--grad-forest); box-shadow: var(--shadow-s); }
+.site-header.is-scrolled { box-shadow: 0 12px 30px -24px rgb(37 39 37 / 0.5); }
 
-/* ---------- Schaltflächen ---------- */
+/* ---------- Typografie der Bausteine ---------- */
+/* Hervorhebungen in Überschriften bleiben ohne eigene Farbe: ein eingefärbtes Einzelwort trägt keine Information. */
+h1 em, h2 em, h3 em { font-style: normal; color: inherit; }
+/* Kleine Beschriftungen: normale Schreibweise statt gesperrter Versalien, ohne Zierstrich. */
+.label { font-size: 0.9rem; font-weight: 600; letter-spacing: 0; text-transform: none; color: var(--fg-soft); }
+.label::before { display: none; }
+.crumbs ol, .specs dt, .options h3, .model-top__sub, .toc__title, .fold .process-result, .site-footer__h,
+.picker__group, .swatches__kind, .steps button, .scene-tabs button, .lang, .tray, .burger {
+  text-transform: none; letter-spacing: 0; font-size: 0.875rem;
+}
+.crumbs ol { font-weight: 400; }
+.crumbs li + li::before { width: 0.35rem; height: 0.35rem; background: none; border-top: 1px solid currentColor; border-right: 1px solid currentColor; transform: rotate(45deg); opacity: 0.6; }
+.site-footer__h { color: var(--sfp-ivory); font-size: 0.95rem; }
+.lang { letter-spacing: 0.04em; }
+.steps button span { font-size: inherit; }
+.steps button span::after { content: '.'; }
+.sec-head h2, .sec-head h3 { margin-top: 0; }
+.split__head { gap: 0.9rem; }
+/* Nur echte Abfolgen tragen Ziffern: Prozessschritte und die Schritte des Projektbriefs. */
+.timeline__no, .fold__no { color: var(--accent); }
+.catalog__group-count { color: var(--fg-soft); font-family: var(--font-ui); font-size: 0.9rem; }
+.catalog__group-count::before { content: '· '; }
+/* Pfeil nur an der Hauptaktion; Textlinks sind durch die Unterstreichung erkennbar. */
+.link .arrow, .btn--outline .arrow { display: none; }
+
+/* ---------- Die eine auffällige Stelle: Schaltflächen ---------- */
 .btn {
   border-radius: var(--r-pill); border-color: transparent; padding-inline: 1.75rem;
   background: var(--grad-forest);
-  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.16), inset 0 -1px 0 rgb(0 0 0 / 0.25), var(--shadow-s);
+  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.16), inset 0 -1px 0 rgb(0 0 0 / 0.25), 0 8px 18px -10px rgb(37 39 37 / 0.5);
 }
 .btn:hover, .btn:focus-visible { background: var(--grad-forest); border-color: transparent; transform: translateY(-1px); box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.2), var(--glow); }
 .btn::before { background: linear-gradient(140deg, #3a3d3a, var(--sfp-charcoal)); border-radius: inherit; }
-/* Lichtkante, die beim Überfahren über die Fläche zieht */
-.btn::after { content: ''; position: absolute; z-index: -1; top: -20%; bottom: -20%; left: -40%; width: 34%; transform: skewX(-22deg) translateX(-120%); background: linear-gradient(90deg, transparent, rgb(255 255 255 / 0.34), transparent); pointer-events: none; }
+.btn::after { content: ''; position: absolute; z-index: -1; top: -20%; bottom: -20%; left: -40%; width: 34%; transform: skewX(-22deg) translateX(-120%); background: linear-gradient(90deg, transparent, rgb(255 255 255 / 0.3), transparent); pointer-events: none; }
 @media (prefers-reduced-motion: no-preference) {
   @keyframes sheen { to { transform: skewX(-22deg) translateX(620%); } }
   .btn:hover::after { animation: sheen 0.6s var(--ease) both; }
 }
-.btn:active { transform: translateY(0) scale(0.98); }
+.btn:active { transform: scale(0.98); }
 .btn[disabled], .btn[aria-disabled='true'] { background: var(--sfp-sand); box-shadow: none; transform: none; }
 .btn[disabled]::after { display: none; }
 .btn--outline { background: transparent; border: 1.5px solid var(--structure); box-shadow: none; }
-.btn--outline:hover, .btn--outline:focus-visible { background: transparent; border-color: var(--structure); box-shadow: var(--shadow-m); }
+.btn--outline:hover, .btn--outline:focus-visible { background: transparent; border-color: var(--structure); box-shadow: none; transform: none; }
 .btn--outline::before { background: var(--grad-forest); }
-.tone-forest .btn, .tone-charcoal .btn { background: linear-gradient(140deg, #fffdf8, var(--sfp-ivory) 50%, var(--sfp-sand)); color: var(--sfp-charcoal); border-color: transparent; }
-.tone-forest .btn::before, .tone-charcoal .btn::before { background: var(--grad-copper); }
+.tone-forest .btn, .tone-charcoal .btn { background: linear-gradient(140deg, #fffdf8, var(--sfp-ivory) 55%, var(--sfp-sand)); color: var(--sfp-charcoal); border-color: transparent; }
+.tone-forest .btn::before, .tone-charcoal .btn::before { background: var(--sfp-sand); }
 .tone-forest .btn:hover, .tone-charcoal .btn:hover { color: var(--sfp-charcoal); }
-.band__circle { border-radius: 50%; border-color: rgb(245 241 233 / 0.55); box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.06); }
+.band__circle { border-radius: 50%; border-color: rgb(245 241 233 / 0.6); }
 .band__cta:hover .band__circle { transform: scale(1.05); box-shadow: var(--glow); }
-.chip, .tags a, .cfg-item__actions button { border-radius: var(--r-pill); }
-.chip i, .swatch-choice__chips i { border-radius: 50%; box-shadow: inset 0 1px 1px rgb(255 255 255 / 0.3), 0 1px 2px rgb(0 0 0 / 0.3); }
-.cfg-item__actions button:hover { background: var(--grad-forest); border-color: transparent; }
+.chip, .tags a, .cfg-item__actions button, .tray__count { border-radius: var(--r-pill); }
+.chip i, .swatch-choice__chips i { border-radius: 50%; }
+.tray__count { background: var(--grad-forest); }
 
-/* ---------- Bilder und Karten ---------- */
-.media { border-radius: var(--r-s); }
-.frame > .media, .frame .media { box-shadow: var(--shadow-m); }
-.hero__media .media, .home-hero__stage .media, .model-top__media .media, .prose__cover .media { border-radius: var(--r-m); box-shadow: var(--shadow-l); }
-.card__media { border-radius: var(--r-s); box-shadow: var(--shadow-s); transition: transform var(--m-fast) var(--ease), box-shadow var(--m-fast) var(--ease); overflow: hidden; }
-.card__media .media { border-radius: inherit; }
-.card:hover .card__media { transform: translateY(-3px); box-shadow: var(--shadow-m); }
-.gallery__thumb { border-radius: var(--r-xs); overflow: hidden; }
-.swatch .media { border-radius: var(--r-s); box-shadow: var(--shadow-s); }
-.swatch:hover .media { box-shadow: var(--shadow-m); }
-.stamp-study { border-radius: var(--r-m); box-shadow: var(--shadow-l), inset 0 0 0 1px rgb(255 255 255 / 0.08); }
-.stamp-study::after { content: ''; position: absolute; inset: 0; z-index: 2; pointer-events: none; border-radius: inherit; background: radial-gradient(120% 90% at 18% 8%, rgb(255 255 255 / 0.16), transparent 50%), radial-gradient(110% 90% at 95% 100%, rgb(0 0 0 / 0.3), transparent 58%); }
-.studio__visual .media { border-radius: var(--r-m); }
-.logos__list { border-radius: var(--r-m); border: 1px solid var(--rule); overflow: hidden; background: rgb(245 241 233 / 0.55); box-shadow: var(--shadow-s); }
-.options { border-radius: var(--r-s); box-shadow: var(--shadow-s); }
-.notecard { border-top: 0; padding: 1.6rem 1.5rem 1.7rem; border-radius: var(--r-m); background: rgb(245 241 233 / 0.6); box-shadow: inset 0 0 0 1px var(--rule), var(--shadow-s); }
-.tone-ivory .notecard { background: rgb(238 227 212 / 0.5); }
-.margin-note { border-top: 0; padding: 1.5rem; border-radius: var(--r-m); background: rgb(238 227 212 / 0.55); box-shadow: inset 0 0 0 1px var(--rule); }
-.tone-parchment .margin-note { background: rgb(245 241 233 / 0.6); }
-.empty { border-radius: var(--r-m); }
+/* ---------- Bilder: kleine Rundung, Schatten nur für das Kopfbild ---------- */
+.media, .card__media, .gallery__thumb, .picker__item img, .cfg-item__head img, .cfg__photo { border-radius: var(--r-xs); }
+.card__media, .gallery__thumb { overflow: hidden; }
+.hero__media .media, .home-hero__stage .media, .model-top__media .media { box-shadow: var(--shadow-image); }
+.stamp-study { border-radius: var(--r-xs); box-shadow: var(--shadow-image); }
+.stamp-study::after { content: ''; position: absolute; inset: 0; z-index: 2; pointer-events: none; border-radius: inherit; background: radial-gradient(120% 90% at 18% 8%, rgb(255 255 255 / 0.14), transparent 50%), radial-gradient(110% 90% at 95% 100%, rgb(0 0 0 / 0.28), transparent 58%); }
+
+/* ---------- Schwebende Flächen: Menü, Formular, Auswahl ---------- */
+.nav__panel { border-bottom: 0; border-radius: 0 0 var(--r-m) var(--r-m); box-shadow: var(--shadow-float); background: var(--sfp-parchment); }
+@media (max-width: 1099px) { .nav__panel { border-radius: 0; box-shadow: none; background: none; } }
+.enquiry__main, .cfg__list { border-top: 0; border-radius: var(--r-m); box-shadow: var(--shadow-float); background: var(--sfp-parchment); }
+.cfg__mobile:not([hidden]) { border-radius: var(--r-pill); box-shadow: var(--shadow-float); background: var(--grad-forest); border-color: rgb(245 241 233 / 0.5); }
 
 /* ---------- Formulare ---------- */
-.field input, .field select, .field textarea { border-radius: var(--r-xs); border-color: color-mix(in srgb, var(--fg) 45%, transparent); box-shadow: inset 0 1px 2px rgb(37 39 37 / 0.06); }
-.field input:focus, .field select:focus, .field textarea:focus { border-color: var(--sfp-forest); box-shadow: 0 0 0 4px rgb(37 63 59 / 0.14), inset 0 1px 2px rgb(37 39 37 / 0.06); }
-.field select:hover { box-shadow: inset 0 -2px 0 var(--sfp-forest); }
-.enquiry__main, .cfg__list { border-top: 0; border-radius: var(--r-l); box-shadow: var(--shadow-l); background: linear-gradient(170deg, #f3eadc, var(--sfp-parchment)); }
-.enquiry__main { position: relative; overflow: hidden; }
-.enquiry__main::before { content: ''; position: absolute; inset: 0 0 auto 0; height: 4px; background: var(--grad-copper); }
-.cfg__custom { border-left: 0; border-radius: var(--r-s); box-shadow: inset 0 0 0 1px var(--rule); }
-.picker { border-radius: var(--r-s); box-shadow: inset 0 1px 3px rgb(37 39 37 / 0.08); }
-.picker__item { border-radius: var(--r-xs); }
-.picker__item img, .cfg-item__head img { border-radius: 4px; }
-.picker__item:has(input:checked) { box-shadow: inset 3px 0 0 var(--sfp-copper), var(--shadow-s); }
-.swatch-tile { border-radius: var(--r-s); box-shadow: var(--shadow-s); }
-.swatch-tile img, .swatch-tile__blank { border-radius: 8px; }
-.swatch-tile:hover { transform: translateY(-2px); box-shadow: var(--shadow-m); }
-.swatch-tile:has(input:checked) { box-shadow: 0 0 0 2px var(--sfp-forest), var(--glow); }
-.swatch-tile:has(input:checked)::after { border-radius: 50%; background: var(--grad-forest); }
-.cfg__photo { border-radius: var(--r-s); }
-.cfg__empty, .brief, .enquiry__selection, .status:not(:empty), .status--demo { border-radius: var(--r-s); }
-.status:not(:empty) { box-shadow: var(--shadow-s); }
+.field input, .field select, .field textarea, .picker, .picker__item, .swatch-tile, .swatch-tile img, .swatch-tile__blank,
+.cfg__custom, .cfg__empty, .brief, .enquiry__selection, .status:not(:empty), .status--demo, .options, .empty, .logos__list { border-radius: var(--r-xs); }
+.field input:focus, .field select:focus, .field textarea:focus { border-color: var(--sfp-forest); box-shadow: 0 0 0 4px rgb(37 63 59 / 0.16); }
+.cfg__custom { border-left: 0; box-shadow: inset 0 0 0 1px var(--rule); }
+.swatch-tile:hover { transform: translateY(-2px); }
+.swatch-tile:has(input:checked) { box-shadow: 0 0 0 2px var(--sfp-forest); }
+.swatch-tile:has(input:checked)::after { border-radius: 50%; background: var(--sfp-forest); }
 .field-error::before { border-radius: 50%; }
-.cfg__mobile:not([hidden]) { border-radius: var(--r-pill); box-shadow: var(--shadow-l); background: var(--grad-forest); border-color: rgb(245 241 233 / 0.5); }
-.steps li::after { background: var(--grad-copper); border-radius: 2px; }
-.review__notice, .enquiry__scope { border-left: 0; padding: 1rem 1.2rem; border-radius: var(--r-s); background: rgb(245 241 233 / 0.7); box-shadow: inset 0 0 0 1px var(--rule); }
-.enquiry__aside .enquiry__scope { background: rgb(238 227 212 / 0.6); }
-.prose__summary { border-top: 0; padding: 1.75rem; border-radius: var(--r-m); background: rgb(238 227 212 / 0.6); box-shadow: inset 0 0 0 1px var(--rule); }
-.facts__list > div { border-top: 0; padding: 1.3rem 1.4rem; border-radius: var(--r-m); background: rgb(245 241 233 / 0.6); box-shadow: inset 0 0 0 1px var(--rule), var(--shadow-s); }
+.review__notice, .enquiry__scope { border-left: 2px solid var(--structure); }
+/* Parchment-Flächen: kein Copper (Guide) */
+.cfg__count { color: var(--sfp-forest); }
+.picker__item:has(input:checked) { box-shadow: inset 3px 0 0 var(--sfp-forest); }
+.logos__list { border: 1px solid var(--rule); overflow: hidden; }
 
-/* ---------- Glow: ein ruhiger Kupferschein, nur an wenigen Stellen und ohne Dauerbewegung ---------- */
-.chip[aria-pressed='true'], .tray__count { box-shadow: var(--glow); }
-.field input:focus, .field select:focus, .field textarea:focus { box-shadow: 0 0 0 4px rgb(183 117 80 / 0.2); border-color: var(--sfp-bronze); }
-.swatch-tile:has(input:checked) { box-shadow: 0 0 0 2px var(--sfp-forest), var(--glow); }
+/* ---------- Handwerkliche Untergrenze (geprüft gegen die Kriterien von frontend-design und impeccable) ---------- */
+/* Keine farbige Seitenkante an Hinweisen: Gewicht und Abstand tragen die Hervorhebung. */
+.review__notice, .enquiry__scope { border-left: 0; padding-left: 0; font-weight: 600; }
+.picker__item:has(input:checked) { box-shadow: none; outline: 1.5px solid var(--sfp-forest); outline-offset: -1.5px; }
+/* Gezeichnete Symbole statt Schriftzeichen. */
+.swatch-tile:has(input:checked)::after {
+  content: ''; background: var(--sfp-forest) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23F5F1E9' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12.5 4 4 8-9'/%3E%3C/svg%3E") center / 70% no-repeat;
+}
+.field-error::before {
+  content: ''; border: 0; border-radius: 0; width: 1.15rem; height: 1.15rem; align-self: center; background: var(--sfp-bronze);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.8'%3E%3Cpath d='M12 3.5 21.5 20h-19z'/%3E%3Cpath d='M12 10v5M12 17.2v.6'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.8'%3E%3Cpath d='M12 3.5 21.5 20h-19z'/%3E%3Cpath d='M12 10v5M12 17.2v.6'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+/* Ziffern in Daten stehen spaltengleich. */
+.specs dd, .brief, .cfg-item dl, .facts__list dd, .options, .catalog__group-count, .cfg__count { font-variant-numeric: tabular-nums lining-nums; }
+/* Mehr Raum über einer Überschrift als darunter. */
+.rich h3, .rich h4 { margin-top: 1.4em; margin-bottom: -0.3em; }
+.sec-head { margin-bottom: clamp(1.75rem, 3vw, 3rem); }
+.prose__chapter { gap: 0.9rem; }
+.prose__body { gap: clamp(2.5rem, 4.5vw, 4rem); }
+.catalog__group-head { margin-bottom: clamp(1.25rem, 2vw, 2rem); }
+/* Textauswahl, Einfügemarke und Bildlaufleiste aus der Palette. */
+input, textarea { caret-color: var(--sfp-forest); }
+.tone-forest ::selection, .tone-charcoal ::selection { background: var(--sfp-ivory); color: var(--sfp-charcoal); }
+.picker, .brief, .cards--rail .cards__list { scrollbar-width: thin; scrollbar-color: var(--sfp-forest) transparent; }

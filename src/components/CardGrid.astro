@@ -23,7 +23,6 @@ const fid = `filter-${s.id ?? 'menu'}`;
     {(s.title || s.body) && (
       <header class="sec-head" data-reveal>
         <div>
-          {no && <p class="label">N° {pad(no)}</p>}
           {s.title && <H set:html={heading(s.title.html)} />}
         </div>
         <div class="sec-head__side">
@@ -65,7 +64,6 @@ const fid = `filter-${s.id ?? 'menu'}`;
                 : <div class="card__media"><Picture img={img} ratio="ar-4x3" sizes={`(min-width: 900px) ${Math.round(100 / cols)}vw, 100vw`} /></div>
             )}
             <div class="card__body">
-              <p class="card__no" aria-hidden="true">{pad(i + 1)}</p>
               <h3 class="card__title">{href ? <a href={href} set:html={strip(item.title)} /> : <Fragment set:html={heading(item.title)} />}</h3>
               <Rich blocks={bodyOf(item)} />
               {(more || configure) && (

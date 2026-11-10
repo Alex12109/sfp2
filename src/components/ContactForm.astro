@@ -25,7 +25,6 @@ const sending = ENQUIRY_MODE !== 'draft';
 <section class="sec enquiry tone-ivory">
   <div class="wrap enquiry__grid">
     <aside class="enquiry__aside">
-      <p class="label anim-rise">{f.reviewTitle.replace(/^(Ihr|Your) /, '')}</p>
       <h1>{lines.map((l, i) => <span class="line anim-rise" style={`--i:${i + 1}`} set:html={l} />)}</h1>
       <div class="anim-rise" style="--i:3">
         {intro.map((p) => p.type === 'p' && <p class="lead" set:html={p.html} />)}

@@ -13,13 +13,11 @@ const tabs = s.tabs ?? [];
 <section class="sec theatre tone-forest" data-tabs>
   <div class="wrap theatre__grid">
     <header class="theatre__head" data-reveal>
-      {no && <p class="label">N° {pad(no)}</p>}
       {s.title && <h2 set:html={heading(s.title.html)} />}
       <Rich blocks={s.body} />
       <div class="theatre__tabs" role="group" aria-label={lang === 'en' ? 'Choose a project' : 'Projekt auswählen'}>
         {tabs.map((tab, i) => (
           <button type="button" data-tab-choice={i} aria-pressed={i === 0 ? 'true' : 'false'}>
-            <span class="theatre__tab-no" aria-hidden="true">{pad(i + 1)}</span>
             <span>{tab.label}</span>
           </button>
         ))}

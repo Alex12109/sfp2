@@ -30,10 +30,29 @@ Weitere Ergänzungen: Schnittmarken, Maßband, Abschnittsnummern, eine Display-S
 (bis 5,5 rem), fluide Abstände, Bewegung (`motion.css`), Wildleder-Studie (`scripts/suede.ts`).
 
 ## Idee
-Die Site liest sich wie ein Musterbuch aus dem Atelier: ruhige Ivory-Fläche mit feiner Körnung, große Newsreader-Zeilen,
-Forest als Struktur, Copper nur als Markierung. Zwei wiederkehrende Motive stammen aus dem Zuschnitt:
-**Schnittmarken** an den Ecken wichtiger Bilder (`.frame`) und ein **Maßband** als Abschnittsgrenze (`.ruler`).
-Abschnitte sind wie Musterkarten nummeriert (`N° 01`).
+Die Site liest sich wie ein Musterbuch aus dem Atelier: ruhige Ivory-Fläche, große Newsreader-Zeilen, Forest als
+Struktur, Copper nur als Markierung. Zwei Motive stammen aus dem Zuschnitt: **Schnittmarken** an den Ecken wichtiger
+Bilder (`.frame`) und ein **Maßband** als Abschluss des Seitenkopfs (`.ruler`).
+
+### Feinschliff vom 10.11.2026
+Geprüft gegen die Kriterien der Skills `frontend-design` und `design-critique` sowie gegen die öffentliche
+Regelliste von Impeccable (dessen Prüfprogramm durfte in der Sitzung nicht ausgeführt werden; die Regeln wurden als
+Text gelesen und von Hand angewendet). Geändert:
+
+| Befund | Änderung |
+|---|---|
+| Abschnittsnummern „N° 01“ an Inhalten, die keine Abfolge sind | entfernt; Ziffern nur noch an Prozessschritten und den Schritten des Projektbriefs |
+| Gesperrte Versalien-Labels und Zeilen über Überschriften (Eyebrows) | entfernt bzw. in normale Schreibweise gesetzt |
+| Einzelwort in Überschriften farbig hervorgehoben | entfällt; Überschriften tragen ihr Gewicht selbst |
+| Einblendung an jedem Abschnitt | entfernt; ein einziger inszenierter Moment beim Seitenaufbau |
+| Gleichförmige Kästen mit Schatten für Textspalten | wieder Linien-Spalten; Schatten nur für Flächen, die über der Seite liegen (Menü, Formular, Auswahl, Kopfbild) |
+| Eine Rundung für alles | abgestuft: 4 px Bilder und Felder, 16 px schwebende Flächen, voll rund nur Schaltflächen und Chips |
+| Pfeil an jedem Link | nur noch an der Hauptaktion |
+| Farbige Seitenkante an Hinweisen, Schriftzeichen als Symbole | entfernt bzw. durch gezeichnete Symbole ersetzt |
+| Platzhaltertext 4,1:1 auf Ivory (gerechnet) | auf rund 5,6:1 angehoben |
+| Copper auf Parchment (Guide) | dort wieder Forest |
+
+Die eine auffällige Stelle ist die Schaltfläche (Verlauf, Lichtkante, Kupferschein). Alles andere bleibt ruhig.
 
 ## Tokens (`src/styles/tokens.css`)
 | Rolle | Token | Wert |
