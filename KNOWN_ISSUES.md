@@ -16,8 +16,11 @@
 - **Scrollfortschritt und mobiler Anfrage-Kurzbefehl** des Bestands (`site.js`) entfallen. Ersatz: Kopfzeile blendet beim Abwärtsscrollen aus, Anfrageknopf im Mobilmenü, Auswahlzähler in der Kopfzeile.
 - **Kollektionsleiste der Startseite** ist nativ horizontal scrollbar (Touch, Tastatur, Scrollrad); die Pfeilknöpfe des Bestands entfallen.
 
-## Marke
-- **Kopfzeile:** Wortmarke 08 Charcoal, 220 px (Desktop) und 190 px (ab 350 px Breite) wie im Guide. **Unter 350 px Breite wird sie proportional auf 150 px verkleinert**, damit Sprachwahl und Menü erreichbar bleiben. Das weicht vom Startwert ab und braucht eine Entscheidung (Alternative: Signet 07).
+## Marke und Design System
+- **Abgleich mit dem SFP Design System** („SFP Old Copper – Corporate Design 1.2“): Tokens, Button, Feld, Status, Fokus, Logo-Regeln und die Verbote (Verläufe, Schatten, Rundungen) sind umgesetzt, siehe `docs/DESIGN_SYSTEM.md`. Nicht vom System gedeckt und daher freizugeben: Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, Display-Schriftstufe über H1, fluide Abstände, Bewegung.
+- **Auswahlkacheln und Chips** (Material, Farbwelt, Filter) gibt es im Design System nicht als Komponente. Sie folgen dessen Regeln (eckig, Forest-Rahmen, 44 px), sind aber eine Ergänzung.
+- **Materialstudie:** Die Prägung wird ohne Schatten nur über einen dunkleren Ton dargestellt. Das wirkt flacher als im Bestand.
+- **Kopfzeile:** Wortmarke 08 Charcoal, 220 px (Desktop) und 190 px (ab 350 px Breite) wie im Guide, Schutzraum der Datei unverändert. **Unter 350 px Breite wird sie proportional auf 150 px verkleinert**, damit Sprachwahl und Menü erreichbar bleiben. Das weicht vom Startwert ab und braucht eine Entscheidung (Alternative: Signet 07).
 - **Fußzeile:** Logo 06 (Signet + SFP) in der hellen Ausführung auf Charcoal, ohne BERLIN, damit die Mindesthöhe für BERLIN nicht unterschritten wird.
 - **Favicon:** vorläufig Signet 07 als SVG. Die Digitalicons im Brand-Paket sind Entwürfe und nicht freigegeben; es gibt deshalb kein PNG/ICO-Set und kein Touch-Icon.
 - **Kursive:** Im Brand-Paket liegt Newsreader nur aufrecht vor. Hervorhebungen in Überschriften erscheinen deshalb farbig statt kursiv.

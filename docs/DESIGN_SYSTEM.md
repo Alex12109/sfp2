@@ -1,5 +1,28 @@
 # Designsystem „Musterbuch“ (SFP // Old Copper 1.2)
 
+## Grundlage
+Verbindlich ist das SFP Design System „SFP Old Copper – Corporate Design 1.2“ (Claude-Artifact, identisch mit `04_BRAND`
+des Übergabepakets). Dieses Frontend übernimmt dessen Tokens und Komponentenregeln und ergänzt nur, was eine Website
+zusätzlich braucht. Übernommen und im Code nachprüfbar:
+
+| Regel des Design Systems | Umsetzung |
+|---|---|
+| Sieben feste Farben, semantische Tokens (`sfp-surface`, `sfp-text`, `sfp-link`, `sfp-button-bg` …) | `src/styles/tokens.css`, gleiche Namen (`--sfp-paper` = Ivory) |
+| Keine Verläufe, Glows, Schatten, Rundungen | keine `border-radius`, keine Verläufe, keine Schlagschatten im CSS; Linien statt Schatten |
+| Newsreader 400 (H1) und 600 (H2), Zeilenabstand 1,12 | `h1` 400, `h2` 600, `line-height: 1.12`; H1 = `clamp(2.25rem, 5vw, 4rem)` |
+| Montserrat 400/600, 1–1,125 rem, Zeilenabstand 1,5 | `--sfp-body`, `line-height: 1.5` |
+| Button: Forest, Ivory-Text, 2-px-Rahmen, 600 / 1 rem, Hover Charcoal, deaktiviert Sand, auf Dunkel Ivory-Rahmen | `.btn` |
+| Feld: sichtbares Label, Charcoal-Haarlinie, Fehler mit 2-px-Bronze-Rahmen und Text „Fehler: …“ | `.field`, `src/lib/validate.ts` |
+| Status (E6): Statuswort + Text + gezeichnetes Symbol auf Ivory, Forest- bzw. Bronze-Rahmen | `.status`, `src/lib/status.ts` |
+| Fokus 3 px in Textfarbe, 4 px Abstand; Ziele mindestens 44 px | `:focus-visible`, `--sfp-touch-min` |
+| Links unterstrichen, Hover 3 px | `a:hover`, `.link:hover` |
+| Copper nur dekorativ und nur auf Ivory, Forest, Charcoal; Bronze nur auf Ivory ab 24 px | `.tone-parchment`/`.tone-sand` setzen Akzent auf Forest; Bronze nur in H1/H2-Hervorhebung auf Ivory |
+| Logo als fertige Datei, Schutzraum unangetastet, 08 für Kopfzeilen | Header 08 Charcoal, Footer 06 hell, keine negativen Ränder |
+
+Bewusste Ergänzungen (nicht im Design System definiert): feine Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern,
+eine Display-Schriftstufe über H1 (bis 5,5 rem) für Start- und Übersichtsseiten, fluide Abstände über die vier
+Spacing-Stufen hinaus, Bewegung. Diese Punkte brauchen eine Freigabe, wenn das System strikt gelten soll.
+
 ## Idee
 Die Site liest sich wie ein Musterbuch aus dem Atelier: ruhige Ivory-Fläche mit feiner Körnung, große Newsreader-Zeilen,
 Forest als Struktur, Copper nur als Markierung. Zwei wiederkehrende Motive stammen aus dem Zuschnitt:
@@ -15,7 +38,7 @@ Abschnitte sind wie Musterkarten nummeriert (`N° 01`).
 | Text, Fußzeile | `--sfp-charcoal` | #252725 |
 | Akzent (Linien, Marken, große Ziffern) | `--sfp-copper` | #B77550 |
 | Tiefer Akzent (nur H1/H2-Hervorhebung, Fehlerrahmen) | `--sfp-bronze` | #80563D |
-| Überschriften | `--font-display` | Newsreader 400 (600 nicht benötigt) |
+| Überschriften | `--font-display` | Newsreader 400 (H1, H3) und 600 (H2) |
 | Text, Navigation, Bedienung | `--font-ui` | Montserrat 400/600 |
 | Schriftgrade | `--t-hero … --t-label` | fluid per `clamp()`, 320–1600 px |
 | Raum | `--gutter`, `--section`, `--gap`, `--maxw` | fluid |
@@ -27,9 +50,9 @@ Abgeleitete Werte (Linien, gedämpfter Text) sind `color-mix()` aus den sieben M
 Ausnahme: die Material- und Folienchips der Materialstudie (Bildschirmwerte des Bestands).
 
 ## Typografie
-- H1 bis 7,25 rem, Zeilenhöhe 0,95–1,02, negative Laufweite; H2 bis 3,4 rem; Fließtext 17 px / 1,62.
+- H1 nach System (`clamp(2.25rem, 5vw, 4rem)`), Display-Stufe bis 5,5 rem; H2 Semibold um 2 rem; Fließtext 16–18 px / 1,5.
 - Label: Montserrat 600, 12 px, Versalien, Laufweite 0,18 em, mit Copper-Strich davor.
-- Betonung in Überschriften: Bronze statt Kursive (kein kursiver Schnitt im Brand-Paket).
+- Betonung in Überschriften: Bronze statt Kursive, nur auf Ivory (auf Parchment Forest, auf Dunkel keine Farbe).
 
 ## Bewegung
 - Seitenaufbau: Zeilen der H1 steigen gestaffelt auf (`.anim-rise`, `--i`), Bild wird aufgedeckt (`.anim-unveil`), Maßband zeichnet sich (`.anim-draw`). Nur CSS.
@@ -69,7 +92,7 @@ dann nach Form (Einträge mit Bild → Karten, ohne Bild → Textspalten, Fragen
 Neue Abschnittsarten brauchen deshalb meist keinen neuen Baustein.
 
 ## Formulare
-Felder mit sichtbarem Label, 52 px Mindesthöhe, Rahmen in Forest. Fehler: 2-px-Rahmen, Symbol „!“ und Text am Feld,
+Felder mit sichtbarem Label, 52 px Mindesthöhe, Charcoal-Haarlinie. Fehler: 2-px-Bronze-Rahmen, Symbol und Text „Fehler: …“ am Feld,
 `aria-invalid`, `aria-describedby`. Status über `role="status"`. Auswahlkacheln sind echte Radio-Felder.
 
 ## Marke

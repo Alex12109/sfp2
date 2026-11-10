@@ -25,18 +25,47 @@
   --sfp-charcoal: #252725;
   --sfp-parchment: #eee3d4;
   --sfp-bronze: #80563d;
+  --sfp-paper: var(--sfp-ivory); /* Token-Name des Design Systems für Ivory */
+
+  /* Semantische Tokens des SFP Design Systems (Hell-Theme) */
+  --sfp-surface: var(--sfp-paper);
+  --sfp-surface-alt: var(--sfp-parchment);
+  --sfp-text: var(--sfp-charcoal);
+  --sfp-text-on-dark: var(--sfp-paper);
+  --sfp-link: var(--sfp-forest);
+  --sfp-accent: var(--sfp-copper);
+  --sfp-accent-text: var(--sfp-bronze);
+  --sfp-button-bg: var(--sfp-forest);
+  --sfp-button-bg-hover: var(--sfp-charcoal);
+  --sfp-button-bg-disabled: var(--sfp-sand);
+  --sfp-status-border: var(--sfp-forest);
+  --sfp-status-error: var(--sfp-bronze);
+  --sfp-focus: var(--sfp-text);
+  --sfp-selection: var(--sfp-forest);
+  --sfp-space-1: 0.5rem;
+  --sfp-space-2: 1rem;
+  --sfp-space-3: 1.5rem;
+  --sfp-space-4: 2rem;
+  --sfp-radius-none: 0;
+  --sfp-border-hairline: 1px;
+  --sfp-border-strong: 2px;
+  --sfp-focus-width: 3px;
+  --sfp-focus-offset: 4px;
+  --sfp-touch-min: 44px;
+  --sfp-title: clamp(2.25rem, 5vw, 4rem);
+  --sfp-body: clamp(1rem, 1.5vw, 1.125rem);
 
   /* Schriftrollen */
   --font-display: 'Newsreader', Georgia, 'Times New Roman', serif;
   --font-ui: 'Montserrat', Arial, Helvetica, sans-serif;
 
   /* Schriftgrade (fluid, 320 → 1600 px) */
-  --t-hero: clamp(2.75rem, 1.35rem + 6.6vw, 7.25rem);
-  --t-h1: clamp(2.4rem, 1.5rem + 4vw, 5rem);
-  --t-h2: clamp(1.9rem, 1.3rem + 2.5vw, 3.4rem);
+  --t-hero: clamp(2.25rem, 1.1rem + 5.4vw, 5.5rem); /* Display-Stufe über --sfp-title, nur Start- und Übersichtsseiten */
+  --t-h1: var(--sfp-title);
+  --t-h2: clamp(1.75rem, 1.45rem + 1vw, 2.25rem); /* System: 2rem, Semibold */
   --t-h3: clamp(1.3rem, 1.15rem + 0.65vw, 1.75rem);
   --t-lead: clamp(1.1rem, 1rem + 0.5vw, 1.4rem);
-  --t-body: 1.0625rem;
+  --t-body: var(--sfp-body);
   --t-small: 0.9rem;
   --t-label: 0.75rem;
 
@@ -67,8 +96,8 @@
   --structure: var(--sfp-forest);
   --rule: color-mix(in srgb, var(--sfp-forest) 26%, transparent);
   --rule-strong: var(--sfp-forest);
-  --accent: var(--sfp-copper); /* nur dekorativ / große Ziffern */
-  --accent-text: var(--sfp-bronze); /* nur ab 24 px regulär bzw. 18,67 px fett */
+  --accent: var(--sfp-accent); /* Copper: nur dekorativ, nur auf Ivory, Forest, Charcoal */
+  --accent-text: var(--sfp-accent-text); /* Bronze: nur auf Ivory, ab 24 px regulär bzw. 18,67 px fett */
   --field: var(--sfp-ivory);
   --panel: var(--sfp-parchment);
   --btn-bg: var(--sfp-forest);
@@ -80,6 +109,8 @@
   --fg: var(--sfp-charcoal);
   --fg-soft: color-mix(in srgb, var(--sfp-charcoal) 86%, var(--sfp-parchment));
   --rule: color-mix(in srgb, var(--sfp-forest) 30%, transparent);
+  --accent: var(--sfp-forest); /* kein Copper auf Parchment */
+  --accent-text: var(--sfp-forest); /* Bronze nur auf Ivory */
   --panel: var(--sfp-ivory);
   --field: var(--sfp-ivory);
 }
@@ -88,6 +119,7 @@
   --fg: var(--sfp-charcoal);
   --fg-soft: var(--sfp-charcoal);
   --rule: color-mix(in srgb, var(--sfp-forest) 40%, transparent);
+  --accent: var(--sfp-forest); /* kein Copper auf Sand */
   --accent-text: var(--sfp-forest);
   --panel: var(--sfp-ivory);
 }
@@ -99,11 +131,12 @@
   --rule: color-mix(in srgb, var(--sfp-ivory) 26%, transparent);
   --rule-strong: var(--sfp-ivory);
   --accent: var(--sfp-copper);
-  --accent-text: var(--sfp-sand);
+  --accent-text: var(--sfp-ivory); /* Bronze ist auf dunklem Grund nicht freigegeben */
   --field: color-mix(in srgb, var(--sfp-ivory) 8%, transparent);
   --panel: color-mix(in srgb, var(--sfp-ivory) 7%, transparent);
-  --btn-bg: var(--sfp-ivory);
-  --btn-fg: var(--sfp-charcoal);
-  --btn-hover: var(--sfp-sand);
+  --btn-bg: var(--sfp-forest); /* System: Forest-Fläche mit Ivory-Rahmen auf dunklem Grund */
+  --btn-fg: var(--sfp-ivory);
+  --btn-hover: var(--sfp-charcoal);
+  --btn-border: var(--sfp-ivory);
 }
 .tone-charcoal { --bg: var(--sfp-charcoal); --fg-soft: color-mix(in srgb, var(--sfp-ivory) 86%, var(--sfp-charcoal)); }

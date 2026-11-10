@@ -1,5 +1,6 @@
 import { initConfigurator } from './configurator';
 import { t } from '../i18n/ui';
+import { setStatus } from '../lib/status';
 
 const root = document.querySelector<HTMLElement>('[data-configurator]');
 if (root) {
@@ -12,7 +13,8 @@ if (root) {
       initConfigurator(root, products);
     })
     .catch(() => {
-      loading.textContent = t(root.dataset.lang === 'en' ? 'en' : 'de').cfg.loadError;
-      loading.classList.add('status--error');
+      const lang = root.dataset.lang === 'en' ? 'en' : 'de';
+      loading.classList.add('status');
+      setStatus(loading, lang, t(lang).cfg.loadError, 'error');
     });
 }

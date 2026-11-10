@@ -8,6 +8,7 @@ import { read, write } from '../lib/storage';
 import { clearErrors, validatePanel } from '../lib/validate';
 import type { Lang, Product } from '../lib/types';
 import { enquiryService, type EnquiryDraft } from '../services/enquiry-service';
+import { setStatus, type StatusKind } from '../lib/status';
 
 export function initContact(root: HTMLElement, products: Product[]) {
   const lang = (root.dataset.lang === 'en' ? 'en' : 'de') as Lang;
@@ -20,7 +21,7 @@ export function initContact(root: HTMLElement, products: Product[]) {
   const selection = root.querySelector<HTMLDetailsElement>('[data-selection]')!;
   const selectionText = root.querySelector<HTMLElement>('[data-selection-text]')!;
   const field = (name: string) => form.elements.namedItem(name) as HTMLInputElement & HTMLSelectElement;
-  const status = (text: string) => { statusEl.textContent = text; };
+  const status = (text: string, kind: StatusKind = 'note') => setStatus(statusEl, lang, text, kind);
 
   const state = M.restoreDraft(read(M.DRAFT_KEY), products);
   let step = 0;
@@ -62,7 +63,7 @@ export function initContact(root: HTMLElement, products: Product[]) {
   function persist() {
     state.fields = Object.fromEntries(M.DRAFT_FIELDS.map((name) => [name, field(name).value]));
     state.step = step;
-    if (!write(M.DRAFT_KEY, state)) status(ui.storage);
+    if (!write(M.DRAFT_KEY, state)) status(ui.storage, 'error');
   }
   function show(next: number, focus = true) {
     step = Math.max(0, Math.min(next, panels.length - 1));
@@ -121,9 +122,9 @@ export function initContact(root: HTMLElement, products: Product[]) {
   root.querySelector('#copy-brief')!.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(summary());
-      status(ui.copied);
+      status(ui.copied, 'success');
     } catch {
-      status(ui.copyFailed);
+      status(ui.copyFailed, 'error');
     }
   });
   root.querySelector('#download-brief')!.addEventListener('click', () => {
@@ -146,7 +147,7 @@ export function initContact(root: HTMLElement, products: Product[]) {
       contact: { name: f.name || '', company: f.company, email: f.email || '', phone: f.phone },
     };
     const result = await enquiryService.submit(draft);
-    status(result.status === 'accepted' ? result.reference : result.message);
+    status(result.status === 'accepted' ? result.reference : result.message, result.status === 'accepted' ? 'success' : result.status === 'failed' ? 'error' : 'note');
   });
   root.querySelector('#enquiry-reset')!.addEventListener('click', () => {
     if (!window.confirm(ui.resetConfirm)) return;
@@ -162,7 +163,7 @@ export function initContact(root: HTMLElement, products: Product[]) {
     renderSelection();
     review.hidden = true;
     show(0);
-    status(ui.resetDone);
+    status(ui.resetDone, 'success');
   });
   renderSelection();
   show(state.step, false);

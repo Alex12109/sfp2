@@ -1,6 +1,7 @@
 /** Feldprüfung für beide geführten Formulare; Fehler stehen direkt am Feld (Port aus validation.js). */
 import type { Lang } from './types';
 import { t } from '../i18n/ui';
+import { statusWord } from './status';
 
 export function validatePanel(panel: Element, lang: Lang, focus = true): boolean {
   const e = t(lang).errors;
@@ -25,7 +26,8 @@ export function validatePanel(panel: Element, lang: Lang, focus = true): boolean
       error.className = 'field-error';
       field.after(error);
     }
-    error.textContent = field.validity.valueMissing ? e.missing : field.validity.typeMismatch ? e.email : e.range;
+    // Design System: Fehlertext beginnt mit dem Statuswort, der Rahmen allein trägt keine Information.
+    error.textContent = statusWord(lang, 'error') + ' ' + (field.validity.valueMissing ? e.missing : field.validity.typeMismatch ? e.email : e.range);
     field.setAttribute('aria-describedby', [...new Set(described.concat(id))].join(' '));
     first ||= field;
   }

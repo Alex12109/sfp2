@@ -8,6 +8,7 @@ import type { Selection, Values } from '../lib/enquiry-model';
 import { read, write } from '../lib/storage';
 import { clearErrors, validatePanel } from '../lib/validate';
 import type { CatalogMaterial, Lang, Product } from '../lib/types';
+import { setStatus, type StatusKind } from '../lib/status';
 
 type P = Product & { thumb?: string };
 const el = <K extends keyof HTMLElementTagNameMap>(tag: K, props: Partial<HTMLElementTagNameMap[K]> & Record<string, any> = {}, ...children: (Node | string)[]) => {
@@ -36,10 +37,10 @@ export function initConfigurator(root: HTMLElement, products: P[]) {
   let editing: number | null = null;
   let currentId = products.some((p) => p.id === fixedId) ? fixedId : products[0].id;
   const current = () => products.find((p) => p.id === currentId) || products[0];
-  const status = (text: string) => { $('status').textContent = text; };
+  const status = (text: string, kind: StatusKind = 'note') => setStatus($('status'), lang, text, kind);
 
   function persist() {
-    if (!write(M.ITEM_KEY, items)) status(ui.storage);
+    if (!write(M.ITEM_KEY, items)) status(ui.storage, 'error');
     document.dispatchEvent(new CustomEvent('sfp:enquiry-change', { detail: { count: items.length } }));
   }
 
@@ -286,7 +287,7 @@ export function initConfigurator(root: HTMLElement, products: P[]) {
         persist();
         renderItems();
         list.children[i + 1]?.querySelector('button')?.focus();
-        status(ui.duplicated);
+        status(ui.duplicated, 'success');
       });
       button(ui.remove, () => {
         items.splice(i, 1);
@@ -295,7 +296,7 @@ export function initConfigurator(root: HTMLElement, products: P[]) {
         persist();
         renderItems();
         (list.children[Math.min(i, items.length - 1)]?.querySelector('button') || form.querySelector<HTMLElement>('select,input'))?.focus();
-        status(ui.removed);
+        status(ui.removed, 'success');
       });
       list.append(el('li', { className: 'cfg-item' }, head, details, actions));
     });
@@ -310,11 +311,11 @@ export function initConfigurator(root: HTMLElement, products: P[]) {
     if (editing !== null) {
       items[editing] = item;
       resetEdit();
-      status(ui.updated);
+      status(ui.updated, 'success');
     } else {
       if (items.length >= M.MAX_ITEMS) return status(ui.limit);
       items.push(item);
-      status(ui.added);
+      status(ui.added, 'success');
     }
     persist();
     renderItems();

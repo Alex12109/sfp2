@@ -8,7 +8,7 @@ body {
   color: var(--fg);
   font-family: var(--font-ui);
   font-size: var(--t-body);
-  line-height: 1.62;
+  line-height: 1.5;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -34,25 +34,24 @@ h1, h2, h3, h4 {
   font-family: var(--font-display);
   font-weight: 400;
   font-optical-sizing: auto;
-  line-height: 1.08;
+  line-height: 1.12;
   letter-spacing: -0.012em;
   text-wrap: balance;
 }
-h1 { font-size: var(--t-h1); line-height: 1.02; letter-spacing: -0.022em; }
-h2 { font-size: var(--t-h2); letter-spacing: -0.018em; }
+h1 { font-size: var(--t-h1); letter-spacing: -0.02em; }
+h2 { font-size: var(--t-h2); font-weight: 600; letter-spacing: -0.01em; }
 h3 { font-size: var(--t-h3); line-height: 1.18; }
 h4 { font-size: 1.2rem; line-height: 1.25; font-weight: 600; }
 /* Die Hausschrift liegt nur aufrecht vor: Betonung über Farbe statt über eine errechnete Kursive. */
 h1 em, h2 em { font-style: normal; color: var(--accent-text); }
 h3 em, h4 em { font-style: normal; }
-.tone-forest :is(h1, h2) em, .tone-charcoal :is(h1, h2) em { color: var(--sfp-copper); }
 p { margin: 0; text-wrap: pretty; }
 ul, ol, dl, dd, figure { margin: 0; padding: 0; }
-a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.22em; }
-a:hover { text-decoration-thickness: 2px; }
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.2em; }
+a:hover { text-decoration-thickness: 3px; }
 strong { font-weight: 600; }
 
-:focus-visible { outline: 3px solid var(--fg); outline-offset: 3px; }
+:focus-visible { outline: var(--sfp-focus-width) solid var(--fg); outline-offset: var(--sfp-focus-offset); }
 :focus:not(:focus-visible) { outline: none; }
 
 .sr-only {
@@ -121,27 +120,27 @@ strong { font-weight: 600; }
 /* ---------- Schaltflächen und Links ---------- */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: 0.9em;
-  min-height: 3.25rem; padding: 0.7rem 1.6rem;
-  background: var(--btn-bg); color: var(--btn-fg); border: 1px solid var(--btn-bg);
-  font-family: var(--font-ui); font-size: 0.9rem; font-weight: 600; letter-spacing: 0.05em; line-height: 1.2;
+  min-height: 3.25rem; padding: 0.6rem 1.5rem;
+  background: var(--btn-bg); color: var(--btn-fg); border: var(--sfp-border-strong) solid var(--btn-border, var(--btn-bg));
+  font-family: var(--font-ui); font-size: 1rem; font-weight: 600; letter-spacing: 0.02em; line-height: 1.25;
   text-decoration: none; text-align: center; border-radius: 0;
   transition: background-color 0.25s var(--ease-soft), border-color 0.25s var(--ease-soft), color 0.25s var(--ease-soft);
 }
-.btn:hover { background: var(--btn-hover); border-color: var(--btn-hover); }
+.btn:hover { background: var(--btn-hover); border-color: var(--btn-border, var(--btn-hover)); }
 .btn:active { text-decoration: underline; }
 .btn[disabled], .btn[aria-disabled='true'] { background: var(--sfp-sand); border-color: var(--sfp-sand); color: var(--sfp-charcoal); cursor: not-allowed; }
 .btn--outline { background: transparent; color: var(--fg); border-color: var(--structure); }
 .btn--outline:hover { background: var(--structure); color: var(--bg); border-color: var(--structure); }
-.btn--small { min-height: 2.75rem; padding: 0.5rem 1.1rem; font-size: 0.82rem; }
+.btn--small { min-height: var(--sfp-touch-min); padding: 0.45rem 1.1rem; font-size: 0.9rem; }
 .arrow { width: 1.05em; height: 1.05em; flex: none; transition: transform 0.35s var(--ease); }
 .btn:hover .arrow, .link:hover .arrow, a:hover > .arrow { transform: translate(3px, -3px); }
 .link {
-  display: inline-flex; align-items: center; gap: 0.6em; padding-block: 0.35rem;
-  font-size: 0.92rem; font-weight: 600; letter-spacing: 0.03em; color: var(--structure);
-  text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 0.4em; text-decoration-thickness: 1px;
+  display: inline-flex; align-items: center; gap: 0.6em; min-height: var(--sfp-touch-min); padding-block: 0.35rem;
+  font-size: 0.95rem; font-weight: 600; letter-spacing: 0.02em; color: var(--structure);
+  text-decoration: underline; text-underline-offset: 0.3em; text-decoration-thickness: 1px;
   background: none; border: 0;
 }
-.link:hover { text-decoration-thickness: 2px; }
+.link:hover { text-decoration-thickness: 3px; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.75rem; }
 
 /* ---------- Fließtext ---------- */

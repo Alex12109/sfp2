@@ -26,6 +26,7 @@ Fakten wurden nicht verändert. Nichts wurde erfunden (keine Preise, Mengen, Fri
 
 ## Neue Bedientexte (in `src/i18n/ui.ts` mit `NEU` markiert)
 DE / EN:
+- Statuswörter vor jeder Meldung nach Regel E6 des Design Systems: „Erfolg:“, „Hinweis:“, „Fehler:“ / “Success:”, “Note:”, “Error:” (`src/lib/status.ts`). Der Meldungstext dahinter ist unverändert.
 - „Zum Inhalt springen“ / “Skip to content”
 - „Hauptnavigation“, „Schließen“, „Sprache“, „Startseite“ / “Main navigation”, “Close”, “Language”, “Home”
 - „Auswahl“ (Zähler in der Kopfzeile) / “Selection”

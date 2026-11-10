@@ -33,7 +33,7 @@ Veränderte URLs und Redirect-Bedarf: keine URL geändert. Neu sind nur `/data/c
 und der Anker `#konfigurator` auf Modellseiten. `?item=`, `?product=`, `?model=`, `#selection=1`, `#selection-data=`,
 `?topic=` funktionieren wie im Bestand; neu ist `?edit=N` im Projektplaner.
 Zentrale Komponenten: siehe `docs/DESIGN_SYSTEM.md` (Bausteine, Zustände, Zuordnung alt → neu in `src/components/Block.astro`).
-Design-Tokens / Fontdateien: `src/styles/tokens.css`; `public/brand/fonts/Montserrat.woff2`, `Newsreader.woff2` (+ OFL-Texte).
+Design-Tokens / Fontdateien: `src/styles/tokens.css` (Token-Namen des SFP Design Systems „SFP Old Copper – Corporate Design 1.2“); `public/brand/fonts/Montserrat.woff2`, `Newsreader.woff2` (+ OFL-Texte).
 
 ## Inhalte und Bilder
 Ort der Texte und Produktdaten: `content/pages/{de,en}/*.json`, `content/site/navigation.*.json`,
