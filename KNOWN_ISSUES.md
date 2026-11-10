@@ -1,8 +1,8 @@
 # Bekannte Einschränkungen und offene Punkte
 
 ## Nicht verbunden (bewusst)
-- **Versand ist vorbereitet, aber nicht verbunden.** Standard bleibt `draft` (E-Mail-Entwurf, Kopie, Download). Der Live-Adapter sendet an `PUBLIC_ENQUIRY_ENDPOINT`; ein solcher Endpunkt existiert noch nicht. `server/enquiry-worker.mjs` ist eine Vorlage: Logik getestet, **keine echte E-Mail wurde je zugestellt**. Entscheidung und Zugangsdaten stehen aus (`docs/ENQUIRY_DELIVERY.md`).
-- **Einwilligungstext** im Live-Modus ist ein Entwurf ohne rechtliche Prüfung; die Datenschutzerklärung nennt den Versandweg noch nicht.
+- **Senden ist der Standard, aber es gibt noch keinen Empfänger.** Der Projektbrief hat nur noch den Knopf „Anfrage senden“ und schickt an `/api/enquiry`. Dort antwortet derzeit nichts, deshalb endet jeder Versuch in einer Fehlermeldung mit dem Ausweg „Stattdessen per E-Mail senden“. `server/enquiry-worker.mjs` ist eine Vorlage: Logik getestet, **keine echte E-Mail wurde je zugestellt**. Vor einer Veröffentlichung muss der Endpunkt stehen (`docs/ENQUIRY_DELIVERY.md`).
+- **Datenschutzhinweis am Sendeknopf** ist ein Entwurf ohne rechtliche Prüfung. Er ersetzt die frühere Einwilligungs-Checkbox durch einen Hinweis (Bearbeitung der Anfrage als Zweck). Die Datenschutzerklärung nennt den Versandweg und den E-Mail-Dienst noch nicht.
 - **Keine Uploads, kein CMS, kein CRM, keine Analyse-Skripte.**
 - **Keine Veröffentlichung.** Kein Hosting, keine Domain eingerichtet. `noindex, nofollow` ist gesetzt wie im Bestand.
 
@@ -12,15 +12,16 @@
 - 404 ist eine gemeinsame zweisprachige Seite (`/404.html`), keine je Sprache.
 
 ## Abweichungen vom Bestand
-- **Materialstudie vereinfacht:** Der Wildleder-Canvas mit Streicheffekt (`suede-v19.js`) und die animierte Schrift (`branding-motion-v20.js`) wurden nicht portiert. Geblieben sind Farbwelten-Umschalter und eine Prägestudie in CSS. Die Lederfläche ist eine Farbfläche, kein Foto.
+- **Wildleder-Studie:** aus dem Bestand übernommen (`src/scripts/suede.ts`, Logik unverändert), mit zwei Abweichungen: Die Prägeschrift ist Newsreader statt der alten Western-Schrift, das eingeprägte Logo ist die Old-Copper-Wortmarke 08. Geprüft per Maus in headless Chromium; Touch und Tastatur nicht gemessen.
 - **Farbchips der Materialstudie** (Paletten, Lederfarben, Folienfarben) nutzen die Bildschirmwerte des Bestands. Sie liegen außerhalb der Old-Copper-Palette, weil sie Material darstellen, nicht die Marke.
 - **Scrollfortschritt und mobiler Anfrage-Kurzbefehl** des Bestands (`site.js`) entfallen. Ersatz: Kopfzeile blendet beim Abwärtsscrollen aus, Anfrageknopf im Mobilmenü, Auswahlzähler in der Kopfzeile.
 - **Kollektionsleiste der Startseite** ist nativ horizontal scrollbar (Touch, Tastatur, Scrollrad); die Pfeilknöpfe des Bestands entfallen.
 
 ## Marke und Design System
-- **Abgleich mit dem SFP Design System** („SFP Old Copper – Corporate Design 1.2“): Tokens, Button, Feld, Status, Fokus, Logo-Regeln und die Verbote (Verläufe, Schatten, Rundungen) sind umgesetzt, siehe `docs/DESIGN_SYSTEM.md`. Nicht vom System gedeckt und daher freizugeben: Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, Display-Schriftstufe über H1, fluide Abstände, Bewegung.
-- **Auswahlkacheln und Chips** (Material, Farbwelt, Filter) gibt es im Design System nicht als Komponente. Sie folgen dessen Regeln (eckig, Forest-Rahmen, 44 px), sind aber eine Ergänzung.
-- **Materialstudie:** Die Prägung wird ohne Schatten nur über einen dunkleren Ton dargestellt. Das wirkt flacher als im Bestand.
+- **Das SFP Design System gilt nicht strikt** (Entscheidung Alex, 10.11.2026). Es sieht keine Verläufe, Schatten und Rundungen vor; dieser Entwurf nutzt sie bewusst (`src/styles/luxe.css`): runde Schaltflächen mit Verlauf und Lichtkante, weiche Schatten, abgerundete Bilder und Flächen, mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Lichtschein auf dunklen Flächen. Farben, Schriften und Logos sind unverändert Old Copper; Logos erhalten keine Effekte.
+- Folge: Copper liegt wieder auf Parchment-Flächen (Linien, Ziffern mit Verlauf) und Bronze/Copper erscheinen als Verlauf in großen Überschriften. Das widerspricht einzelnen Regeln des Systems und ist Teil dieser Freigabe.
+- Weitere Ergänzungen außerhalb des Systems: Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, Display-Schriftstufe über H1, fluide Abstände, Bewegung.
+- **Kontrast des Copper-Verlaufs** in Hervorhebungen (hellster Punkt #C98A63 auf Ivory, rund 2,7:1) liegt unter dem Zielwert für große Schrift. Betroffen sind einzelne Wörter in H1/H2 und Zierziffern. Nicht gemessen im Detail.
 - **Kopfzeile:** Wortmarke 08 Charcoal, 220 px (Desktop) und 190 px (ab 350 px Breite) wie im Guide, Schutzraum der Datei unverändert. **Unter 350 px Breite wird sie proportional auf 150 px verkleinert**, damit Sprachwahl und Menü erreichbar bleiben. Das weicht vom Startwert ab und braucht eine Entscheidung (Alternative: Signet 07).
 - **Fußzeile:** Logo 06 (Signet + SFP) in der hellen Ausführung auf Charcoal, ohne BERLIN, damit die Mindesthöhe für BERLIN nicht unterschritten wird.
 - **Favicon:** vorläufig Signet 07 als SVG. Die Digitalicons im Brand-Paket sind Entwürfe und nicht freigegeben; es gibt deshalb kein PNG/ICO-Set und kein Touch-Icon.
@@ -45,7 +46,7 @@
 1. Wortmarke unter 350 px: 150 px akzeptieren oder auf das Signet wechseln?
 2. Favicon: Welcher Entwurf wird freigegeben?
 3. Sollen inszenierte Motive sichtbar gekennzeichnet werden, zumindest auf Projektseiten?
-4. Materialstudie: Reicht die vereinfachte Fassung, oder soll die Wildleder-Interaktion zurück?
+4. Versand: Welche Variante aus `docs/ENQUIRY_DELIVERY.md`, und wer prüft den Datenschutzhinweis?
 5. Konfigurator direkt auf der Modellseite: so behalten, oder wie bisher nur im Projektplaner?
 6. EN-Footer “Individual objects.”: an die Artikel/Produkt-Regel angleichen?
 7. Hervorhebungen in Überschriften: farbig lassen, oder einen kursiven Newsreader-Schnitt in den Guide aufnehmen?

@@ -10,7 +10,7 @@ const words: Record<Lang, Record<StatusKind, string>> = {
   en: { success: 'Success:', note: 'Note:', error: 'Error:' },
 };
 
-export function setStatus(el: HTMLElement, lang: Lang, text: string, kind: StatusKind = 'note') {
+export function setStatus(el: HTMLElement, lang: Lang, text: string, kind: StatusKind = 'note', action?: { label: string; href: string }) {
   el.replaceChildren();
   if (!text) { delete el.dataset.kind; return; }
   el.dataset.kind = kind;
@@ -18,6 +18,13 @@ export function setStatus(el: HTMLElement, lang: Lang, text: string, kind: Statu
   word.textContent = words[lang][kind];
   const body = document.createElement('span');
   body.append(word, ' ', text);
+  if (action) {
+    const link = document.createElement('a');
+    link.href = action.href;
+    link.textContent = action.label;
+    link.className = 'status__action';
+    body.append(' ', link);
+  }
   el.append(body);
 }
 export const statusWord = (lang: Lang, kind: StatusKind) => words[lang][kind];

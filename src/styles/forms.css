@@ -178,8 +178,7 @@ html.js .enquiry__main fieldset + fieldset { margin-top: 0; }
 /* Flächen in Parchment innerhalb heller Abschnitte: kein Copper, kein Bronze (Design System). */
 .cfg__list, .enquiry__main, .cfg__custom, .picker, .filterbar { --accent: var(--sfp-forest); --accent-text: var(--sfp-forest); }
 
-/* Einwilligung und Honeypot (nur Live-Versand) */
-.consent__check { display: flex; gap: 0.8rem; align-items: flex-start; min-height: var(--sfp-touch-min); font-size: var(--t-small); cursor: pointer; }
-.consent__check input { flex: none; width: 1.4rem; height: 1.4rem; margin-top: 0.15rem; accent-color: var(--sfp-forest); border-radius: 0; }
-.consent__check input[aria-invalid='true'] { outline: 2px solid var(--sfp-bronze); outline-offset: 2px; }
+/* Sendemodus: Datenschutzhinweis und Honeypot */
+.review__privacy { max-width: none; }
+.status__action { font-weight: 600; white-space: nowrap; }
 .honeypot { position: absolute; left: -200vw; width: 1px; height: 1px; overflow: hidden; }

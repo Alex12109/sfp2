@@ -411,8 +411,8 @@ fs.mkdirSync(PUB, { recursive: true });
 let copied = 0;
 const missing = [];
 for (const name of [...usedAssets].sort()) {
-  // Altes Logo und die Vorlage der früheren Wildleder-Interaktion werden nicht übernommen.
-  if (/^(wordmark|v19-suede)/.test(name)) continue;
+  // Das alte Logo wird nicht übernommen (ersetzt durch Old Copper).
+  if (/^wordmark/.test(name)) continue;
   const from = path.join(SRC, '03_ASSETS/site', name);
   if (!fs.existsSync(from)) { missing.push(name); continue; }
   fs.copyFileSync(from, path.join(PUB, name));

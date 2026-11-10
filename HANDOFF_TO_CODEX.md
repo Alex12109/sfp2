@@ -17,7 +17,7 @@ Installationsbefehl: `npm ci`
 Entwicklungsstart: `npm run dev`
 Build: `npm run build`
 Ausgabeverzeichnis: `dist/`
-Erforderliche Umgebungsvariablen (nur Namen; keine Werte/Secrets): `PUBLIC_ENQUIRY_MODE` (optional; draft | demo | live, Standard draft), `PUBLIC_ENQUIRY_ENDPOINT` (nur live). Für die Worker-Vorlage: `RESEND_API_KEY`, `ENQUIRY_TO`, `ENQUIRY_FROM`, `ALLOWED_ORIGINS`.
+Erforderliche Umgebungsvariablen (nur Namen; keine Werte/Secrets): `PUBLIC_ENQUIRY_MODE` (optional; live | draft | demo, Standard live), `PUBLIC_ENQUIRY_ENDPOINT` (Standard `/api/enquiry`). Für die Worker-Vorlage: `RESEND_API_KEY`, `ENQUIRY_TO`, `ENQUIRY_FROM`, `ALLOWED_ORIGINS`.
 
 ## Umsetzung
 Ausgearbeitete Routen: Alle 218 Inhaltsrouten werden mit echtem Inhalt gebaut. Einzeln im Browser gesichtet wurden 15
@@ -48,9 +48,9 @@ Tatsächlich funktionierende Interaktionen: Navigation mit vier Bereichen (Klick
 DE/EN-Pendant je Seite, Katalogsuche und Bereichsfilter, Speisekartenfilter (Bindung, Seiten, Format, Material), Bildfolgen,
 Projekt- und Szenenumschalter, Materialstudie (Farbwelten, Prägung), Konfigurator (45 Artikel, Formate, Sondermaß, Material als
 Musterkacheln, Farbvorschläge, Naht, abhängige Optionen), Auswahl (hinzufügen, bearbeiten, duplizieren, entfernen),
-Sitzungsspeicher, dreistufiger Projektbrief mit Feldfehlern, Vorschau, Kopie, Textdownload, `mailto:`-Entwurf, bestätigtes Zurücksetzen.
+Sitzungsspeicher, dreistufiger Projektbrief mit Feldfehlern, Vorschau, Senden an einen Endpunkt (mit `mailto:`-Ausweg im Fehlerfall), bestätigtes Zurücksetzen, Wildleder-Studie.
 Mock-Funktionen und sichtbare Demo-Zustände: nur bei `PUBLIC_ENQUIRY_MODE=demo`: Hinweis „Demo-Modus“ und Knopf
-„Senden (Demo – ohne Versand)“, Ergebnis „Demo: Anfrage wurde nicht versendet.“ Im Standard gibt es keinen Sendeknopf.
+„Senden (Demo – ohne Versand)“. Im Standard (`live`) gibt es genau einen Knopf „Anfrage senden“; ohne erreichbaren Endpunkt zeigt er eine Fehlermeldung mit E-Mail-Ausweg, nie eine Bestätigung.
 Geplanter Service-Adapter und Payload: `src/services/enquiry-service.ts`, Typen wie im Vorschlag
 `06_RETURN_HANDOFF/enquiry-adapter.example.ts` (`EnquiryDraft`, `EnquiryResult`), ergänzt um `brief` (Klartext) und `website` (Honeypot). `live` sendet per POST an `PUBLIC_ENQUIRY_ENDPOINT` und bestätigt nur bei 200/202 mit `reference`. Referenz-Endpunkt: `server/enquiry-worker.mjs` (Vorlage, nicht deployt, keine echte Zustellung geprüft). Optionen: `docs/ENQUIRY_DELIVERY.md`.
 Sitzungsspeicher / Entwurfsmigration: unveränderte Schlüssel `sfp-enquiry-v9`, `sfp-enquiry-transfer-v9`,
@@ -61,13 +61,13 @@ Noch anzubindende Services: Anfrageannahme/Zustellung, ggf. Uploads, CMS/Produkt
 ## Prüfung
 Build: `npm run build`, 10.11.2026, erfolgreich (219 Seiten inkl. 404, 2 JSON-Endpunkte).
 `npm test`: 26/26 bestanden (Katalog-IDs DE=EN, alle Formate aller 45 Artikel, alle 59 abhängigen Optionen, Sondermaß, Naht, Legacy-Daten, Entwurf, Brief; Live-Adapter gegen die Worker-Vorlage).
-Live-Versand im Browser gegen simulierten Endpunkt (`tests/e2e/live-send.cjs`, Build mit `PUBLIC_ENQUIRY_MODE=live`): 3/3.
+Versand im Browser gegen simulierten Endpunkt ist Teil von `tests/e2e/enquiry-flow.cjs` (Fehlerfall mit E-Mail-Ausweg, Annahme mit Referenz).
 `npm run check:dist`: 218 Routen, 13.884 lokale Links, 2.994 Bilder, keine Probleme.
 Breiten / Browser: Chromium (Playwright, headless). Überlauf gemessen bei 320, 390, 768, 1440 px auf 43 Routen
 (je Template und Sprache zwei, plus 404): 172 Ansichten, 0 mit Überlauf, 0 Skriptfehler.
 Navigation / Tastatur: Enter öffnet, Escape schließt und setzt Fokus zurück (automatisiert geprüft). Tab-Reihenfolge nicht systematisch durchgegangen.
 DE/EN und direkte Routenaufrufe: alle 218 Routen als eigene `index.html`; Sprachpendant je Seite geprüft.
-Konfigurator / abhängige Optionen: Unit-Tests plus Browserlauf (`tests/e2e/enquiry-flow.cjs`, 13/13 Schritte).
+Konfigurator / abhängige Optionen: Unit-Tests plus Browserlauf (`tests/e2e/enquiry-flow.cjs`, 15/15 Schritte).
 Anfrage / Fehler / Leerzustand: im Browserlauf geprüft (ungültige Menge, Pflichtfelder, ungültige E-Mail, leere Suche, Zurücksetzen, Sprachwechsel mit Freitext).
 Bekannte Fehler: keine bekannten Funktionsfehler; Einschränkungen in `KNOWN_ISSUES.md`.
 Nicht geprüft: Firefox, Safari, echte Mobilgeräte, Screenreader, Kontrastmessung aller Kombinationen, `mailto:` in echten

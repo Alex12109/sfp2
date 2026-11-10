@@ -19,6 +19,8 @@ const links = role('contact-links')[0];
 const scope = role('business-scope')[0];
 const note = role('note')[0];
 const lines = heading(s.title?.html).split(/<br\s*\/?>/);
+// Sendemodus (live/demo): ein Knopf, Datenschutzhinweis; der E-Mail-Entwurf erscheint nur noch als Ausweg im Fehlerfall.
+const sending = ENQUIRY_MODE !== 'draft';
 ---
 <section class="sec enquiry tone-ivory">
   <div class="wrap enquiry__grid">
@@ -29,7 +31,7 @@ const lines = heading(s.title?.html).split(/<br\s*\/?>/);
         {intro.map((p) => p.type === 'p' && <p class="lead" set:html={p.html} />)}
         {links && links.type === 'p' && <p class="enquiry__links" set:html={links.html} />}
         {scope && scope.type === 'p' && <p class="enquiry__scope" set:html={scope.html} />}
-        {note && note.type === 'p' && <p class="note" set:html={note.html} />}
+        {sending ? <p class="note">{f.asideNote}</p> : note && note.type === 'p' && <p class="note" set:html={note.html} />}
       </div>
     </aside>
 
@@ -113,10 +115,10 @@ const lines = heading(s.title?.html).split(/<br\s*\/?>/);
               <input id="phone" name="phone" type="tel" autocomplete="tel" />
             </div>
           </div>
-          <p class="note">{ENQUIRY_MODE === 'live' ? f.requiredLive : f.required} <a href={ui.privacyUrl}>{f.privacy}</a></p>
+          <p class="note">{sending ? f.requiredLive : <Fragment>{f.required} <a href={ui.privacyUrl}>{f.privacy}</a></Fragment>}</p>
           <div class="form-buttons">
             <button type="button" class="btn btn--outline" data-back>{f.back}</button>
-            <button class="btn" type="submit">{f.prepare}<Arrow /></button>
+            <button class="btn" type="submit">{sending ? f.review : f.prepare}<Arrow /></button>
           </div>
         </fieldset>
       </form>
@@ -124,25 +126,27 @@ const lines = heading(s.title?.html).split(/<br\s*\/?>/);
       <div id="review" class="review" tabindex="-1" hidden>
         <h2>{f.reviewTitle}</h2>
         <pre id="summary" class="brief"></pre>
-        <p class="note review__notice">{ENQUIRY_MODE === 'live' ? f.sendNotice : f.notSent}</p>
-        {ENQUIRY_MODE === 'live' && (
-          <div class="consent">
-            <label class="consent__check" for="consent">
-              <input type="checkbox" id="consent" name="consent" required />
-              <span>{f.consent} <a href={ui.privacyUrl}>{f.privacy}</a></span>
-            </label>
+        {sending ? (
+          <Fragment>
+            <div class="actions">
+              <button type="button" class="btn" id="send-enquiry"><span data-label>{ENQUIRY_MODE === 'live' ? f.send : f.demoSend}</span><Arrow /></button>
+            </div>
+            <p class="note review__privacy">{f.sendNotice} <a href={ui.privacyUrl}>{f.sendNoticeLink}</a>.</p>
             <p class="honeypot" aria-hidden="true">
               <label for="website">{f.honeypot}</label>
               <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
             </p>
-          </div>
+          </Fragment>
+        ) : (
+          <Fragment>
+            <p class="note review__notice">{f.notSent}</p>
+            <div class="actions">
+              <a id="email-link" class="btn" href="mailto:mail@sfp-berlin.com">{f.openEmail}<Arrow /></a>
+              <button type="button" class="btn btn--outline" id="copy-brief">{f.copy}</button>
+              <button type="button" class="btn btn--outline" id="download-brief">{f.download}</button>
+            </div>
+          </Fragment>
         )}
-        <div class="actions">
-          {ENQUIRY_MODE !== 'draft' && <button type="button" class="btn" id="send-enquiry"><span data-label>{ENQUIRY_MODE === 'live' ? f.send : f.demoSend}</span><Arrow /></button>}
-          <a id="email-link" class:list={['btn', ENQUIRY_MODE === 'live' && 'btn--outline']} href="mailto:mail@sfp-berlin.com">{f.openEmail}<Arrow /></a>
-          <button type="button" class="btn btn--outline" id="copy-brief">{f.copy}</button>
-          <button type="button" class="btn btn--outline" id="download-brief">{f.download}</button>
-        </div>
       </div>
       <p id="form-status" class="status" role="status" aria-live="polite"></p>
       <p><button type="button" class="link" id="enquiry-reset">{f.reset}</button></p>

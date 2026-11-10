@@ -1,7 +1,7 @@
 /**
  * Prüfpfad aus der Rückgabecheckliste im echten Browser:
  * Home → Modell → Optionen konfigurieren → hinzufügen → im Planer bearbeiten →
- * Sprache wechseln → eigene Anforderungen → Brief prüfen → E-Mail-Entwurf.
+ * Sprache wechseln → eigene Anforderungen → Brief prüfen → Anfrage senden (Endpunkt simuliert).
  *
  * Voraussetzung: `npm run build && npm run preview` läuft (Port 4321) und
  * Playwright ist verfügbar (nicht Teil der Projektabhängigkeiten).
@@ -98,7 +98,14 @@ const base = process.argv[2] || 'http://localhost:4321';
   assert.match(await page.textContent('[data-selection-text]'), /Hamburg Menu Cover[\s\S]*Quantity: 40/);
   step('Sprachwechsel erhält Freitext, Auswahl und Schritt');
 
-  // Feldfehler, dann Brief
+  // Feldfehler, dann Brief und Versand (Endpunkt simuliert)
+  let endpoint = 'down';
+  const received = [];
+  await page.route('**/api/enquiry', async (route) => {
+    received.push(JSON.parse(route.request().postData()));
+    if (endpoint === 'down') return route.fulfill({ status: 502, contentType: 'application/json', body: JSON.stringify({ message: 'The mail service could not be reached.' }) });
+    return route.fulfill({ status: 202, contentType: 'application/json', body: JSON.stringify({ reference: 'SFP-20261110-TEST0001' }) });
+  });
   await page.click('[data-panel]:not([hidden]) [data-next]');
   await page.click('button[type=submit]');
   assert.equal(await page.getAttribute('#name', 'aria-invalid'), 'true');
@@ -111,11 +118,30 @@ const base = process.argv[2] || 'http://localhost:4321';
   await page.waitForSelector('#review:not([hidden])');
   const brief = await page.textContent('#summary');
   assert.ok(brief.includes('Bitte genau diesen Satz erhalten.') && brief.includes('Hamburg Menu Cover') && brief.includes('test@example.test'));
-  const href = await page.getAttribute('#email-link', 'href');
-  assert.ok(href.startsWith('mailto:mail@sfp-berlin.com?subject='));
-  assert.equal(new URL(href).searchParams.get('body'), brief);
-  assert.doesNotMatch(await page.textContent('#form-status'), /gesendet|has been sent|versendet/i);
-  step('Feldfehler, Projektbrief und E-Mail-Entwurf; keine Versandbestätigung');
+  assert.equal(await page.locator('#review .btn').count(), 1); // nur „Anfrage senden“
+  assert.equal(await page.locator('#email-link, #copy-brief, #download-brief').count(), 0);
+  step('Feldfehler und Projektbrief; genau ein Sendeknopf');
+
+  await page.click('#send-enquiry');
+  await page.waitForFunction(() => document.querySelector('#form-status').dataset.kind === 'error');
+  assert.doesNotMatch(await page.textContent('#form-status'), /received|eingegangen/i);
+  const fallback = await page.getAttribute('#form-status a', 'href');
+  assert.ok(fallback.startsWith('mailto:mail@sfp-berlin.com?subject='));
+  assert.equal(new URL(fallback).searchParams.get('body'), brief);
+  assert.equal(await page.isDisabled('#send-enquiry'), false);
+  step('Versandfehler: keine Bestätigung, Ausweg per E-Mail-Entwurf');
+
+  endpoint = 'up';
+  await page.click('#send-enquiry');
+  await page.waitForFunction(() => document.querySelector('#form-status').dataset.kind === 'success');
+  assert.match(await page.textContent('#form-status'), /SFP-20261110-TEST0001/);
+  assert.equal(await page.isDisabled('#send-enquiry'), true);
+  const sent = received.at(-1);
+  assert.equal(sent.contact.email, 'test@example.test');
+  assert.equal(sent.items[0].product, 'menu-hamburg');
+  assert.equal(sent.brief, brief);
+  assert.equal(sent.website, '');
+  step('Versand: Bestätigung nur mit Referenz, Knopf gesperrt, Payload vollständig');
 
   await page.click('#enquiry-reset');
   assert.equal(await page.inputValue('#description'), '');

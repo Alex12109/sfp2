@@ -26,6 +26,8 @@ const paras = (s.body ?? []).filter((b) => b.type === 'p');
 const intro = paras.filter((b) => b.type === 'p' && !b.role).slice(0, 1);
 const hint = paras.find((b) => b.type === 'p' && !b.role && b.html.includes('<strong>'));
 const note = paras.find((b) => b.type === 'p' && b.role === 'studio-experiment-note');
+const suedeHint = paras.find((b) => b.type === 'p' && b.role === 'sr-only');
+const suede = (s.media ?? []).find((m) => /suede/.test(m.src));
 ---
 <section class="sec studio tone-forest" id={s.id ?? 'material-studio'} data-studio>
   <div class="wrap">
@@ -66,15 +68,22 @@ const note = paras.find((b) => b.type === 'p' && b.role === 'studio-experiment-n
       </div>
     </div>
 
-    <div class="studio__stamp" data-stamp-study data-leather="navy" data-finish="blind" data-foil="gold">
-      <div class="stamp" style={`--leather:${leatherHex.navy}`} data-stamp-surface>
-        <span class="stamp__mark" data-stamp-mark aria-hidden="true">SFP</span>
+    <div class="studio__stamp">
+      <div class="stamp-study" data-suede data-stamp-study tabindex="0" role="group" aria-label={en ? 'Suede to try out' : 'Wildleder zum Ausprobieren'} aria-describedby="suede-hint" data-finish="blind" data-foil="gold" data-leather="navy">
+        <div class="suede-surface">
+          {suede && <img src={suede.src} alt={suede.alt} width={suede.width ?? undefined} height={suede.height ?? undefined} loading="lazy" decoding="async" />}
+          <canvas class="suede-nap"></canvas>
+        </div>
+        <span data-stamp>
+          <span class="stamp-logo"><img class="stamp-logo-source" src="/brand/logos/SFP_08_wortmarke_paper.svg" alt="SFP" width="1879" height="1050" /></span>
+          <span class="stamp-text"></span>
+        </span>
       </div>
       <div class="studio__stamp-controls">
         {hint && hint.type === 'p' && <p class="studio__hint" id="studio-mark-hint" set:html={hint.html} />}
         <div class="choice-row" role="group" aria-label={en ? 'Choose a leather colour' : 'Lederfarbe wählen'}>
           {leathers.map((l) => (
-            <button type="button" class="chip" data-leather-choice={l.data!['leather-choice']} data-hex={leatherHex[l.data!['leather-choice']]} aria-pressed={l.data!['leather-choice'] === 'navy' ? 'true' : 'false'}>
+            <button type="button" class="chip" data-leather-choice={l.data!['leather-choice']} aria-pressed={l.data!['leather-choice'] === 'navy' ? 'true' : 'false'}>
               <i style={`background:${leatherHex[l.data!['leather-choice']]}`} aria-hidden="true"></i>{l.label}
             </button>
           ))}
@@ -85,14 +94,18 @@ const note = paras.find((b) => b.type === 'p' && b.role === 'studio-experiment-n
           ))}
         </div>
         <div class="studio__entry">
-          <div class="field">
+          <div class="field stamp-input-shell">
             <label for="studio-mark">{en ? 'Text to stamp' : 'Text zum Prägen'}</label>
-            <input id="studio-mark" maxlength="16" autocomplete="off" spellcheck="false" placeholder="SFP" aria-describedby="studio-mark-hint" />
+            <input id="studio-mark" maxlength="16" autocomplete="off" spellcheck="false" placeholder=":-)" aria-describedby="studio-mark-hint" />
           </div>
-          <div class="field" data-foil-field>
+          <div class="field" id="studio-foil-field" data-disabled="true">
             <label for="studio-foil">{en ? 'Choose a foil colour' : 'Folienfarbe wählen'}</label>
             <select id="studio-foil" disabled>{foils.map(([v, l]) => <option value={v}>{l}</option>)}</select>
           </div>
+        </div>
+        <div class="studio__suede-tools">
+          {suedeHint && suedeHint.type === 'p' && <p id="suede-hint" class="note" set:html={suedeHint.html} />}
+          {resetTab && <button type="button" class="link" data-suede-reset>{resetTab.label}</button>}
         </div>
         {note && note.type === 'p' && <p class="note" set:html={note.html} />}
         <p class="sr-only" role="status" data-studio-status></p>
@@ -100,3 +113,6 @@ const note = paras.find((b) => b.type === 'p' && b.role === 'studio-experiment-n
     </div>
   </div>
 </section>
+<script>
+  import '../scripts/suede';
+</script>

@@ -19,9 +19,14 @@ zusätzlich braucht. Übernommen und im Code nachprüfbar:
 | Copper nur dekorativ und nur auf Ivory, Forest, Charcoal; Bronze nur auf Ivory ab 24 px | `.tone-parchment`/`.tone-sand` setzen Akzent auf Forest; Bronze nur in H1/H2-Hervorhebung auf Ivory |
 | Logo als fertige Datei, Schutzraum unangetastet, 08 für Kopfzeilen | Header 08 Charcoal, Footer 06 hell, keine negativen Ränder |
 
-Bewusste Ergänzungen (nicht im Design System definiert): feine Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern,
-eine Display-Schriftstufe über H1 (bis 5,5 rem) für Start- und Übersichtsseiten, fluide Abstände über die vier
-Spacing-Stufen hinaus, Bewegung. Diese Punkte brauchen eine Freigabe, wenn das System strikt gelten soll.
+**Stand 10.11.2026: Das Design System gilt nicht strikt** (Entscheidung Alex). Die Zeilen „Keine Verläufe, Glows,
+Schatten, Rundungen“ und „Copper nur auf Ivory, Forest, Charcoal“ der Tabelle sind damit aufgehoben. `src/styles/luxe.css`
+legt darüber: runde Schaltflächen mit Verlauf, Lichtkante und Schein, weiche Schatten, abgerundete Bilder und Flächen,
+mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Lichtschein auf dunklen Flächen.
+Unverändert bleiben Farben, Schriften, Schriftgewichte, Logo-Regeln, Fokus und Mindestgrößen.
+
+Weitere Ergänzungen: feine Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, eine Display-Schriftstufe über H1
+(bis 5,5 rem), fluide Abstände, Bewegung (`motion.css`), Wildleder-Studie (`scripts/suede.ts`).
 
 ## Idee
 Die Site liest sich wie ein Musterbuch aus dem Atelier: ruhige Ivory-Fläche mit feiner Körnung, große Newsreader-Zeilen,
@@ -55,8 +60,8 @@ Ausnahme: die Material- und Folienchips der Materialstudie (Bildschirmwerte des 
 - Betonung in Überschriften: Bronze statt Kursive, nur auf Ivory (auf Parchment Forest, auf Dunkel keine Farbe).
 
 ## Bewegung
-Datei `src/styles/motion.css`. Wirkung entsteht ohne Verläufe, Schatten oder Rundungen: durch Aufrollen (`clip-path`),
-sich zeichnende Linien, Flächenwechsel und langsame Bildbewegung.
+Datei `src/styles/motion.css`: Aufrollen (`clip-path`), sich zeichnende Linien, Flächenwechsel, langsame Bildbewegung;
+dazu aus `luxe.css` Anheben mit Schatten, Lichtkante auf Schaltflächen und schwebender Lichtschein im Abschluss.
 - Schaltflächen: Fläche wischt von unten durch, Pfeil fliegt aus und wieder ein, Laufweite öffnet sich leicht.
 - Textlinks und Navigation: Unterstreichung zeichnet sich von links.
 - Karten: Bild fährt langsam heran, Schnittmarken erscheinen, Ziffer rückt.
@@ -87,11 +92,11 @@ sich zeichnende Linien, Flächenwechsel und langsame Bildbewegung.
 | `Facts` | Projektdaten | – |
 | `Jumps` | Sprungmarken | – |
 | `ProseBlock` | Journal, Rechtstexte | mit Inhaltsverzeichnis, Titelbild |
-| `MaterialStudio` | Farbwelten, Prägestudie | Palette, Lederfarbe, Blind/Folie, Folienfarbe |
+| `MaterialStudio` | Farbwelten, Wildleder-Studie | Palette, Flor streichen (Maus, Touch, Pfeiltasten), Lederfarbe, Blind/Folie, Folienfarbe, eigener Text |
 | `Catalog` | Artikelkatalog | Suche, Bereich, Treffer, leer |
 | `ModelPage` | Modellseite | Bild, Merkmale, Spezifikation, Musterwand, Galerie, Konfigurator |
 | `Configurator` | Artikel konfigurieren | Modus `planner` / `model`; siehe `STATE_CHECKLIST.md` |
-| `ContactForm` | Projektbrief | 3 Schritte, Auswahl, Fehler, Vorschau, Demo |
+| `ContactForm` | Projektbrief | 3 Schritte, Auswahl, Fehler, Vorschau, Senden (läuft, angenommen, fehlgeschlagen mit E-Mail-Ausweg) |
 | `Band` | Abschluss mit Anfrage | – |
 | `Picture`, `Rich`, `Actions`, `Crumbs`, `Arrow` | Grundelemente | Bild mit `srcset`, Schnittmarken, Aufdecken |
 

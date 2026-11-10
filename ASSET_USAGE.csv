@@ -741,8 +741,8 @@
 03_ASSETS/site/v15-bmw-seat-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
 03_ASSETS/site/v15-bmw-seat-640.webp,public/assets/v15-bmw-seat-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
 03_ASSETS/site/v15-bmw-seat.webp,public/assets/v15-bmw-seat.webp,"/; /en/; /en/products/luggage-tags/; /en/projects/; /en/projects/bmw-group-classic/; /en/solutions/corporate-gifts/; /en/white-label/; /loesungen/corporate-gifts/; /produkte/kofferanhaenger/; /projekte/; /projekte/bmw-group-classic/; /white-label/","übernommen, Dateiname unverändert"
-03_ASSETS/site/v19-suede-640.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
-03_ASSETS/site/v19-suede.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
+03_ASSETS/site/v19-suede-640.webp,public/assets/v19-suede-640.webp,,"kopiert, im Build nicht referenziert"
+03_ASSETS/site/v19-suede.webp,public/assets/v19-suede.webp,"/en/materials/; /materialien/","übernommen, Dateiname unverändert"
 03_ASSETS/site/v5-bill-160.webp,,,nicht verwendet (nicht im Bestand referenziert oder Größenvariante)
 03_ASSETS/site/v5-bill-640.webp,public/assets/v5-bill-640.webp,"/; /datenschutz/; /en/; /en/care-service/; /en/collections/; /en/collections/desk-table/; /en/collections/dining/; /en/collections/other-accessories/; /en/collections/room-accessories/; /en/collections/travel-gifts/; /en/collections/trays-organisers/; /en/company/; … (218 Stellen)","übernommen, Dateiname unverändert"
 03_ASSETS/site/v5-bill.webp,public/assets/v5-bill.webp,"/en/products/bill-presenters/; /produkte/rechnungsmappen/","übernommen, Dateiname unverändert"
@@ -828,7 +828,7 @@
 04_BRAND/assets/generated/Logos/charcoal/SFP_08_wortmarke_charcoal.svg,public/brand/logos/SFP_08_wortmarke_charcoal.svg,alle Seiten (Header/Footer/Favicon),"übernommen, unverändert"
 04_BRAND/assets/generated/Logos/copper/SFP_08_wortmarke_copper.svg,public/brand/logos/SFP_08_wortmarke_copper.svg,,"bereitgelegt, derzeit nicht eingebunden"
 04_BRAND/assets/generated/Logos/forest/SFP_08_wortmarke_forest.svg,public/brand/logos/SFP_08_wortmarke_forest.svg,,"bereitgelegt, derzeit nicht eingebunden"
-04_BRAND/assets/generated/Logos/paper/SFP_08_wortmarke_paper.svg,public/brand/logos/SFP_08_wortmarke_paper.svg,,"bereitgelegt, derzeit nicht eingebunden"
+04_BRAND/assets/generated/Logos/paper/SFP_08_wortmarke_paper.svg,public/brand/logos/SFP_08_wortmarke_paper.svg,alle Seiten (Header/Footer/Favicon),"übernommen, unverändert"
 04_BRAND/assets/generated/assets/fonts/Montserrat-OFL.txt,public/brand/fonts/Montserrat-OFL.txt,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"
 04_BRAND/assets/generated/assets/fonts/Montserrat.woff2,public/brand/fonts/Montserrat.woff2,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"
 04_BRAND/assets/generated/assets/fonts/Newsreader-OFL.txt,public/brand/fonts/Newsreader-OFL.txt,alle Seiten (src/styles/tokens.css) bzw. Lizenztext,"übernommen, unverändert"

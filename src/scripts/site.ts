@@ -145,35 +145,28 @@ document.querySelectorAll<HTMLElement>('[data-studio]').forEach((root) => {
     descriptions.forEach((d, n) => (d.hidden = n !== i));
     pressGroup(palettes, i);
   }));
+  // Prägestudie: Lederfarbe, Veredelung, Folienfarbe. Flor und Schrift steuert src/scripts/suede.ts.
   const study = root.querySelector<HTMLElement>('[data-stamp-study]');
   if (!study) return;
-  const surface = study.querySelector<HTMLElement>('[data-stamp-surface]')!;
-  const mark = study.querySelector<HTMLElement>('[data-stamp-mark]')!;
-  const input = study.querySelector<HTMLInputElement>('#studio-mark')!;
-  const foil = study.querySelector<HTMLSelectElement>('#studio-foil')!;
-  const status = study.querySelector<HTMLElement>('[data-studio-status]')!;
-  const leathers = [...study.querySelectorAll<HTMLElement>('[data-leather-choice]')];
-  const finishes = [...study.querySelectorAll<HTMLElement>('[data-finish-choice]')];
-  const announce = () => {
+  const foil = root.querySelector<HTMLSelectElement>('#studio-foil')!;
+  const foilField = root.querySelector<HTMLElement>('#studio-foil-field')!;
+  const status = root.querySelector<HTMLElement>('[data-studio-status]')!;
+  const leathers = [...root.querySelectorAll<HTMLElement>('[data-leather-choice]')];
+  const finishes = [...root.querySelectorAll<HTMLElement>('[data-finish-choice]')];
+  const refresh = (announce = true) => {
+    foil.disabled = study.dataset.finish !== 'foil';
+    foilField.dataset.disabled = String(foil.disabled);
+    study.dataset.foil = foil.value;
+    study.dispatchEvent(new CustomEvent('stampchange'));
+    if (!announce) return;
     const finish = finishes.find((f) => f.getAttribute('aria-pressed') === 'true')?.textContent?.trim();
     const leather = leathers.find((f) => f.getAttribute('aria-pressed') === 'true')?.textContent?.trim();
-    status.textContent = `${mark.textContent} · ${leather} · ${finish}${study.dataset.finish === 'foil' ? ' · ' + foil.selectedOptions[0].textContent : ''}`;
+    status.textContent = `${leather} · ${finish}${foil.disabled ? '' : ' · ' + foil.selectedOptions[0].textContent}`;
   };
-  leathers.forEach((b, i) => b.addEventListener('click', () => {
-    surface.style.setProperty('--leather', b.dataset.hex!);
-    study.dataset.leather = b.dataset.leatherChoice;
-    pressGroup(leathers, i);
-    announce();
-  }));
-  finishes.forEach((b, i) => b.addEventListener('click', () => {
-    study.dataset.finish = b.dataset.finishChoice;
-    foil.disabled = b.dataset.finishChoice !== 'foil';
-    pressGroup(finishes, i);
-    announce();
-  }));
-  foil.addEventListener('change', () => { study.dataset.foil = foil.value; announce(); });
-  input.addEventListener('input', () => { mark.textContent = input.value.trim() || 'SFP'; });
-  input.addEventListener('change', announce);
+  leathers.forEach((b, i) => b.addEventListener('click', () => { study.dataset.leather = b.dataset.leatherChoice; pressGroup(leathers, i); refresh(); }));
+  finishes.forEach((b, i) => b.addEventListener('click', () => { study.dataset.finish = b.dataset.finishChoice; pressGroup(finishes, i); refresh(); }));
+  foil.addEventListener('change', () => refresh());
+  refresh(false);
 });
 
 // ------------------------------------------------------------ Speisekartenfilter (Port aus menu-filter.js)

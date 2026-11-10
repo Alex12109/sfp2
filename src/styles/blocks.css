@@ -298,24 +298,6 @@
 .swatch-choice__chips i:first-child { margin-left: 0; }
 .studio__descriptions h4 { font-family: var(--font-display); font-weight: 400; font-size: 1.4rem; margin-bottom: 0.6rem; }
 .studio__stamp { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 2rem var(--gap); align-items: center; margin-top: clamp(3rem, 6vw, 6rem); padding-top: clamp(3rem, 6vw, 6rem); border-top: 1px solid var(--rule); }
-.stamp {
-  aspect-ratio: 4 / 3; display: grid; place-items: center; overflow: hidden; container-type: inline-size;
-  background:
-    var(--grain), var(--leather);
-  transition: background-color 0.6s var(--ease-soft);
-  border: 1px solid var(--rule);
-}
-.stamp__mark {
-  font-family: var(--font-display); font-size: clamp(2rem, 13cqi, 5.5rem); letter-spacing: 0.06em; line-height: 1; padding: 0 1rem; text-align: center; max-width: 100%; overflow-wrap: anywhere;
-  color: color-mix(in srgb, var(--leather) 68%, black);
-  transition: color 0.4s;
-}
-[data-finish='foil'][data-foil='gold'] .stamp__mark { color: #c9a45f; }
-[data-finish='foil'][data-foil='silver'] .stamp__mark { color: #c4c5c2; }
-[data-finish='foil'][data-foil='copper'] .stamp__mark { color: #b77550; }
-[data-finish='foil'][data-foil='black'] .stamp__mark { color: #141414; }
-[data-finish='foil'][data-foil='red'] .stamp__mark { color: #9c2b2b; }
-[data-finish='foil'][data-foil='blue'] .stamp__mark { color: #2c4a7c; }
 .studio__stamp-controls { display: grid; gap: 1.4rem; }
 .studio__hint { max-width: 52ch; color: var(--fg-soft); }
 .studio__entry { display: grid; grid-template-columns: 1fr 1fr; gap: var(--gap); }
@@ -381,3 +363,65 @@
 .notfound__no { grid-column: 1 / -1; font-family: var(--font-display); font-size: clamp(6rem, 22vw, 20rem); line-height: 0.8; letter-spacing: -0.05em; color: var(--accent); }
 .notfound h1 { font-size: var(--t-h2); }
 @media (max-width: 699px) { .notfound__grid { grid-template-columns: 1fr; } }
+
+/* ---------- Wildleder-Studie (aus dem Bestand übernommen, an Old Copper angepasst) ---------- */
+.stamp-study {
+  position: relative; display: grid; place-items: center; aspect-ratio: 3 / 2; overflow: hidden; isolation: isolate;
+  container-type: inline-size; cursor: crosshair; touch-action: pan-y pinch-zoom; user-select: none; -webkit-user-select: none;
+  background: #996846;
+}
+.stamp-study:focus-visible { outline: 3px solid var(--sfp-ivory); outline-offset: 4px; }
+.suede-surface { position: absolute; inset: 0; transition: filter 0.5s var(--ease-soft); }
+.suede-surface img, .suede-nap { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.suede-nap { pointer-events: none; }
+/* Lederton als Behandlung des Fotos; Flor und Foto werden gemeinsam gefärbt. */
+.stamp-study[data-leather='black'] .suede-surface { filter: grayscale(1) brightness(0.28); }
+.stamp-study[data-leather='brown'] .suede-surface { filter: saturate(0.6) brightness(0.43); }
+.stamp-study[data-leather='cognac'] .suede-surface { filter: none; }
+.stamp-study[data-leather='navy'] .suede-surface { filter: grayscale(1) sepia(1) saturate(2) hue-rotate(170deg) brightness(0.45); }
+.stamp-study[data-leather='cream'] .suede-surface { filter: grayscale(1) brightness(1.9) contrast(0.45) sepia(0.45) brightness(1.3); }
+
+.stamp-study > [data-stamp] {
+  position: relative; z-index: 1; width: 90%; min-height: 1.2em; display: grid; place-items: center; isolation: isolate; pointer-events: none;
+  font-family: var(--font-display); font-weight: 500; font-size: clamp(1.8rem, 11cqi, 4rem); line-height: 1.1; text-align: center;
+  --ink: #61402d; --edge: rgba(8, 5, 3, 0.62); --light: rgba(222, 218, 199, 0.32);
+  color: var(--ink); transition: color 0.3s var(--ease-soft);
+}
+.stamp-study[data-leather='black'] > [data-stamp] { --ink: #151311; --light: rgba(104, 96, 91, 0.7); }
+.stamp-study[data-leather='brown'] > [data-stamp] { --ink: #261911; --light: rgba(128, 99, 78, 0.7); }
+.stamp-study[data-leather='navy'] > [data-stamp] { --ink: #111c2a; --light: rgba(88, 113, 133, 0.7); }
+.stamp-study[data-leather='cream'] > [data-stamp] { --ink: #ac9c80; --edge: rgba(121, 107, 84, 0.8); --light: rgba(255, 247, 220, 0.9); }
+.stamp-study[data-finish='foil'] > [data-stamp] { --ink: var(--foil, #d6b76e); --edge: rgba(69, 40, 24, 0.6); --light: var(--foil-light, #ebd49b); }
+.stamp-study[data-foil='gold'] { --foil: #d6b76e; --foil-light: #ebd49b; }
+.stamp-study[data-foil='silver'] { --foil: #d0d1ce; --foil-light: #f0eee8; }
+.stamp-study[data-foil='copper'] { --foil: #d39774; --foil-light: #efbd97; }
+.stamp-study[data-foil='black'] { --foil: #211e1c; --foil-light: #625348; }
+.stamp-study[data-foil='red'] { --foil: #912e31; --foil-light: #be6864; }
+.stamp-study[data-foil='blue'] { --foil: #244c78; --foil-light: #6087a2; }
+
+[data-stamp] .stamp-logo { grid-area: 1 / 1; position: relative; display: block; width: 64%; aspect-ratio: 1879 / 1050; opacity: 0.85; transition: opacity 0.85s ease; }
+[data-stamp] .stamp-logo::before {
+  content: ''; position: absolute; inset: 0; background: currentColor;
+  -webkit-mask: var(--stamp-logo-mask, url('/brand/logos/SFP_08_wortmarke_paper.svg')) center / contain no-repeat;
+  mask: var(--stamp-logo-mask, url('/brand/logos/SFP_08_wortmarke_paper.svg')) center / contain no-repeat;
+  filter: drop-shadow(-0.5px -0.8px 0.55px var(--edge)) drop-shadow(0.5px 1px 0.65px var(--light));
+}
+[data-stamp] .stamp-logo-source { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; opacity: 0; pointer-events: none; }
+[data-stamp].is-mark-focused .stamp-logo, [data-stamp].has-mark-text .stamp-logo { opacity: 0; }
+[data-stamp] .stamp-text { grid-area: 1 / 1; position: relative; display: inline-block; max-width: 100%; white-space: pre; isolation: isolate; letter-spacing: 0.02em; }
+[data-stamp] .stamp-glyph {
+  display: inline-block; position: relative; vertical-align: baseline; color: inherit; transform-origin: 50% 70%;
+  text-shadow: -0.65px -0.8px 0.6px var(--edge), 0.65px -0.8px 0.6px var(--edge), 0 1.2px 0.75px var(--light);
+  animation: stamp-press 1.6s cubic-bezier(0.16, 0.65, 0.27, 1) both;
+}
+/* Dampf beim Prägen */
+[data-stamp] .stamp-glyph::after { content: ''; position: absolute; width: 0.22em; height: 0.5em; left: 44%; top: 6%; border-radius: 50%; background: rgb(238 233 220 / 0.7); filter: blur(0.06em); pointer-events: none; opacity: 0; animation: stamp-steam 2.1s ease-out both; }
+.stamp-study > .stamp-glyph-ghost { position: absolute; display: block; z-index: 3; margin: 0; padding: 0; white-space: pre; pointer-events: none; animation: stamp-remove 0.75s ease-out both; }
+.stamp-study > .stamp-glyph-ghost::after { display: none; }
+@keyframes stamp-press { 0% { opacity: 0; transform: translateY(-0.14em) scale(1.06); } 25% { opacity: 0.25; } 70% { opacity: 0.85; transform: translateY(0.008em) scale(0.995); } 100% { opacity: 1; transform: none; } }
+@keyframes stamp-steam { 0%, 18% { opacity: 0; transform: translateY(0) scale(0.65); } 42% { opacity: 0.38; } 100% { opacity: 0; transform: translateY(-0.8em) scale(1.7); } }
+@keyframes stamp-remove { from { opacity: var(--retiring-opacity, 1); } to { opacity: 0; } }
+#studio-foil-field[data-disabled='true'] { opacity: 0.55; }
+.studio__suede-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem 1.5rem; }
+.studio__suede-tools .note { flex: 1 1 18rem; }
+@media (prefers-reduced-motion: reduce) { [data-stamp] .stamp-glyph { animation: none; } [data-stamp] .stamp-glyph::after { display: none; } }

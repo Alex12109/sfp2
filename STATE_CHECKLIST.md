@@ -28,10 +28,12 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 | Entwurf | bestätigtes Zurücksetzen | Kontakt | gemessen |
 | Projektbrief | Schritte 1–3, Zurück/Weiter, Fortschritt | Kontakt | gemessen + gesichtet |
 | Projektbrief | Pflichtfeld leer, E-Mail ungültig | Kontakt | gemessen |
-| Projektbrief | Vorschau, `mailto:` mit vollständigem Text | Kontakt | gemessen (Link-Inhalt), E-Mail-Programm offen |
-| Projektbrief | Kopieren, Kopierfehler, Download | Kontakt | Code vorhanden, **nicht gemessen** |
+| Projektbrief | Vorschau, genau ein Knopf „Anfrage senden“ | Kontakt | gemessen |
+| Projektbrief | Versand fehlgeschlagen: Fehlermeldung, `mailto:`-Ausweg mit vollständigem Text, keine Bestätigung | Kontakt | gemessen (simulierter Endpunkt) |
+| Projektbrief | Versand angenommen: Referenz, Knopf gesperrt, Payload vollständig | Kontakt | gemessen (simulierter Endpunkt); echte Zustellung **offen** |
+| Projektbrief | Kopieren, Download | nur `PUBLIC_ENQUIRY_MODE=draft` | Code vorhanden, **nicht gemessen** |
+| Materialstudie | Flor streichen, Text prägen, Lederfarbe, Folie, Zurücksetzen | `/materialien/` | mit Maus gesichtet und Canvas gemessen; Touch und Tastatur offen |
 | Projektbrief | Demo-Modus sichtbar gekennzeichnet | `PUBLIC_ENQUIRY_MODE=demo` | **nicht gemessen** |
-| Projektbrief | Live: ohne Einwilligung kein Versand; Fehler des Endpunkts; Annahme mit Referenz, Knopf gesperrt | `PUBLIC_ENQUIRY_MODE=live` | gemessen gegen simulierten Endpunkt; echte Zustellung **offen** |
 | Bewegung | Seitenaufbau, Einblenden, Hover, Scroll-Effekte | `motion.css` | gesichtet in Chromium (Zwischenzustände); andere Browser offen |
 | Ohne JavaScript | Inhalte sichtbar, Formulare zeigen Hinweis mit E-Mail-Adresse | alle Seiten | nicht gemessen |
 | Reduzierte Bewegung | Animationen und Einblendungen aus | global | Screenshots laufen in diesem Modus; sonst nicht gemessen |
@@ -41,9 +43,8 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 |---|---|---|
 | Build | `npm run build` | 219 Seiten + 2 JSON, ohne Fehler |
 | Regeln und Live-Adapter | `npm test` | 26/26 |
-| Live-Versand im Browser (simulierter Endpunkt) | `node tests/e2e/live-send.cjs` | 3/3 |
 | Build-Integrität | `npm run check:dist` | 218 Routen, 13.884 Links, 2.994 Bilder, 0 Probleme |
-| Anfrageweg im Browser | `node tests/e2e/enquiry-flow.cjs` | 13/13 Schritte, 0 Skriptfehler |
+| Anfrageweg im Browser inkl. Versand (simulierter Endpunkt) | `node tests/e2e/enquiry-flow.cjs` | 15/15 Schritte, 0 Skriptfehler |
 | Überlauf 320/390/768/1440 | `node tests/e2e/overflow.cjs` | 172 Ansichten (43 Routen), 0 Überlauf |
 | Textabgleich mit Bestand | einmalig beim Import | 9.692 Textknoten, 32 fehlend (nur Bedienelemente) |
 

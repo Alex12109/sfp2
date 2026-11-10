@@ -19,10 +19,14 @@ Fakten wurden nicht verändert. Nichts wurde erfunden (keine Preise, Mengen, Fri
 | Artikelauswahl im Projektplaner | Auswahlliste | Liste mit Vorschaubild, gruppiert nach Katalogbereich | wie oben |
 | Kontakt ohne Übergabe aus dem Planer | Auswahl nur über „Gemeinsam anfragen“ | vorhandene Planer-Auswahl derselben Sitzung wird auch bei direktem Aufruf übernommen | weniger Sackgassen; Zurücksetzen leert weiterhin beides |
 | Katalog | Sprungmarken zu vier Bereichen | Suchfeld + Bereichsfilter + Trefferzahl + Leerzustand | im Briefing gefordert („Such-/Filterauswahl“) |
-| Materialstudie | Wildleder-Canvas mit Streicheffekt, animierte Buchstaben | Farbwelten-Umschalter und Prägestudie (Lederfarbe, Blind-/Folienprägung, Text) ohne Canvas | bewusst vereinfacht, siehe `KNOWN_ISSUES.md` |
+| Materialstudie | Wildleder-Canvas mit Streicheffekt, animierte Buchstaben in Western-Schrift, altes Logo | dieselbe Interaktion (Code übernommen); Prägeschrift Newsreader, Logo Old-Copper-Wortmarke; der Bedienhinweis zum Streichen ist jetzt sichtbar statt nur für Screenreader | Rückbau auf Wunsch, Marke aktualisiert |
+| Kontakt, Hinweis unter den Kontaktdaten | „Der Projektbrief wird hier in Ihrem Browser erstellt. Anschließend öffnen Sie den E-Mail-Entwurf …“ | „Mit dem Absenden geht Ihr Projektbrief direkt an SFP in Berlin.“ | der Bestandssatz wäre mit Direktversand falsch |
+| Kontakt, Pflichtfeldhinweis | „… Ihre Angaben werden erst beim Versand aus Ihrem E-Mail-Programm an SFP übermittelt. Datenschutz“ | „* Pflichtangaben.“ plus Datenschutzhinweis am Sendeknopf | wie oben |
+| Kontakt, Knöpfe am Brief | „E-Mail-Entwurf öffnen“, „Kopieren“, „Herunterladen“ | nur „Anfrage senden“; der E-Mail-Entwurf erscheint nur noch in der Fehlermeldung | Wunsch: Anfragen direkt absenden |
+| Kontakt, letzter Schritt | „Projektbrief vorbereiten“ | „Projektbrief prüfen“ | passt zum Senden |
 | Startseite, Zeile über der H1 | nicht vorhanden | „Berlin · European craftsmanship“ (Footer-Zeile des Bestands) | Einordnung ohne neuen Text |
 | Abschnittsnummern „N° 01“ | nicht vorhanden | laufende Nummer je Abschnitt | Orientierung, kein Inhalt |
-| Smiley-Platzhalter „:-)“ im Prägefeld | animierter Platzhalter | Platzhalter „SFP“ | Vereinfachung |
+| Smiley-Platzhalter „:-)“ im Prägefeld | animierter Platzhalter | statischer Platzhalter „:-)“ | Vereinfachung |
 
 ## Neue Bedientexte (in `src/i18n/ui.ts` mit `NEU` markiert)
 DE / EN:
@@ -39,7 +43,8 @@ DE / EN:
 - „Diese Seite versendet nichts. Der Brief verlässt Ihren Browser erst, wenn Sie die E-Mail selbst absenden.“ / “This page sends nothing. …”
 - „Senden (Demo – ohne Versand)“, „Demo-Modus: Es ist kein Versand angebunden.“ (nur im Demo-Modus)
 - „Fortschritt“ / “Progress”; „Materialstudie“ / “Material study”; „Projektbrief“ (Zeile über der Kontakt-H1)
-- Nur im Live-Modus: „Anfrage senden“, „Ihre Anfrage wird übertragen …“, „Ihre Anfrage ist bei SFP eingegangen. Referenz: …“, Fehlerhinweis, Hinweis zur Übertragung, Pflichtfeldhinweis ohne E-Mail-Programm und der **Einwilligungstext** („Ich bin einverstanden, dass SFP meine Angaben zur Bearbeitung dieser Anfrage verarbeitet.“ – Entwurf, rechtlich zu prüfen), jeweils auch englisch.
+- Senden: „Anfrage senden“, „Ihre Anfrage wird übertragen …“, „Ihre Anfrage ist bei SFP eingegangen. Referenz: …“, „Bitte prüfen Sie Ihren Projektbrief und senden Sie ihn ab.“, „Bitte versuchen Sie es erneut.“, „Stattdessen per E-Mail senden“, jeweils auch englisch.
+- **Datenschutzhinweis am Sendeknopf (Entwurf, rechtlich zu prüfen):** „Mit dem Absenden übermitteln Sie Ihre Angaben an die SFP Hospitality GmbH. Wir verwenden sie ausschließlich, um Ihre Anfrage zu bearbeiten und Sie dazu zu kontaktieren. Einzelheiten und Ihre Rechte finden Sie in der Datenschutzerklärung.“ / “By sending, you transmit your details to SFP Hospitality GmbH. We use them solely to handle your enquiry and to contact you about it. Details and your rights are set out in the privacy policy.”
 - 404: „Diese Seite gibt es nicht.“ samt Erklärung und zwei Links / “This page does not exist.”
 - Englische Fassungen des Speisekarten-Leerzustands und der Folienfarben wurden aus dem EN-Bestand übernommen, soweit vorhanden; sonst sinngleich übersetzt.
 

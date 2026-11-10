@@ -1,10 +1,12 @@
 /**
  * Anfrage-Adapter.
  *
- * PUBLIC_ENQUIRY_MODE steuert das Verhalten (Standard: "draft"):
- *   draft – Bestandsweg: E-Mail-Entwurf, Kopie, Textdownload. Kein Versand.
- *   demo  – zusätzlich ein sichtbar als Demo gekennzeichneter Sendeknopf (Mock).
- *   live  – sendet per POST (JSON) an PUBLIC_ENQUIRY_ENDPOINT. Erfolg nur bei 200/202 mit `reference`.
+ * PUBLIC_ENQUIRY_MODE steuert das Verhalten (Standard: "live"):
+ *   live  – ein Knopf „Anfrage senden“: POST (JSON) an PUBLIC_ENQUIRY_ENDPOINT (Standard /api/enquiry).
+ *           Erfolg nur bei 200/202 mit `reference`. Schlägt der Versand fehl, bietet die Fehlermeldung
+ *           einen E-Mail-Entwurf als Ausweg an.
+ *   draft – früherer Bestandsweg: E-Mail-Entwurf, Kopie, Textdownload. Kein Versand.
+ *   demo  – sichtbar als Demo gekennzeichneter Sendeknopf (Mock), kein Versand.
  *
  * Der Endpunkt selbst gehört nicht zum Frontend. Eine Referenz liegt in server/enquiry-worker.mjs
  * (Cloudflare Worker, Zustellung per E-Mail-API). Ohne gesetzten Endpunkt schlägt "live" bewusst fehl.
@@ -17,7 +19,7 @@ import type { Selection } from '../lib/enquiry-model';
 export type EnquiryMode = 'draft' | 'demo' | 'live';
 export const ENQUIRY_MODE: EnquiryMode = (['draft', 'demo', 'live'] as const).includes(import.meta.env.PUBLIC_ENQUIRY_MODE)
   ? import.meta.env.PUBLIC_ENQUIRY_MODE
-  : 'draft';
+  : 'live';
 
 export interface EnquiryDraft {
   schemaVersion: 1;
@@ -46,7 +48,7 @@ export const demoEnquiryService: EnquiryService = {
   },
 };
 
-export const ENQUIRY_ENDPOINT: string = import.meta.env.PUBLIC_ENQUIRY_ENDPOINT || '';
+export const ENQUIRY_ENDPOINT: string = import.meta.env.PUBLIC_ENQUIRY_ENDPOINT || '/api/enquiry';
 
 /** Echter Versand: ein 200/202 mit `reference` bedeutet Annahme durch den Endpunkt, alles andere ist ein Fehler. */
 export function createLiveService(endpoint: string, fetchImpl: typeof fetch = fetch): EnquiryService {

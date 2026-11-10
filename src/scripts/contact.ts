@@ -21,8 +21,10 @@ export function initContact(root: HTMLElement, products: Product[]) {
   const selection = root.querySelector<HTMLDetailsElement>('[data-selection]')!;
   const selectionText = root.querySelector<HTMLElement>('[data-selection-text]')!;
   const field = (name: string) => form.elements.namedItem(name) as HTMLInputElement & HTMLSelectElement;
-  const status = (text: string, kind: StatusKind = 'note') => setStatus(statusEl, lang, text, kind);
+  const status = (text: string, kind: StatusKind = 'note', action?: { label: string; href: string }) => setStatus(statusEl, lang, text, kind, action);
+  const mailto = (brief: string) => 'mailto:mail@sfp-berlin.com?subject=' + encodeURIComponent(ui.subject) + '&body=' + encodeURIComponent(brief);
 
+  const sendButton = root.querySelector<HTMLButtonElement>('#send-enquiry');
   const state = M.restoreDraft(read(M.DRAFT_KEY), products);
   let step = 0;
 
@@ -114,14 +116,14 @@ export function initContact(root: HTMLElement, products: Product[]) {
     persist();
     const brief = summary();
     root.querySelector('#summary')!.textContent = brief;
-    root.querySelector<HTMLAnchorElement>('#email-link')!.href =
-      'mailto:mail@sfp-berlin.com?subject=' + encodeURIComponent(ui.subject) + '&body=' + encodeURIComponent(brief);
+    const emailLink = root.querySelector<HTMLAnchorElement>('#email-link');
+    if (emailLink) emailLink.href = mailto(brief);
     review.hidden = false;
     review.focus({ preventScroll: true });
     review.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' });
-    status(brief.length > 7000 ? ui.readyLong : ui.ready);
+    status(sendButton ? ui.readyToSend : brief.length > 7000 ? ui.readyLong : ui.ready);
   });
-  root.querySelector('#copy-brief')!.addEventListener('click', async () => {
+  root.querySelector('#copy-brief')?.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(summary());
       status(ui.copied, 'success');
@@ -129,7 +131,7 @@ export function initContact(root: HTMLElement, products: Product[]) {
       status(ui.copyFailed, 'error');
     }
   });
-  root.querySelector('#download-brief')!.addEventListener('click', () => {
+  root.querySelector('#download-brief')?.addEventListener('click', () => {
     const url = URL.createObjectURL(new Blob([summary()], { type: 'text/plain;charset=utf-8' }));
     const link = document.createElement('a');
     link.href = url;
@@ -138,17 +140,8 @@ export function initContact(root: HTMLElement, products: Product[]) {
     setTimeout(() => URL.revokeObjectURL(url), 1000);
   });
   // Nur im Demo-/Live-Modus vorhanden. Eine Bestätigung erscheint ausschließlich bei echter Annahme.
-  const sendButton = root.querySelector<HTMLButtonElement>('#send-enquiry');
   sendButton?.addEventListener('click', async () => {
     if (!enquiryService) return;
-    const consent = root.querySelector<HTMLInputElement>('#consent');
-    if (consent && !consent.checked) {
-      status(ui.consentMissing, 'error');
-      consent.setAttribute('aria-invalid', 'true');
-      consent.focus();
-      return;
-    }
-    consent?.removeAttribute('aria-invalid');
     const f = fields();
     const draft: EnquiryDraft = {
       schemaVersion: 1,
@@ -170,7 +163,8 @@ export function initContact(root: HTMLElement, products: Product[]) {
     }
     sendButton.disabled = false;
     if (result.status === 'failed') {
-      status(`${result.message} ${ui.sendFailed}`, 'error');
+      // Ausweg ohne Backend: derselbe Brief als E-Mail-Entwurf.
+      status(`${result.message} ${ui.sendFailed}`, 'error', { label: ui.byEmail, href: mailto(summary()) });
       for (const [name, message] of Object.entries(result.fieldErrors || {})) {
         const target = form.elements.namedItem(name) as HTMLElement | null;
         if (target) { target.setAttribute('aria-invalid', 'true'); target.setAttribute('title', message); }

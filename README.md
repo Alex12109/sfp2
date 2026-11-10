@@ -49,6 +49,8 @@ src/
   lib/enquiry-model.ts    Regeln für Auswahl und Projektbrief (ohne DOM, getestet)
   services/enquiry-service.ts   Anfrage-Adapter mit Feature-Flag (draft | demo | live)
   styles/motion.css       Bewegung, Mouseover- und Scroll-Effekte
+  styles/luxe.css         Verläufe, Schatten, Rundungen (Design System nicht strikt, Freigabe 10.11.2026)
+  scripts/suede.ts        Wildleder-Studie der Materialseite (aus dem Bestand übernommen)
   scripts/                Verhalten im Browser (Navigation, Konfigurator, Anfrage, Filter)
   i18n/ui.ts              Bedientexte DE/EN
 server/               Referenz-Endpunkt für den Live-Versand (nicht Teil des Builds)
@@ -69,21 +71,16 @@ verändert keine Texte und kopiert nur referenzierte Originaldateien. Danach `np
 
 ## Anfrageweg
 
-Standard ist `PUBLIC_ENQUIRY_MODE=draft`: Die Seite versendet nichts. Sie erstellt einen E-Mail-Entwurf
-(`mailto:`), eine Kopie oder einen Textdownload – wie der Bestand. `demo` blendet zusätzlich einen als Demo
-gekennzeichneten Sendeknopf ein, der nur den Mock aus `src/services/enquiry-service.ts` aufruft.
+Standard ist `PUBLIC_ENQUIRY_MODE=live`: Der Projektbrief hat genau einen Knopf, „Anfrage senden“. Er sendet per `POST`
+(JSON) an `PUBLIC_ENQUIRY_ENDPOINT` (Standard `/api/enquiry`). Eine Bestätigung erscheint nur, wenn der Endpunkt mit
+200/202 und einer `reference` antwortet. Jeder andere Fall ist eine Fehlermeldung mit dem Ausweg
+„Stattdessen per E-Mail senden“ (derselbe Brief als `mailto:`-Entwurf).
 
-`live` sendet den Projektbrief per `POST` (JSON) an `PUBLIC_ENQUIRY_ENDPOINT`:
+**Der Endpunkt existiert noch nicht.** Bis er eingerichtet ist, endet jeder Sendeversuch in dieser Fehlermeldung.
+`server/enquiry-worker.mjs` ist eine Vorlage für einen Cloudflare Worker (Prüfung, Honeypot, Origin-Liste, Zustellung
+über eine E-Mail-API). Ihre Logik ist getestet, eine echte Zustellung nicht. Optionen: `docs/ENQUIRY_DELIVERY.md`.
 
-```
-PUBLIC_ENQUIRY_MODE=live PUBLIC_ENQUIRY_ENDPOINT=/api/enquiry npm run build
-```
-
-Dann erscheinen Einwilligung und „Anfrage senden“. Eine Bestätigung zeigt die Seite nur, wenn der Endpunkt mit
-200/202 und einer `reference` antwortet; jeder andere Fall ist eine Fehlermeldung, der E-Mail-Entwurf bleibt als Ausweg.
-Der Endpunkt gehört nicht zum Frontend. `server/enquiry-worker.mjs` ist eine Referenz für einen Cloudflare Worker
-(Prüfung, Honeypot, Origin-Liste, Zustellung über eine E-Mail-API). Seine Logik ist getestet, eine echte Zustellung nicht.
-Ohne gesetzten Endpunkt schlägt `live` bewusst fehl. Die Optionen stehen in `docs/ENQUIRY_DELIVERY.md`.
+Andere Modi: `draft` (früherer Weg mit E-Mail-Entwurf, Kopie, Download; kein Versand) und `demo` (gekennzeichneter Mock).
 
 ## Lizenzen
 

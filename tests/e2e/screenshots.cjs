@@ -26,6 +26,7 @@ const pages = [
     for (const [url, name] of pages) {
       await page.goto(base + url, { waitUntil: 'networkidle' });
       if (name === 'anfrage-projektbrief') await page.click('button[type=submit]');
+      if (name === 'materialien') await page.fill('#studio-mark', 'SFP Berlin').catch(() => {});
       await page.evaluate(async () => {
         document.querySelectorAll('img[loading=lazy]').forEach((i) => (i.loading = 'eager'));
         for (let y = 0; y < document.body.scrollHeight; y += 700) { scrollTo(0, y); await new Promise((r) => setTimeout(r, 50)); }
