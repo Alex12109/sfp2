@@ -17,7 +17,7 @@ body {
 }
 /* Materialkörnung: feines Rauschen nur auf Flächen – Fotos und Logos bleiben unberührt. */
 :root {
-  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .15 0 0 0 0 .15 0 0 0 0 .14 0 0 0 .075 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --grain: none; /* Körnung entfernt: SVG-Rauschen als Hintergrund kostete Renderzeit und wirkte je nach Browser streifig */
 }
 body { background-image: var(--grain); }
 @media print { body, .sec { background-image: none !important; } }
@@ -132,8 +132,7 @@ strong { font-weight: 600; }
 .btn--outline { background: transparent; color: var(--fg); border-color: var(--structure); }
 .btn--outline:hover { background: var(--structure); color: var(--bg); border-color: var(--structure); }
 .btn--small { min-height: var(--sfp-touch-min); padding: 0.45rem 1.1rem; font-size: 0.9rem; }
-.arrow { width: 1.05em; height: 1.05em; flex: none; transition: transform 0.35s var(--ease); }
-.btn:hover .arrow, .link:hover .arrow, a:hover > .arrow { transform: translate(3px, -3px); }
+.arrow { width: 1.05em; height: 1.05em; flex: none; }
 .link {
   display: inline-flex; align-items: center; gap: 0.6em; min-height: var(--sfp-touch-min); padding-block: 0.35rem;
   font-size: 0.95rem; font-weight: 600; letter-spacing: 0.02em; color: var(--structure);
@@ -160,20 +159,10 @@ strong { font-weight: 600; }
 .rich td, .rich th { padding: 0.6rem 0.8rem 0.6rem 0; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
 .linklist { display: flex; flex-wrap: wrap; gap: 0.4rem 1.6rem; }
 
-/* ---------- Einblendung beim Scrollen (nur mit JS und ohne reduzierte Bewegung) ---------- */
-html.motion [data-reveal] { opacity: 0; transform: translateY(1.4rem); transition: opacity 0.9s var(--ease), transform 0.9s var(--ease); transition-delay: calc(var(--i, 0) * 80ms); }
-html.motion [data-reveal].is-in { opacity: 1; transform: none; }
-html.motion [data-reveal='clip'] { opacity: 1; transform: none; clip-path: inset(0 0 100% 0); transition: clip-path 1.2s var(--ease); }
-html.motion [data-reveal='clip'].is-in { clip-path: inset(0); }
-
+/* Einblendungen und Seitenaufbau stehen in motion.css. */
 @keyframes rise { from { opacity: 0; transform: translateY(0.6em); } to { opacity: 1; transform: none; } }
 @keyframes unveil { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0); } }
 @keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-@media (prefers-reduced-motion: no-preference) {
-  .anim-rise { opacity: 0; animation: rise 0.95s var(--ease) forwards; animation-delay: calc(var(--i, 0) * 110ms + 80ms); }
-  .anim-unveil { animation: unveil 1.4s var(--ease) both; animation-delay: calc(var(--i, 0) * 110ms + 200ms); }
-  .anim-draw { transform-origin: left; animation: draw 1.5s var(--ease) both; animation-delay: 0.35s; }
-}
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
 }

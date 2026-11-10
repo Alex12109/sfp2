@@ -25,7 +25,8 @@ Es gibt kein Backend, keinen Versand und keine Veröffentlichung. Stand und offe
 
 Optional, mit vorhandenem Playwright und laufendem `npm run preview`:
 `node tests/e2e/enquiry-flow.cjs` (kompletter Anfrageweg), `node tests/e2e/overflow.cjs`
-(Überlauf bei 320/390/768/1440 px), `node tests/e2e/screenshots.cjs`.
+(Überlauf bei 320/390/768/1440 px), `node tests/e2e/images.cjs` (Bilder beim Scrollen geladen und sichtbar),
+`node tests/e2e/screenshots.cjs`.
 
 ## Aufbau
 

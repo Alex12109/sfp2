@@ -85,11 +85,12 @@ const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 // ------------------------------------------------------------ Einblendungen
 (() => {
-  const nodes = document.querySelectorAll<HTMLElement>('[data-reveal], .ruler:not(.anim-draw)');
+  const nodes = document.querySelectorAll<HTMLElement>('[data-reveal]');
   if (!document.documentElement.classList.contains('motion')) return;
   const io = new IntersectionObserver(
     (entries) => entries.forEach((entry) => { if (entry.isIntersecting) { entry.target.classList.add('is-in'); io.unobserve(entry.target); } }),
-    { rootMargin: '0px 0px -8% 0px', threshold: 0.08 },
+    // früh auslösen: Inhalt soll da sein, bevor er die Bildschirmmitte erreicht
+    { rootMargin: '0px 0px 12% 0px', threshold: 0 },
   );
   nodes.forEach((n) => io.observe(n));
 })();
@@ -101,21 +102,11 @@ function pressGroup(buttons: HTMLElement[], active: number) {
 document.querySelectorAll<HTMLElement>('[data-scenes]').forEach((root) => {
   const scenes = [...root.querySelectorAll<HTMLElement>('[data-scene]')];
   const buttons = [...root.querySelectorAll<HTMLElement>('[data-scene-choice]')];
-  let timer = 0, index = 0;
   const show = (i: number) => {
-    index = i;
     scenes.forEach((s, n) => { s.toggleAttribute('data-active', n === i); if (n === i) s.removeAttribute('aria-hidden'); else s.setAttribute('aria-hidden', 'true'); });
     pressGroup(buttons, i);
   };
-  buttons.forEach((b, i) => b.addEventListener('click', () => { clearInterval(timer); root.removeAttribute('data-auto'); show(i); }));
-  // Ruhiger automatischer Wechsel, endet bei der ersten Interaktion oder reduzierter Bewegung.
-  if (!reduced && scenes.length > 1) {
-    const stop = () => { clearInterval(timer); root.removeAttribute('data-auto'); };
-    root.setAttribute('data-auto', '');
-    timer = window.setInterval(() => show((index + 1) % scenes.length), 6500);
-    root.addEventListener('pointerenter', stop, { once: true });
-    root.addEventListener('focusin', stop, { once: true });
-  }
+  buttons.forEach((b, i) => b.addEventListener('click', () => show(i)));
 });
 document.querySelectorAll<HTMLElement>('[data-tabs]').forEach((root) => {
   const buttons = [...root.querySelectorAll<HTMLElement>('[data-tab-choice]')];

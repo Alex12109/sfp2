@@ -34,7 +34,7 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 | Projektbrief | Kopieren, Download | nur `PUBLIC_ENQUIRY_MODE=draft` | Code vorhanden, **nicht gemessen** |
 | Materialstudie | Flor streichen, Text prägen, Lederfarbe, Folie, Zurücksetzen | `/materialien/` | mit Maus gesichtet und Canvas gemessen; Touch und Tastatur offen |
 | Projektbrief | Demo-Modus sichtbar gekennzeichnet | `PUBLIC_ENQUIRY_MODE=demo` | **nicht gemessen** |
-| Bewegung | Seitenaufbau, Einblenden, Hover, Scroll-Effekte | `motion.css` | gesichtet in Chromium (Zwischenzustände); andere Browser offen |
+| Bewegung | Seitenaufbau, Einblenden von Text, Hover | `motion.css` | in headless Chromium gesichtet; Chrome unter Windows, Safari und iPhone **offen** |
 | Ohne JavaScript | Inhalte sichtbar, Formulare zeigen Hinweis mit E-Mail-Adresse | alle Seiten | nicht gemessen |
 | Reduzierte Bewegung | Animationen und Einblendungen aus | global | Screenshots laufen in diesem Modus; sonst nicht gemessen |
 
@@ -46,6 +46,7 @@ Stand 10.11.2026. „gemessen“ = automatisiert geprüft, „gesichtet“ = im 
 | Build-Integrität | `npm run check:dist` | 218 Routen, 13.884 Links, 2.994 Bilder, 0 Probleme |
 | Anfrageweg im Browser inkl. Versand (simulierter Endpunkt) | `node tests/e2e/enquiry-flow.cjs` | 15/15 Schritte, 0 Skriptfehler |
 | Überlauf 320/390/768/1440 | `node tests/e2e/overflow.cjs` | 172 Ansichten (43 Routen), 0 Überlauf |
+| Bilder beim Scrollen geladen und sichtbar (Lazy-Loading aktiv) | `node tests/e2e/images.cjs` | 324 Scrollpositionen auf 11 Seiten, 2 Breiten: 0 Probleme, längste Wartezeit 0,43 s |
 | Textabgleich mit Bestand | einmalig beim Import | 9.692 Textknoten, 32 fehlend (nur Bedienelemente) |
 
 ## Offen

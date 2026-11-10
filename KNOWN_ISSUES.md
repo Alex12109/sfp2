@@ -18,10 +18,9 @@
 - **Kollektionsleiste der Startseite** ist nativ horizontal scrollbar (Touch, Tastatur, Scrollrad); die Pfeilknöpfe des Bestands entfallen.
 
 ## Marke und Design System
-- **Verläufe, Schatten, Glows und Rundungen sind im Design System ausdrücklich erlaubt und gewünscht** (Entscheidung Alex, 10.11.2026). Die Fassung Final 1.2 schloss sie noch aus; das Artefakt „SFP Old Copper – Corporate Design 1.2“ selbst ist noch nicht angepasst. Umsetzung in `src/styles/luxe.css`: runde Schaltflächen mit Verlauf und Lichtkante, weiche Schatten, abgerundete Bilder und Flächen, mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Lichtschein auf dunklen Flächen. Farben, Schriften und Logos sind unverändert Old Copper; Logos erhalten keine Effekte.
+- **Verläufe, Schatten, Glows und Rundungen sind im Design System ausdrücklich erlaubt und gewünscht** (Entscheidung Alex, 10.11.2026). Die Fassung Final 1.2 schloss sie noch aus; das Artefakt „SFP Old Copper – Corporate Design 1.2“ selbst ist noch nicht angepasst. Umsetzung in `src/styles/luxe.css`: runde Schaltflächen mit Verlauf und Lichtkante, weiche Schatten, abgerundete Bilder und Flächen, Kupferschein an aktiven Elementen. Große Flächen und die Fußzeile sind einfarbig. Farben, Schriften und Logos sind unverändert Old Copper; Logos erhalten keine Effekte.
 - Folge: Copper liegt wieder auf Parchment-Flächen (Linien, Ziffern mit Verlauf) und Bronze/Copper erscheinen als Verlauf in großen Überschriften. Das weicht von Einzelregeln der Fassung 1.2 ab und ist von dieser Entscheidung gedeckt. Die Logos selbst erhalten weiterhin keine Effekte.
-- Weitere Ergänzungen außerhalb des Systems: Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, Display-Schriftstufe über H1, fluide Abstände, Bewegung.
-- **Kontrast des Copper-Verlaufs** in Hervorhebungen (hellster Punkt #C98A63 auf Ivory, rund 2,7:1) liegt unter dem Zielwert für große Schrift. Betroffen sind einzelne Wörter in H1/H2 und Zierziffern. Nicht gemessen im Detail.
+- Weitere Ergänzungen außerhalb des Systems: Schnittmarken, Maßband, Abschnittsnummern, Display-Schriftstufe über H1, fluide Abstände, Bewegung.
 - **Kopfzeile:** Wortmarke 08 Charcoal, 220 px (Desktop) und 190 px (ab 350 px Breite) wie im Guide, Schutzraum der Datei unverändert. **Unter 350 px Breite wird sie proportional auf 150 px verkleinert**, damit Sprachwahl und Menü erreichbar bleiben. Das weicht vom Startwert ab und braucht eine Entscheidung (Alternative: Signet 07).
 - **Fußzeile:** Logo 06 (Signet + SFP) in der hellen Ausführung auf Charcoal, ohne BERLIN, damit die Mindesthöhe für BERLIN nicht unterschritten wird.
 - **Favicon:** vorläufig Signet 07 als SVG. Die Digitalicons im Brand-Paket sind Entwürfe und nicht freigegeben; es gibt deshalb kein PNG/ICO-Set und kein Touch-Icon.
@@ -38,8 +37,10 @@
 - `canonical` und `hreflang` sind relative Pfade, da die Domain offen ist. Keine `sitemap.xml`, keine `robots.txt`.
 - Konfigurator und Projektbrief laden `/data/catalog.{lang}.json` per `fetch`. Ohne JavaScript erscheint der Hinweis mit der E-Mail-Adresse; vom Dateisystem (`file://`) funktioniert der Abruf nicht.
 - Schriften sind variable WOFF2-Dateien (je ~215 KB) ohne Subsetting.
-- Bewegung (`src/styles/motion.css`): Scrollgebundene Effekte (Bilddrift, Fortschrittslinie), Seitenübergänge und weiches Aufklappen nutzen neue CSS-Funktionen und laufen derzeit nur in Chromium-Browsern; andere zeigen die Seite ohne diese Effekte. Geprüft nur in headless Chromium, nicht auf echten Geräten und nicht auf Leistung.
-- Seitenaufbau und Einblendungen laufen nur mit JavaScript und ohne `prefers-reduced-motion`. Der Szenenwechsel der Startseite läuft automatisch (6,5 s) und endet bei der ersten Interaktion; einen eigenen Pause-Knopf gibt es nicht.
+- Bewegung (`src/styles/motion.css`): auf drei Tempi (0,2 / 0,4 / 0,6 s) reduziert. Scrollgebundene Effekte, Seitenübergänge und Endlosschleifen sind entfernt. Weiches Aufklappen läuft nur in Chromium-Browsern, sonst klappt es sofort auf.
+- **Fehler im vorherigen Stand (behoben):** Bilder lagen hinter einer Aufroll-Maske, die erst beim Einblenden öffnete. Zusammen mit Lazy-Loading erschienen sie spät oder gar nicht (nachgestellt: 74 von 339 Scrollpositionen). Jetzt: 0 von 324, längste Wartezeit 0,43 s (`tests/e2e/images.cjs`). **Nachgestellt in headless Chromium unter Linux, nicht in Chrome unter Windows und nicht auf einem iPhone.**
+- Der Startseiten-Kopf wechselt die Szene nicht mehr automatisch, nur noch per Klick.
+- Seitenaufbau und Einblendungen laufen nur mit JavaScript und ohne `prefers-reduced-motion`. 
 - Geprüft wurde nur in Chromium (headless). Details in `STATE_CHECKLIST.md`.
 
 ## Entscheidungen für Alex

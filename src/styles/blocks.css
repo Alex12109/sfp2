@@ -253,7 +253,7 @@
 @media (max-width: 899px) { .theatre__grid { grid-template-columns: 1fr; } }
 
 /* ---------- Abschluss ---------- */
-.band { background: var(--grain), var(--sfp-forest); padding-block: clamp(4.5rem, 10vw, 10rem); }
+.band { background: var(--sfp-forest); padding-block: clamp(4rem, 8vw, 7.5rem); }
 .band__grid { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 2.5rem var(--gap); }
 .band__copy { display: grid; gap: 1.2rem; }
 .band h2 { font-size: var(--t-h1); font-weight: 400; max-width: 16ch; letter-spacing: -0.02em; }

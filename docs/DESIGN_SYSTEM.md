@@ -23,10 +23,10 @@ zusätzlich braucht. Übernommen und im Code nachprüfbar:
 (Entscheidung Alex). Die Zeilen „Keine Verläufe, Glows, Schatten, Rundungen“ und „Copper nur auf Ivory, Forest,
 Charcoal“ der Tabelle sind damit aufgehoben; die Logos selbst bleiben ohne Effekte. `src/styles/luxe.css`
 legt darüber: runde Schaltflächen mit Verlauf, Lichtkante und Schein, weiche Schatten, abgerundete Bilder und Flächen,
-mattes Glas in der Kopfzeile, Copper-Verlauf in Hervorhebungen und Ziffern, Kupferschein (Glow) an aktiven und
-berührten Elementen, Lichtschein auf dunklen Flächen. Unverändert bleiben Farben, Schriften, Schriftgewichte, Logo-Regeln, Fokus und Mindestgrößen.
+Kupferschein (Glow) an aktiven Elementen. Große Flächen sind einfarbig; großflächige Verläufe, Lichtflecken und
+Verlaufsschrift wurden wieder entfernt, weil sie in Chrome unter Windows streifig wirkten. Unverändert bleiben Farben, Schriften, Schriftgewichte, Logo-Regeln, Fokus und Mindestgrößen.
 
-Weitere Ergänzungen: feine Flächenkörnung, Schnittmarken, Maßband, Abschnittsnummern, eine Display-Schriftstufe über H1
+Weitere Ergänzungen: Schnittmarken, Maßband, Abschnittsnummern, eine Display-Schriftstufe über H1
 (bis 5,5 rem), fluide Abstände, Bewegung (`motion.css`), Wildleder-Studie (`scripts/suede.ts`).
 
 ## Idee
@@ -61,17 +61,19 @@ Ausnahme: die Material- und Folienchips der Materialstudie (Bildschirmwerte des 
 - Betonung in Überschriften: Bronze statt Kursive, nur auf Ivory (auf Parchment Forest, auf Dunkel keine Farbe).
 
 ## Bewegung
-Datei `src/styles/motion.css`: Aufrollen (`clip-path`), sich zeichnende Linien, Flächenwechsel, langsame Bildbewegung;
-dazu aus `luxe.css` Anheben mit Schatten, Lichtkante auf Schaltflächen und schwebender Lichtschein im Abschluss.
-- Schaltflächen: Fläche wischt von unten durch, Pfeil fliegt aus und wieder ein, Laufweite öffnet sich leicht.
-- Textlinks und Navigation: Unterstreichung zeichnet sich von links.
-- Karten: Bild fährt langsam heran, Schnittmarken erscheinen, Ziffer rückt.
-- Scrollen: Abschnitte rollen aus, Überschriften steigen aus einer Maske, Linien und Maßband zeichnen sich,
-  Bilder driften im Ausschnitt, Fortschrittslinie unter der Kopfzeile.
-- Seitenwechsel: weiches Überblenden (View Transitions), Aufklappen mit weicher Höhe.
-- Formulare: Feldlinie zeichnet sich bei Fokus, Schritte füllen sich, Meldungen und Brief rollen ein.
-- Seitenaufbau: Zeilen der H1 steigen gestaffelt auf (`.anim-rise`, `--i`), Bild wird aufgedeckt (`.anim-unveil`), Maßband zeichnet sich (`.anim-draw`). Nur CSS.
-- Scrollen: `[data-reveal]` blendet ein, Bilder mit `data-reveal="clip"` werden aufgedeckt (IntersectionObserver).
+Datei `src/styles/motion.css`. Nach Rückmeldung vom 10.11.2026 (Bilder erschienen zu spät oder gar nicht, Effekte
+wirkten überladen) bewusst sparsam und einheitlich getaktet:
+
+| Tempo | Dauer | Einsatz |
+|---|---|---|
+| `--m-fast` | 0,2 s | Rückmeldung auf Berührung: Farbe, Linie, Fläche, Schatten |
+| `--m` | 0,4 s | Einblenden von Textblöcken, Aufklappen, Flächenwechsel, Schaltflächen-Füllung |
+| `--m-slow` | 0,6 s | nur der erste Seitenaufbau im Kopfbereich |
+
+- **Bilder werden nie versteckt oder maskiert.** Sie stehen, sobald sie geladen sind. Beim Scrollen blenden nur Textblöcke ein (0,4 s, 12 px Weg).
+- Schaltflächen: Füllung wischt durch, Pfeil fliegt einmal, Lichtkante zieht einmal über die Fläche.
+- Karten: Bild fährt um 3 % heran, Karte hebt sich um 3 px.
+- Entfernt: scrollgebundene Effekte, Seitenübergänge, Endlosschleifen (Pulsieren, schwebende Lichtflecken, automatischer Szenenwechsel), Masken-Animationen für Überschriften und Bilder, Flächenkörnung, Verlaufsschrift, Glas-Unschärfe.
 - Ohne JavaScript oder bei `prefers-reduced-motion` ist alles sofort sichtbar.
 
 ## Bausteine (`src/components/`)
